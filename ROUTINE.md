@@ -161,3 +161,13 @@ Synthesized from 4 improvement agents. Upgraded per-fire loop:
 - **kb/coverage-map.md** — nodes × geographies grid + ~30-item sourcing-vector queue. Touch a BLIND cell / pop next vector each fire; a dry run MUST pop a new vector.
 - **kb/pipeline.md** — ranked living pipeline; **target ≥15 live WATCH names.** If <15 → next fire is forced sourcing. Tracks tripwires (book-to-bill>1.15 ×2q, first design-win, capex +20%, insider buys) + first-rev-proximity; a tripwire / SAMPLE-SHIPPED hit → immediate deep-dive.
 - **BUYER-CAPEX cascade:** watch ~12 big buyers; a ≥20% capex uplift auto-re-screens their Tier-1/2 suppliers.
+
+## 15. THREE-TRACK COVERAGE + FAIL-SAFE PERSISTENCE (2026-07-05)
+### All three tracks, discrete
+Every fire sources across **W (world-model labs), R (robotics/humanoid), AV (autonomous vehicles)** — three DISCRETE demand pipelines. Rotate so each gets coverage over time (coverage-map cells carry a track tag). A supplier forced by **≥2 tracks has reinforced demand — NOTE it, but combined exposure is NOT a bonus that overrides the gates.** The ONLY qualifier is passing all 4 gates: a clean single-track name that passes beats a multi-track name that doesn't.
+### Fail-safe persistence (PUBLIC repo + layered fallback)
+KB = public repo `github.com/garg-anubhav53/world-model-supply-chain-kb` (reads need no auth). Each fire: **clone → loop → commit → push** (ambient/env credential). Robust to ALL failure modes:
+- clone fails → seed from the trigger prompt, note CLONE_FAILED;
+- a source is blocked → route around it, log the gap, continue;
+- push fails (no credential / network) → **FAILSAFE: dump the full contents of every changed KB file into the run's final message**, so nothing is lost and it can be folded back by hand.
+Never crash, never lose findings, never conclude "no ideas." Schedule: hourly at :23 (user-set).

@@ -1,5 +1,6 @@
 # STATE — checkpoint (read after kb/INDEX.md)
-Updated: 2026-07-05 (Wave 3 complete)
+Updated: 2026-07-05 (Wave 3 complete; ROUTINE LIVE)
+## ROUTINE LIVE: claude.ai cloud trigger trig_011qDWWCsA8PHMkFPgrLR1xm — daily 08:23 UTC, Opus 4.8, self-contained prompt. Cloud runs CANNOT read/write this repo → each run outputs ./report-latest.md; fold back into repo manually OR grant a repo token for auto-persistence.
 Per-fire budget: ~6 Sonnet + ≤3 Opus, then checkpoint. **Time-box every agent; abandon if it runs long or the causal chain needs more caveats (log 'too-complicated').**
 
 ## STANDING PRIOR (never forget): >$50B forced capital is being injected → forced beneficiaries MUST exist. A dry run = SEARCH failure, not THESIS failure. Never conclude "no ideas."

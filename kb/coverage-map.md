@@ -1,5 +1,6 @@
 # COVERAGE MAP + SOURCING-VECTOR QUEUE
 Each fire: hit ≥1 BLIND cell before revisiting COVERED; a dry run MUST pop the next unused vector. Update statuses at run-end.
+**THREE TRACKS — pursue every node across W (world-model labs), R (robotics/humanoid), AV (autonomous vehicles). Rotate so all three get coverage; tag a cell with the track(s) covered. A name forced by ≥2 tracks = reinforced demand (note it) but that does NOT override the 4 gates — passing all gates is the only qualifier.**
 
 ## Node × Geography grid — status: COVERED / PARTIAL / BLIND
 | Node \ Geo | US | Japan | Korea | Europe | Taiwan | China-listed |
