@@ -1,18 +1,20 @@
 # KB INDEX — Supply-Chain Asymmetry Hunter
 **Read this FIRST every run (dedup guard).** Structure: flat files at kb/ root + per-company dossiers in kb/companies/ (populated as names are diligenced). Raw grounding archived in ../waves/ — do NOT re-derive it.
 
-## Live candidates (causal dive pending)
+## Live candidates (see kb/pipeline.md for full ranked table; 7 live, target 15)
 | Ticker | What | Corner | Status |
 |---|---|---|---|
-| KASHIFUJI (verify JP listing) | gear-hobbing/skiving machine tools | reducer capital-equipment | dive PENDING |
-| KLIN.SW (Klingelnberg) | gear grinding + metrology | reducer capital-equipment | dive PENDING |
-| MLXSF / MELE.BR (Melexis) | robot-joint inductive encoder ICs | sensor ICs | dive PENDING |
-| NEO.TO (Neo Performance) | ex-China NdFeB + Dy/Tb | magnets 2nd-order | dive PENDING |
-| 6966.T (Mitsui High-tec) | motor-core laminations | actuator inputs | dive PENDING (test if already priced) |
-| MKA.TO / IXR.AX / UCU.V | heavy-RE magnet recyclers | magnets 2nd-order | 2nd-tier |
-| OMG.L / HSAI / NOVT / ON | survivors from pricing triage | mixed | WATCH — see watchlist.md |
+| **464080.KQ (SOS Lab)** | Korean automotive/industrial LiDAR | Hyundai MobED co-dev | **WATCH — top idea, dossier in companies/SOSLAB.md** |
+| HSAI | dominant China LiDAR | AV robotaxi/ADAS | WATCH — dossier in companies/HSAI.md |
+| OMG.L (Oxford Metrics/Vicon) | motion-capture | data/mocap | WATCH(lean-kill) — dossier in companies/OMG.md |
+| KLIN.SW (Klingelnberg) | gear grinding+metrology | reducer capital-equipment | WATCH — dossier in companies/KLIN.md |
+| NOVT, ON | force-torque, camera CMOS | mixed | WATCH — see watchlist.md |
+| TKR (Spinea) | cycloidal reducer | reducers | PARK |
+| KASHIFUJI / MLXSF / NEO.TO / 6966.T / SBB Tech / Hephaist Seiko / GSIT / LQMT / SPG / Higen / Robotis | various | various | KILLED — see decisions-log.md |
 
 ## Files (flat for simple cloud reads)
+- `pipeline.md` — ranked living pipeline (primary working file each fire)
+- `coverage-map.md` — node×geo grid + sourcing-vector queue (pop next vector each dry fire)
 - `watchlist.md` — live KEEP/watch + the monitoring signal per name
 - `prices-cache.md` — last price/move/run-tag per ticker (staleness 7d; refresh if older)
 - `decisions-log.md` — append-only KEEP/KILL one-liners (incl. already-run mainstream kills)
@@ -21,4 +23,4 @@
 - `companies/<TICKER>.md` — per-name dossier: verdict + evidence + financials + re-rating grade + last-updated
 
 ## Grounding pointers (raw, ../waves/)
-- wave-0-grounding/_node-map.md · wave-1-pricing/_not-moved-shortlist.md · wave-2-widen/_widen-candidates.md
+- wave-0-grounding/_node-map.md · wave-1-pricing/_not-moved-shortlist.md · wave-2-widen/_widen-candidates.md · runs/bom-humanoid.md · runs/omg-dive.md
