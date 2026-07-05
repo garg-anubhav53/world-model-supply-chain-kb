@@ -1,33 +1,40 @@
 # REPORT — most interesting live ideas (curated; freshest first)
-*Updated 2026-07-05, Fire 3 (hourly cron). 7 live WATCH names, target 15 — still in forced sourcing mode.*
+*Updated 2026-07-05, Fire 4. 8 live WATCH names, target 15 — still in forced sourcing mode.*
 
 ## Where we stand (honest)
-Thesis INTACT. This fire's biggest result: **SOS Lab (464080.KQ)**, found via a Korea small-cap screen, is the sharpest "small-base + single named forced buyer" fit we've found across 3 fires — better than OMG.L or HSAI on the multiplication gate, though it needs one more verification pass (vertical-integration + exclusivity + solvency) before it can be called a BUY. Meanwhile, 3 straight US/EU humanoid-OEM buyer-BOM teardowns (Figure, Apptronik, Agility) have now all hit the same captive/mega-cap wall — that vector is exhausted for now; Asia geography screens are out-performing it.
+Thesis INTACT. This fire closed the SOS Lab causal-rigor loop (still WATCH, not BUY — solvency is now the sole binding gate) and opened a genuinely new geography: Taiwan, which produced Hota Industrial, a Tesla-Optimus-linked reduction-gear maker down -8.4%/12m. The Chinese humanoid-OEM BOM teardown hypothesis was confirmed — Chinese supply-chain press names tier-2/3 vendors far more freely than US peers — but that corner is already crowded (most named suppliers are already re-rated +100-490%); the yield is in second-tier names still pending a price check. The W-track (world-model labs) got its first dedicated sourcing pass and came back dry: right theme (motion-capture-for-robot-training-data), no investable vehicle (the thematically perfect Xsens/Movella has delisted to an OTC shell). AV sensor-pod BOM teardown split cleanly: Waymo (builds in-house) is a dead end, Zoox (buys merchant) reinforced HSAI with a second confirmed named buyer.
 
 ## BUY candidates
 None yet cleared all 4 gates.
 
 ## Live / next-up (best current ideas)
-- **SOS Lab (464080.KQ)** — tiny Korean LiDAR maker, $4.2M TTM revenue, named Hyundai Motor Group "MobED" mobile-robot LiDAR co-development MOU since May 2022, mass production targeted 1H 2026, stock still down -23.6%/12m. Best base-smallness + named-buyer combo found yet. **Open gates:** is Hyundai vertically integrating LiDAR in-house? Is the 2022 MOU exclusive supply or just co-development (Hyundai could dual-source post-development)? What's the balance sheet/cash runway on a company this small? Next fire's top priority.
-- **HSAI (Hesai Group)** — dominant China LiDAR, real named AV wins (Li Auto, Great Wall, robotaxi fleets) and a genuine near-term revenue ramp (ATX mass production Apr 2026), strong balance sheet (first full GAAP-profitable year FY2025). But already ran ~2x to an ATH then gave back ~40% on a DoD "Chinese Military Company" list court ruling (adverse, under appeal, D.C. Cir. undecided) — this is now an event-driven/litigation-binary story, not a clean "cheap on overhang" one. WATCH, revisit on the appellate ruling.
-- **OMG.L (Vicon)** — only public motion-capture vehicle, fortress balance sheet, not-run, but causal link is speculative (mocap being displaced by sim/synthetic training data) and multiplication caps at ~2x a small segment. Watch, not a buy.
+- **SOS Lab (464080.KQ)** — tiny Korean LiDAR maker, ~$4.3M FY25 revenue, named Hyundai MobED design-in that has now converted into real revenue (Korea Investment & Securities models ₩13-18B of 2026 Hyundai-linked revenue vs ₩6.09B FY25 total — a credible 2-3x). Displacement and vertical-integration risks are affirmatively refuted (MobED ships LiDAR+camera+radar fusion; Hyundai doesn't build LiDAR in-house). Stock still down -23.6%/12m. **The one gate that fails: solvency** — widening losses, thin headline cash, and a ₩43B 0%-coupon convertible bond carrying a 22.4% dilution overhang that opens Aug 11 2026. Concrete BUY triggers: a firm supply-contract disclosure, 1-2 quarters printing near the modeled run-rate, a second named OEM win, or the CB overhang clearing without crushing the float.
+- **Hota Industrial (1536.TW)** — Taiwan precision reduction-gear maker, longtime Tesla EV gearbox supplier now transitioning into humanoid robotics via a dedicated JV ("Menying Technology" with Mirle Automation) reportedly targeting Tesla Optimus, with 100,000-unit/yr capacity already online. Stock down -8.4%/12m despite the Tesla-Optimus narrative running in Taiwan financial press since March 2025 — genuinely overlooked. Gate 2 is not yet airtight: coverage frames this as a "candidate/potential" supplier via capability transition, not a confirmed purchase order. Top priority to verify next fire.
+- **HSAI (Hesai Group)** — dominant China LiDAR, now with a second confirmed named AV buyer this fire: Zoox (Amazon robotaxi), a self-disclosed $40M+ LiDAR order through 2026, layered on top of the existing Li Auto/Great Wall wins. Real near-term revenue ramp (ATX mass production from April 2026), first full GAAP-profitable year in FY2025. Still an event-driven, litigation-binary story — already ran ~2x to an ATH then gave back ~40% on the DoD "Chinese Military Company" list ruling (adverse, under appeal, D.C. Cir. undecided). WATCH, revisit on the appellate ruling.
 
 ## WATCH (real but not a buy today)
+- **OMG.L (Vicon)** — only public motion-capture vehicle, fortress balance sheet, not-run, but causal link speculative (mocap being displaced by sim/synthetic training data).
 - **KLIN.SW (Klingelnberg)** — quality, not-run, but robotics is a bump not a multiply; cyclical value-trap risk.
 - **NOVT, ON** — partially moved; quality but not small-base multipliers.
 
 ## New candidates this run
-SOS Lab (464080.KQ) — WATCH, top idea. (GSIT, LQMT surfaced via EDGAR but killed — no named buyer, pure marketing language.)
+Hota Industrial (1536.TW) — new WATCH. (SOS Lab refined from prior WATCH; HSAI reinforced with a 2nd named buyer, not a new name.)
+
+## Pending — needs one more cheap check before joining the pipeline
+Keli Sensing Technology (603662.SH) and China Leadshine Technology (002979.SZ) — surfaced via 13F/ETF residual screen (KraneShares KOID), real force-torque/servo-motor products, modest 12m moves (+10.1%/+24.2%), but no named design-win disclosed yet — index inclusion alone isn't a causal link. RoboSense (2498.HK) — price unconfirmed. Shuanglin (300100.SZ) — price-conflicting reports, needs 2-source reconciliation. Eight second-tier China humanoid-BOM names (Green Harmonic, Wolong Electric Drive, Zhucheng Tech, Xiangxin Tech, Far East Cable, Siling, Zhongding, Jiangsu Leili) — real named suppliers to Unitree/UBTECH, price UNKNOWN, queued for a cheap 2-source price pre-gate next fire.
 
 ## Killed this run (see kb/decisions-log.md)
-SBB Tech (389500.KQ, +101%/12m — already-run despite a real named Hyundai contract) · Hephaist Seiko (6433.T, +169.85%/12m — already-run) · GSI Technology / GSIT (no named buyer) · Liquidmetal / LQMT (no named buyer) · SPG/Higen R&M/Robotis (Korea comps — already large/known, context only).
+Zhongda Leader 002896.SZ (+150%+) · Changsheng Bearing 300718.SZ (+490.81%) · Zhaowei Mechatronics 003021.SZ (+100-300%) · TBI Motion 4540.TW (+71.58%) · Movella/Xsens MVLA (thematically perfect — robot-training-data mocap — but delisted to an OTC shell, not investable) · Asia Optical 3019.TW (parked, already large/known).
 
 ## Confirmed dead-end vectors this run
-Apptronik Apollo BOM teardown, Agility Digit BOM teardown (both explicitly vertically integrated; disclosed suppliers all mega-cap) · EDGAR "significant customer" full-text sweep (0 confirmed small-cap hits in 10 queries).
+Waymo 6th-gen Driver BOM teardown (vertically integrated, no named external suppliers) · W-track data-capture-rig hardware sourcing (right theme, no investable vehicle; real component suppliers are private).
+
+## Confirmed PRODUCTIVE vectors this run (repeat with new buyers/geographies)
+Taiwan TWSE screen · Chinese humanoid-OEM BOM teardown via press (not filings) · Zoox-side AV sensor-pod BOM (contrast with Waymo: merchant-sourcing buyers disclose, in-house-building buyers don't — this is now the master predictor, see kb/trends.md T9).
 
 ## Next sourcing vectors (queued)
-1. Finish SOS Lab causal-rigor (top priority — closest thing to a BUY).
-2. Open a **W-track** vector (world-model data-capture rigs / synthetic-data infra) — coverage has been R/AV-heavy for 3 straight fires.
-3. AV sensor-pod BOM teardown (Waymo 6th-gen / Zoox).
-4. Chinese humanoid OEM BOM teardown (Unitree/UBTECH) — expected to disclose more tier-2/3 vendors than US/EU peers.
-5. Taiwan small-cap screen; 13F KOID-minus-ROBO/BOTZ residual.
+1. Cheap 2-source price pre-gate on the 8 China second-tier names + reconcile Shuanglin conflict.
+2. Causal-rigor (gate-1) check on Keli Sensing + Leadshine.
+3. Hota Industrial gate 2 (confirmed Tesla PO) + gate 4 (financials) completion.
+4. Patent-assignee CPC B25J/F16H sweep, sub-$500M — untested vector.
+5. Robotics consortium/exhibitor lists beyond KyoHA (monthly recheck for a genuinely small joiner).
