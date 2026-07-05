@@ -22,6 +22,7 @@ The un-crowded multiplier is a SMALL-base company with ONE concentrated forced d
 4. Re-verify HSAI / NOVT / ON tags if >7d stale.
 5. Prune KB; curate REPORT.
 
-## Next-action pointer: Task 1 — diligence OMG.L, then start Task 2 buyer-BOM teardown.
+## v3 loop is active (ROUTINE §14): SOURCE → cheap Haiku pre-gate → EV-rank → causal-rigor checklist → persist → pipeline (≥15 WATCH) → prune → commit. Never exit empty.
+## Next-action pointer: pipeline <15 → FORCED SOURCING. Pop coverage-map vectors #1 (EDGAR significant-customer), #2 (Apptronik BOM), #5/#6 (Korea/Japan small-cap screens); run cheap pre-gate on all finds; diligence HSAI; EV-rank; grow pipeline toward 15. OMG.L done (WATCH). Kashifuji/Melexis/Neo/Mitsui/VPG killed.
 
 ## Wave 3 result: shortlist mostly KILLED (already-run: Neo/Mitsui; bump-not-multiply: Klingelnberg/Melexis; Kashifuji private). Thesis INTACT — pivot to smaller/earlier/concentrated names via buyer-BOM.

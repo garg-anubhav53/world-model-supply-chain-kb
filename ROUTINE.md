@@ -130,3 +130,34 @@ Failing #1 or #3 = not a buy however interesting (Wave-3 proof: Klingelnberg rea
 ### Each search better than the last
 - `lessons.md` updated every run: what made the last batch weak + sharper targeting next.
 - A **sharpened-hypothesis** line in STATE evolves each run. Current: *the un-crowded multiplier is a small-base company with a single forced design-win into a high-volume program, found via buyer-BOM teardown — not a diversified component maker.*
+
+## 14. v3 IDEA-YIELD UPGRADES (many candidates × high pass-rate) — adopted 2026-07-05
+Synthesized from 4 improvement agents. Upgraded per-fire loop:
+**SOURCE (breadth) → CHEAP PRE-GATE (Haiku, kill most cheaply) → EV-RANK → CAUSAL-RIGOR checklist (best-first) → PERSIST → PIPELINE update (keep ≥15 WATCH) → PRUNE → COMMIT.** Never exit empty.
+
+### A. SOURCING methods (rotate; each fire hit a BLIND coverage cell / pop next vector)
+- **Multi-buyer BOM teardown**, biased to buyers that OUTSOURCE (Apptronik, Agility, Chinese OEMs, AV sensor pods) — and go Tier 2/3 (encoder disks, flexspline forgings, magnet wire, gate drivers), not just Tier 1. (Figure is captive — low yield.)
+- **SEC EDGAR full-text (EFTS, free):** `"significant customer" AND (humanoid OR "collaborative robot" OR "autonomous vehicle" ...)` in 10-Ks; + design-win / "qualified supplier" language across precision-motion SIC (3562/3679/3825/3829).
+- **13F delta:** specialist robotics funds/ETFs (e.g. KOID) minus generalist (ROBO/BOTZ) → sub-$3B residual = neglected set.
+- **Asia small-cap screens:** KOSDAQ/JASDAQ/TWSE + DART/TDnet keyword (humanoid/로봇/ロボット), small revenue, backlog >30% YoY, no US coverage.
+- **Consortium / exhibitor / QVL + patent-assignee** (CPC B25J/F16H) mining for un-covered small names.
+
+### B. CHEAP PRE-GATE (Haiku, Step-0, before ANY Opus) — biggest token saver
+- **ALREADY-RUN kill:** 12m move >~+60% OR EV/EBITDA >1.5× 3-yr median → drop (catches VPG/Neo/Mitsui at ~0 cost).
+- **SIZE/CONCENTRATION kill:** total rev >$800M AND robotics <30% of it → can't multiply → drop.
+- **SOLVENCY kill:** net debt >1.5× EBITDA AND FCF<0 AND no facility → drop.
+- **TWO-SOURCE price rule:** never trust one agent's price; confirm via 2 independent fetches (fixes the VPG "not moved" mis-report).
+- **EV-RANK** survivors (base-smallness × causal lock-in × time-to-revenue); deep-dive best-first.
+
+### C. CAUSAL-RIGOR checklist (each a kill gate; best-first)
+1. **NAMED forced buyer + disclosure/design-win** (SEC/call/PR) — else auto-KILL.
+2. **VERTICAL-INTEGRATION early-warning** (buyer job posts/patents/calls building in-house) → require rebuttal.
+3. **DISPLACEMENT screen** (sim/synthetic/markerless substitute) → require a reason this product survives.
+4. **CAPTURE-RATE:** needed ≠ this vendor wins — # qualified vendors, sole/preferred, ASP trend.
+5. **≤24-MONTH revenue mechanism** (named program/quarter) — no 2028 optionality as near-term.
+6. **ADVERSARIAL bear paragraph** on survivors — rebut with citations or hold at WATCH.
+
+### D. COVERAGE / PIPELINE / TIMING (KB artifacts)
+- **kb/coverage-map.md** — nodes × geographies grid + ~30-item sourcing-vector queue. Touch a BLIND cell / pop next vector each fire; a dry run MUST pop a new vector.
+- **kb/pipeline.md** — ranked living pipeline; **target ≥15 live WATCH names.** If <15 → next fire is forced sourcing. Tracks tripwires (book-to-bill>1.15 ×2q, first design-win, capex +20%, insider buys) + first-rev-proximity; a tripwire / SAMPLE-SHIPPED hit → immediate deep-dive.
+- **BUYER-CAPEX cascade:** watch ~12 big buyers; a ≥20% capex uplift auto-re-screens their Tier-1/2 suppliers.

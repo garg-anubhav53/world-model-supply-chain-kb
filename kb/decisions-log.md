@@ -19,3 +19,9 @@ Format: DATE | TICKER/NODE | KEEP/KILL/PARK | reason
 2026-07-05 | Neo Performance (NEO.TO) | KILL | already re-rated +97%/6mo; real doubling optionality but price used up. Revisit on RE-price/ramp derate
 2026-07-05 | Mitsui High-tec (6966.T) | KILL | already ~2x + above consensus; EV-dominated ¥215B base (robot=rounding error); guidance cut
 --- LESSON: semi-obvious supplier names are already-run OR too-diversified to multiply. Next sourcing must bias to SMALL-base names with ONE concentrated forced design-win, found via buyer-BOM teardown. NOT out of ideas — OMG.L (Vicon) still un-diligenced. ---
+--- Manual fire 2026-07-05 (OMG.L dive + Figure-03 buyer-BOM teardown) ---
+2026-07-05 | Oxford Metrics / Vicon (OMG.L) | WATCH (lean KILL) | fortress balance sheet + not-run, but causal SPECULATIVE (mocap being DISPLACED by sim/synthetic/egocentric/teleop + OMG's own markerless); multiplication only ~2x a £32m segment, not company-multiplying. Not a buy.
+2026-07-05 | VPG (Vishay Precision) | KILL (dedup catch) | BOM scout mis-flagged as 'not moved' — FALSE: already +216% YTD / 270x P/E (our Wave-1 + initial dive). Origin story, already re-rated. Fails gate #1.
+2026-07-05 | Figure-03 BOM | NOTE | high-value parts CAPTIVE (Figure builds actuators, tactile, Helix compute, pack in-house) → vertical-integration shrinks investable surface. Rest = large-cap (Sony/Amphenol/TE/Broadcom) or China/private.
+2026-07-05 | TKR/Spinea (cycloidal reducer, non-China/Japan) | PARK | real moat but $4B diversified base = no multiplication. VICR already parked. RBC diversified. SPG (058610.KQ) small but Korea-only access.
+--- LESSON 2: buyer-BOM teardown of a SINGLE-vendor humanoid (Figure) mostly hits captive/large-cap. Next: tear down buyers that OUTSOURCE more (Apptronik, Agility, Chinese OEMs, AV sensor pods) where design-wins go to merchant suppliers. ---
