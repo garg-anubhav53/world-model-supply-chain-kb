@@ -11,8 +11,9 @@
 | KLIN.SW (Klingelnberg) | gear grinding+metrology | reducer capital-equipment | WATCH — dossier in companies/KLIN.md |
 | NOVT, ON | force-torque, camera CMOS | mixed | WATCH — see watchlist.md |
 | TKR (Spinea) | cycloidal reducer | reducers | PARK |
-| PENDING (un-gated, Fire 7): Moons' Electric 603728.SH / Fulin Precision 富临精工 / Bukom 步科股份 | China motor/joint-module vendors to Zhiyuan/AgiBot | R | see pipeline.md |
-| KASHIFUJI / MLXSF / NEO.TO / 6966.T / SBB Tech / Hephaist Seiko / GSIT / LQMT / SPG / Higen / Robotis / Zhongda Leader / Changsheng Bearing / Zhaowei Mechatronics / TBI Motion / Movella-Xsens / Green Harmonic / Wolong / Zhucheng Tech / Xiangxin Tech / Far East Cable / Siling / Zhongding / China Leadshine / Estun / Jiangsu Guomao / Doosan Robotics / CTS Corp / Shuanglin / Valeo / Neuromeka / Servotronics / Allied Motion(ALNT) / NN Inc(NNBR) / Orbbec / **Hota Industrial(1536.TW) / Jiangsu Leili(300660.SZ) / SmartSens(688213.SH) / Zhejiang Sanhua(002050.SZ) / Sona BLW(SONACOMS)** | various | various | KILLED/PARK — see decisions-log.md |
+| PENDING (un-gated, Fire 8, HIGH PRIORITY): MicroVision MVIS / Arbe Robotics ARBE | Caterpillar mining-autonomy LiDAR MDA / Israel 4D-radar, named Hirain+US Army+robotaxi wins | adjacent-vertical + AV | see pipeline.md |
+| PENDING (lower priority, Fire 8): Element Fleet Mgmt EFN / Valens VLN / UL Solutions ULS | consumables/TIC recurring-revenue leads | mixed | see pipeline.md |
+| KASHIFUJI / MLXSF / NEO.TO / 6966.T / SBB Tech / Hephaist Seiko / GSIT / LQMT / SPG / Higen / Robotis / Zhongda Leader / Changsheng Bearing / Zhaowei Mechatronics / TBI Motion / Movella-Xsens / Green Harmonic / Wolong / Zhucheng Tech / Xiangxin Tech / Far East Cable / Siling / Zhongding / China Leadshine / Estun / Jiangsu Guomao / Doosan Robotics / CTS Corp / Shuanglin / Valeo / Neuromeka / Servotronics / Allied Motion(ALNT) / NN Inc(NNBR) / Orbbec / Hota Industrial(1536.TW) / Jiangsu Leili(300660.SZ) / SmartSens(688213.SH) / Zhejiang Sanhua(002050.SZ) / Sona BLW(SONACOMS) / **Fulin Precision(300432.SZ) / Bukom(688160.SH) / Moons' Electric(603728.SH) / Ouster(OUST) / Belden(BDC)** | various | various | KILLED/PARK — see decisions-log.md |
 
 ## Files (flat for simple cloud reads)
 - `pipeline.md` — ranked living pipeline (primary working file each fire)

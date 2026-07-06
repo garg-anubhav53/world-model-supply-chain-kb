@@ -4,13 +4,24 @@ As of 2026-07-06 unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh befor
 ## Live WATCH candidates
 | Ticker | ~12m move | run-tag | note |
 |---|---|---|---|
-| **464080.KQ (SOS Lab)** | -23.6%/-19.9% (2-source, Jul 3 2026 — **STALE, needs fresh 2-source pull, Fire 7 attempt failed**) | NOT-MOVED — top idea, see kb/companies/SOSLAB.md | |
-| HSAI | ~$17-18 (2-source, Jul 6 2026); ATH ~$29.80 Sep'25; **8-for-1 split effective Jul 10 2026 — adjust before next comparison** | RAN-then-partial-derate — Mercedes-Benz named as anchor customer Fire 7 | |
+| **464080.KQ (SOS Lab)** | -21.6%/12m (stockanalysis.com, Jul 6 2026 — refreshed Fire 8, single-source; ~₩9,520-9,770) | NOT-MOVED — top idea, see kb/companies/SOSLAB.md | Aug 11 2026 CB window is the hard resolution date |
+| HSAI | $16.85-18.22 (Jul 1-6 2026, pre-split); 52wk $14.40-$30.85; **8-for-1 split effective Jul 10 2026, NOT yet occurred as of Fire 8 — adjust before next comparison** | RAN-then-partial-derate — Motional named as anchor customer Fire 8 | |
 | **603662.SH (Keli Sensing)** | +17.42% (stockanalysis.com) / +19.02% (investing.com), both ¥73.20, Jul 6 2026 | NOT-MOVED (2-source confirmed Fire 7, up from stale +10.1%) | |
 | NOVT | +65% | PARTIAL | |
 | ON | -32% off ATH | PARTIAL | |
 | OMG.L | -35% | NOT-MOVED | |
 | KLIN.SW | n/a | NOT-MOVED | |
+
+## Fire-8 kills/parks (2026-07-06)
+| Ticker | ~12m move (2-source unless noted) | run-tag |
+|---|---|---|
+| 300432.SZ (Fulin Precision) | +52.59% (investing.com; 2nd source stale/unusable) | KILL — size-gate ($1.2B rev, robotics <2%) + causal mischaracterization |
+| 688160.SH (Bukom/Shanghai Kinco) | +57.17% (investing.com) / ~+109% implied (Eastmoney/Xueqiu aggregation) | KILL — already-run + causal contradiction; 150x P/E, exchange abnormal-volatility filing |
+| 603728.SH (Moons' Electric) | +22.27% (moomoo.com) / +21.44% (stockanalysis.com) | PARK — not-run on price but capture-rate + sell-side-already-covers fails |
+| OUST (Ouster) | +131%/12m, recent 22% single-day spike to ~$51 | KILL — already-run (context/comp for adjacent-vertical mining cluster) |
+| BDC (Belden) | not pulled (off-thesis, mega-cap) | KILL — off-thesis, named on earnings call only |
+| MVIS (MicroVision) | not yet 2-source priced — sub-$1-3 range per scout, needs confirm | PENDING — HIGH PRIORITY next-fire gate-check |
+| ARBE (Arbe Robotics) | ~$0.55 (Mar 2026 low) → ~$1.18 (scout single-source) | PENDING — HIGH PRIORITY next-fire gate-check, needs 2nd source |
 
 ## Fire-7 kills (2026-07-06)
 | Ticker | ~12m move (2-source) | run-tag |
