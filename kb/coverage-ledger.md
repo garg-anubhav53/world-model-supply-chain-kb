@@ -30,3 +30,23 @@ USED: ETF/13F ✓ · exchange screens ✓ · BOM-teardown ✓ · EDGAR significa
 3. Geographies: **India, Israel, SE-Asia**
 4. **Forward-listing/IPO pipeline** (temporal; un-re-rated by definition)
 5. Adjacent verticals (defense/agri/medical/logistics) sharing the same forced inputs
+
+## ROTATION CURSOR (anti-circling — advance +1 every fire, wrap around; dedicate ≥1 explore-scout to the current focus)
+CURSOR = 1
+Ring (deterministic march through ALL corners regardless of the productive vein):
+1. NON-ANCHORED: customs / bill-of-lading — who physically ships parts to Figure/Tesla/Waymo/Unitree/AgiBot
+2. BUSINESS-MODEL: consumables / aftermarket (per-operating-hour recurring spend)
+3. GEOGRAPHY: India (NSE/BSE) — bearings/forgings/motor-lamination/auto-electronics
+4. NODE: interconnect (high-flex cable, connectors, slip-rings)
+5. VERTICAL: defense / drone autonomy (shared sensors/compute/actuators)
+6. BUSINESS-MODEL: royalty / IP-licensing & patent pools
+7. GEOGRAPHY: Israel (TASE + ADR) — perception/edge-AI
+8. SOURCE: forward-listing / IPO / spin-off / de-SPAC / pivot pipeline
+9. NODE: positioning & timing (GNSS/RTK, oscillators, PTP)
+10. GEOGRAPHY: SE-Asia (Bursa/SET/SGX) — OSAT/connector/EMS tier
+11. BUSINESS-MODEL: TIC / certification / functional-safety
+12. NODE: production-test / calibration + edge/onboard thermal
+→ then wrap to 1. Each fire: read CURSOR, work that focus with ≥1 scout, then set CURSOR=(CURSOR mod 12)+1 and save.
+
+## EXPLORE / EXPLOIT split (every fire)
+Of ~8-12 scouts: reserve ≥4 for EXPLORE (the cursor focus + least-recently-touched surfaces) and the rest for EXPLOIT (conviction/diligence on the top-5 shortlist). Breadth AND convergence, always. Deviate from the cursor only to chase a live high-asymmetry lead — but still advance the cursor so nothing is skipped.
