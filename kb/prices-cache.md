@@ -8,18 +8,25 @@ As of 2026-07-06 unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh befor
 | **1536.TW (Hota Industrial)** | -6.84% (stockanalysis, Jul 6 2026, NT$53.10) / -5.43% (investing.com, Jul 3 2026, NT$52.20) | NOT-MOVED but FRAYING — gate 4 solvency weak, see pipeline.md | |
 | HSAI | -17% (2-source verified $17.19, Jul 2 2026; ATH ~$29.80 Sep'25) | RAN-then-partial-derate — Fire 5 added 4/5-buyer confirmed reinforcement | |
 | **603662.SH (Keli Sensing)** | +10.1%/12m (single-source, Fire 4) | NOT-MOVED — new Fire 5 WATCH, **needs 2-source reconfirm** | |
+| **300660.SZ (Jiangsu Leili)** | -5.69% (stockanalysis.com) / -6.00% (investing.com), both Jul 6 2026 | NOT-MOVED — new Fire 6 WATCH, see kb/companies/LEILI.md | |
 | NOVT | +65% | PARTIAL | |
 | ON | -32% off ATH | PARTIAL | |
 | OMG.L | -35% | NOT-MOVED | |
 | KLIN.SW | n/a | NOT-MOVED | |
 
-## Fire-5 pending-promotion candidates (2-source verified)
-| Ticker | ~12m move | run-tag | note |
-|---|---|---|---|
-| 300660.SZ (Jiangsu Leili) | -4.82% (stockanalysis, Jul 6 2026) | NOT-MOVED | survives pre-gate, pre-revenue on robotics — gate-1 pending |
-| 300100.SZ (Shuanglin) | **-30.84%/-34.63%** (stockanalysis.com, Jul 6 2026, 2 pulls same day) corroborated by Sina Finance (-49%, Apr 26 2026, different window) | NOT-MOVED — **price-conflict RESOLVED**, both prior figures (+70%, +8.2%) were wrong/stale | see decisions-log Fire 5 for full reconciliation |
-| 348340.KQ (Neuromeka) | ~+54% (single dated point, mid-2025) trending toward ATH Jan 2026 | UNVERIFIED/STALE — reprice before using | patent-sweep find, needs fresh 2-source pull |
-| Valeo (mega-cap) | not pulled (irrelevant pending size-gate outcome) | UNVERIFIED | named Momenta design-win, likely size-gate kill |
+## Fire-5 pending-promotion candidates — ALL RESOLVED Fire 6 (see Fire-6 tables above/below)
+Jiangsu Leili → WATCH (promoted). Shuanglin/Neuromeka/Valeo → KILL. See decisions-log Fire 6 for full reconciliation.
+
+## Fire-6 kills (already-run / gate-fails, 2026-07-06)
+| Ticker | ~12m move (2-source) | run-tag |
+|---|---|---|
+| 300100.SZ (Shuanglin) | -34.18% (investing.com) / -35.17% (stockanalysis.com), Jul 6'26 | NOT-MOVED but gate-1 fails + weakening fundamentals — KILL |
+| Valeo (FR.PA) | ~flat (€12.5→€13.6, 12m) | size-gate fail (LiDAR/Brain division ~24% of €20.9B total) |
+| 348340.KQ (Neuromeka) | +39.51% (stockanalysis.com) / +46.06% (investing.com), Jul 6'26 | below already-run threshold but KILL on vertical-integration (own-brand, no external buyer) |
+| ALNT (Allied Motion/Allient) | +125% (stockanalysis.com $38.59→$86.89) | RAN — already-run kill |
+| NNBR (NN Inc) | +40-45% (stockanalysis.com, off depressed base) | below already-run threshold but KILL — no B25J/F16H patent fit |
+| 688322.SH (Orbbec) | +110% (stockanalysis.com, Jul 6'26) | RAN — already-run kill, but see trends.md T12 (Robbyant W-track lead) |
+| SVT (Servotronics) | n/a — delisted Jul 1 2025 (TransDigm acquisition) | DEAD EQUITY |
 
 ## Fire-5 kills (already-run / size-gated, 2026-07-06)
 | Ticker | ~12m move (2-source) | run-tag |
