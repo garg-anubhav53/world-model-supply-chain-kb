@@ -29,3 +29,6 @@ Eng-services: TATAELXSI.NS LTTS.NS KPITTECH.NS CYIENT.NS ATE.PA BRTD.DE. TIC/cer
 
 ## Fire 7 additions (un-gated leads, append-only)
 Zhiyuan/AgiBot multi-vendor motor bench (T13): 富临精工(Fulin Precision, joint-module JV) 步科股份(Bukom, torque motors) — 603728.SZ(Moons' Electric) already seeded above, ticker exchange suffix likely .SH not .SZ, confirm next fire. India: SONACOMS.NS(Sona BLW, PARK). China depth/CIS: 688213.SH(SmartSens, killed-concentration). Tesla actuator (killed-already-run): 002050.SZ/2050.HK(Zhejiang Sanhua). Forward-listing watch (private, pre-IPO): Leju Robot (乐聚机器人, IPO-tutoring filed), Galaxea (星海图, share-reform pre-IPO).
+
+## Fire 9 additions (un-gated leads, append-only)
+Maritime/underwater autonomy (newly-opened vertical): PNG/KRKNF(Kraken Robotics, sonar+subsea battery) OPTT(Ocean Power Technologies, USV+PowerBuoy). India round 2: ZENTEC.NS(Zen Technologies, Bhairav Robotics stake) RKFORGE.NS(Ramkrishna Forgings). Interconnect: 301328.SZ(Weifeng Electronics) 688800.SH(Suzhou Recodeal, likely already-run). Vision-processor (wrong node bucket, flagged for context): INDI(indie Semiconductor). Forward-listing (accelerating): Leju Robot (SZSE ChiNext application ACCEPTED May 2026), Unitree Robotics (STAR Market IPO APPROVED Jul 3 2026), 灵心巧手/Linker Hand (joint-stock conversion, pre-IPO signal).
