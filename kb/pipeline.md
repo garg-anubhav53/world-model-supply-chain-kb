@@ -1,13 +1,14 @@
 # PIPELINE — ranked living candidate list
-**Target ≥15 live WATCH names. Currently BELOW target (8) → next fires stay in forced SOURCING mode.**
+**Target ≥15 live WATCH names. Currently BELOW target (9) → next fires stay in forced SOURCING mode.**
 Status: WATCH / ALERT / IN-DILIGENCE / PASS(buy) / KILL. Score 0–10 (base-smallness × causal lock-in × time-to-rev). first-rev: PRE-SAMPLE / SAMPLE-SHIPPED / Q1-REV / SCALING.
-Updated 2026-07-05 (Fire 4 — SOS Lab causal-rigor closed; Taiwan + China-OEM + AV-BOM + 13F + W-track sourcing).
+Updated 2026-07-06 (Fire 5 — China 2nd-tier price pre-gate completed [7 kill, 2 pending], Keli Sensing added, Hota held at WATCH w/ new solvency flag, Hesai/RoboSense AV reinforcement, new patent-sweep vector opened).
 
 | Ticker | Node | Geo | Track | Status | Score | first-rev | Notes / tripwires |
 |---|---|---|---|---|---|---|---|
-| **464080.KQ (SOS Lab)** | LiDAR | Korea | R+AV | **WATCH (top idea, 3/4 gates)** | 7 | SCALING (real Hyundai revenue ramping) | Gate 4 (solvency) fails: ₩43B 0%-CB, 22.4% dilution overhang opens Aug 2026. BUY triggers: firm supply contract disclosure, 1-2 quarters at ₩13-18B Hyundai run-rate, 2nd OEM win. See kb/companies/SOSLAB.md. |
-| **1536.TW (Hota Industrial)** | Reduction gears | Taiwan | R | **WATCH (new)** | 6 | PRE-SAMPLE/capability-JV | Tesla Optimus-linked JV (Menying Tech), -8.42%/12m, genuinely un-re-rated. Gate 2 open: press-reported "candidate supplier," no confirmed PO yet — verify next fire. See kb/companies/HOTA.md. |
-| HSAI | LiDAR | China (US-listed) | AV | WATCH | 5 | SCALING | dominant but already ran+pulled back on 1260H litigation; Fire 4 added a confirmed 2nd named buyer (Zoox, $40M+ order) — reinforces gate 2 but doesn't fix gate 1 (already-ran). Revisit on D.C. Cir. ruling. |
+| **464080.KQ (SOS Lab)** | LiDAR | Korea | R+AV | **WATCH (top idea, 3/4 gates)** | 7 | SCALING | Gate 4 (solvency) fails: ₩43B 0%-CB, 22.4% dilution overhang opens Aug 2026. See kb/companies/SOSLAB.md. |
+| **1536.TW (Hota Industrial)** | Reduction gears | Taiwan | R | **WATCH (fraying — 4th straight "samples-only" quarter + weakening solvency)** | 4 (down from 6) | PRE-SAMPLE/capability-JV | Gate 2 STILL unconfirmed (Aug'25→Jan'26→May'26 all "samples/verification," no PO). Gate 4 now weak: 2yr revenue decline (-12.5%,-17.5%), net losses, current ratio 0.82, quick ratio 0.38, Debt/EBITDA ~78x. Price still -5-7%/12m (not re-rated). If Fire 6 still shows no PO → downgrade toward KILL. See kb/companies/HOTA.md. |
+| HSAI | LiDAR | China (US-listed) | AV | WATCH | 5 | SCALING | Fire 5: reinforced as primary/co-primary LiDAR at 4 of 5 Chinese robotaxi buyers checked (Pony.ai exclusive, WeRide dual, Baidu Apollo Go primary, Didi/GAC Aion primary) — "8 of top-10 robotaxi cos" claim substantiated. Still already-ran (gate 1 fails) — revisit on D.C. Cir. ruling. |
+| **603662.SH (Keli Sensing)** | force/torque sensors | China | R | **WATCH (new, early-stage optionality)** | 4 | PRE-SAMPLE (order delivered but immaterial) | Real named Huawei embodied-intelligence design-win (sample→tested→order delivered Sept-Dec 2024), explicitly NOT Tesla (denied rumor same window). Robotics <5% of $180M revenue. Capture-rate risk: 1-of-16 Huawei ecosystem partners. See kb/companies/KELI.md. |
 | OMG.L | motion-capture | UK | W | WATCH(lean-kill) | 3 | SCALING(non-robot) | fortress b/s, not-run, but causal speculative + displacement; not a buy |
 | KLIN.SW | gear grinding/metrology | CH | R | WATCH | 3 | SCALING | not-run + quality but bump-not-multiply; cyclical |
 | NOVT | force-torque (ATI) | US | R | WATCH | 3 | SCALING | quality, partially moved; large base |
@@ -17,24 +18,24 @@ Updated 2026-07-05 (Fire 4 — SOS Lab causal-rigor closed; Taiwan + China-OEM +
 ## Pending — causal-check or price-check before pipeline promotion (NOT yet WATCH)
 | Ticker | Node | Geo | Gap |
 |---|---|---|---|
-| 603662.SH (Keli Sensing) | force/torque sensors | China | index-inclusion only (KOID residual), no named design-win yet — needs gate-1 check |
-| 002979.SZ (China Leadshine) | servo motors/drives | China | same — index-inclusion only, needs gate-1 check |
-| 2498.HK (RoboSense) | LiDAR | China (HK-listed) | price unconfirmed; likely already-covered HSAI peer — treat as context until priced |
-| 300100.SZ (Shuanglin) | bearings/roller-screws | China | PRICE-CONFLICT (+70% YTD vs +8.2%/12m from two different agents) — do not use until reconciled |
-| 688017.SH / 600580.SH / 301280.SZ / 002965.SZ / 600869.SH / 301550.SZ / 000887.SZ / 300660.SZ | various (reducers/motors/connectors/structural/harness/bearings/actuators) | China | second-tier Unitree/UBTECH BOM names, price UNKNOWN — cheap 2-source price pre-gate queued next fire |
+| 300660.SZ (Jiangsu Leili) | quadruped/humanoid motors | China | survives cheap pre-gate (-4.8%/12m, $605M rev) but ~0% robotics revenue today — samples in customer-verification stage, no named buyer confirmed; needs gate-1 check next fire |
+| 300100.SZ (Shuanglin) | roller-screws/bearings | China | price-conflict RESOLVED (actual -31%/12m); no automaker OEM design-win secured, ASP pressure — needs gate-1 check + fundamental derate assessment |
+| 348340.KQ (Neuromeka) | joint actuator modules (harmonic-drive integration) | Korea | strong patent fit (own "CORE"/NeuroDrive smart actuator) but NO named external humanoid buyer (building own-brand robot, not a supplier design-win); price ~+54%/12m and rising — reverify price before prioritizing |
+| Valeo (mega-cap, Euronext) | LiDAR (SCALA) | Europe | named Momenta L3 design-win (Sept 2025) but ~€20B diversified auto-parts base — needs explicit size-gate check (likely fails: LiDAR probably <30% of revenue) |
+| SVT (Servotronics) | servo/actuator | US | patent-sweep flagged strong micro-cap fit but no confirmed B25J/F16H patent assignment via general web search — needs direct USPTO assignee-field search |
+| 603662.SH backup context | — | — | (moved to WATCH table above — Keli Sensing) |
 
-## This fire's sourcing results (6 vectors popped, 3 productive)
-- SOS Lab causal-rigor (Opus dive): CLOSED — WATCH confirmed, gate 4 (solvency) is the binding blocker, concrete BUY triggers logged.
-- W-track sourcing (world-model data-capture): dry — right theme (Xsens Humanoid mocap), dead equity (delisted OTC shell MVLA); real suppliers private.
-- AV sensor-pod BOM (Waymo/Zoox): Waymo dead end (vertically integrated); Zoox productive — confirmed HSAI as a 2nd named AV buyer (reinforcing, not a new name).
-- Chinese humanoid OEM BOM (Unitree/UBTECH): hypothesis CONFIRMED, dense disclosure — but most named suppliers already re-rated +100-490%; 8 second-tier names logged price-pending.
-- Taiwan TWSE/TPEx screen: **1 new WATCH (Hota Industrial)**, 1 killed already-run (TBI Motion +71.6%), 1 parked (Asia Optical, already large/known).
-- 13F KOID-minus-ROBO/BOTZ residual: KOID identity confirmed (KraneShares Global Humanoid Robotics & Physical AI ETF); 2 causal-check-pending leads, 1 price-pending, 1 price-conflict.
+## This fire's sourcing results (6 vectors run, 3 productive)
+- China 2nd-tier price pre-gate (12 names carried from Fire 4, completed this fire): 7 KILL (already-run or size-gated), 2 SURVIVE mechanically but pre-revenue (Jiangsu Leili, Shuanglin) — **this vector is now EXHAUSTED for fresh names.**
+- Keli Sensing / Leadshine causal-rigor: Keli SURVIVES (new WATCH), Leadshine KILL.
+- Hota Industrial gate completion: gate 2 still open, gate 4 newly weak — HOLD at WATCH, downgrade trigger set for next fire.
+- AV Chinese-robotaxi BOM teardown (Pony.ai/WeRide/Baidu Apollo Go/Momenta/AutoX/Didi): Hesai reinforced 4/5, RoboSense reinforced 2/5, Valeo new named design-win (likely size-gate fail, needs confirmation) — mostly reinforcing, not fresh names.
+- Patent-assignee CPC B25J/F16H sweep (NEW vector, first pass): 1 pending find (Neuromeka), 1 park (Tung Pei, tradability unconfirmed), 1 needs-retry (Servotronics), several killed on size (Estun/Guomao/Doosan/CTS) or ineligible (Agility, private).
 
 ## Immediate backlog to grow pipeline toward 15 (forced sourcing continues)
-- Cheap 2-source PRICE pre-gate on the 8 China second-tier names + reconcile Shuanglin price-conflict (coverage-map queue #18).
-- Causal-rigor (gate-1) check on Keli Sensing + Leadshine (queue #19).
-- Hota Industrial gate 2 (confirmed Tesla PO) + gate 4 (financials) completion (queue #20).
-- Patent-assignee CPC B25J/F16H sweep, sub-$500M (queue #9) — untested vector.
-- Robotics consortium/exhibitor lists beyond KyoHA (queue #10).
-- Re-verify OMG.L / KLIN.SW / NOVT / ON prices if >7d stale.
+1. Gate-1 (named buyer) check on Jiangsu Leili + Shuanglin — the two mechanical survivors from the now-exhausted China 2nd-tier vector.
+2. Neuromeka: fresh 2-source price check (may already be past +60% threshold) + confirm no external humanoid buyer before deprioritizing/killing.
+3. Valeo: explicit size-gate check (LiDAR segment revenue as % of ~€20B total) — likely kill, confirm before dropping.
+4. Servotronics + Allied Motion/Allient + NN Inc: direct USPTO Patent Public Search (assignee-name field) — general web search under-indexed these.
+5. Hota Industrial: next-fire check for a confirmed PO — 4th consecutive "no" is a live downgrade trigger.
+6. New sourcing vector needed: design-win/"qualified supplier" PR sweep (coverage-map queue #12, untested); or robotics consortium/exhibitor recheck (queue #10, monthly).
