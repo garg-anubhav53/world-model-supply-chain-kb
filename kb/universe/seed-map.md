@@ -1,0 +1,28 @@
+# SEED-MAP — illustrative example names per node (NOT a checklist)
+~300 public names enumerated 2026-07-06 as SEEDS/EXAMPLES to calibrate each surface. Discover *within* surfaces; do not iterate this list. Tag: [RAN]=already re-rated (kill unless derate), [priv]=no public vehicle.
+
+## Compute / memory / optical
+GPU/ASIC: NVDA[RAN] AMD AVGO INTC 688256.SS(Cambricon) 688041.SS(Hygon) 688795.SS(MooreThreads). HBM: 000660.KS 005930.KS MU. Networking: ANET MRVL ALAB CRDO. Optical modules: COHR[RAN] LITE[RAN] FN AAOI 300308.SZ 300502.SZ 1308.HK(Luxshare). Optical subcomp: MTSI IPGP AMS.SW 3081.TWO(LandMark) GHH.L 5802.T 6503.T 6965.T(Hamamatsu) AXTI IQE.L. Servers/ODM: SMCI CLS 6669.TW 2382.TW 2317.TW. Packaging/substrate: TSM ASX AMKR[RAN] 4062.T(Ibiden) 6967.T(Shinko) 3037.TW 4958.TW 2802.T(Ajinomoto) TTMI[RAN] 2383.TW(EMC).
+
+## DC-physical (mostly PARKED market-understood)
+Power: ETN VRT[RAN] GEV[RAN] ENR.DE POWL HPS-A.TO BE. Cooling: MOD[RAN] NVT[RAN] PH ALFA.ST 6367.T ASTK.OL. Passives: MPWR VICR NVTS WOLF 6981.T(Murata) 6976.T 2327.TW(Yageo) 009150.KS. Storage: WDC 285A.T(Kioxia) 8299.TW(Phison) SIMO.
+
+## Robot mechanical
+Reducers: 6324.T[RAN] 6268.T[RAN] 002472.SZ 688017.SS[RAN] 002896.SZ 389500.KQ[RAN] 301596.SZ(Ruidi). Motors: 6594.T 6506.T 300124.SZ 002747.SZ 002979.SZ 603728.SZ NOVT RRX 179.HK 003021.SZ(Zhaowei). Laminations/steel: 6966.T[RAN] 600019.SS 5401.T 5411.T PKX. Screws/bearings/linear: 6481.T 6471.T 2049.TW[watch] 4576.TW 1536.TW(Hota)[watch] SKF-B.ST SHA.DE TKR RBC 6479.T 4540.TW(TBI) 4583.TW(Apex) 2233.TW(Yensun). Structural CFRP: 3402.T 3401.T HXL. Gear machine-tools: KLIN.SW[watch] RSW.L 6135.T(Makino) 6141.T(DMGMori); Gleason/KappNiles/Kashifuji[priv].
+
+## Robot sensing/electronics
+FT/tactile: NOVT VPG[RAN] 603662.SH(Keli)[watch] SXS.L; ATI/FUTEK/Kistler/GelSight[priv]. Encoders/position-IC: MELE.BR ALGM AMS.SW RSW.L AVGO 6762.T(TDK) IFX.DE NXPI; Heidenhain/iC-Haus[priv]. IMU/MEMS: STM ADI HON NOC KVHI 6981.T; Bosch[priv]. Battery/BMS: 300750.SZ 002594.SZ 006400.KS 373220.KS 300014.SZ. Edge-compute: NVDA QCOM AMD AMBA CEVA ARM 603893.SS(Rockchip) SYNA LSCC MCHP. Drivers/MCU: TXN ADI IFX 6723.T STM MCHP ON 6707.T(Sanken).
+
+## Magnets / rare-earth / materials
+Magnets: MP[RAN] 4063.T 6762.T 300748.SZ 000970.SZ 600366.SS 5471.T ASM.AX; VAC[priv]. Heavy-RE/mining: LYC.AX NTU.AX MEI.AX IXR.AX UUUU USAR HAS.AX ARU.AX PRE.L 0769.HK 600111.SS. Separation/refine: UCU.V AREC NEO.TO SOLB.BR. Recyclers: MKA.V CTH.V; Cyclic/Noveon[priv]. Materials: 5802.T 5801.T AXTI IQE.L ROG CE 3M MMM ILU.AX.
+
+## Perception / AV
+LiDAR: HSAI[watch] 2498.HK LAZR OUST[RAN] AEVA[RAN] INVZ 464080.KQ(SOSLab)[watch] 02665.HK(Seyond) FARO. Radar: NXPI IFX TXN ADI ARBE INDI CON.DE. Camera/CIS: 6758.T ON 603501.SS(OmniVision) 005930.KS HIMX 3008.TWO(Largan) 2382.HK(Sunny) GNTX. Depth/vision: CGNX 6861.T(Keyence) BSL.DE ZBRA 6645.T(Omron) S26.DE(Sick) HEXA-B.ST TKH.AS. HD-map/GNSS: TRMB TOM2.AS UBXN.SW 7732.T MBLY 002405.SZ(NavInfo) BIDU. Auto-compute: NVDA MBLY QCOM AMBA 9660.HK(Horizon) 2533.HK(BlackSesame).
+
+## Data / software / capture / semicap-equip
+Mocap/capture: OMG.L(Vicon)[watch] MVLA TOBII.ST MTTR 7732.T FARO. Annotation/data: INOD APX.AX TIXT PLTR; Scale/Labelbox[priv]. Sim: U ANSS→SNPS DSY.PA PTC ADSK 4425.T(Kudan) HEXA-B.ST BSY. Semicap: BESI KLIC 0522.HK(ASMPT) SMHN.DE 042700.KQ(Hanmi) 6146.T(Disco) AIXA.DE VECO ALRIB(Riber) KLAC ONTO CAMT NVMI TER 6857.T(Advantest).
+
+## Services / infra / adjacent (from anti-bias wave — mostly under-worked)
+Eng-services: TATAELXSI.NS LTTS.NS KPITTECH.NS CYIENT.NS ATE.PA BRTD.DE. TIC/cert: SGSN.SW BVI.PA ITRK.L ULS. Cyber/RTOS: BB(QNX) TENB FTNT. Data-center REIT/power-gen: EQIX DLR VRT GEV OKLO SMR CEG VST BWXT CCJ BE. Adjacent verticals: AVAV KTOS RCAT DRO.AX EH(drone) DRS ESLT RHM.DE KOG.OL(defense/maritime) DE AGCO 6326.T(agri) ISRG SYK MDT(surgical) KNCRY 6301.T(Komatsu) EPI-A.ST(mining) SYM AUTO.OL OCDO.L KGX.DE ZBRA(logistics) RKLB PL(space).
+
+*Full node breadth + the auditor's structural additions (consumables, interconnect, timing, edge-thermal, test/calibration, royalty/IP, insurance) are in kb/universe/README.md — hunt those BLIND surfaces, they have few/no seeds here precisely because they're under-explored.*
