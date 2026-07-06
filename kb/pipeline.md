@@ -1,36 +1,45 @@
 # PIPELINE — ranked living candidate list
-**Target ≥15 live WATCH names. Currently BELOW target (10) → next fires stay in forced SOURCING mode.**
+**Target ≥15 live WATCH names. Currently BELOW target (7, down from 9) → next fires stay in forced SOURCING mode.**
 Status: WATCH / ALERT / IN-DILIGENCE / PASS(buy) / KILL. Score 0–10 (base-smallness × causal lock-in × time-to-rev). first-rev: PRE-SAMPLE / SAMPLE-SHIPPED / Q1-REV / SCALING.
-Updated 2026-07-06 (Fire 6 — Jiangsu Leili promoted to WATCH [named Zhiyuan/AgiBot+Wellblue buyer], Shuanglin/Valeo/Neuromeka/SVT/ALNT/NNBR all KILL, new W-track vector opened via Orbbec/Robbyant).
+Updated 2026-07-06 (Fire 7 — Hota Industrial + Jiangsu Leili BOTH downgraded to KILL on trigger events; Orbbec-upstream and Robbyant-ecosystem vectors closed; 3 fresh un-gated leads surfaced [Moons' Electric, Fulin Precision, Bukom] for next fire).
 
 | Ticker | Node | Geo | Track | Status | Score | first-rev | Notes / tripwires |
 |---|---|---|---|---|---|---|---|
-| **464080.KQ (SOS Lab)** | LiDAR | Korea | R+AV | **WATCH (top idea, 3/4 gates)** | 7 | SCALING | Gate 4 (solvency) fails: ₩43B 0%-CB, 22.4% dilution overhang opens Aug 2026. See kb/companies/SOSLAB.md. |
-| **1536.TW (Hota Industrial)** | Reduction gears | Taiwan | R | **WATCH (fraying — 4th straight "samples-only" quarter + weakening solvency)** | 4 (down from 6) | PRE-SAMPLE/capability-JV | Gate 2 STILL unconfirmed (Aug'25→Jan'26→May'26 all "samples/verification," no PO). Gate 4 now weak: 2yr revenue decline (-12.5%,-17.5%), net losses, current ratio 0.82, quick ratio 0.38, Debt/EBITDA ~78x. Price still -5-7%/12m (not re-rated). If Fire 6 still shows no PO → downgrade toward KILL. See kb/companies/HOTA.md. |
-| HSAI | LiDAR | China (US-listed) | AV | WATCH | 5 | SCALING | Fire 5: reinforced as primary/co-primary LiDAR at 4 of 5 Chinese robotaxi buyers checked (Pony.ai exclusive, WeRide dual, Baidu Apollo Go primary, Didi/GAC Aion primary) — "8 of top-10 robotaxi cos" claim substantiated. Still already-ran (gate 1 fails) — revisit on D.C. Cir. ruling. |
-| **603662.SH (Keli Sensing)** | force/torque sensors | China | R | **WATCH (new, early-stage optionality)** | 4 | PRE-SAMPLE (order delivered but immaterial) | Real named Huawei embodied-intelligence design-win (sample→tested→order delivered Sept-Dec 2024), explicitly NOT Tesla (denied rumor same window). Robotics <5% of $180M revenue. Capture-rate risk: 1-of-16 Huawei ecosystem partners. See kb/companies/KELI.md. |
-| **300660.SZ (Jiangsu Leili)** | hollow-cup motors/joint modules | China | R | **WATCH (new, gate 1 satisfied)** | 4 | PRE-SAMPLE (stable orders, small-batch shipment) | Named buyers Zhiyuan Robotics/AgiBot (funded humanoid OEM, 2026 HK IPO planned) + Wellblue (quadruped maker), official IR filing 2025-10-30, "stable orders." Robotics revenue not yet quantified within $605M total base. Price -5.7%/-6.0%/12m — not re-rated. Capture-rate UNKNOWN (sole vs. one-of-several unverified). See kb/companies/LEILI.md. |
+| **464080.KQ (SOS Lab)** | LiDAR | Korea | R+AV | **WATCH (top idea, 3/4 gates)** | 7 | SCALING | Gate 4 (solvency) fails: ₩43B 0%-CB, 22.4% dilution overhang opens Aug 2026. Press (unconfirmed by DART) suggests a 2nd Hyundai leg (PluD) could push combined order value toward ~₩200B multi-year. See kb/companies/SOSLAB.md. |
+| HSAI | LiDAR | China (US-listed) | AV | WATCH | 5 | SCALING | Fire 7: Mercedes-Benz now named as a Level-3 anchor customer (resolves one of two disclosure gaps). D.C. Circuit merits ruling still pending (only a procedural non-coordination order issued Dec'25). 8-for-1 split effective Jul 10'26. Still already-ran (gate 1 fails) — revisit on ruling. |
+| **603662.SH (Keli Sensing)** | force/torque sensors | China | R | **WATCH (early-stage optionality)** | 4 | PRE-SAMPLE (order delivered but immaterial) | Price re-confirmed 2-source +17-19%/12m (up from stale +10%, still under already-run bar). Correction: NOT actually 1-of-16 Huawei-consortium members — real picture is broader/weaker (sampled to 50+ humanoid/cobot makers, no exclusivity). See kb/companies/KELI.md. |
 | OMG.L | motion-capture | UK | W | WATCH(lean-kill) | 3 | SCALING(non-robot) | fortress b/s, not-run, but causal speculative + displacement; not a buy |
 | KLIN.SW | gear grinding/metrology | CH | R | WATCH | 3 | SCALING | not-run + quality but bump-not-multiply; cyclical |
 | NOVT | force-torque (ATI) | US | R | WATCH | 3 | SCALING | quality, partially moved; large base |
 | ON | camera CMOS | US | AV+R | WATCH | 3 | SCALING | cross-track, dislocated on M&A; large base |
 | TKR (Spinea) | cycloidal reducer | US | R | PARK | 2 | SCALING | non-China/Japan moat but $4B base = no multiply |
 
-## Pending — causal-check or price-check before pipeline promotion (NOT yet WATCH)
-All 5 Fire-5 pending names RESOLVED this fire (Jiangsu Leili → WATCH above; Shuanglin/Neuromeka/Valeo/Servotronics → KILL, see decisions-log Fire 6). Pending list currently EMPTY — next promotions must come from fresh sourcing.
+## KILLED this fire (see decisions-log.md for full reasoning)
+- **1536.TW (Hota Industrial)** — DOWNGRADED TO KILL. 6th consecutive fire, zero confirmed PO; financials kept weakening (Q1'26 revenue -3.3% YoY, net loss, 6.52% gross margin); new negative signal that Tesla paused Optimus-supplier procurement.
+- **300660.SZ (Jiangsu Leili)** — DOWNGRADED TO KILL. FY2025 annual report resolved both open gates negatively: robotics revenue is RMB24.66M (~0.6% of RMB4.18B total, a rounding error despite +157.6% YoY growth), and capture-rate confirmed as 1-of-≥4 named competing vendors (Moons' Electric, Fulin Precision, Wolong/Xier, Bukom), not sole/preferred.
 
-## This fire's sourcing results (6 checks run, 2 productive)
-- Jiangsu Leili gate-1 check: **PROMOTED TO WATCH** — official IR filing names Zhiyuan Robotics/AgiBot + Wellblue as "stable order" buyers.
-- Shuanglin gate-1 check: KILL — company's own filings still say "not yet designated," plus weakening fundamentals (revenue -10.4%, profit -47% YoY).
-- Valeo size-gate check: KILL, confirmed — LiDAR/"Brain" division ~24% of €20.9B total, below 30% threshold.
-- Neuromeka reprice + buyer check: KILL — price under already-run bar but vertically-integrated own-brand humanoid maker, no external buyer (gate 2 fails).
-- USPTO direct patent search (SVT/ALNT/NNBR): all 3 KILL — SVT delisted, ALNT wrong CPC + already-run, NNBR no patent fit. Vector CLOSED for these names.
-- **NEW vector opened: Orbbec (688322.SH) / Ant Group "Robbyant" embodied-AI ecosystem** — first genuine W-track (world-model) forced-buyer link ever found (Orbbec depth-sensors confirmed feeding Robbyant's "LingBot-Depth" world-model + named humanoid buyers X-Humanoid/AgiBot/UBTech). Orbbec itself KILL (already-run +110%/12m, robotics <32% of revenue) but its upstream suppliers (image-sensor/ToF-chip tier) are a fresh, untested lead.
+## Pending — causal-check or price-check before pipeline promotion (NOT yet WATCH)
+Three FRESH, NAMED, un-gated leads surfaced incidentally this fire (via the Jiangsu Leili capture-rate check) — none yet price/gate-checked:
+1. **Moons' Electric (603728.SH / 鸣志电器)** — hollow-cup motor maker, sampled to "100+" humanoid OEMs incl. Zhiyuan's next-gen product (2025), competitively priced (~RMB1,200-2,300/unit vs Maxon's ~RMB4,000). Needs price + gate-1 check.
+2. **Fulin Precision (富临精工)** — JV "Annu Intelligent" for electric joint modules, >RMB40m 2025 orders reported. Needs ticker/parent confirmation + price + gate-1 check.
+3. **Bukom (步科股份)** — frameless torque motors for joint assemblies. Needs ticker confirmation + price + gate-1 check.
+
+## This fire's sourcing results (10 checks run: 5 EXPLORE + 5 EXPLOIT)
+- Hota Industrial 6th PO-check: **KILL** (downgrade trigger fired, see above).
+- Jiangsu Leili FY2025-report closure: **KILL** (downgrade trigger fired, see above) — but surfaced 3 fresh leads (above).
+- Keli Sensing price reconfirm + capture-rate correction: **HOLD WATCH**, dossier corrected.
+- SOS Lab Korea-round-2 (DART pull attempted, not achieved) + Hwashin Precision recheck: **HOLD WATCH** (SOS Lab); Hwashin still PARK, now flagged as an overheated speculative spike (KRX investment-caution, Jun 10'26).
+- HSAI litigation + customer-disclosure check: **HOLD WATCH**, Mercedes-Benz now named (de-risking), DC Circuit still pending.
+- Orbbec upstream-supplier sweep (cursor-adjacent, W-track priority): found SmartSens (688213.SH) as a filing-confirmed CMOS supplier — **KILL** (immaterial to SmartSens' revenue); Orbbec's own ToF/depth-engine chips are self-developed in-house — vector CLOSED.
+- Robbyant/Ant-Group ecosystem partner mining: found Ti5/Galaxea/Leju/灵心巧手/星尘智能 — **all private**, none tradeable; Leju has filed IPO-tutoring registration (forward-listing watch). Vector CLOSED for now.
+- Customs/bill-of-lading non-anchored sourcing (ROTATION CURSOR=1): direct BoL/customs databases resolved ZERO new candidates for Figure/Tesla/Waymo/Unitree/AgiBot; secondary press surfaced Zhejiang Sanhua (002050.SZ) — **KILL** (already-run +90.6%/12m).
+- India geography sweep (blind D2): found Sona BLW/SONACOMS (NEURA Robotics MoU) — **PARK** (non-binding, already priced +36%/12m, fails 3 of 4 gates). First qualifying India lead in 2 fires; dimension now PARTIAL.
+- Consumables/aftermarket business-model sweep (blind D3): still mostly BLIND; one borderline (Agility Robotics RaaS, now public via CCXI SPAC merger) — **PARK**, not a clean 3rd-party-supplier fit.
 
 ## Immediate backlog to grow pipeline toward 15 (forced sourcing continues)
-1. **NEW — Orbbec's own upstream suppliers** (image-sensor/ToF-chip tier feeding Orbbec, which feeds Robbyant/AgiBot/UBTech/X-Humanoid) — first W-track-productive thread in KB history, HIGH PRIORITY.
-2. **NEW — other named hardware vendors into Ant Group's Robbyant** beyond Orbbec (analogous to Huawei's 16-partner list, T10).
-3. Hota Industrial: next-fire check for a confirmed PO — 4th-5th consecutive "no" is a live downgrade trigger.
-4. Jiangsu Leili: watch FY2025 annual report (~Apr 2026) for a quantified robotics-revenue disclosure trigger.
-5. Design-win/"qualified supplier" PR sweep (coverage-map queue #12, untested); or robotics consortium/exhibitor recheck (queue #10, monthly).
-6. Korea round 2: DART direct filing pull for SOS Lab; Hwashin Precision Atlas-supplier status (queue #21, still open).
+1. **NEW — gate-check Moons' Electric (603728.SH), Fulin Precision, Bukom** — 3 fresh named Zhiyuan/AgiBot joint-module vendors, reopens the "exhausted" China 2nd-tier motor vector. HIGH PRIORITY.
+2. Korea round 2 completion: pull SOS Lab's DART quarterly filing DIRECTLY (dart.fss.or.kr), not via web search — confirm actual Hyundai-linked revenue vs. the ₩13-18B/~₩200B estimates and the CB-dilution status ahead of the Aug 11 2026 conversion window.
+3. Hwashin Precision: monitor for an actual signed contract vs. continued speculative spike (currently PARK, overheated).
+4. Design-win/"qualified supplier" PR sweep (coverage-map queue #12, untested); or robotics consortium/exhibitor recheck (queue #10, monthly).
+5. Leju Robot (forward-listing, D7): watch for actual IPO completion — first tradeable vehicle into the Robbyant ecosystem if it lists.
+6. Consumables/aftermarket (D3, cursor focus next fire per rotation): follow up on Agility/CCXI post-merger; try production-test/calibration and TIC/certification angles not yet attempted.

@@ -1,7 +1,9 @@
 # Keli Sensing Technology (603662.SH)
 Node: force/torque sensors (six-dimensional) | Geo: China (Shanghai STAR/A-share) | Track: R
 Status: **WATCH (new, early-stage/optionality)** | Score: 4/10 | first-rev: PRE-SAMPLE (order delivered but immaterial)
-Last updated: 2026-07-06 (Fire 5)
+Last updated: 2026-07-06 (Fire 7)
+
+**Fire 7 update:** Price 2-source reconfirmed: stockanalysis.com +17.42%/12m, investing.com +19.02%/12m (both ¥73.20, Jul 6'26, 52wk ¥52.44-84.49) — UP from the prior stale single-source +10.1% read; still well under the +60% already-run bar, gate 1 still passes. **Correction to capture-rate framing:** Keli is NOT actually named among Huawei's 16-partner Shenzhen embodied-intelligence consortium (that list includes Leju/Zhaowei/Estun etc.) — the "1-of-16" citation in the prior dossier was a misattribution. The real picture is arguably weaker for concentration: Keli has sampled its force/torque sensor to 50+ domestic humanoid/cobot makers (Huawei, ByteDance, Xiaomi, XPeng, AgiBot, UBTech, Tesla, etc.) — a broad spray-and-pray strategy, not a preferred-vendor relationship with any one of them. No Huawei production-volume target found for 2026 (Kuafu remains directional, ~100 units delivered cumulatively by Jan 2025). No new follow-on PO since Dec 2024 — company's own Jan 2025 disclosure explicitly flags that future orders are uncertain in timing and probability. Net: capture-rate risk is CONFIRMED, just via a different mechanism (breadth-without-exclusivity, not a 16-way split). Hold WATCH — no catalyst to move toward BUY or KILL this fire.
 
 ## Thesis
 Six-dimensional force/torque sensor maker with a company-disclosed, press-corroborated NAMED relationship with Huawei's embodied-intelligence robotics program — the cleanest gate-1 pass found this fire (real disclosure, not aspirational marketing).

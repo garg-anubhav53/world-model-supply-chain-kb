@@ -4,18 +4,25 @@ As of 2026-07-06 unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh befor
 ## Live WATCH candidates
 | Ticker | ~12m move | run-tag | note |
 |---|---|---|---|
-| **464080.KQ (SOS Lab)** | -23.6%/-19.9% (2-source: stockanalysis -23.6%, investing.com -19.9%, both Jul 3 2026, both confirm ₩9,720 close) | NOT-MOVED — top idea, see kb/companies/SOSLAB.md | |
-| **1536.TW (Hota Industrial)** | -6.84% (stockanalysis, Jul 6 2026, NT$53.10) / -5.43% (investing.com, Jul 3 2026, NT$52.20) | NOT-MOVED but FRAYING — gate 4 solvency weak, see pipeline.md | |
-| HSAI | -17% (2-source verified $17.19, Jul 2 2026; ATH ~$29.80 Sep'25) | RAN-then-partial-derate — Fire 5 added 4/5-buyer confirmed reinforcement | |
-| **603662.SH (Keli Sensing)** | +10.1%/12m (single-source, Fire 4) | NOT-MOVED — new Fire 5 WATCH, **needs 2-source reconfirm** | |
-| **300660.SZ (Jiangsu Leili)** | -5.69% (stockanalysis.com) / -6.00% (investing.com), both Jul 6 2026 | NOT-MOVED — new Fire 6 WATCH, see kb/companies/LEILI.md | |
+| **464080.KQ (SOS Lab)** | -23.6%/-19.9% (2-source, Jul 3 2026 — **STALE, needs fresh 2-source pull, Fire 7 attempt failed**) | NOT-MOVED — top idea, see kb/companies/SOSLAB.md | |
+| HSAI | ~$17-18 (2-source, Jul 6 2026); ATH ~$29.80 Sep'25; **8-for-1 split effective Jul 10 2026 — adjust before next comparison** | RAN-then-partial-derate — Mercedes-Benz named as anchor customer Fire 7 | |
+| **603662.SH (Keli Sensing)** | +17.42% (stockanalysis.com) / +19.02% (investing.com), both ¥73.20, Jul 6 2026 | NOT-MOVED (2-source confirmed Fire 7, up from stale +10.1%) | |
 | NOVT | +65% | PARTIAL | |
 | ON | -32% off ATH | PARTIAL | |
 | OMG.L | -35% | NOT-MOVED | |
 | KLIN.SW | n/a | NOT-MOVED | |
 
-## Fire-5 pending-promotion candidates — ALL RESOLVED Fire 6 (see Fire-6 tables above/below)
-Jiangsu Leili → WATCH (promoted). Shuanglin/Neuromeka/Valeo → KILL. See decisions-log Fire 6 for full reconciliation.
+## Fire-7 kills (2026-07-06)
+| Ticker | ~12m move (2-source) | run-tag |
+|---|---|---|
+| 1536.TW (Hota Industrial) | 52wk range NT$46.5-90.9, spot readings volatile/conflicting (-5% to +22% depending on snapshot) | KILL — downgrade trigger (6 fires, no PO) + weakening financials, not a re-rating kill |
+| 300660.SZ (Jiangsu Leili) | -5.69%/-6.00% (existing 2-source, Jul 6'26) vs. an UNRESOLVED secondary read of +~220%/12m this fire — **PRICE-CONFLICT, do not trust either without a clean re-pull** | KILL — fundamentals (revenue-materiality + capture-rate), not price-driven |
+| 688213.SH (SmartSens Technology) | conflicting: -6% to -7% (stockanalysis/investing.com) vs. +70% (TradingView) — unresolved, low priority to re-pull since already KILL on concentration | KILL — concentration/materiality gate fails |
+| 002050.SZ / 2050.HK (Zhejiang Sanhua) | +90.6%/12m (52wk 23.80-60.77 CNY) | RAN — already-run kill |
+| SONACOMS.NS (Sona BLW/Sona Comstar) | +36%/12m (₹402.30-672.60 52wk range, last ₹662.30, Jul 2026) | PARK — priced ahead of a non-binding MoU |
+
+## Fire-5 pending-promotion candidates — ALL RESOLVED Fire 6, then Jiangsu Leili itself RESOLVED (KILL) Fire 7
+Shuanglin/Neuromeka/Valeo → KILL (Fire 6). Jiangsu Leili → WATCH (Fire 6) → KILL (Fire 7, FY2025 report resolved both open gates negatively). See decisions-log for full reconciliation.
 
 ## Fire-6 kills (already-run / gate-fails, 2026-07-06)
 | Ticker | ~12m move (2-source) | run-tag |

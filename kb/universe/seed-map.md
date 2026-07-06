@@ -26,3 +26,6 @@ Mocap/capture: OMG.L(Vicon)[watch] MVLA TOBII.ST MTTR 7732.T FARO. Annotation/da
 Eng-services: TATAELXSI.NS LTTS.NS KPITTECH.NS CYIENT.NS ATE.PA BRTD.DE. TIC/cert: SGSN.SW BVI.PA ITRK.L ULS. Cyber/RTOS: BB(QNX) TENB FTNT. Data-center REIT/power-gen: EQIX DLR VRT GEV OKLO SMR CEG VST BWXT CCJ BE. Adjacent verticals: AVAV KTOS RCAT DRO.AX EH(drone) DRS ESLT RHM.DE KOG.OL(defense/maritime) DE AGCO 6326.T(agri) ISRG SYK MDT(surgical) KNCRY 6301.T(Komatsu) EPI-A.ST(mining) SYM AUTO.OL OCDO.L KGX.DE ZBRA(logistics) RKLB PL(space).
 
 *Full node breadth + the auditor's structural additions (consumables, interconnect, timing, edge-thermal, test/calibration, royalty/IP, insurance) are in kb/universe/README.md — hunt those BLIND surfaces, they have few/no seeds here precisely because they're under-explored.*
+
+## Fire 7 additions (un-gated leads, append-only)
+Zhiyuan/AgiBot multi-vendor motor bench (T13): 富临精工(Fulin Precision, joint-module JV) 步科股份(Bukom, torque motors) — 603728.SZ(Moons' Electric) already seeded above, ticker exchange suffix likely .SH not .SZ, confirm next fire. India: SONACOMS.NS(Sona BLW, PARK). China depth/CIS: 688213.SH(SmartSens, killed-concentration). Tesla actuator (killed-already-run): 002050.SZ/2050.HK(Zhejiang Sanhua). Forward-listing watch (private, pre-IPO): Leju Robot (乐聚机器人, IPO-tutoring filed), Galaxea (星海图, share-reform pre-IPO).
