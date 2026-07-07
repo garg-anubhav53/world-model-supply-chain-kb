@@ -1,5 +1,7 @@
 # Momentus Inc. — MNTS (Nasdaq)
-Updated 2026-07-07 (Fire 18) | Verdict: **WATCH (unchanged — dilution risk confirmed WORSE, not resolved)** | Track: **space robotics/autonomy (adjacent vertical)**
+Updated 2026-07-07 (Fire 20) | Verdict: **WATCH (stable — 2nd consecutive fire with no new dilution)** | Track: **space robotics/autonomy (adjacent vertical)**
+
+**Fire 20 update — quiet fire, stable:** No new SEC filings (8-K/S-1/S-3/424B) since Jun 18 2026 — share count (~18.84M) and cash (~$76M+) unchanged, confirmed directly via EDGAR (latest filing is the Jun 18 8-K itself). Price $6.22 (Google Finance) / $6.25 (StockAnalysis.com), both pulled Jul 7 2026 ~11:15am ET — down slightly, no re-rating concern. No new named-customer contracts since the Fire 19 CU Boulder LASP/OWLS item. Two consecutive fires without new dilution is the first sign the serial-issuance pattern may be slowing — next real test is the Q2 2026 print (~August).
 
 **Fire 18 update — dilution accelerated, not stabilized; DARPA figure now primary-confirmed, NASA JSC confirmed non-monetary:**
 - **DARPA:** the Feb 10 2025 Phase 3 expansion figure ($3.5M) is confirmed via a single primary Momentus IR announcement. The KB's "~$4.2M cumulative DARPA + $1.9M SpaceWERX" figure is ALSO now primary-confirmed — it's Momentus's own characterization in its Mar 28 2026 Vigoride 7 launch press release (businesswire), not a secondary-aggregator estimate as previously flagged. Treat $4.2M as reliable.

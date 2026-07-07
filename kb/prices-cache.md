@@ -1,17 +1,22 @@
 # PRICES CACHE — last-seen move/valuation (staleness window: 7 days)
-As of 2026-07-07 (Fire 19) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+As of 2026-07-07 (Fire 20) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
 
 ## Live WATCH candidates
 | Ticker | ~12m move | run-tag | note |
 |---|---|---|---|
-| **464080.KQ (SOS Lab)** | Fire 19: ₩9,180 (Jul 7 close, 2-source: stockanalysis.com + kr.investing.com), unchanged from Fire 18 | NOT-MOVED — top idea, see kb/companies/SOSLAB.md | Fire 19: still confirmed below the believed ₩10,857 CB conversion price (~-15%); Boston Dynamics supplier-decision process ongoing, no award yet; Aug 11 2026 remains the hard resolution date |
-| HSAI | Fire 19: ~$17.08-17.10 (2-source: Finviz, TradingKey, live-quoted same hour), previous close $17.47 agrees with Fire 18 | NOT-MOVED (down off highs) | 8-for-1 split still ON TRACK for Jul 10 2026 (3 days out). No ruling yet on D.C. Circuit docket 25-5256 (~3.7mo post-argument) |
-| **MNTS (Momentus)** | Fire 19: share count/cash UNCHANGED from Fire 18 (~18.84M shares, ~$76M+ cash) — first fire without new dilution | NOT-MOVED on price | Fire 19: one new named customer (CU Boulder LASP/OWLS mission on Vigoride-9), incremental not material. No new SEC filings since Jun 18 2026. |
+| **464080.KQ (SOS Lab)** | Fire 20: ₩9,180 (Jul 7 close, 2-source: stockanalysis.com + kr.investing.com), unchanged from Fire 19 | NOT-MOVED — top idea, see kb/companies/SOSLAB.md | Fire 20: still ~-15% below the believed ₩10,857 CB conversion price; Boston Dynamics decision timeline sharpened to H2 2026; Hyundai revenue guide raised ₩13B→₩18B; Aug 11 2026 remains the hard resolution date |
+| HSAI | Fire 20: $16.41 (stockanalysis.com, Jul 7, -6.07% intraday) / $16.85-18 (other feeds, same day) — pre-split | NOT-MOVED (down off highs) | 8-for-1 split NOT yet executed (effective Jul 10 2026, 3 days out at check time). No ruling yet on D.C. Circuit docket 25-5256 (~3.7mo post-argument) |
+| **MNTS (Momentus)** | Fire 20: $6.22 (Google Finance) / $6.25 (StockAnalysis.com), both Jul 7 ~11:15am ET | NOT-MOVED on price | Fire 20: share count/cash UNCHANGED from Fire 19 (~18.84M shares, ~$76M+ cash) — 2nd consecutive quiet fire, no new dilution, no new named contracts. |
 | NOVT | +65% | PARTIAL | |
 | ON | -32% off ATH | PARTIAL | |
 | OMG.L | -35% | NOT-MOVED | |
 | KLIN.SW | n/a | NOT-MOVED | |
 | **POCI (Precision Optics)** | $5.69 (investing.com) / $5.65 (StockTitan, Jun 10 2026), 52wk $3.55-$6.04 | NOT-MOVED — new WATCH-weak Fire 10, see kb/companies/POCI.md | flat/no re-rate but robotics thesis fails forced-buyer gate |
+
+## Fire-20 kills (2026-07-07)
+| Ticker | ~12m move | run-tag |
+|---|---|---|
+| 002403.SZ (Aishida) | -23%/12m strict trailing (2024 spike rolled off), but popped-and-faded around the Jul 6 AgiBot news itself (limit-up Jul 1 → ¥11.78 → -10.02% Jul 7) | KILL (new find via native trade press, killed same-fire — legacy cookware business, chronic losses, non-exclusive substitutable assembly role) |
 
 ## Fire-19 kills (2026-07-07)
 | Ticker | ~12m move | run-tag |
