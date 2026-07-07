@@ -1,17 +1,22 @@
 # PRICES CACHE — last-seen move/valuation (staleness window: 7 days)
-As of 2026-07-07 (Fire 23) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+As of 2026-07-07 (Fire 24) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
 
 ## Live WATCH candidates
 | Ticker | ~12m move | run-tag | note |
 |---|---|---|---|
-| **464080.KQ (SOS Lab)** | Fire 23: ₩9,180 (Jul 7 close, 2-source: stockanalysis.com + kr.investing.com), unchanged for a 4th consecutive fire (Fire 20-23) | NOT-MOVED — top idea, see kb/companies/SOSLAB.md | Fire 23: Boston Dynamics still evaluation-stage (no award, no narrowed shortlist since Jun 28 press); SPAD chip no new milestone; no new DART filings/contracts. |
-| HSAI | Fire 23: $16.16 (stockanalysis.com) / $16.14 (Google Finance), both Jul 7 ~3pm ET, prior close $17.47 — pre-split | NOT-MOVED (continuing slide, real ~7.5% weekly weakness) | Split still confirmed executing Jul 10 2026. Litigation still pending (~3.7mo post-argument, panel confirmed Pillard/Garcia/Edwards). Weakness continues to be explained by the Jun 13 analyst downgrades + valuation de-rating, not a new catalyst — no new rating action or named customer this fire. |
-| **MNTS (Momentus)** | Fire 23: $6.27 (stockanalysis.com) / $6.26 (Google Finance), both Jul 7 ~3:12pm ET; recent range $6.26-6.58 | NOT-MOVED on price | Fire 23: no new SEC filing (CIK 1781162 checked directly, still Jun 18 2026) — 5th consecutive fire with no new dilution. Q2 2026 earnings confirmed ~Aug 18 2026. |
+| **464080.KQ (SOS Lab)** | Fire 24: ₩9,180 (Jul 7 close, 2-source: stockanalysis.com + Investing.com), unchanged for a 5th consecutive fire (Fire 20-24) | NOT-MOVED — top idea, see kb/companies/SOSLAB.md | Fire 24: Boston Dynamics sent ~10 engineers to tour 10+ Korean factories incl. SOS Lab (Jun 29 2026 press) assessing mass-production capability — real process progress, still no award/narrowed shortlist. SPAD chip no new milestone. |
+| HSAI | Fire 24: $16.15 (2-source: Google Finance + stockanalysis.com), Jul 7 close, pre-split (split effective Jul 10 2026, 3 days out) | NOT-MOVED (continuing slide, ~7% further weekly weakness) | Litigation still pending, no ruling; court denied a motion to coordinate with DJI's parallel appeal. Weakness continues to be technical/valuation-driven, moving further from the re-rating line, not closer. |
+| **MNTS (Momentus)** | Fire 24: $6.22 (2-source: stockanalysis.com + Google Finance), Jul 7 close | NOT-MOVED on price | Fire 24: no new SEC filing (CIK 1781162 checked directly, still Jun 18 2026) — 6th consecutive fire with no new dilution. Q2 2026 earnings confirmed Aug 18 2026. Minor new contract: Jun 17 2026 Vigoride-9/LASP deal (non-material). |
 | NOVT | +65% | PARTIAL | |
 | ON | -32% off ATH | PARTIAL | |
 | OMG.L | -35% | NOT-MOVED | |
 | KLIN.SW | n/a | NOT-MOVED | |
 | **POCI (Precision Optics)** | $5.69 (investing.com) / $5.65 (StockTitan, Jun 10 2026), 52wk $3.55-$6.04 | NOT-MOVED — new WATCH-weak Fire 10, see kb/companies/POCI.md | flat/no re-rate but robotics thesis fails forced-buyer gate |
+
+## Fire-24 found-and-gate-checked (KILL)
+| Ticker | ~12m move | run-tag | note |
+|---|---|---|---|
+| **688400.SH (Lingyunguang/LUSTER LightTech)** | ~66.22 CNY (Sina/Futu, May 24 2026), +84.56%/12m (fupanwang) — ~3x off ~22-23 CNY (Nov 2024) | KILL (found via unanchored broad hunt) | FZMotion mocap "co-development" with Unitree is an R&D tool not a per-unit component, absent from Unitree's own prospectus, ~1% of group revenue. See kb/companies/LUSTER.md. |
 
 ## Fire-23 found-and-gate-checked (KILL)
 | Ticker | ~12m move | run-tag | note |
