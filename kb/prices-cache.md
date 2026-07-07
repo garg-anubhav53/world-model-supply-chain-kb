@@ -1,17 +1,17 @@
 # PRICES CACHE — last-seen move/valuation (staleness window: 7 days)
-As of 2026-07-07 (Fire 26) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+As of 2026-07-07 (Fire 27) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
 
 ## Live WATCH candidates
 | Ticker | ~12m move | run-tag | note |
 |---|---|---|---|
-| **464080.KQ (SOS Lab)** | Fire 26: ₩9,180 (Jul 7 close, 2-source: stockanalysis.com + Investing.com), unchanged for a 7th consecutive fire (Fire 20-26) | NOT-MOVED — top idea, see kb/companies/SOSLAB.md | Fire 26: SL Corp (separate Korean parts maker) won its own BD component order — confirms BD is multi-sourcing, not concentrating on SOS Lab. No award/narrowed shortlist yet. SPAD chip no new milestone. |
-| HSAI | Fire 26: $16.15 (2-source: Google Finance + stockanalysis.com), Jul 7 close, pre-split (split effective Jul 10 2026, 3 days out — verify next fire) | NOT-MOVED (continuing slide) | Litigation still pending, no ruling since Mar 19 2026 argument. New: named LiDAR partner for NVIDIA DRIVE Hyperion 10. |
-| **MNTS (Momentus)** | Fire 26: $6.22 (2-source: stockanalysis.com + Google Finance), Jul 7 close | NOT-MOVED on price | Fire 26: no new SEC filing (CIK 1781162, still Jun 18 2026) — 8th consecutive fire with no new dilution. Capture-rate re-assessed weaker (revenue driver is diffuse Vigoride hosted-payload market, not the small directed DARPA/SpaceWERX piece). Q2 2026 earnings Aug 18 2026. |
-| NOVT | $161.72 (Jul 3 2026) | PARTIAL | unrelated $1.2B Riverpoint Medical acquisition + $300M placement announced, no ATI/force-torque-specific news |
-| ON | $95.00 (Jul 6 2026) | PARTIAL | unrelated $7B Synaptics acquisition announced, stock -21% same week; no AV/camera-CMOS-specific news |
-| OMG.L | 39.50p | NOT-MOVED | no news since 7/1 |
-| KLIN.SW | 11.30 CHF (Jul 1 2026) | NOT-MOVED | no news since 7/1 |
-| **POCI (Precision Optics)** | ~$5.65 (Jun 10 2026, no fresher print found Fire 26) | NOT-MOVED — new WATCH-weak Fire 10, see kb/companies/POCI.md | flat/no re-rate; Procept insourcing risk still unconfirmed either direction |
+| HSAI | Fire 27: ~$16.15 (2-source: stockanalysis.com), near 52wk low, pre-split (split effective Jul 10 2026, 3 days out — verify next fire) | NOT-MOVED (continuing slide) — now the KB's strongest shortlist name, see kb/companies/HSAI.md | Litigation still pending, no ruling since Mar 19 2026 argument (~3.6mo). No new named-customer news since Jul 1. |
+| **MNTS (Momentus)** | Fire 27: $6.22 (2-source: stockanalysis.com + Google Finance), Jul 7 close, flat | NOT-MOVED on price | Fire 27: no new SEC filing (CIK 1781162, still Jun 18 2026) — 9th consecutive fire with no new dilution. Capture-rate weakness CONFIRMED (a "$3.5M DARPA expansion" headline traced to a stale Feb 2025 award). Aug 18 2026 Q2 print now the explicit keep/kill decision point. |
+| **464080.KQ (SOS Lab)** | Fire 27: ₩9,180 (Jul 7 close, 3-source: stockanalysis.com + Investing.com + TradingView) — NOT actually flat: -49.86% over 6 months | **DOWNGRADED Fire 27 — WATCH(weak), see kb/companies/SOSLAB.md** | H1 2026 revenue ₩2.1B vs ₩35.3B FY guide (<10% of target), op-loss ₩8.6B > revenue. Boston Dynamics leg confirmed dead (BD sources from Velodyne). |
+| NOVT | $161.72 (Jul 3 2026) → ~$161 (Jul 6 2026, Fire 27) | PARTIAL | Fire 27: confirmed member of NVIDIA Halos AI Systems Inspection Lab — new thesis-relevant positive (not yet a gate change) |
+| ON | $95.00 (Jul 6 2026) → ~$117 (Fire 27 read, pulled back ~21% off the Synaptics-deal pop) | PARTIAL | no new AV/camera-CMOS-specific news since 7/1 |
+| OMG.L | 39.50p → 39.5p (Fire 27, unchanged) | NOT-MOVED | no news since 7/1 |
+| KLIN.SW | 11.30 CHF (Jul 1 2026, unchanged Fire 27) | NOT-MOVED | no news since 7/1 |
+| **POCI (Precision Optics)** | $4.86 (Jul 7 2026, Fire 27, -2.0%) | NOT-MOVED — see kb/companies/POCI.md | Fire 27: record Q3, raised FY guide to $26-28M + $3.5M follow-on order (ophthalmic/satellite programs, not the Procept surgical-robotics buyer). No thesis catalyst. |
 | TKR (Spinea) | $138.06 (Jul 7 2026), ATH $146.37 | PARK | no Spinea-specific news |
 
 ## Fire-24 found-and-gate-checked (KILL)
