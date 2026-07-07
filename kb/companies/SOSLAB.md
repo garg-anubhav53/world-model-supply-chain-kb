@@ -1,5 +1,7 @@
 # SOS Lab — 464080.KQ (KOSDAQ)
-Updated 2026-07-07 (Fire 16) | Verdict: **WATCH (3 of 4 gates pass; gate 4 solvency is binding — CB conversion price most likely STILL ₩10,857, OTM, not convertible until Aug 11 2026)**
+Updated 2026-07-07 (Fire 18) | Verdict: **WATCH (3 of 4 gates pass; gate 4 solvency is binding — CB conversion price most likely STILL ₩10,857, OTM, not convertible until Aug 11 2026)**
+
+**Fire 18 update — light check, resolves prior price noise, no CB/thesis change:** Price ₩9,180 (Jul 7 close, 2-source: stockanalysis.com + investing.com Korea, -3.57% on the day) — this resolves Fire 17's noisy ₩9,180-11,820 range toward the LOW end, confirming spot sits ~15% below the believed ₩10,857 CB conversion price (still OTM). No new primary DART CB/refix disclosure found. No Boston Dynamics evaluation-program update (still evaluation-only, decision guided H2 2026). No SPAD chip update (still 22nm/TSMC design phase). **Aug 11 2026 remains the correct, unchanged hard resolution date — do not re-open before then absent a new primary disclosure.**
 
 **Fire 16 update — light check, no change:** DART checked directly for any new primary CB disclosure (refix/conversion/redemption/amendment) — none found. Price ₩9,180 (2-source: stockanalysis.com, investing.com Korea, Jul 7 2026, -3.57% on the day), still below the believed ₩10,857 conversion price, consistent with the OTM thesis. MobED confirmed already-shipping (won CES 2026 Innovation Award); PluD still slated for late-2026 launch; combined contract value ~₩20bn (~$14M), no new named buyer. **Aug 11 2026 remains the correct hard resolution date — do not re-open before then absent a new primary disclosure.**
 

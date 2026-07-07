@@ -1,18 +1,23 @@
 # PRICES CACHE — last-seen move/valuation (staleness window: 7 days)
-As of 2026-07-07 (Fire 17) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+As of 2026-07-07 (Fire 18) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
 
 ## Live WATCH candidates
 | Ticker | ~12m move | run-tag | note |
 |---|---|---|---|
-| **SMSH (Smart Shooter)** | Jul 6 close 2,600 ILS (+57.6% off 1,650 debut-low, stockanalysis.com); Jul 7 intraday 2,651 ILS (+60.7%, investing.com) | **STRADDLING THE LINE** — last close under, intraday over | Fire 17: genuinely ambiguous; pull the OFFICIAL TASE close next fire before any BUY/KILL call |
-| **464080.KQ (SOS Lab)** | Sources disagree this check: ~₩9,180-9,770 (Yahoo/MSN) vs. ~₩11,820 (stockanalysis/Bloomberg-linked), 52wk range ₩8,360-16,600/28,700 | NOT-MOVED — top idea, see kb/companies/SOSLAB.md | Fire 17: price data noisy across sources, treat with caution; CB conversion price still believed ₩10,857, Aug 11 2026 remains the resolution date |
-| HSAI | $21.63 (Yahoo Finance, Jul 2026); 52wk high $30.85 (Sep 22 2025), down ~30% off high. **8-for-1 split still on track for Jul 10 2026 — NOT yet effective as of Jul 7** | NOT-MOVED (down off highs) | No ruling yet on D.C. Circuit docket 25-5256 (~3.7mo post-argument); analyst consensus stable ~$29-31 Buy |
-| **MNTS (Momentus)** | $6.36-6.58 (Yahoo/aggregator, Jul 7 2026), down sharply from 52wk high ($43.55 pre-split-adjusted — reconcile vs. a cited $113.39 post-split figure next fire) | NOT-MOVED (down off highs) | Fire 17: NEW WATCH. Share count re-inflated ~7x in 5 months post reverse-split (1.4M→9.99M) — dilution is the risk to track, not distress |
+| **SMSH (Smart Shooter)** | Fire 18: last OFFICIAL close still Jul 6 2,600 ILS (+57.6% off 1,650 debut-low — 3-source confirmed: stockanalysis.com, investing.com, Google Finance); Jul 7 intraday 2,685-2,711 ILS (+62.7% to +64.3%, rising through the session, no official close available yet at check time) | **STILL STRADDLING THE LINE** — last official close under, intraday trending decisively over | Fire 18: kill imminent but not confirmed — pull the OFFICIAL Jul 7 (or later) close first thing next fire before any BUY/KILL call |
+| **464080.KQ (SOS Lab)** | Fire 18: ₩9,180 (Jul 7 close, 2-source: stockanalysis.com + investing.com Korea, -3.57% on the day) — resolves prior noisy range toward the LOW end | NOT-MOVED — top idea, see kb/companies/SOSLAB.md | Fire 18: spot now confirmed below the believed ₩10,857 CB conversion price (~-15%); Aug 11 2026 remains the hard resolution date |
+| HSAI | Fire 18: $17.47 (Jul 6 close, 2-source: StockTitan + StockAnalysis.com) — corrects the stale $21.63 reference; briefly spiked to $18.22 Jul 1 (first full-year GAAP profit + Picasso 6D SPAD-SoC/ETX launches + split enthusiasm) then pulled back. **8-for-1 split still on track for Jul 10 2026 — NOT yet effective as of Jul 7** | NOT-MOVED (down off highs) | No ruling yet on D.C. Circuit docket 25-5256 (~3.7mo post-argument); no new named-customer news this fire |
+| **MNTS (Momentus)** | Fire 18: share count 9.99M (May 13 10-Q) → 16.98M (Jun 11 424B5) → 18.84M (post Jun 15 registered direct) — **+88% in ~5 weeks**; cash improved to ~$76M+ post May 27 ($25M) + Jun 15 ($25M @ $13.50) raises | NOT-MOVED on price (dilution risk, not price re-rating) | Fire 18: dilution ACCELERATED not stabilized — opportunistic (higher-price raises into a much bigger cash cushion), not distressed. DARPA $3.5M Phase 3 now primary-confirmed; NASA JSC relationship confirmed NON-monetary (no $ figure exists in any filing) |
 | NOVT | +65% | PARTIAL | |
 | ON | -32% off ATH | PARTIAL | |
 | OMG.L | -35% | NOT-MOVED | |
 | KLIN.SW | n/a | NOT-MOVED | |
 | **POCI (Precision Optics)** | $5.69 (investing.com) / $5.65 (StockTitan, Jun 10 2026), 52wk $3.55-$6.04 | NOT-MOVED — new WATCH-weak Fire 10, see kb/companies/POCI.md | flat/no re-rate but robotics thesis fails forced-buyer gate |
+
+## Fire-18 kills (2026-07-07)
+| Ticker | ~12m move | run-tag |
+|---|---|---|
+| 186A.T / ASRHF (Astroscale) | +194.4%/12m (Stockopedia) / +78%/12m (Investing.com), 52wk range 575-3,015 JPY | KILL (new PENDING find, killed same-fire — decisive price-gate trip on 2 sources; capture-rate would also fail, 1-of-N globally vs ClearSpace/Northrop SpaceLogistics/D-Orbit) |
 
 ## Fire-17 kills (2026-07-07)
 | Ticker | ~12m move | run-tag |
