@@ -1,11 +1,11 @@
 # PRICES CACHE — last-seen move/valuation (staleness window: 7 days)
-As of 2026-07-06 unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+As of 2026-07-07 (Fire 11) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
 
 ## Live WATCH candidates
 | Ticker | ~12m move | run-tag | note |
 |---|---|---|---|
-| **464080.KQ (SOS Lab)** | -21.6%/12m (stockanalysis.com, Jul 6 2026 — refreshed Fire 8, single-source; ~₩9,520-9,770) | NOT-MOVED — top idea, see kb/companies/SOSLAB.md | Aug 11 2026 CB window is the hard resolution date |
-| HSAI | $16.85-18.22 (Jul 1-6 2026, pre-split); 52wk $14.40-$30.85; **8-for-1 split effective Jul 10 2026, NOT yet occurred as of Fire 8 — adjust before next comparison** | RAN-then-partial-derate — Motional named as anchor customer Fire 8 | |
+| **464080.KQ (SOS Lab)** | -19% to -23%/12m (stockanalysis.com + investing.com, Jul 7 2026; ~₩9,200-9,300, near 52wk low) | NOT-MOVED — top idea, see kb/companies/SOSLAB.md | Aug 11 2026 CB window is the hard resolution date, ~4wks out |
+| HSAI | $17.47 (stockanalysis.com + Google Finance, Jul 6 2026, pre-split); 52wk $14.40-$30.85; -20.34%/12m (one source) vs a conflicting +19.11% snippet — flag, needs terminal-grade reconciliation; **8-for-1 split effective Jul 10 2026, shareholder-approved Jun 26, on track** | RAN-then-partial-derate | |
 | **603662.SH (Keli Sensing)** | +17.42% (stockanalysis.com) / +19.02% (investing.com), both ¥73.20, Jul 6 2026 | NOT-MOVED (2-source confirmed Fire 7, up from stale +10.1%) | |
 | NOVT | +65% | PARTIAL | |
 | ON | -32% off ATH | PARTIAL | |
@@ -14,7 +14,7 @@ As of 2026-07-06 unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh befor
 | **ARBE (Arbe Robotics)** | -39.3%/12m (stockanalysis.com, Jul 6 2026, ~$0.79; 2nd source Robinhood/search ~$0.78-0.82) | NOT-MOVED — new WATCH Fire 9, see kb/companies/ARBE.md | Nasdaq sub-$1 delisting clock, cure by Oct 12 2026 |
 | **ZENTEC (Zen Technologies)** | -9.28% (₹1,834.8 aggregator) / -4% (₹1,853 screener.in), Jul 6 2026 | NOT-MOVED — new WATCH Fire 10, see kb/companies/ZENTEC.md | valuation ~87x P/E despite flat price |
 | **POCI (Precision Optics)** | $5.69 (investing.com) / $5.65 (StockTitan, Jun 10 2026), 52wk $3.55-$6.04 | NOT-MOVED — new WATCH-weak Fire 10, see kb/companies/POCI.md | flat/no re-rate but robotics thesis fails forced-buyer gate |
-| **INVZ (Innoviz)** | -70%+ off 52wk high ($0.676-0.693 aggregation / $0.6777 stockanalysis.com, Jul 2026; 52wk $0.537-$2.54) | NOT-MOVED — new WATCH Fire 10, see kb/companies/INVZ.md | Nasdaq sub-$1 delisting cure by Sept 21 2026 |
+| **INVZ (Innoviz)** | ~$0.67-0.68 (2-source: stockanalysis.com, Google Finance, Jul 6 2026), down ~70%+ off 52wk high $2.54 | NOT-MOVED — WATCH, see kb/companies/INVZ.md | Fire 11: going-concern ruled out clean; FRESH 2nd Nasdaq delisting notice, cure by Sept 21 2026 |
 
 ## Fire-8 kills/parks (2026-07-06)
 | Ticker | ~12m move (2-source unless noted) | run-tag |
@@ -32,6 +32,31 @@ As of 2026-07-06 unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh befor
 |---|---|---|
 | EFN (Element Fleet Mgmt) | ~C$29.21 (Jul 3'26), down ~19.5% YTD | KILL — size-gate ($1.2B rev, Waymo deal too small a %) |
 | ULS (UL Solutions) | ~$89-98 (Jul 6'26), up ~50%/12m | KILL — size-gate ($3.05B rev) + already-run |
+
+## Fire-11 kills/pending (2026-07-07)
+| Ticker | ~12m move (2-source) | run-tag |
+|---|---|---|
+| 688059.SH (Huarui Precision) | +333.43% (AAStocks) / +319.73% (MarketScreener) | KILL — already-run, decisively past threshold |
+| 2498.HK (RoboSense) | -25.19% (stockanalysis.com) / -23.60% (investing.com) | KILL — NOT already-run but size-gate fails (~$270M rev vs ~$1.5B mkt cap) |
+| PRZO (ParaZero) | -55.18% (Yahoo Finance) / ~-55% (MarketBeat) | KILL — causal-rigor fails, no named buyer despite disclosed $ orders |
+| DRO.AX (DroneShield) | +2.13% (stockanalysis.com) / ~-6.45% (Investing.com) | PARK — real named buyer ($24.9M JIATF-401) but already well-known/richly-valued (~10x P/S, >1000% multi-year chart) |
+| KIT.OL (Kitron ASA) | +68.07% (Investing.com) / +73.53% (MarketScreener) | KILL — already-run (Kongsberg NSM-missile EMS partner) |
+| AMPX (Amprius Technologies) | +182.65% (Yahoo Finance) / ~+70% since Aug'25 (stockanalysis.com) | KILL — already-run (AeroVironment Switchblade battery supplier) |
+| ONDS (Ondas Holdings) | ~+250-310% (2-source range, stockanalysis.com/Stocktwits) | KILL — already-run despite a clean named-buyer story (Israeli MoD, $10M/$50M border-security award) |
+| RCAT (Red Cat Holdings) | +46.22% (Yahoo Finance/stockanalysis.com; reference-date-sensitive -4% to +47%) | PARK — passes literal 60% test but already well-known/richly-priced ($1.5B mkt cap on $54.6M TTM rev, ~28x P/S); contract figures disputed by a short-seller |
+| UMAC (Unusual Machines) | +171.92% (stockanalysis.com/Yahoo Finance) | KILL — already-run |
+| UAVS (AgEagle Aerial Systems) | -23.18% (Yahoo Finance) | PARK — passes price gate but revenue declining (-19.7% TTM); named order (French Army $3.4M) already completed, one-time |
+| MRCY (Mercury Systems) | +139.3% (stockanalysis.com) / +149.9% (WallStreetZen) | KILL — already-run |
+| KOPN (Kopin) | +153-161% (stockanalysis.com/WallStreetZen) | KILL — already-run, no named drone-specific buyer anyway |
+| DRS (Leonardo DRS) | -2.2% (stockanalysis.com) / -3.5% (WallStreetZen) | KILL — size-gate ($3.7B TTM rev), despite a genuinely strong named contract (NAVSEA $235M) |
+| SITM (SiTime) | +180-190% (macrotrends.net) / +230-247% (stockinvest.us) | KILL — already-run (positioning/timing node) |
+| 002151.SZ (BDStar Navigation/Unicore) | +71.47% (stockanalysis.com) | KILL — already-run (positioning/timing node) |
+| SGX:AWX (AEM Holdings) | +587.6% (stockanalysis.com) / +370% (Financial Horse) | KILL — already-run, extreme (SE-Asia node) |
+| 3867.KL (MPI) | +104.55% (stockanalysis.com) / +107% (2nd source) | KILL — already-run (SE-Asia node) |
+| MOB (Mobilicom) | +109.2% (stockanalysis.com) | KILL — already-run (Israel round 2) |
+| VLN (Valens Semiconductor) | -22.8% (stockanalysis.com/WallStreetZen) / -33.8% (stockinvest.us) | NOT disqualified but no order yet (2027 ramp) — optionality, not WATCH |
+| 833346.BJ→920346.BJ (Weimao Electronics, ticker re-coded) | ~¥21.2-21.8 (2-source: shidaotec.com, Stockstar), down from ~¥25.90 | PENDING — no PO conversion confirmed, revenue decelerating |
+| 002765.SZ (Landai Technology) | -37.51% (stockanalysis.com), ~¥7.98 | PENDING — passes price/size gates, robotics ~1% of revenue |
 
 ## Fire-10 kills/pending (2026-07-07)
 | Ticker | ~12m move (2-source) | run-tag |
