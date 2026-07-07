@@ -1,18 +1,24 @@
 # PRICES CACHE — last-seen move/valuation (staleness window: 7 days)
-As of 2026-07-07 (Fire 18) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+As of 2026-07-07 (Fire 19) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
 
 ## Live WATCH candidates
 | Ticker | ~12m move | run-tag | note |
 |---|---|---|---|
-| **SMSH (Smart Shooter)** | Fire 18: last OFFICIAL close still Jul 6 2,600 ILS (+57.6% off 1,650 debut-low — 3-source confirmed: stockanalysis.com, investing.com, Google Finance); Jul 7 intraday 2,685-2,711 ILS (+62.7% to +64.3%, rising through the session, no official close available yet at check time) | **STILL STRADDLING THE LINE** — last official close under, intraday trending decisively over | Fire 18: kill imminent but not confirmed — pull the OFFICIAL Jul 7 (or later) close first thing next fire before any BUY/KILL call |
-| **464080.KQ (SOS Lab)** | Fire 18: ₩9,180 (Jul 7 close, 2-source: stockanalysis.com + investing.com Korea, -3.57% on the day) — resolves prior noisy range toward the LOW end | NOT-MOVED — top idea, see kb/companies/SOSLAB.md | Fire 18: spot now confirmed below the believed ₩10,857 CB conversion price (~-15%); Aug 11 2026 remains the hard resolution date |
-| HSAI | Fire 18: $17.47 (Jul 6 close, 2-source: StockTitan + StockAnalysis.com) — corrects the stale $21.63 reference; briefly spiked to $18.22 Jul 1 (first full-year GAAP profit + Picasso 6D SPAD-SoC/ETX launches + split enthusiasm) then pulled back. **8-for-1 split still on track for Jul 10 2026 — NOT yet effective as of Jul 7** | NOT-MOVED (down off highs) | No ruling yet on D.C. Circuit docket 25-5256 (~3.7mo post-argument); no new named-customer news this fire |
-| **MNTS (Momentus)** | Fire 18: share count 9.99M (May 13 10-Q) → 16.98M (Jun 11 424B5) → 18.84M (post Jun 15 registered direct) — **+88% in ~5 weeks**; cash improved to ~$76M+ post May 27 ($25M) + Jun 15 ($25M @ $13.50) raises | NOT-MOVED on price (dilution risk, not price re-rating) | Fire 18: dilution ACCELERATED not stabilized — opportunistic (higher-price raises into a much bigger cash cushion), not distressed. DARPA $3.5M Phase 3 now primary-confirmed; NASA JSC relationship confirmed NON-monetary (no $ figure exists in any filing) |
+| **464080.KQ (SOS Lab)** | Fire 19: ₩9,180 (Jul 7 close, 2-source: stockanalysis.com + kr.investing.com), unchanged from Fire 18 | NOT-MOVED — top idea, see kb/companies/SOSLAB.md | Fire 19: still confirmed below the believed ₩10,857 CB conversion price (~-15%); Boston Dynamics supplier-decision process ongoing, no award yet; Aug 11 2026 remains the hard resolution date |
+| HSAI | Fire 19: ~$17.08-17.10 (2-source: Finviz, TradingKey, live-quoted same hour), previous close $17.47 agrees with Fire 18 | NOT-MOVED (down off highs) | 8-for-1 split still ON TRACK for Jul 10 2026 (3 days out). No ruling yet on D.C. Circuit docket 25-5256 (~3.7mo post-argument) |
+| **MNTS (Momentus)** | Fire 19: share count/cash UNCHANGED from Fire 18 (~18.84M shares, ~$76M+ cash) — first fire without new dilution | NOT-MOVED on price | Fire 19: one new named customer (CU Boulder LASP/OWLS mission on Vigoride-9), incremental not material. No new SEC filings since Jun 18 2026. |
 | NOVT | +65% | PARTIAL | |
 | ON | -32% off ATH | PARTIAL | |
 | OMG.L | -35% | NOT-MOVED | |
 | KLIN.SW | n/a | NOT-MOVED | |
 | **POCI (Precision Optics)** | $5.69 (investing.com) / $5.65 (StockTitan, Jun 10 2026), 52wk $3.55-$6.04 | NOT-MOVED — new WATCH-weak Fire 10, see kb/companies/POCI.md | flat/no re-rate but robotics thesis fails forced-buyer gate |
+
+## Fire-19 kills (2026-07-07)
+| Ticker | ~12m move | run-tag |
+|---|---|---|
+| **SMSH (Smart Shooter)** | Official Jul 7 TASE close 2,700 ILA (2-source: Google Finance, Investing.com), +63.6% off 1,650 ILA debut-low (3-source verified) | KILL (downgrade from WATCH — official price-gate breach, resolves 2 fires of ambiguity; pure price-gate kill, causal story unchanged/strongest in KB) |
+| 603305.SS (Ningbo Xusheng Group) | +12.89%/12m (Yahoo Finance/GuruFocus) — passes price gate | KILL (new find via customs data, killed same-fire — fails materiality: trivial Zoox BoL volume, rounding error on ~$604M diversified base) |
+| CVGI (Commercial Vehicle Group) | +211% YTD (2-source: Seeking Alpha, Simply Wall St), +55.6% single-day pop on the Zoox news itself | KILL (already-run — genuine named Zoox wire-harness supplier but decisively past price gate) |
 
 ## Fire-18 kills (2026-07-07)
 | Ticker | ~12m move | run-tag |
