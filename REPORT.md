@@ -1,56 +1,58 @@
 # REPORT — most interesting live ideas (curated; freshest first)
-*Updated 2026-07-07, Fire 25. 8 live WATCH names, target 15 — pipeline holds flat for an 8th consecutive fire, the longest drought in KB history.*
+*Updated 2026-07-07, Fire 26. 8 live WATCH names, target 15 — pipeline holds flat for a 9th consecutive fire, the longest drought in KB history.*
 
 ## Where we stand (honest)
-Thesis INTACT, but this was the driest fire yet for new WATCH names — the 8th in a row, despite running the WIDEST scout wave in KB history (10 parallel scouts vs. the usual ~6-8). That breadth increase is itself informative: every fresh lead this fire failed on one of a small number of now well-characterized recurring patterns (anonymized buyer, company-refuses-to-confirm, explicit "no revenue yet," already-re-rated, TAM-boilerplate). The unanchored-hunt method is now 5-for-5 fires finding real evidenced leads that fail a gate — still useful, but its marginal yield looks like it's thinning. **The forward-listing/IPO pipeline (UVision Air, Quantum Space, Agility, Xtend, Lingxin Qiaoshou) is increasingly the KB's best remaining lead-generation vector**, since not-yet-public names are un-re-rated by construction. All 3 shortlist names (SOS Lab, Momentus, HSAI) were re-diligenced and confirmed stable, no new catalysts.
+Thesis INTACT. This fire tested Fire 25's hypothesis directly — does the forward-listing/IPO pipeline outperform continued small-cap re-screening if worked as a DEDICATED fresh-name scan instead of a routine recheck of the same tracked batch? **Answer: yes.** Instructed explicitly to look beyond UVision Air/Quantum Space/Agility/Xtend/Lingxin Qiaoshou, the cursor=8 scout surfaced **2 genuinely new pre-IPO candidates in one pass** — Tesollo (Korea, robotic hands) and PaXini Tech (China, tactile sensors + dexterous hands) — plus a dedup catch: a 3rd apparent find, "LinkerBot," turned out to be the already-tracked Lingxin Qiaoshou under a different English name. Neither new name has a named buyer or a filed prospectus yet, so none is promotable today, but this is the first real growth in the PENDING funnel in several fires. Meanwhile a parallel unanchored hunt (switched to Europe + a fresh Japan angle) and a brand-new patent-assignee discovery method both came up empty — Europe is genuinely thin (3 near-misses, all too-large or already re-rated), and patent-assignee mining hit a tooling wall (Google Patents' JS UI isn't fetchable in this environment) rather than a real negative result. All 3 shortlist names (SOS Lab, Momentus, HSAI) got a real Opus diligence refresh; Momentus's capture-rate framing came out weaker (its actual revenue driver is a diffuse, competitive market, not the small directed government contracts previously emphasized).
 
-**Nothing this fire cleared all 4 gates**, but the cursor (Israel round 3/new-angle) genuinely tried a 3rd distinct discovery method on Israel (TASE new-listing calendar + IPO/prospectus newsflow + Anduril/Kratos Israeli-supplier press) — thinner yield than round 4's UVision Air find, but still new ground: it surfaced **Odysight.ai (NASDAQ: ODYS)**, a dual-listed Israeli micro-cap that passes the price gate cleanly (-20%/12m, cash-rich, no debt) but fails on an anonymized customer base ("Top 25 global defense contractor"), and confirmed **ASIO** as a real Anduril supplier — private today, the best future-IPO-watch in Israel if it ever lists.
-
-**The unanchored China A-share hunt found 4 fresh near-misses, all checked-and-killed same-fire** — Zhu Cheng Technology/珠城科技 (301280.SZ, a genuine named UBTECH connector-supplier disclosure, but the company's own IR admits zero revenue yet, and the stock is already ~2x/12m); Zhaowei Machinery/兆威机电 (003021.SZ, widely rumored Unitree dexterous-hand supplier, but the company explicitly refuses to confirm customers, plus already ~3-4x/12m); Shuanglin/双林股份 (300100.SZ, a textbook "no customer, no revenue" admission straight from its own IR); and Wolong Electric Drive/卧龙电驱 (600580.SH, real media claims but too large-cap and already re-rated).
-
-**UVision Air remains the single highest-priority open item, and its window has now opened.** Press reports pin the prospectus to "the second week of July" — today is the start of that window, making this the highest-probability EDGAR check yet, though nothing has filed as of this fire. New caution flag: the IPO's proceeds are earmarked mainly to repay founder Aaron Frankel's shareholder loans, not growth capital — worth scrutinizing balance-sheet detail once the F-1 drops.
+**Nothing this fire cleared all 4 gates**, but the sourcing was genuinely productive on the PENDING-funnel side even though the WATCH count didn't move. UVision Air itself remains unfiled, though its target valuation narrowed slightly ($3.5-4B → $3-3.5B) after a pre-IPO Israeli institutional round reportedly collapsed over price — a mild negative color, not disqualifying.
 
 ## BUY candidates
 None yet cleared all 4 gates cleanly.
 
 ## Live / next-up (best current ideas)
-- **SOS Lab (464080.KQ)** — tiny Korean LiDAR maker, FY2025 revenue ₩6.086B (~$4.3M), named Hyundai MobED+PluD design-in. Price flat at ₩9,180 for a 6th consecutive fire. **Binding gate: Boston Dynamics award** — evaluation still at factory-tour stage, no award/narrowed shortlist.
-- **Momentus (MNTS, Nasdaq)** — space-robotics integration micro-cap, first space-vertical WATCH in KB history. Price $6.22. 7th consecutive fire with no new dilution filing. Q2 2026 earnings (Aug 18) is the next material checkpoint.
-- **HSAI (Hesai Group)** — dominant China LiDAR, 8 of the world's top-10 robotaxi developers. Price continuing to weaken ($16.15), moving further from the re-rating line, not closer. **Binding gate: DoD 1260H litigation**, still unresolved. 8-for-1 split still not executed (on track Jul 10 2026, 3 days out).
-- **Precision Optics (POCI, Nasdaq)** — medical-robotics optics, weak/low-priority. No update this fire.
+- **SOS Lab (464080.KQ)** — tiny Korean LiDAR maker, FY2025 revenue ₩6.086B (~$4.3M), named Hyundai MobED+PluD design-in. Price flat at ₩9,180 for a 7th consecutive fire. **Binding gate: Boston Dynamics award** — evaluation still at factory-tour stage; a separate Korean supplier (SL Corp) just won its own BD component order, confirming BD is multi-sourcing across the Korean pool rather than concentrating.
+- **Momentus (MNTS, Nasdaq)** — space-robotics integration micro-cap. Price $6.22. 8th consecutive fire with no new dilution filing (solvency clean). **New this fire: capture-rate re-assessed weaker** — the ~$10M 2026 revenue guide is driven mostly by the diffuse, competitive Vigoride hosted-payload/tow market, not the small directed DARPA/SpaceWERX government contracts (~$6.1M cumulative) that anchor the "forced demand" framing. Q2 2026 earnings (Aug 18) is the next real test.
+- **HSAI (Hesai Group)** — dominant China LiDAR, most of the world's top robotaxi developers plus a new named partnership on NVIDIA DRIVE Hyperion 10. Price continuing to weaken ($16.15). **Binding gate: DoD 1260H litigation**, still unresolved (~3.9 months post-oral-argument). 8-for-1 split still not executed (on track Jul 10 2026, 3 days out — verify next fire).
+- **Precision Optics (POCI, Nasdaq)** — medical-robotics optics, weak/low-priority. No material news this fire.
 
-## Pending — fresh leads needing a full gate-check (highest priority next fire)
-- **UVision Air** — HIGHEST PRIORITY. Filing window ("second week of July") opens exactly now; nothing on EDGAR yet. New caution flag on use-of-proceeds (founder loan repayment, not growth capital). Named $982M contract structured as "up to" an IDIQ ceiling through intermediary "Mistral," ~30+ armies as the total customer base.
-- **Quantum Space (Nasdaq: IPFX→QSPC)** — no S-4 yet (confirmed via CIK 0002102041); SPAC close targeted Q4 2026.
-- **Agility Robotics (→AGLT)** — no S-4 yet (confirmed via CIK 0002074973); its own de-SPAC deck confirms it's the primary OEM (named customers Schaeffler/GXO/Toyota/Amazon/Mercado Libre), not a supplier — off-thesis shape.
-- **Xtend (JFB)** — Gauntlet II qualification CONFIRMED (1-of-19 firms invited to the Aug Fort Carson trial); amended S-4 still not effective.
-- **Lingxin Qiaoshou (灵心巧手)** — still private, no HKEX filing. Completed a pre-listing share reform (股改); now targeting a $6B next-round ask (not yet closed).
-- **Weak forward-listing leads (no named buyer yet):** Seer Robotics (06106.HK), LDROBOT (01236.HK), Dobot, Korean Hyundai camera-module trio (still no formal 공시; Namuga already up ~163%/YTD, likely too re-rated even if disclosure lands), Vueron Technology, DeepRoute.ai (unpriced pre-IPO), DSIT Solutions and ASIO (Israel, both pre-IPO/private).
+## Pending — fresh leads needing a filing or named-buyer disclosure before a full gate-check
+- **NEW Fire 26: Tesollo Inc. (Korea)** — humanoid robotic-hand/gripper maker, just began KOSDAQ tech-special listing prep (KB Securities lead underwriter, Series B w/ POSCO/KB/HL Mando). No named end-customer yet — the freshest lead in the KB.
+- **NEW Fire 26: PaXini Tech (China)** — tactile-sensor + dexterous-hand full-stack maker, BYD/JD.com-backed, exploring an HK IPO. No named OEM buyer yet.
+- **UVision Air** — still unfiled; valuation narrowed to $3-3.5B; a pre-IPO Israeli round reportedly collapsed over price. Recheck in 3-4 days.
+- **Quantum Space (Nasdaq: IPFX→QSPC)** — no S-4 yet; SPAC close targeted Q4 2026.
+- **Agility Robotics (→AGLT)** — no S-4 yet, but a fresh unread 8-K filed 7/6/26 — read directly next fire. Off-thesis shape (primary OEM, not a supplier) regardless.
+- **Xtend (JFB)** — Gauntlet II qualification confirmed; amended S-4 still not effective.
+- **Lingxin Qiaoshou (灵心巧手)** — still private, no formal HKEX filing found this fire (could-not-verify the $6B ask independently this pass).
+- **Weak forward-listing leads (no named buyer yet):** Seer Robotics (06106.HK), LDROBOT (01236.HK), Dobot, Korean Hyundai camera-module trio, Vueron Technology, DeepRoute.ai, DSIT Solutions and ASIO (Israel).
 
 ## WATCH (real but not a buy today)
-- **OMG.L (Vicon)**, **KLIN.SW (Klingelnberg)**, **NOVT, ON** — unchanged this fire.
+- **OMG.L (Vicon)**, **KLIN.SW (Klingelnberg)** — unchanged this fire.
+- **NOVT, ON** — unchanged on the robotics thesis; both announced large unrelated M&A this week (NOVT: $1.2B Riverpoint Medical; ON: $7B Synaptics, stock -21%) — diversification news, not thesis-relevant.
 
-## Killed this run (see kb/decisions-log.md for full reasoning)
-- **Zhu Cheng Technology/珠城科技 (301280.SZ)** — named UBTECH buyer but zero revenue converted yet + already ~2x/12m.
-- **Zhaowei Machinery/兆威机电 (003021.SZ)** — company refuses to confirm rumored Unitree tie + already ~3-4x/12m.
-- **Shuanglin/双林股份 (300100.SZ)** — company's own IR: "no customers, no revenue."
-- **Wolong Electric Drive/卧龙电驱 (600580.SH)** — real media claims but too large-cap, already re-rated.
-- **Odysight.ai (ODYS)** — checked, not added — clean price gate but anonymized customer base.
+## Killed / rejected this run (see kb/decisions-log.md and kb/dead-ends.md for full reasoning)
+- **Schaeffler AG, Aumovio SE, Basler AG** (Europe) — real named buyers but too large/diversified or already re-rated.
+- **Kikuchi Seisakusho (TSE:3444)** — no named external buyer + already +453%/12m.
+- **Harmonic Drive Systems (TSE:6324), Allient (ALNT), Palladyne AI (PDYN), Arbe (ARBE), CTS Corp, Servotronics** — all re-confirmed already-known dead-ends via the patent-assignee sweep.
+- **Laifual Harmonic Drive (03952.HK)** — dedup catch; already killed Fire 17, a scout re-surfaced it unaware of prior history.
 
 ## Promoted this run
-None — 8th consecutive fire without a net-new WATCH addition.
+None — 9th consecutive fire without a net-new WATCH addition. **But the PENDING funnel grew by 2 genuinely new pre-IPO names** (Tesollo, PaXini Tech) — the first meaningful funnel growth in several fires.
 
 ## Confirmed dead-end / closed vectors this run
-The 4 China A-share names above, plus indie Semiconductor (INDI, Syntiant-shaped TAM boilerplate via EDGAR full-text). Israel new-angle sweep (DSIT Solutions, Bagira Systems checked, not actionable). Idle-dimension/forward-listing/rare-earth batch — all unchanged (Quantum Space, Agility, inTEST, HyProMag, Neo [new 52wk high], ECARX, DeepRoute.ai, Zhenghai, Dadi Xiong). Space vertical 4th pass — D-Orbit still private, mining/construction and medical robotics both negative again.
+Europe unanchored hunt (Schaeffler/Aumovio/Basler, all too large/re-rated). Japan re-hunt (Kikuchi Seisakusho, Harmonic Drive Systems, both already-run/no-named-buyer). Insurance/surety business model re-confirmed idle (Koop/Relm launched real products but stay private).
 
 ## Confirmed PRODUCTIVE vectors this run (repeat / build on)
-**Unanchored broad new-candidate hunt** — 5-for-5 fires now (Fire 20/22/23/24/25) finding real, evidence-backed leads that ultimately fail a gate. Still worth running, but consider that its marginal yield may be thinning. **Forward-listing/IPO pipeline** — increasingly the KB's most promising vector since not-yet-public names are un-re-rated by construction; UVision Air's imminent filing is the sharpest near-term test of this.
+**Forward-listing/IPO pipeline, worked as a dedicated fresh-name scan** — found 2 new candidates (plus 1 dedup catch) in one pass after the routine tracked-batch recheck alone had gone several fires without a new addition. **Lesson for future fires: periodically run a genuine "what's new beyond the tracked list" scan, not just a status recheck of the same names.**
+
+## Method gap flagged (not a tested-negative)
+**Patent-assignee mining** (CPC B25J/F16H/G01S/G05D/B60W) — Google Patents' JS-rendered search UI is not fetchable via this environment's WebFetch tooling. Tried as a general company-discovery method for the first time (previously only used narrowly for the royalty/IP-licensing business-model test in Fire 12); substituted web search as a weaker proxy and found nothing clean. Needs a real USPTO PatFT bulk search or a patent-analytics API (PatSnap/Justia) before this vector is genuinely tested.
 
 ## Next sourcing vectors (queued, priority order)
-1. **UVision Air's filing window is open now — check EDGAR daily for the next 3-5 days**, the single most time-critical open item in the KB.
-2. Rotation cursor now **8** — SOURCE: forward-listing/IPO pipeline (ACTIVE+PRODUCTIVE, already worked every fire via the batch above) — look for a genuinely fresh name beyond the already-tracked batch, or apply an idle-dimension override if none surfaces.
-3. Repeat the unanchored broad hunt on a fresh geography/business-model slice — still finds genuine disclosures, though calibrate expectations on WATCH-conversion odds.
-4. Continue monitoring Xinjian, Weimao, Landai, HSAI litigation docket + post-split price (verify Jul 10 split executed), Xtend's Fort Carson trial results, Agility/Quantum Space/D-Fend transaction progress.
-5. Korean Hyundai camera-module trio — follow up for a formal 공시 (though Namuga may already be too re-rated).
-6. Serra Verde/USA Rare Earth (USAR) — clarify whether the Jul 28 2026 meeting bundles the Serra Verde vote or is TMRC-only.
-8. ECARX (ECX) — price cratered to ~$1.05, a real cooldown; recheck if a robotics %-of-revenue breakout is ever disclosed.
+1. **Track the 2 new pre-IPO names toward a filing/named-buyer disclosure** — Tesollo, PaXini Tech.
+2. **UVision Air** — recheck in 3-4 days (mid-window), and again by ~Jul 18 if still unfiled.
+3. Rotation cursor now **9** — NODE: positioning & timing (GNSS/RTK/oscillators/PTP), TESTED Fire 11 negative, idle 15 fires — check for a fresh trigger before re-running, otherwise apply an idle-dimension override.
+4. Read Agility's fresh 7/6/26 8-K directly.
+5. Retry patent-assignee mining with a real bulk-search tool if one becomes available.
+6. Continue monitoring Xinjian, Weimao, Landai, HSAI litigation docket + post-split price (verify Jul 10 split executed), Xtend's Fort Carson trial results, Agility/Quantum Space/D-Fend transaction progress.
+7. Korean Hyundai camera-module trio — follow up for a formal 공시 (though Namuga may already be too re-rated).
+8. ECARX (ECX) — price ticked up to ~$1.13; recheck if a robotics %-of-revenue breakout is ever disclosed.
