@@ -1,17 +1,22 @@
 # PRICES CACHE — last-seen move/valuation (staleness window: 7 days)
-As of 2026-07-07 (Fire 20) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+As of 2026-07-07 (Fire 22) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
 
 ## Live WATCH candidates
 | Ticker | ~12m move | run-tag | note |
 |---|---|---|---|
-| **464080.KQ (SOS Lab)** | Fire 20: ₩9,180 (Jul 7 close, 2-source: stockanalysis.com + kr.investing.com), unchanged from Fire 19 | NOT-MOVED — top idea, see kb/companies/SOSLAB.md | Fire 20: still ~-15% below the believed ₩10,857 CB conversion price; Boston Dynamics decision timeline sharpened to H2 2026; Hyundai revenue guide raised ₩13B→₩18B; Aug 11 2026 remains the hard resolution date |
-| HSAI | Fire 20: $16.41 (stockanalysis.com, Jul 7, -6.07% intraday) / $16.85-18 (other feeds, same day) — pre-split | NOT-MOVED (down off highs) | 8-for-1 split NOT yet executed (effective Jul 10 2026, 3 days out at check time). No ruling yet on D.C. Circuit docket 25-5256 (~3.7mo post-argument) |
-| **MNTS (Momentus)** | Fire 20: $6.22 (Google Finance) / $6.25 (StockAnalysis.com), both Jul 7 ~11:15am ET | NOT-MOVED on price | Fire 20: share count/cash UNCHANGED from Fire 19 (~18.84M shares, ~$76M+ cash) — 2nd consecutive quiet fire, no new dilution, no new named contracts. |
+| **464080.KQ (SOS Lab)** | Fire 22: ₩9,180 (Jul 7 close, 2-source: investing.com + stockanalysis.com), unchanged from Fire 20-21 | NOT-MOVED — top idea, see kb/companies/SOSLAB.md | Fire 22: CB put-option clause RESOLVED — first exercise Aug 11 2027, pays at par, not urgent; Boston Dynamics still evaluation-stage (H2 2026 unchanged) |
+| HSAI | Fire 22: $16.35 (stockanalysis.com) / $16.39 (Google Finance), both Jul 7, prior close $17.47 — pre-split | NOT-MOVED (down off highs, real ~6% weekly weakness) | Split confirmed executing Jul 10 2026 (6-K filed, no delay). Litigation still pending (~3.7mo post-argument). Weakness explained by 2 analyst downgrades + valuation de-rating, not a new adverse catalyst; prior cross-source discrepancy resolved as a stale-cache artifact (Yahoo). |
+| **MNTS (Momentus)** | Fire 22: $6.40 (stockanalysis.com, Jul 7 ~2:10pm ET); recent range $5.91-6.58 | NOT-MOVED on price | Fire 22: no new SEC filings (CIK 1781162 checked directly, last Jun 18 2026). Q2 2026 earnings confirmed ~Aug 18 2026. |
 | NOVT | +65% | PARTIAL | |
 | ON | -32% off ATH | PARTIAL | |
 | OMG.L | -35% | NOT-MOVED | |
 | KLIN.SW | n/a | NOT-MOVED | |
 | **POCI (Precision Optics)** | $5.69 (investing.com) / $5.65 (StockTitan, Jun 10 2026), 52wk $3.55-$6.04 | NOT-MOVED — new WATCH-weak Fire 10, see kb/companies/POCI.md | flat/no re-rate but robotics thesis fails forced-buyer gate |
+
+## Fire-22 found-and-gate-checked (PARK/KILL)
+| Ticker | ~12m move | run-tag | note |
+|---|---|---|---|
+| **300680.SZ (Wuxi Longsheng Technology)** | ~¥24.9 (investing.com, Jul 7 2026), -7%/12m nominal; fully round-tripped a mid-2025 hype spike (52wk high ¥52.8-68.7 pre a Apr 2026 capital-reserve share conversion) | NOT-MOVED on a trailing basis | PARK — see kb/companies/LONGSHENG.md. Price gate passes but causal-link (Tesla-Nidec unconfirmed) and multiplication gates fail. |
 
 ## Fire-20 kills (2026-07-07)
 | Ticker | ~12m move | run-tag |
