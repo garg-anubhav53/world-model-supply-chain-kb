@@ -1,17 +1,24 @@
 # PRICES CACHE — last-seen move/valuation (staleness window: 7 days)
-As of 2026-07-07 (Fire 22) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+As of 2026-07-07 (Fire 23) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
 
 ## Live WATCH candidates
 | Ticker | ~12m move | run-tag | note |
 |---|---|---|---|
-| **464080.KQ (SOS Lab)** | Fire 22: ₩9,180 (Jul 7 close, 2-source: investing.com + stockanalysis.com), unchanged from Fire 20-21 | NOT-MOVED — top idea, see kb/companies/SOSLAB.md | Fire 22: CB put-option clause RESOLVED — first exercise Aug 11 2027, pays at par, not urgent; Boston Dynamics still evaluation-stage (H2 2026 unchanged) |
-| HSAI | Fire 22: $16.35 (stockanalysis.com) / $16.39 (Google Finance), both Jul 7, prior close $17.47 — pre-split | NOT-MOVED (down off highs, real ~6% weekly weakness) | Split confirmed executing Jul 10 2026 (6-K filed, no delay). Litigation still pending (~3.7mo post-argument). Weakness explained by 2 analyst downgrades + valuation de-rating, not a new adverse catalyst; prior cross-source discrepancy resolved as a stale-cache artifact (Yahoo). |
-| **MNTS (Momentus)** | Fire 22: $6.40 (stockanalysis.com, Jul 7 ~2:10pm ET); recent range $5.91-6.58 | NOT-MOVED on price | Fire 22: no new SEC filings (CIK 1781162 checked directly, last Jun 18 2026). Q2 2026 earnings confirmed ~Aug 18 2026. |
+| **464080.KQ (SOS Lab)** | Fire 23: ₩9,180 (Jul 7 close, 2-source: stockanalysis.com + kr.investing.com), unchanged for a 4th consecutive fire (Fire 20-23) | NOT-MOVED — top idea, see kb/companies/SOSLAB.md | Fire 23: Boston Dynamics still evaluation-stage (no award, no narrowed shortlist since Jun 28 press); SPAD chip no new milestone; no new DART filings/contracts. |
+| HSAI | Fire 23: $16.16 (stockanalysis.com) / $16.14 (Google Finance), both Jul 7 ~3pm ET, prior close $17.47 — pre-split | NOT-MOVED (continuing slide, real ~7.5% weekly weakness) | Split still confirmed executing Jul 10 2026. Litigation still pending (~3.7mo post-argument, panel confirmed Pillard/Garcia/Edwards). Weakness continues to be explained by the Jun 13 analyst downgrades + valuation de-rating, not a new catalyst — no new rating action or named customer this fire. |
+| **MNTS (Momentus)** | Fire 23: $6.27 (stockanalysis.com) / $6.26 (Google Finance), both Jul 7 ~3:12pm ET; recent range $6.26-6.58 | NOT-MOVED on price | Fire 23: no new SEC filing (CIK 1781162 checked directly, still Jun 18 2026) — 5th consecutive fire with no new dilution. Q2 2026 earnings confirmed ~Aug 18 2026. |
 | NOVT | +65% | PARTIAL | |
 | ON | -32% off ATH | PARTIAL | |
 | OMG.L | -35% | NOT-MOVED | |
 | KLIN.SW | n/a | NOT-MOVED | |
 | **POCI (Precision Optics)** | $5.69 (investing.com) / $5.65 (StockTitan, Jun 10 2026), 52wk $3.55-$6.04 | NOT-MOVED — new WATCH-weak Fire 10, see kb/companies/POCI.md | flat/no re-rate but robotics thesis fails forced-buyer gate |
+
+## Fire-23 found-and-gate-checked (KILL)
+| Ticker | ~12m move | run-tag | note |
+|---|---|---|---|
+| **002245.SZ (Jiangsu Azure/蔚蓝锂芯)** | ¥19.02 (Sohu/Sina, Jul 1 2026 close), 52wk range ¥11.45-28.50 — +66% off low to +149% off peak-vs-low | KILL (already-run) | Rare genuine 互动易 disclosure naming Unitree, but already re-rated as a "robot-concept" stock; robotics-specific revenue ~¥5M vs ¥8.11B total. See kb/companies/AZURELI.md. |
+| SWMR (Swarmer Inc) | ~$42 (Jul 2026) vs $5 IPO price (Mar 17 2026) — ~8-9x | KILL (already-run, found via defense/drone fresh-trigger check) | Ukrainian drone-swarm software, decisive price-gate kill on arrival. |
+| ASX:BST (Boresight Ltd) | Mkt cap ~A$52-68M vs ~A$32-40M implied at IPO (Jun 10 2026) — +75-100%+ in under a month | KILL (already-run, found via defense/drone fresh-trigger check) | Also fails causal-link gate (diffuse multi-country/multi-buyer sales). |
 
 ## Fire-22 found-and-gate-checked (PARK/KILL)
 | Ticker | ~12m move | run-tag | note |

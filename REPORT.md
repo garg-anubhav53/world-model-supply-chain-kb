@@ -1,57 +1,54 @@
 # REPORT — most interesting live ideas (curated; freshest first)
-*Updated 2026-07-07, Fire 17. 9 live WATCH names, target 15 — pipeline count RISES this fire (1 promotion, 3 kills) for the first net-positive fire in several cycles.*
+*Updated 2026-07-07, Fire 23. 8 live WATCH names, target 15 — pipeline holds flat for a 6th consecutive fire, the longest drought in KB history.*
 
 ## Where we stand (honest)
-Thesis INTACT, and this was a genuinely productive fire: **Momentus (MNTS) was promoted from PENDING to WATCH** — the first space-vertical name to clear a gate in the KB's history — while three other names (Zhejiang Fine Motion, Laifual Harmonic Drive, and a brand-new same-fire find, Jiangte Electric) were diligenced and killed. This fire applied a 3rd consecutive idle-dimension override on the rotation cursor (nominal stop was TIC/certification, already resolved) and instead ran a 2nd pass on the space vertical plus a brand-new discovery method: mining a major buyer's own IPO prospectus for named-supplier disclosures, rather than screening the supplier universe directly.
+Thesis INTACT, but this was a dry fire for new WATCH names — the 6th in a row. The good news: the hunt is not stalling for lack of effort or method. This fire tried the rotation cursor's actual focus directly (defense/drone autonomy) rather than defaulting to an override, ran a genuinely productive unanchored broad hunt that surfaced the KB's rarest-quality evidence in months, and cleaned up a long-standing valuation discrepancy — all without landing a clean WATCH. Every one of the 3 shortlist names (SOS Lab, Momentus, HSAI) was re-diligenced and confirmed stable, with no new catalysts.
 
-**The most valuable new tool this fire: buyer-prospectus supplier-mining.** Instead of asking "who supplies humanoid robots?", we asked "what does Unitree's own IPO prospectus say about who supplies Unitree?" — and it worked. Unitree's STAR Market filing names Hangzhou Mige Motor (a wholly-owned subsidiary of Jiangte Electric, 002176.SZ) as its ~60%-share motor supplier, with a disclosed purchase percentage — a rare, filing-grade causal link, not a press inference. The lead ultimately got killed (see below), but the method itself is now validated and should be repeated on every future humanoid/AV-OEM IPO filing. The same method tried on Momenta's HKEX prospectus was a clean dead end — Momenta is a sensor-agnostic software licensor with no disclosed hardware supply chain, so the method's yield depends entirely on whether the buyer is a hardware integrator or a software layer.
+**The most interesting finding this fire was also a kill: Jiangsu Azure/蔚蓝锂芯 (002245.SZ).** A genuine primary company disclosure (its own 互动易 investor-platform answer) names Unitree Robotics as a lithium-battery customer — the rarest, cleanest evidence quality this KB has seen in many fires, not media inference or retail-forum chatter. It still failed decisively: the stock already re-rated +66-149%/12m as a "robot-concept" proxy, and the actual robotics-specific revenue is a rounding error (~¥5M against an ¥8.11B total base — the widely-repeated "600,000-unit" figure conflates battery-cell count with robot-unit count). **New standing lesson: a genuine primary-disclosure named buyer is necessary but not sufficient — always check materiality and price before getting excited about disclosure quality.**
 
-**A recurring lesson this fire: trade-press "leading humanoid supplier" framing doesn't survive a primary-filing pull.** Both Zhejiang Fine Motion and Laifual Harmonic Drive had been carried as promising PENDING leads on secondary-source narrative — but pulling the actual SSE inquiry-response filings and HKEX prospectus directly showed **neither company's own disclosure names a humanoid OEM at all.** Laifual's case included a genuine dedup catch: the Tesla/Zhiyuan associations found in research actually belong to a different, already-tracked rival (Leaderdrive/绿的谐波), not Laifual itself.
+**Defense/drone autonomy (cursor=5) was re-confirmed thoroughly exhausted.** Mapped all 18 other companies in Xtend's DoD Gauntlet II cohort — all but one (Teal Drones, a Red Cat subsidiary, already-run) are private, with no public component supplier into any of them. Two fresh IPOs were found and killed: Swarmer (already +8x off its March IPO) and Boresight (diffuse multi-country military sales, the reverse shape of a forced-buyer story).
 
-**Smart Shooter's price gate is now the single most time-critical open question in the KB.** Two independent sources checked same-day: the last CONFIRMED close (Jul 6) was +57.6% off its debut-low — still under the house +60% kill line — but the Jul 7 intraday print was already +60.7% — over it. This is genuinely ambiguous with the data available; next fire needs the official TASE closing price before any BUY/KILL call can be made.
+**UVision Air remains the single highest-priority open item** — its F-1/S-1 filing window is down to roughly 4 days (through Jul 11 2026) with nothing filed yet on EDGAR. This is the fastest plausible path to a new WATCH and deserves a check sooner than the next scheduled fire if that's more than a couple of days out.
 
 ## BUY candidates
-None yet cleared all 4 gates cleanly — but **Smart Shooter is one clean price read away from a decision** (either direction).
+None yet cleared all 4 gates cleanly.
 
 ## Live / next-up (best current ideas)
-- **Smart Shooter (SMSH, TASE)** — Israeli fire-control-systems maker, de-facto sole-qualified "only dismounted kinetic C-UAS solution." **Binding gate: price, now literally straddling the +60% kill line** — last close +57.6% (under), intraday +60.7% (over). No funded Program-of-Record yet; no pullback either. Urgent re-check needed.
-- **Momentus (MNTS, Nasdaq)** — NEW WATCH this fire, first space-vertical name in KB history. Space-robotics integration micro-cap with real NASA/Space-Force/DARPA contract activity; solvency/going-concern doubt formally lifted per the latest 10-Q. **Binding risk: dilution** (share count re-inflated ~7x in 5 months post reverse-split), not distress — re-check cash/share-count every fire.
-- **SOS Lab (464080.KQ)** — tiny Korean LiDAR maker, FY2025 revenue ₩6.086B (~$4.3M). **Binding gate: solvency/CB conversion.** Price data was noisy across sources this fire (₩9,180-11,820) — treat with caution. Aug 11 2026 remains the hard resolution date.
-- **HSAI (Hesai Group)** — dominant China LiDAR, 8 of the world's top-10 robotaxi developers. **Binding gate: DoD 1260H litigation**, still unresolved ~3.7 months post-argument. Price down ~30% off 52wk high — no re-rating concern. 8-for-1 split still on track for Jul 10 2026 (not yet effective).
+- **SOS Lab (464080.KQ)** — tiny Korean LiDAR maker, FY2025 revenue ₩6.086B (~$4.3M), named Hyundai MobED+PluD design-in. Price flat at ₩9,180 for a 4th consecutive fire. **Binding gate: Boston Dynamics award** — still evaluation-stage, H2 2026 decision guidance unchanged.
+- **Momentus (MNTS, Nasdaq)** — space-robotics integration micro-cap, first space-vertical WATCH in KB history. Price ~$6.26-6.27. 5th consecutive fire with no new dilution filing. Q2 2026 earnings (~Aug 18) is the next material checkpoint.
+- **HSAI (Hesai Group)** — dominant China LiDAR, 8 of the world's top-10 robotaxi developers. Price continuing to weaken (~$16.14-16.16 pre-split), explained by analyst downgrades/de-rating, not a new catalyst. **Binding gate: DoD 1260H litigation**, still unresolved ~3.7 months post-argument. 8-for-1 split on track for Jul 10 2026.
 - **Precision Optics (POCI, Nasdaq)** — medical-robotics optics, weak/low-priority. No update this fire.
 
 ## Pending — fresh leads needing a full gate-check (highest priority next fire)
-- **Astroscale Holdings (186A.T Tokyo / OTC: ASRHF)** — NEW this fire, found on a 2nd space-vertical pass. On-orbit-servicing pure-play (~$1.59B cap) — needs a full 4-gate check (price, named-buyer disclosure, and financial health all still unverified).
-- **Xinjian Transmission (新剑传动)** — ChiNext acceptance confirmed, still pre-inquiry-response. See kb/companies/XINJIAN.md.
-- **Weimao Electronics (920346.BJ)** — Shanghai Turing Zhizao relationship still MOU-stage, no priced order.
-- **Landai Technology (002765.SZ)** — incremental positive: Quanzhibo joint-module revenue has started flowing into consolidated financials.
-- **Agility Robotics (→AGLT)** — incremental positive: >$300M Digit v5 order book now has partial named customers (Schaeffler, GXO, Toyota Canada, Mercado Libre), though the bulk still traces to one unnamed customer. Pending SPAC close.
-- **Xtend (JFB)** — incremental positive: advanced to Gauntlet II qualifier in the Pentagon's $1B Drone Dominance Program. Pending SPAC close.
-- **Weak forward-listing leads (no named buyer yet):** Seer Robotics (06106.HK, robot-controller/"brain" maker), LDROBOT (01236.HK, dToF LiDAR), Dobot (ChiNext secondary, humanoid "Atom" in mass production) — all real recent listings, log for tracking, low priority until a named buyer surfaces.
+- **UVision Air** — HIGHEST PRIORITY. No F-1/S-1 on EDGAR yet; press timeline says prospectus imminent, window closes ~Jul 11 2026. Could have a confidential draft not yet public.
+- **Quantum Space (Nasdaq: IPFX→QSPC)** — no S-4 yet (confirmed via CIK 0002102041); SPAC close targeted Q4 2026.
+- **Agility Robotics (→AGLT)** — no S-4 yet (confirmed via CIK 0002074973); only routine 8-Ks/425s since the Jun 24 signing.
+- **Xtend (JFB)** — advanced: Gauntlet II Fort Carson trial (August) requirements confirmed; a reported amended S-4 targets a Q3 2026 vote/close (needs primary-source confirmation next fire).
+- **Lingxin Qiaoshou (灵心巧手)** — valuation discrepancy RESOLVED this fire: $3B confirmed (B+ round, Apr 2026), $6B being sought (not yet closed) — the KB's old "$30B" figure was a units-conversion error. Still no formal HKEX filing.
+- **Weak forward-listing leads (no named buyer yet):** Seer Robotics (06106.HK), LDROBOT (01236.HK), Dobot, Korean Hyundai camera-module trio (still only a "cooperation-request-letter" stage, not a formal 공시), Vueron Technology, DeepRoute.ai (still unpriced pre-IPO).
 
 ## WATCH (real but not a buy today)
 - **OMG.L (Vicon)**, **KLIN.SW (Klingelnberg)**, **NOVT, ON** — unchanged this fire.
 
 ## Killed this run (see kb/decisions-log.md for full reasoning)
-- **Zhejiang Fine Motion (环动科技)** — downgrade from PENDING. Own SSE filings name Estun/EFT (industrial-robot integrators) as customers, NOT Tesla/UBTECH as previously framed — fails the named-forced-buyer gate directly.
-- **Laifual Harmonic Drive (03952.HK)** — downgrade from PENDING. No named buyer anywhere in its own prospectus; the Tesla/Zhiyuan links belong to already-tracked rival Leaderdrive. Also already re-rated +28-40% in 5 trading days on momentum alone.
-- **Jiangte Electric (002176.SZ)** — new find, killed same-fire. Real Unitree-prospectus-confirmed motor-supplier link (via subsidiary Mige Motor) but fails on price (+60-85%/12m), financial distress (legacy lithium segment), and capture-rate (shared not sole on the highest-value G1 humanoid line).
+- **Jiangsu Azure/蔚蓝锂芯 (002245.SZ)** — new find, Opus-gated same-fire. Real 互动易 disclosure names Unitree as a battery customer, but already re-rated (+66-149%/12m) and robotics revenue is immaterial (~¥5M vs ¥8.11B total). See kb/companies/AZURELI.md.
+- **Hanwei Technology/Nengsida (300007.SZ)**, **Donghua Testing (300354.SZ)**, **Jiechang Drive (603583.SH)**, **Dingzhi Technology (BJ 873593)** — all new finds, killed same-fire (NDA-refusal, research-not-supply, no named buyer, same-family-as-already-killed respectively).
+- **Swarmer Inc (SWMR)**, **Boresight Ltd (ASX:BST)** — found via the defense/drone cursor's fresh-trigger check; both fresh IPOs, both killed (already +8x; diffuse multi-buyer sales).
 
 ## Promoted this run
-- **Momentus Inc. (MNTS)** — PENDING → WATCH. First space-vertical WATCH in KB history.
+None — 6th consecutive fire without a net-new WATCH addition.
 
 ## Confirmed dead-end / closed vectors this run
-Zhejiang Fine Motion and Laifual Harmonic Drive's humanoid-buyer claims (both fail on primary-filing pull). Jiangte Electric (real link, multi-gate fail). Momenta's HKEX prospectus as a buyer-prospectus-mining source (anonymized, software-licensor buyer — dead end for this specific method/buyer-type combination). Motiv Space Systems as a standalone private space-robotics target (confirmed acquired by Rocket Lab). LatAm geography, 2nd pass (still thin — Brazilian auto-parts, Mexican EMS/nearshoring, mining-automation all checked, none found).
+Jiangsu Azure and its Unitree-supplier-media-wave siblings (Hanwei/Donghua Testing/Jiechang/Dingzhi). Xtend's DoD Gauntlet II cohort as a public-supplier source (17 of 18 other entrants private). Swarmer and Boresight as fresh defense/drone candidates. Idle-dimension trigger scan (semicap/recycling/marketplace/capacity-lease) — 0-for-4, all re-confirmed idle.
 
 ## Confirmed PRODUCTIVE vectors this run (repeat / build on)
-**Buyer-prospectus supplier-mining** (NEW) — read a major buyer's own IPO filing for named-supplier disclosures instead of screening suppliers directly. Worked on Unitree's STAR prospectus (found a real, filing-confirmed supplier link on the first try). Repeat on the next humanoid-OEM IPO filing — but skip software/algorithm-licensor buyers (confirmed dead end via Momenta). Space vertical, now 2-for-2 productive passes (Momentus promoted, Astroscale found) — worth a 3rd pass before deprioritizing.
+**Unanchored broad new-candidate hunt** — 3-for-3 fires now (Fire 20/22/23) finding a real, evidence-backed lead that ultimately fails price or materiality on adversarial check. Reliably surfaces genuine primary disclosures; worth continuing given the structural WATCH-drought, but calibrate expectations — it hasn't yet produced a clean WATCH. **Idle-dimension trigger scan** — cheap (~6-8 searches for 4 dimensions), worth running whenever multiple dimensions are simultaneously idle even when it doesn't fire.
 
 ## Next sourcing vectors (queued, priority order)
-1. **Smart Shooter's price gate is the single most time-critical open item in the KB** — pull the official TASE close first thing next fire.
-2. Astroscale (186A.T/ASRHF): run the full 4-gate check — fastest path to a 2nd space-vertical WATCH.
-3. Repeat buyer-prospectus-mining on the next humanoid-OEM IPO filing that surfaces.
-4. Pipeline is 9/15 (up from 8/15) — forced sourcing continues, momentum improved.
-5. Rotation cursor now **12** — nominal ring stop is production-test/calibration + edge/onboard thermal, already tested Fire 12; check for a fresh trigger or apply a 4th override.
-6. Continue monitoring Xinjian, Weimao, Landai, HSAI litigation docket, Xtend/D-Fend/Agility transaction closes.
-7. inTEST Corp (INTT) — light quarterly recheck.
-8. Serra Verde/USA Rare Earth (USAR) — Jul 28 2026 shareholder vote is the next checkpoint.
+1. **UVision Air's F-1/S-1 filing window is the single most time-critical open item in the KB** — check EDGAR directly within 2-3 days, don't wait for the next scheduled fire if it's further out.
+2. Rotation cursor now **6** — BUSINESS-MODEL: royalty/IP-licensing (TESTED Fire 12, genuinely negative); check for a fresh trigger before re-running, otherwise apply an idle-dimension override.
+3. Repeat the unanchored broad hunt — it's the most consistently productive discovery method for finding genuine (if ultimately unqualifying) leads right now.
+4. Continue monitoring Xinjian, Weimao, Landai, HSAI litigation docket + post-split price, Xtend's S-4/vote-date, Agility/Quantum Space/D-Fend transaction progress.
+5. Korean Hyundai camera-module trio — follow up for a formal 공시.
+6. Nextron/Cheng Ling (8147.TWO) — recheck Q4 2026 once H2 2026 shipments scale.
+7. Serra Verde/USA Rare Earth (USAR) — Jul 28 2026 shareholder vote is the next checkpoint.
