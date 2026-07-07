@@ -1,19 +1,23 @@
 # PRICES CACHE — last-seen move/valuation (staleness window: 7 days)
-As of 2026-07-07 (Fire 15) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+As of 2026-07-07 (Fire 16) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
 
 ## Live WATCH candidates
 | Ticker | ~12m move | run-tag | note |
 |---|---|---|---|
-| **464080.KQ (SOS Lab)** | ₩9,180 (Investing.com + stockanalysis.com, Jul 7 2026, -3.57% on the day), 52wk range ₩8,600-28,700 | NOT-MOVED — top idea, see kb/companies/SOSLAB.md | Fire 15 CORRECTED Fire 14: conversion price most likely still ₩10,857 (never refixed), CB ~15% OTM, not convertible until Aug 11 2026 |
-| HSAI | $17.47 (stockanalysis.com, Jul 6 2026 close, pre-split) / $18.22 (Macroaxis, Jul 1); 52wk $14.40-$30.85. **8-for-1 split effective Jul 10 2026, 9am — CONFIRMED via primary 6-K to govern the Nasdaq ADR** | RAN-then-partial-derate | 2nd analyst target cut this cycle: Bernstein $32→$30 (on top of $33→$28.60) |
-| **603662.SH (Keli Sensing)** | ¥73.20 (gu.qq.com) / ¥80.00 (stockstar.com, Jul 3 close) | NOT-MOVED | buyer pool widened 50+→70+, real small-batch shipments starting |
-| **600366.SH (Ningbo Yunsheng)** | +56.2%/12m (stockanalysis.com, Jul 7 2026), mkt cap ~$2.4B | MARGINAL — close to +60% kill line | NEW WATCH Fire 15, see kb/companies/YUNSHENG.md; re-verify price urgently next fire |
+| **SMSH (Smart Shooter)** | ~2,600-2,634 ILS (stockanalysis.com Jul 6 / investing.com Jul 7); +58-59% since Mar 2026 debut (ATH 2,819, debut-low 1,650) | NEAR-LINE — cushion to +60% kill nearly gone | Fire 16: capture-rate gate CLEARED, strongest WATCH in KB; price is now the sole binding gate |
+| **464080.KQ (SOS Lab)** | ₩9,180 (Investing.com + stockanalysis.com, Jul 7 2026, -3.57% on the day), 52wk range ₩8,600-28,700 | NOT-MOVED — top idea, see kb/companies/SOSLAB.md | Fire 16: no new primary CB disclosure found; conversion price most likely still ₩10,857, CB ~15% OTM, not convertible until Aug 11 2026 |
+| HSAI | ~$17.47 (stockanalysis.com, Jul 6 2026 close, pre-split); 52wk $14.40-$30.85, down ~40-45% off high. **8-for-1 split effective Jul 10 2026, 9am — CONFIRMED via primary 6-K** | NOT-MOVED (down off highs) | 4th analyst target cut this cycle total (Bernstein, Citi $28.60, BofA HK$234) |
 | NOVT | +65% | PARTIAL | |
 | ON | -32% off ATH | PARTIAL | |
 | OMG.L | -35% | NOT-MOVED | |
 | KLIN.SW | n/a | NOT-MOVED | |
 | **POCI (Precision Optics)** | $5.69 (investing.com) / $5.65 (StockTitan, Jun 10 2026), 52wk $3.55-$6.04 | NOT-MOVED — new WATCH-weak Fire 10, see kb/companies/POCI.md | flat/no re-rate but robotics thesis fails forced-buyer gate |
-| **SMSH (Smart Shooter)** | 2,600 ILS (stockanalysis.com, Jul 6) / 2,628 ILS (investing.com, Jun 3); +48-55% since Mar 2026 IPO, trading below first-day open (2,765 ILS) | NEW WATCH Fire 12, see kb/companies/SMSH.md | too new for standard 12m read (Mar 2026 IPO); backlog inflecting to $49M |
+
+## Fire-16 kills (2026-07-07)
+| Ticker | ~12m move | run-tag |
+|---|---|---|
+| 603662.SH (Keli Sensing) | ~¥80 (Jul 3 2026 close), 52wk ¥49.50-90.89, +~60%/12m at 41x 2026E P/E | KILL (downgrade — capture-rate confirmed diluted vs Bluedot/Kunwei share leaders, humanoid segment too small to multiply revenue; see kb/companies/KELI.md) |
+| 600366.SH (Ningbo Yunsheng) | ¥16.51 (stockanalysis.com/investing.com, Jul 7 2026), +56.2%/12m one source / +48.7%/12m other, but 52wk high ¥18.45 implies briefly >60-70%/12m before an abnormal-trading-fluctuation pullback | KILL (downgrade one fire after adding — price gate crossed despite capture-rate resolving favorably; see kb/companies/YUNSHENG.md) |
 
 ## Fire-15 kills (2026-07-07)
 | Ticker | ~12m move | run-tag |

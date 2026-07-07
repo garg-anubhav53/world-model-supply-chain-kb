@@ -1,7 +1,9 @@
 # Keli Sensing Technology (603662.SH)
 Node: force/torque sensors (six-dimensional) | Geo: China (Shanghai STAR/A-share) | Track: R
-Status: **WATCH (early-stage/optionality, incremental positive)** | Score: 4/10 | first-rev: PRE-SAMPLE→early small-batch shipments
-Last updated: 2026-07-07 (Fire 15)
+Status: **KILL (downgraded from WATCH, Fire 16 — capture-rate + price gates both failed)** | Score: 2/10 (was 4/10) | first-rev: small-batch shipments (too small to matter)
+Last updated: 2026-07-07 (Fire 16)
+
+**Fire 16 update — KILLED (conviction-track Opus deep-dive resolved the binding capture-rate gate unfavorably):** Domestic humanoid six-axis FT market share is led by **Bluedot/蓝点触控 (~62-70%)** and **Kunwei/坤维科技 (~26%)**, with Keli one of 8+ vendors (SRI/宇立, 鑫精诚, 神源生, 海伯森, 昊志, 凌云) still mostly at sample stage per Chinese trade press. Huawei itself is qualifying 3+ vendors (Keli, Kunwei, Bluedot named together in the same press coverage) — the 70+ sampled-customer breadth confirmed as spray-and-pray, not exclusivity; no % share, no sole-source, no volume-commitment disclosure exists anywhere. Multiplication math fails even at the full FY2026 guide (~12,000 units): at compressed ASPs (¥5,000-8,000, down from ATI's ¥20,000+), that's **¥60-96M ≈ 4-6% of FY2025's ¥1.558bn revenue** — cannot move a company that remains ~49% legacy load-cell/weighing business. Price also crossed the line: ~¥80 (Jul 3 2026, 52wk ¥49.50-90.89) is **+~60%/12m at 41x 2026E P/E** — already re-rated on the narrative, Guojin's own BUY case prices in the optionality. Both gate 1 (not re-rated) and the capture-rate binding gate now fail simultaneously — a clean KILL, not a further hold. Re-open trigger: a disclosed % share or exclusivity claim from Huawei/Kepler AND a price pullback.
 
 **Fire 15 update — STATUS UNCHANGED on the binding gate, but incremental positive:** No exclusivity/majority-order disclosure found (gate stays open). But the qualified-buyer pool WIDENED (50+ → **70+ sampled robot/cobot makers** — breadth increasing, not narrowing toward preferred status) AND cumulative six-dim sensor unit sales passed **1,500 units** with monthly shipments crossing **1,000/month for the first time** — i.e. real, if small, volume is now shipping, not just samples. Two buyers named beyond Huawei have moved to actual **batch shipments** (hundreds of units each): an AI rehabilitation-robot-arm maker, and **Kepler (开普勒) humanoid robots** (Keli already holds a minority stake here); indirectly also supplying a Xiaopeng robotics project. FY2025 revenue ¥1.558bn (+20.3% YoY); Q1 2026 revenue ¥358M (+13.3% YoY) — robotics still ~10% of total, bundled in an "other" line, no standalone breakout. Price 2-source: gu.qq.com ¥73.20, stockstar.com ¥80.00 (Jul 3 close) — volatile/momentum-driven but still nowhere near the +60% kill line on a 12m basis. **Verdict unchanged: WATCH.** Sources: OFweek (Jun/Apr 2026), gu.qq.com, stockstar.com.
 
@@ -29,7 +31,7 @@ Price: +10.1%/12m (single-source, Fire 4) — clears re-rating gate; **needs 2-s
 4. Financially healthy: 2/2 — no distress flags found
 
 ## Verdict
-**WATCH, not yet a BUY.** Capture-rate unconfirmed — Keli is 1-of-16 Huawei ecosystem partners, not sole-sourced.
+**KILL (Fire 16).** Capture-rate CONFIRMED diluted — Keli trails share-leaders Bluedot and Kunwei in an 8+-vendor field, and the humanoid segment is too small (~4-6% of revenue at full ramp) to multiply a legacy load-cell company that has already re-rated (+60%/12m, 41x P/E).
 
 ## 24-month mechanism
 IF Huawei's Kuafu/embodied-intelligence program scales to mass production in 2026-2027 AND Keli remains a qualified/preferred vendor, six-dim sensor revenue could scale from near-zero to material — closer to a 2027 story than confirmed 2026.
