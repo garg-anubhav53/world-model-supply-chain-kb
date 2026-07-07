@@ -1,49 +1,49 @@
 # REPORT — most interesting live ideas (curated; freshest first)
-*Updated 2026-07-06, Fire 9. 8 live WATCH names, target 15 — still in forced sourcing mode.*
+*Updated 2026-07-07, Fire 10. 11 live WATCH names, target 15 — still in forced sourcing mode.*
 
 ## Where we stand (honest)
-Thesis INTACT. This fire's job was to close out Fire 8's 4 pending leads and force open the last major fully-blank adjacent vertical (maritime/underwater autonomy). All 4 pending names resolved to a clean decision: **MicroVision (MVIS)** — the mining-autonomy LiDAR lead that looked transformative on the surface — turned out to be a non-binding development framework with an unnamed counterparty (Caterpillar is only inferred by trade press, never confirmed by either party), plus real financial distress (sub-$0.40, reverse split pending). KILL. **Arbe Robotics (ARBE)** resolved the other way: the "already re-rated" read from last fire was wrong (it was off the March low, not a 12-month comparison — the stock is actually down 39.3%/12m), and while it's not a buy, it clears enough gates to promote to WATCH. **Element Fleet Management (EFN)** and **UL Solutions (ULS)** both killed cleanly on the size gate, exactly as flagged as likely last fire.
+Thesis INTACT. This fire's job was to close out Fire 9's India round-2 leads and the maritime pending names, deepen the interconnect node, and force open the last three fully-blank adjacent verticals (agriculture, medical, logistics). All resolved to clean decisions: **Zen Technologies (ZENTEC)** promoted to WATCH (real named MoD buyer, genuinely not overrun, but valuation already rich and capture-rate is multi-vendor). **Ramkrishna Forgings (RKFORGE)** killed outright — its own filing showed the "largest US EV maker" buyer put its approval on hold two days after the original announcement, and it was never named by either party. **Kraken Robotics** killed already-run (+118-124%/12m, confirmed 2-source) despite a legitimate, well-financed acquisition catalyst. **Ocean Power Technologies** killed on explicit going-concern distress (~3.3-month cash runway). **Weifeng Electronics** reinforced as a dead end — its own investor-platform disclosures explicitly refuse to name its robotics customer.
 
-The bigger news: forcing open maritime/underwater autonomy — logged "zero leads, fully blank" for 8+ fires running — immediately produced two tradeable names, **Kraken Robotics** and **Ocean Power Technologies**, the same pattern Fire 8 saw when it forced open mining automation and Israel. India round 2 also paid off: **Zen Technologies** (named Indian MoD buyer via a Bhairav Robotics stake) and **Ramkrishna Forgings** (EV-powertrain supply, buyer identity still unconfirmed) are two fresh, not-yet-overrun leads beyond the single existing Sona BLW park. The interconnect node — also blind — opened opportunistically with two China connector names, though neither has a confirmed buyer yet.
+The three remaining fully-blank adjacent verticals all got a first pass this fire. Agriculture came back thin (the one real story, Ouster→Fieldin/Bluewhite, is already re-rated). Logistics came back thin too, but left two open threads: **Innoviz Technologies (INVZ)**, promoted to WATCH after a clean financial-health pre-gate (real revenue growth, healthy cash, no going-concern language found) — its binding gate is a non-binding Daimler Truck/Torc Robotics design-win, not solvency; and RoboSense (2498.HK), still needing a price pre-gate. Medical robotics was the most productive: **Precision Optics (POCI)** surfaced with a genuine revenue-guidance raise on a flat stock, but an Opus deep-dive found the near-certain buyer (Procept BioRobotics, unconfirmed) is contractually permitted to insource — and is already doing so — so it's logged as a weak WATCH, not a conviction name. The interconnect node (this fire's scheduled cursor stop) turned up one fresh PENDING lead, Weimao Electronics, with a named cooperation partner but no confirmed order yet. The Unitree/Leju forward-listing pipeline, now genuinely active, surfaced two more small PENDING names (Huarui Precision, Landai Technology) despite Unitree's heavy vertical integration.
 
-On the existing shortlist: SOS Lab and HSAI were both monitored, no verdict change on either binding gate. SOS Lab picked up a notable new item — Boston Dynamics sent engineers to Korea to evaluate ~10 suppliers (including SOS Lab) for Atlas humanoid sensor supply, but this is an evaluation visit, not an award. HSAI's litigation gate remains genuinely unresolved (oral argument was 4 months ago, still no ruling); its 8-for-1 split is confirmed on track for Jul 10, 2026.
+SOS Lab and HSAI were both monitored — no verdict change on either binding gate, but SOS Lab picked up a negative analyst revision (profitability target slipped from 2026 to 2027) alongside a new secondary catalyst (in-house SPAD chip, targeted mid-2026).
 
 ## BUY candidates
 None yet cleared all 4 gates.
 
 ## Live / next-up (best current ideas)
-- **SOS Lab (464080.KQ)** — tiny Korean LiDAR maker, FY2025 revenue ₩6.086B (~$4.3M), named Hyundai MobED+PluD design-in. Stock -21.6%/12m, unchanged. **Binding gate: solvency** — ₩43B 0%-CB, dilution 22.4% (up to ~32% at a ₩7,600 refixing floor), conversion window opens **Aug 11 2026 — the hard resolution date, ~5 weeks out.** New: Boston Dynamics evaluated SOS Lab (among 10+ Korean suppliers) for Atlas humanoid sensor supply — evaluation only, no award yet.
-- **HSAI (Hesai Group)** — dominant China LiDAR, 8 of the world's top-10 robotaxi developers by its own count (incl. Motional, Zoox, Mercedes-Benz). **Binding gate: DoD 1260H litigation** — D.C. Circuit oral argument held Mar 19 2026, still no ruling; highest-leverage unresolved catalyst in the pipeline. 8-for-1 split effective Jul 10 2026 (confirmed on track, not yet occurred).
-- **Arbe Robotics (ARBE, Nasdaq)** — NEW this fire. 4D imaging radar, $1.03M FY25 revenue, genuinely not-yet-re-rated (-39.3%/12m, ~$0.79). **Binding gate: backlog/PO conversion** — only $1M signed backlog vs $4-6M FY26 guide, and no evidence of sole-sourcing (Hirain, its named Tier-1 buyer, can qualify multiple chipset vendors). Real design wins exist (Hirain L4 chipset, US Army logistics) but none are yet binding volume commitments. Nasdaq sub-$1 delisting clock (cure by Oct 12 2026) adds urgency.
-- **Keli Sensing Technology (603662.SH)** — tiny Chinese force/torque sensor maker (~$180M revenue), named Huawei embodied-intelligence design-win. No new catalyst this fire.
+- **SOS Lab (464080.KQ)** — tiny Korean LiDAR maker, FY2025 revenue ₩6.086B (~$4.3M), named Hyundai MobED+PluD design-in. Stock -21.6%/12m, unchanged. **Binding gate: solvency** — ₩43B 0%-CB, dilution 22.4-32%, conversion window opens **Aug 11 2026 — the hard resolution date, ~5 weeks out.**
+- **HSAI (Hesai Group)** — dominant China LiDAR, 8 of the world's top-10 robotaxi developers. **Binding gate: DoD 1260H litigation** — D.C. Circuit oral argument held Mar 19 2026, still no ruling ~3.5 months later. 8-for-1 split effective Jul 10 2026.
+- **Arbe Robotics (ARBE, Nasdaq)** — 4D imaging radar, genuinely not-yet-re-rated (-39.3%/12m). **Binding gate: backlog/PO conversion.** No update this fire.
+- **Keli Sensing Technology (603662.SH)** — tiny Chinese force/torque sensor maker, named Huawei design-win. No new catalyst this fire.
+- **Zen Technologies (ZENTEC, NSE)** — NEW this fire. India defense-robotics, real named MoD C-UAS buyer (₹404cr order = ~59% of FY26 revenue), genuinely not overrun. **Binding gate: capture-rate + valuation** — multi-vendor field (BEL, Big Bang Boom Solutions), already ~87x P/E, working-capital execution deteriorating. Bhairav Robotics stake (the actual humanoid/quadrupedal angle) still has zero disclosed revenue.
+- **Innoviz Technologies (INVZ, Nasdaq)** — NEW this fire. Israel LiDAR, named Daimler Truck/Torc Robotics L4-truck design-win, genuinely not overrun (Nasdaq sub-$1 delisting risk). **Binding gate: causal-rigor, not solvency** — the design-win is non-binding with no disclosed dollar/volume terms; financial-health pre-gate passed cleanly (cash $72.1M, no debt, burn falling).
+- **Precision Optics (POCI, Nasdaq)** — NEW this fire, weak. Medical-robotics optics, real revenue guidance raise, but the near-certain buyer is already insourcing per its own licensing terms — fails the forced-buyer requirement. Low priority.
 
 ## Pending — fresh leads needing a full gate-check (highest priority next fire)
-- **Zen Technologies (ZENTEC, NSE)** — India defense-sim company, 45.33% stake in Bhairav Robotics (quadrupedal + autonomous weapon station), named Indian MoD buyer (₹404cr anti-drone order, Jan 2026). Needs a segment-materiality check.
-- **Ramkrishna Forgings (RKFORGE, NSE)** — India forgings, EV-powertrain supply contract since Apr 2024 to a speculated-but-company-unconfirmed "largest US EV maker." Needs buyer-identity confirmation before it clears the causal-rigor gate.
-- **Kraken Robotics (PNG/KRKNF)** — maritime sonar/subsea batteries, multiple navies + a just-announced $615M Covelya Group acquisition. Likely already-run (+107%/12m, $1.44B cap) — needs a strict pre-gate check.
-- **Ocean Power Technologies (OPTT)** — maritime USVs, named US Navy Project Overmatch subcontract. Distressed micro-cap (declining revenue, near 52wk lows) — needs a financial-health gate first.
-- **Weifeng Electronics (301328.SZ)** / **indie Semiconductor (INDI)** — China connectors and a US vision-processor chipmaker respectively, both with generic "humanoid robot" product-line language but no named OEM customer yet.
+- **RoboSense (2498.HK)** — named LiDAR supplier to warehouse AMRs ("nearly all AMRs" per own disclosure), mkt cap ~$1.5-2B. 12-month price move not yet checked.
+- **Weimao Electronics (833346.BJ)** — China interconnect, named cooperation agreement with Shanghai Turing Intelligent Manufacturing Robot Co., not yet a confirmed purchase order.
+- **Huarui Precision (688059.SH)** / **Landai Technology (002765.SZ)** — both found via the Unitree/Leju IPO-pipeline dig, both need materiality + fresh price-gate checks.
 
 ## WATCH (real but not a buy today)
-- **OMG.L (Vicon)** — only public motion-capture vehicle, fortress balance sheet, not-run, but causal link speculative.
-- **KLIN.SW (Klingelnberg)** — quality, not-run, but robotics is a bump not a multiply; cyclical value-trap risk.
-- **NOVT, ON** — partially moved; quality but not small-base multipliers.
+- **OMG.L (Vicon)**, **KLIN.SW (Klingelnberg)**, **NOVT, ON** — unchanged this fire.
 
-## Killed / parked this run (see kb/decisions-log.md)
-- **MicroVision (MVIS)** — KILL. Caterpillar MDA is non-binding, the counterparty is only inferred (never named by either party), no PO/dollar terms. Cat has swapped LiDAR vendors before and isn't sole-sourcing. Independent 2nd fail: sub-$0.40 price, <12mo cash runway, reverse split + $43M converts pending.
-- **Element Fleet Management (EFN)** — KILL (size-gate). $1.2B revenue; Waymo deal too small a fraction even at a bull-case scale.
-- **UL Solutions (ULS)** — KILL (size-gate). $3.05B revenue; Halos certification work is an unquantified sliver split 6 ways among accredited bodies.
+## Killed this run (see kb/decisions-log.md)
+- **Ramkrishna Forgings (RKFORGE)** — buyer never named, deal reportedly paused, core business deteriorating.
+- **Kraken Robotics (PNG)** — already-run, +118-124%/12m.
+- **Ocean Power Technologies (OPTT)** — going-concern distress, ~3.3-month runway.
+- **Weifeng Electronics (301328.SZ)** — reinforced dead end, explicit customer-name refusal.
 
 ## Confirmed dead-end / closed vectors this run
-TBI Motion Technology (4540.TW) — dedup catch, already killed Fire 4 as already-run, don't re-diligence on new product news alone. Standards-body rosters, government tenders, and buyer job-postings as discovery sources — all tested, low/zero yield (skew to megacap incumbents or already-known names). Saildrone / China's autonomous "Zhi Fei" ship / port automation (ZPMC/Konecranes) / US Navy MUSV-LUSV shipbuilders — all confirmed dead ends within the newly-opened maritime vertical (private or megacap incumbent).
+Agriculture adjacent-vertical (thin — Ouster/Fieldin/Bluewhite already-run, Raven captive to CNH, rest private). Interconnect names Ruikeda/Huguang/Yonggui/Weichuang/Invt (all generic, no named robotics buyer). Maritime/underwater autonomy fully closed (both pending names resolved to KILL).
 
 ## Confirmed PRODUCTIVE vectors this run (repeat / build on)
-Forcing the last fully-blank adjacent vertical open (maritime/underwater autonomy) immediately produced two tradeable names — the third time running this exact override has paid off (mining automation and Israel, Fire 8; maritime, Fire 9). Reading the actual primary-source disclosure (not the trade-press headline) before committing an Opus deep-dive killed MicroVision fast and correctly. Anchoring "already-run" checks to a strict 12-month lookback (not a move off a recent trough) caught a mispriced-as-already-run name (Arbe) that was actually still un-rated.
+Forcing the last three fully-blank adjacent verticals open produced one weak WATCH (POCI, medical) and one promoted WATCH via a different vertical's thread (Innoviz, logistics) — the fourth time this exact override has paid off (mining automation and Israel, Fire 8; maritime, Fire 9; agriculture/medical/logistics, Fire 10). The forward-listing/IPO pipeline turned genuinely productive for the first time (Huarui Precision, Landai Technology) despite the OEM itself (Unitree) being heavily vertically integrated — prospectus disclosures still name smaller tier-2/3 vendors even when the buyer mostly builds in-house.
 
 ## Next sourcing vectors (queued, priority order)
-1. **Gate-check Zen Technologies and Ramkrishna Forgings** — India round-2 output, real named/likely buyers, not yet overrun.
-2. Pre-gate Kraken Robotics (price) and Ocean Power Technologies (financial health) before deeper diligence on either.
-3. Rotation cursor now 4 (NODE: interconnect) — deepen by confirming Weifeng Electronics' named buyer.
-4. Remaining fully-blind adjacent verticals: agriculture, medical, logistics.
-5. Track Leju Robot's SZSE ChiNext registration and Unitree Robotics' STAR Market IPO (approved Jul 3 2026) directly for tier-2/3 supplier disclosures.
-6. Israel round 2: Valens/RGo tie-up + a broader TASE small-cap screen.
+1. Push Innoviz (INVZ) toward a binding Daimler/Torc contract, or confirm going-concern language in its 20-F directly.
+2. Pre-gate RoboSense (2498.HK) price/re-rate status.
+3. Gate-check Weimao Electronics (order-conversion), Huarui Precision + Landai Technology (materiality + price).
+4. Rotation cursor now 5 (VERTICAL: defense/drone autonomy) — push counter-drone proper (ParaZero/Innoviz-Regulus pre-covered but not deeply worked).
+5. Israel round 2: Valens/RGo tie-up + a broader TASE small-cap screen.
+6. Exoskeleton (ReWalk/Ekso) and hospital-logistics (Diligent/Aethon) component supply chains within the medical-robotics vertical.

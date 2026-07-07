@@ -12,6 +12,9 @@ As of 2026-07-06 unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh befor
 | OMG.L | -35% | NOT-MOVED | |
 | KLIN.SW | n/a | NOT-MOVED | |
 | **ARBE (Arbe Robotics)** | -39.3%/12m (stockanalysis.com, Jul 6 2026, ~$0.79; 2nd source Robinhood/search ~$0.78-0.82) | NOT-MOVED — new WATCH Fire 9, see kb/companies/ARBE.md | Nasdaq sub-$1 delisting clock, cure by Oct 12 2026 |
+| **ZENTEC (Zen Technologies)** | -9.28% (₹1,834.8 aggregator) / -4% (₹1,853 screener.in), Jul 6 2026 | NOT-MOVED — new WATCH Fire 10, see kb/companies/ZENTEC.md | valuation ~87x P/E despite flat price |
+| **POCI (Precision Optics)** | $5.69 (investing.com) / $5.65 (StockTitan, Jun 10 2026), 52wk $3.55-$6.04 | NOT-MOVED — new WATCH-weak Fire 10, see kb/companies/POCI.md | flat/no re-rate but robotics thesis fails forced-buyer gate |
+| **INVZ (Innoviz)** | -70%+ off 52wk high ($0.676-0.693 aggregation / $0.6777 stockanalysis.com, Jul 2026; 52wk $0.537-$2.54) | NOT-MOVED — new WATCH Fire 10, see kb/companies/INVZ.md | Nasdaq sub-$1 delisting cure by Sept 21 2026 |
 
 ## Fire-8 kills/parks (2026-07-06)
 | Ticker | ~12m move (2-source unless noted) | run-tag |
@@ -24,16 +27,24 @@ As of 2026-07-06 unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh befor
 | MVIS (MicroVision) | $0.36 (stockanalysis.com) / $0.327 (Yahoo/CNN, Jun 30) — 2-source confirmed, DOWN ~75-80%/12m off $1.73 high | KILL Fire 9 — non-binding MDA + unnamed counterparty + financial distress |
 | ARBE (Arbe Robotics) | $0.786 (stockanalysis.com) / ~$0.78-0.82 (Robinhood/search) — 2-source confirmed, corrects the stale $1.18 read | RESOLVED Fire 9 → WATCH (early-stage); see live table above |
 
-## Fire-9 kills/pending (2026-07-06)
+## Fire-9 kills (2026-07-06)
 | Ticker | ~12m move (2-source where available) | run-tag |
 |---|---|---|
 | EFN (Element Fleet Mgmt) | ~C$29.21 (Jul 3'26), down ~19.5% YTD | KILL — size-gate ($1.2B rev, Waymo deal too small a %) |
 | ULS (UL Solutions) | ~$89-98 (Jul 6'26), up ~50%/12m | KILL — size-gate ($3.05B rev) + already-run |
-| PNG/KRKNF (Kraken Robotics) | +107%/12m, mkt cap ~$1.44B | PENDING — likely already-run, needs strict pre-gate before further work |
-| OPTT (Ocean Power Technologies) | ~$0.26-0.34, 52wk $0.29-$0.90 | PENDING — distressed micro-cap, declining revenue, needs financial-health gate first |
-| ZENTEC (Zen Technologies, NSE) | ~flat/-4%/12m | PENDING — named MoD buyer via Bhairav stake, needs segment-materiality check |
-| RKFORGE (Ramkrishna Forgings, NSE) | -9.75%/12m | PENDING — buyer identity (speculated Tesla) unconfirmed by company |
-| 301328.SZ (Weifeng Electronics) | ~RMB61-83, volatile | PENDING — no named OEM buyer yet |
+
+## Fire-10 kills/pending (2026-07-07)
+| Ticker | ~12m move (2-source) | run-tag |
+|---|---|---|
+| PNG/KRKNF (Kraken Robotics) | +124.25% (Yahoo Finance) / +118.81% (StockAnalysis.com) | KILL — already-run, decisively past threshold |
+| OPTT (Ocean Power Technologies) | ~$0.28-0.34, near 52wk low ($0.24-$0.90 range) | KILL — distress (going-concern, ~3.3mo runway, serial dilution) |
+| RKFORGE (Ramkrishna Forgings, NSE) | -17.2% (5paisa/BusinessToday) / +27.2% (Trendlyne, likely a different-window calc — flagged unreliable) | KILL — buyer never named, deal reportedly paused |
+| 301328.SZ (Weifeng Electronics) | ~RMB61.15 (Jun 19 2026), 2026 range RMB47.8-83.2 | KILL — reinforced dead-end, explicit customer-name refusal |
+| INVZ (Innoviz Technologies) | $0.676-0.693 (aggregation, Jul 2) / $0.6777 (stockanalysis.com, Jul 6), 52wk $0.537-$2.54 | RESOLVED Fire 10 → WATCH (early-stage), passes financial-distress gate; see live table above |
+| 2498.HK (RoboSense) | not yet checked | PENDING — needs price/re-rate pre-gate |
+| 833346.BJ (Weimao Electronics) | ~RMB25.90, 1yr range RMB10.15-38.50 | PENDING — named cooperation (Turing Robot), not yet a confirmed PO |
+| 688059.SH (Huarui Precision) | not pulled this pass | PENDING — needs price-gate + materiality check |
+| 002765.SZ (Landai Technology) | ~¥14.05 (Feb 2026) | PENDING — needs fresh price-gate + materiality check |
 
 ## Fire-7 kills (2026-07-06)
 | Ticker | ~12m move (2-source) | run-tag |

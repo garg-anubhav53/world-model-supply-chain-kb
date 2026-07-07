@@ -1,25 +1,29 @@
 # WATCHLIST — live candidates + monitoring signals
-Updated 2026-07-06 (Fire 7).
+Updated 2026-07-07 (Fire 10).
 
 ## TOP priority
 | Ticker | Thesis in one line | Signal to watch |
 |---|---|---|
-| **464080.KQ (SOS Lab)** | tiny Korean LiDAR maker (~$4.3M rev base, FY25 ₩6.086B now audited-confirmed), named Hyundai MobED+PluD design-in, -21.6%/12m | CB dilution overhang (22.4-32% incl. ₩7,600 refixing floor, confirmed Fire 8) resolves at the Aug 11 2026 hard window — treat as forced decision date, no more DART-pull attempts (JS-viewer confirmed dead end) |
-| **HSAI** | dominant China LiDAR, now confirmed primary/co-primary at 4 of 5 Chinese robotaxi buyers + Zoox + Mercedes-Benz + newly-named Motional (Ioniq 5 robotaxi), already ran+pulled back on DoD 1260H litigation | D.C. Circuit merits ruling (oral argument held Mar 19'26, still undecided — highest-leverage catalyst); 8-for-1 split Jul 10 2026 (not yet occurred) |
-| **603662.SH (Keli Sensing)** | tiny Chinese force/torque sensor maker ($180M rev), real named Huawei embodied-intelligence design-win (sample→order delivered Sept-Dec 2024), robotics still <5% of revenue | follow-on PO disclosure; Huawei Kuafu program production timeline; capture-rate confirmed as broad-sampling-without-exclusivity (NOT literally 1-of-16 — correction Fire 7) |
+| **464080.KQ (SOS Lab)** | tiny Korean LiDAR maker (~$4.3M rev base, FY25 ₩6.086B audited-confirmed), named Hyundai MobED+PluD design-in, -21.6%/12m | CB dilution overhang resolves at the Aug 11 2026 hard window (~5wks out) — treat as forced decision date. Fire 10: profitability target slipped 2026→2027 (negative revision); watch SPAD chip completion (mid-2026) as secondary catalyst |
+| **HSAI** | dominant China LiDAR, primary/co-primary at 4 of 5 Chinese robotaxi buyers + Zoox + Mercedes-Benz + Motional, already ran+pulled back on DoD 1260H litigation | D.C. Circuit merits ruling (oral argument Mar 19'26, STILL undecided ~3.5mo later — highest-leverage catalyst); 8-for-1 split effective Jul 10 2026 |
+| **603662.SH (Keli Sensing)** | tiny Chinese force/torque sensor maker ($180M rev), named Huawei embodied-intelligence design-win, robotics still <5% of revenue | follow-on PO disclosure; Huawei Kuafu program production timeline |
 
 ## WATCH — real but not a buy today
 | Ticker | Note |
 |---|---|
-| **ARBE (Arbe Robotics)** | 4D imaging radar, $1.03M FY25 rev, NOT already-run (-39.3%/12m, ~$0.79); binding gate is backlog/PO conversion ($1M backlog vs $4-6M guide) + capture-rate (not sole-sourced) — see kb/companies/ARBE.md |
+| **ARBE (Arbe Robotics)** | 4D imaging radar, $1.03M FY25 rev, NOT already-run (-39.3%/12m); binding gate is backlog/PO conversion + capture-rate — see kb/companies/ARBE.md |
+| **ZENTEC (Zen Technologies)** | India defense-robotics, real named MoD C-UAS buyer (~59% of FY26 rev), NOT overrun, but valuation already rich (~87x P/E) + multi-vendor capture-rate + Bhairav Robotics stake still zero disclosed revenue — see kb/companies/ZENTEC.md |
+| **POCI (Precision Optics)** | medical-robotics optics, near-certain buyer (Procept BioRobotics, unconfirmed) is ALREADY insourcing per licensing terms — fails forced-buyer gate; weak/low-priority — see kb/companies/POCI.md |
+| **INVZ (Innoviz)** | Israel LiDAR, named Daimler Truck/Torc Robotics L4-truck design-win but non-binding/no $-terms; passes financial-distress gate cleanly (cash $72.1M, burn falling); Nasdaq sub-$1 delisting cure by Sept 21 2026 — see kb/companies/INVZ.md |
 | OMG.L (Vicon) | only public motion-capture vehicle; causal link speculative (displacement risk); fortress balance sheet |
 | KLIN.SW (Klingelnberg) | not-run + quality but bump-not-multiply; cyclical value-trap; mean-reversion watch |
 | NOVT / ON | partially moved; quality but not small-base multipliers |
 
 ## Pending promotion (causal or price gap, not yet WATCH)
-6 fresh leads from Fire 9 (see pipeline.md): **Zen Technologies (ZENTEC)** — India, named Indian MoD buyer via Bhairav Robotics stake, needs segment-materiality check. **Ramkrishna Forgings (RKFORGE)** — India forgings, EV-powertrain deal to a speculated-but-unconfirmed US automaker. **Kraken Robotics (PNG/KRKNF)** — maritime sonar/subsea, likely already-run (+107%/12m), needs strict pre-gate. **Ocean Power Technologies (OPTT)** — maritime USV, distressed micro-cap, declining revenue. **Weifeng Electronics (301328.SZ)** — China interconnect/connectors, humanoid product line but no named buyer yet. **indie Semiconductor (INDI)** — vision-processor chips in humanoid cameras, customers described not named (wrong node bucket, flagged for context).
+4 fresh leads from Fire 10 (see pipeline.md): **RoboSense (2498.HK)** — named LiDAR supplier to warehouse AMRs, 12m price move not yet checked. **Weimao Electronics (833346.BJ)** — China interconnect, named Turing Robot cooperation agreement, not yet a confirmed PO. **Huarui Precision (688059.SH)** — named Unitree cutting-tool supplier, small-batch/immaterial so far. **Landai Technology (002765.SZ)** — equity stake + manufacturing role in Leju's dominant joint-module supplier.
 
-## Diligenced & killed this run (Fire 9, kb/decisions-log.md): MicroVision (MVIS — non-binding MDA, unnamed counterparty, financial distress), Element Fleet Mgmt (EFN — size-gate), UL Solutions (ULS — size-gate). Arbe Robotics (ARBE) promoted PENDING→WATCH.
+## Diligenced & killed this run (Fire 10, kb/decisions-log.md): Ramkrishna Forgings (RKFORGE — no named buyer, deal paused, deteriorating financials), Kraken Robotics (PNG — already-run +118-124%/12m), Ocean Power Technologies (OPTT — going-concern distress), Weifeng Electronics (301328.SZ — reinforced dead-end, explicit customer-name refusal). Zen Technologies (ZENTEC) promoted PENDING→WATCH. Precision Optics (POCI) new WATCH-weak.
+## Diligenced & killed Fire 9: MicroVision (MVIS — non-binding MDA, unnamed counterparty, financial distress), Element Fleet Mgmt (EFN — size-gate), UL Solutions (ULS — size-gate). Arbe Robotics (ARBE) promoted PENDING→WATCH.
 ## Diligenced & killed Fire 8: Fulin Precision (300432.SZ, size-gate+causal mischaracterization), Bukom/Shanghai Kinco (688160.SH, already-run+causal contradiction), Moons' Electric (603728.SH, PARK — capture-rate + sell-side already covers), Ouster (OUST, already-run comp), Belden (BDC, off-thesis).
 ## Diligenced & killed Fire 7: Hota Industrial (downgrade — 6 fires no PO + weakening financials), Jiangsu Leili (downgrade — FY2025 report resolved multiplication+capture-rate negatively), SmartSens 688213.SH (concentration gate fails), Zhejiang Sanhua 002050.SZ (already-run +90.6%), Sona BLW/SONACOMS (PARK, speculative MoU already priced).
 ## Diligenced & killed Fire 6: Shuanglin (gate-1 fails + weakening fundamentals), Valeo (size-gate, LiDAR ~24% of €20.9B), Neuromeka (vertical-integration, own-brand), Servotronics (delisted), Allied Motion/ALNT (already-run +125%, wrong CPC), NN Inc (no patent fit), Orbbec (already-run +110%, but see T12/T13 leads).
