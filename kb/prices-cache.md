@@ -1,17 +1,25 @@
 # PRICES CACHE — last-seen move/valuation (staleness window: 7 days)
-As of 2026-07-07 (Fire 16) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+As of 2026-07-07 (Fire 17) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
 
 ## Live WATCH candidates
 | Ticker | ~12m move | run-tag | note |
 |---|---|---|---|
-| **SMSH (Smart Shooter)** | ~2,600-2,634 ILS (stockanalysis.com Jul 6 / investing.com Jul 7); +58-59% since Mar 2026 debut (ATH 2,819, debut-low 1,650) | NEAR-LINE — cushion to +60% kill nearly gone | Fire 16: capture-rate gate CLEARED, strongest WATCH in KB; price is now the sole binding gate |
-| **464080.KQ (SOS Lab)** | ₩9,180 (Investing.com + stockanalysis.com, Jul 7 2026, -3.57% on the day), 52wk range ₩8,600-28,700 | NOT-MOVED — top idea, see kb/companies/SOSLAB.md | Fire 16: no new primary CB disclosure found; conversion price most likely still ₩10,857, CB ~15% OTM, not convertible until Aug 11 2026 |
-| HSAI | ~$17.47 (stockanalysis.com, Jul 6 2026 close, pre-split); 52wk $14.40-$30.85, down ~40-45% off high. **8-for-1 split effective Jul 10 2026, 9am — CONFIRMED via primary 6-K** | NOT-MOVED (down off highs) | 4th analyst target cut this cycle total (Bernstein, Citi $28.60, BofA HK$234) |
+| **SMSH (Smart Shooter)** | Jul 6 close 2,600 ILS (+57.6% off 1,650 debut-low, stockanalysis.com); Jul 7 intraday 2,651 ILS (+60.7%, investing.com) | **STRADDLING THE LINE** — last close under, intraday over | Fire 17: genuinely ambiguous; pull the OFFICIAL TASE close next fire before any BUY/KILL call |
+| **464080.KQ (SOS Lab)** | Sources disagree this check: ~₩9,180-9,770 (Yahoo/MSN) vs. ~₩11,820 (stockanalysis/Bloomberg-linked), 52wk range ₩8,360-16,600/28,700 | NOT-MOVED — top idea, see kb/companies/SOSLAB.md | Fire 17: price data noisy across sources, treat with caution; CB conversion price still believed ₩10,857, Aug 11 2026 remains the resolution date |
+| HSAI | $21.63 (Yahoo Finance, Jul 2026); 52wk high $30.85 (Sep 22 2025), down ~30% off high. **8-for-1 split still on track for Jul 10 2026 — NOT yet effective as of Jul 7** | NOT-MOVED (down off highs) | No ruling yet on D.C. Circuit docket 25-5256 (~3.7mo post-argument); analyst consensus stable ~$29-31 Buy |
+| **MNTS (Momentus)** | $6.36-6.58 (Yahoo/aggregator, Jul 7 2026), down sharply from 52wk high ($43.55 pre-split-adjusted — reconcile vs. a cited $113.39 post-split figure next fire) | NOT-MOVED (down off highs) | Fire 17: NEW WATCH. Share count re-inflated ~7x in 5 months post reverse-split (1.4M→9.99M) — dilution is the risk to track, not distress |
 | NOVT | +65% | PARTIAL | |
 | ON | -32% off ATH | PARTIAL | |
 | OMG.L | -35% | NOT-MOVED | |
 | KLIN.SW | n/a | NOT-MOVED | |
 | **POCI (Precision Optics)** | $5.69 (investing.com) / $5.65 (StockTitan, Jun 10 2026), 52wk $3.55-$6.04 | NOT-MOVED — new WATCH-weak Fire 10, see kb/companies/POCI.md | flat/no re-rate but robotics thesis fails forced-buyer gate |
+
+## Fire-17 kills (2026-07-07)
+| Ticker | ~12m move | run-tag |
+|---|---|---|
+| 环动科技 (Zhejiang Fine Motion, pre-IPO) | n/a (pre-listing) | KILL (downgrade PENDING — named-buyer claim fails, real customers Estun/EFT not Tesla/UBTECH) |
+| 03952.HK (Laifual Harmonic Drive) | HK$109-120 (2-source, Jul 7 2026) vs. HK$85.50 IPO price (Jun 30 2026) = +28% to +40% in 5 trading days | KILL (downgrade PENDING — no named buyer in own prospectus at all; dedup vs. rival Leaderdrive) |
+| 002176.SZ (Jiangte Electric) | ¥11.58 (Jun 1 2026), 52wk low ¥6.28, intraday high ¥16.97 (Apr 30 2026, +170% off low) — +60-85%/12m | KILL (new find, killed same-fire — already re-rated + financial distress in legacy lithium segment + partial capture-rate) |
 
 ## Fire-16 kills (2026-07-07)
 | Ticker | ~12m move | run-tag |
