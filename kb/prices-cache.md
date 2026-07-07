@@ -1,20 +1,25 @@
 # PRICES CACHE — last-seen move/valuation (staleness window: 7 days)
-As of 2026-07-07 (Fire 12) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+As of 2026-07-07 (Fire 14) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
 
 ## Live WATCH candidates
 | Ticker | ~12m move | run-tag | note |
 |---|---|---|---|
-| **464080.KQ (SOS Lab)** | -19% to -23%/12m; refreshed Fire 12: ₩9,310 (investing.com) / ₩9,180 (stockanalysis.com), Jul 7 2026, near 52wk low ₩8,600 | NOT-MOVED — top idea, see kb/companies/SOSLAB.md | Conversion window opens Aug 11 2026 (already ITM vs ₩7,600 floor); bondholder put right is Aug 11 2027, not 2026 (corrected Fire 12) |
-| HSAI | $17.47 (stockanalysis.com + Google Finance, Jul 6 2026, pre-split); 52wk $14.40-$30.85; -20.34%/12m (one source) vs a conflicting +19.11% snippet — flag, needs terminal-grade reconciliation; **8-for-1 split effective Jul 10 2026, shareholder-approved Jun 26, confirmed still on track (Fire 12)** | RAN-then-partial-derate | +16.9% single-day pop Jun 30 2026, driver unconfirmed |
+| **464080.KQ (SOS Lab)** | ₩9,180 (Investing.com + stockanalysis.com, Jul 7 2026, -3.57% on the day), 52wk range ₩8,600-28,700 | NOT-MOVED — top idea, see kb/companies/SOSLAB.md | Fire 14: CB refix schedule already had an adjustment date (Mar 11 2026) in the past — actual current conversion price unconfirmed, likely below ₩10,857, possibly near the ₩7,600 floor (which would make conversion ITM now) |
+| HSAI | $17.47 (stockanalysis.com, Jul 6 2026 close, pre-split) — cross-source noise persists ($16.85 intraday vs $18.23 prior close on one pull); 52wk $14.40-$30.85. **8-for-1 split effective Jul 10 2026, 9am — 3 days out** | RAN-then-partial-derate | one analyst target cut $33.00→$28.60 (soft Q2 EV-shipment concerns) |
 | **603662.SH (Keli Sensing)** | +17.42% (stockanalysis.com) / +19.02% (investing.com), both ¥73.20, Jul 6 2026 | NOT-MOVED (2-source confirmed Fire 7, up from stale +10.1%) | |
 | NOVT | +65% | PARTIAL | |
 | ON | -32% off ATH | PARTIAL | |
 | OMG.L | -35% | NOT-MOVED | |
 | KLIN.SW | n/a | NOT-MOVED | |
-| **ARBE (Arbe Robotics)** | -39.3%/12m (stockanalysis.com, Jul 6 2026, ~$0.79; 2nd source Robinhood/search ~$0.78-0.82) | NOT-MOVED — new WATCH Fire 9, see kb/companies/ARBE.md | Nasdaq sub-$1 delisting clock, cure by Oct 12 2026 |
 | **ZENTEC (Zen Technologies)** | -9.28% (₹1,834.8 aggregator) / -4% (₹1,853 screener.in), Jul 6 2026 | NOT-MOVED — new WATCH Fire 10, see kb/companies/ZENTEC.md | valuation ~87x P/E despite flat price |
 | **POCI (Precision Optics)** | $5.69 (investing.com) / $5.65 (StockTitan, Jun 10 2026), 52wk $3.55-$6.04 | NOT-MOVED — new WATCH-weak Fire 10, see kb/companies/POCI.md | flat/no re-rate but robotics thesis fails forced-buyer gate |
 | **SMSH (Smart Shooter)** | ~2,600 ILS (investing.com) / 2,524 ILS (stockanalysis.com), Jul 7 2026; up ~50% vs Mar 2026 IPO valuation, ~58% off Mar 30 IPO low | NEW WATCH Fire 12, see kb/companies/SMSH.md | too new for standard 12m read; already re-rated meaningfully since IPO — soft entry-timing concern |
+
+## Fire-14 kills (2026-07-07)
+| Ticker | ~12m move | run-tag |
+|---|---|---|
+| ARBE (Arbe Robotics) | $0.66-0.92 (still below Nasdaq $1 threshold) | KILL (downgrade — time-decay + compliance-clock + governance flag, see kb/companies/ARBE.md) |
+| TOM2.AS (TomTom) | ~€4.72, -3.75%/12m (not re-rated, but killed on causal-rigor, not price) | KILL (undisclosed deal value + non-exclusive HERE/Audi-VW-linked position + shrinking segment) |
 
 ## Fire-12 kills (2026-07-07)
 | Ticker | ~12m move (2-source) | run-tag |
