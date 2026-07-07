@@ -1,5 +1,17 @@
 # Zen Technologies — ZENTEC (NSE, India)
-Updated 2026-07-07 (Fire 10) | Verdict: **WATCH (early-stage, new Fire 10)** | Track: **R (defense-robotics)**
+Updated 2026-07-07 (Fire 15) | Verdict: **KILL (downgrade from WATCH)** | Track: **R (defense-robotics)**
+
+**Fire 15 update — KILLED, conviction-track decision.** An Opus dive resolved both open variables negatively, plus found a fresh distress signal:
+- **Revenue: FY26 (ended 31-Mar-2026) ₹687.7cr, DOWN ~29% YoY** from ₹973.6cr (FY25) — confirms and updates the already-flagged execution problem; Q1 FY26 alone was -38% YoY. This is a real earnings contraction, not just optics.
+- **Order book ₹1,336cr (only ~1.9x FY26 revenue)**, ~50% anti-drone / ~50% legacy simulators — **Bhairav (the actual robotics angle) still has no material disclosed backlog.**
+- **Capture-rate CONFIRMED multi-vendor, no path to preferred status:** the DRDO-designed, BEL-manufactured D-4 system was formally inducted as the reference architecture (Mar 19 2026); Zen competes alongside Adani, Paras Defence, and Big Bang Boom as one of several private vendors on discrete tenders.
+- **Valuation indefensible on declining earnings:** P/E ~87-108x (2-source: Screener.in 86.6x, Tickertape/Trendlyne ~92.8x) against a 29% revenue decline and only 10.7% ROE.
+- **New negative:** promoter holding fell to 48.51% (Mar 2026) from ~55% (Mar 2024) — steady selling, though no pledge/encumbrance found.
+- **Verdict: KILL.** Both binding-gate variables (capture-rate, valuation) resolved against the thesis, reinforced by a real revenue miss. Re-open trigger: a named, sole-source or dominant-share MoD C-UAS/Bhairav award with disclosed multi-year value, ideally at a materially lower entry multiple.
+- **Sources:** Screener.in (7-Jul-2026); Tickertape/Trendlyne; Whalesbook/Business Upturn (FY26 results, order book); AlphaStreet (Q1 FY26); Kotak Neo/IDRW/Janes (competitive contracts); ScanX (promoter holding/encumbrance).
+
+---
+### Pre-kill record (Fire 10, superseded above)
 
 - **What:** India defense-simulation company holding a 45.33% stake in Bhairav Robotics (quadrupedal robots + "Rakshak" autonomous weapon station). Core business = training simulators + counter-drone (C-UAS) systems for the Indian military.
 - **Price (2-source, Jul 6 2026):** ₹1,834.8 (aggregator) / ₹1,853 (screener.in). 12m move: -9.28% / -4% — **NOT overrun**, actually down over the period despite order-book growth.

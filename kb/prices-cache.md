@@ -1,19 +1,24 @@
 # PRICES CACHE — last-seen move/valuation (staleness window: 7 days)
-As of 2026-07-07 (Fire 14) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+As of 2026-07-07 (Fire 15) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
 
 ## Live WATCH candidates
 | Ticker | ~12m move | run-tag | note |
 |---|---|---|---|
-| **464080.KQ (SOS Lab)** | ₩9,180 (Investing.com + stockanalysis.com, Jul 7 2026, -3.57% on the day), 52wk range ₩8,600-28,700 | NOT-MOVED — top idea, see kb/companies/SOSLAB.md | Fire 14: CB refix schedule already had an adjustment date (Mar 11 2026) in the past — actual current conversion price unconfirmed, likely below ₩10,857, possibly near the ₩7,600 floor (which would make conversion ITM now) |
-| HSAI | $17.47 (stockanalysis.com, Jul 6 2026 close, pre-split) — cross-source noise persists ($16.85 intraday vs $18.23 prior close on one pull); 52wk $14.40-$30.85. **8-for-1 split effective Jul 10 2026, 9am — 3 days out** | RAN-then-partial-derate | one analyst target cut $33.00→$28.60 (soft Q2 EV-shipment concerns) |
-| **603662.SH (Keli Sensing)** | +17.42% (stockanalysis.com) / +19.02% (investing.com), both ¥73.20, Jul 6 2026 | NOT-MOVED (2-source confirmed Fire 7, up from stale +10.1%) | |
+| **464080.KQ (SOS Lab)** | ₩9,180 (Investing.com + stockanalysis.com, Jul 7 2026, -3.57% on the day), 52wk range ₩8,600-28,700 | NOT-MOVED — top idea, see kb/companies/SOSLAB.md | Fire 15 CORRECTED Fire 14: conversion price most likely still ₩10,857 (never refixed), CB ~15% OTM, not convertible until Aug 11 2026 |
+| HSAI | $17.47 (stockanalysis.com, Jul 6 2026 close, pre-split) / $18.22 (Macroaxis, Jul 1); 52wk $14.40-$30.85. **8-for-1 split effective Jul 10 2026, 9am — CONFIRMED via primary 6-K to govern the Nasdaq ADR** | RAN-then-partial-derate | 2nd analyst target cut this cycle: Bernstein $32→$30 (on top of $33→$28.60) |
+| **603662.SH (Keli Sensing)** | ¥73.20 (gu.qq.com) / ¥80.00 (stockstar.com, Jul 3 close) | NOT-MOVED | buyer pool widened 50+→70+, real small-batch shipments starting |
+| **600366.SH (Ningbo Yunsheng)** | +56.2%/12m (stockanalysis.com, Jul 7 2026), mkt cap ~$2.4B | MARGINAL — close to +60% kill line | NEW WATCH Fire 15, see kb/companies/YUNSHENG.md; re-verify price urgently next fire |
 | NOVT | +65% | PARTIAL | |
 | ON | -32% off ATH | PARTIAL | |
 | OMG.L | -35% | NOT-MOVED | |
 | KLIN.SW | n/a | NOT-MOVED | |
-| **ZENTEC (Zen Technologies)** | -9.28% (₹1,834.8 aggregator) / -4% (₹1,853 screener.in), Jul 6 2026 | NOT-MOVED — new WATCH Fire 10, see kb/companies/ZENTEC.md | valuation ~87x P/E despite flat price |
 | **POCI (Precision Optics)** | $5.69 (investing.com) / $5.65 (StockTitan, Jun 10 2026), 52wk $3.55-$6.04 | NOT-MOVED — new WATCH-weak Fire 10, see kb/companies/POCI.md | flat/no re-rate but robotics thesis fails forced-buyer gate |
-| **SMSH (Smart Shooter)** | ~2,600 ILS (investing.com) / 2,524 ILS (stockanalysis.com), Jul 7 2026; up ~50% vs Mar 2026 IPO valuation, ~58% off Mar 30 IPO low | NEW WATCH Fire 12, see kb/companies/SMSH.md | too new for standard 12m read; already re-rated meaningfully since IPO — soft entry-timing concern |
+| **SMSH (Smart Shooter)** | 2,600 ILS (stockanalysis.com, Jul 6) / 2,628 ILS (investing.com, Jun 3); +48-55% since Mar 2026 IPO, trading below first-day open (2,765 ILS) | NEW WATCH Fire 12, see kb/companies/SMSH.md | too new for standard 12m read (Mar 2026 IPO); backlog inflecting to $49M |
+
+## Fire-15 kills (2026-07-07)
+| Ticker | ~12m move | run-tag |
+|---|---|---|
+| ZENTEC (Zen Technologies) | ₹1,851 (Screener.in) / implied ~₹1,850+ (Tickertape), Jul 7 2026 — NOT overrun on price, killed on fundamentals not price | KILL (downgrade — FY26 revenue -29% YoY, capture-rate confirmed multi-vendor, valuation ~87-108x P/E indefensible, see kb/companies/ZENTEC.md) |
 
 ## Fire-14 kills (2026-07-07)
 | Ticker | ~12m move | run-tag |

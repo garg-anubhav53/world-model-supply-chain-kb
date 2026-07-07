@@ -1,6 +1,17 @@
 # DECISIONS LOG ARCHIVE — older entries rolled off the main log (append-only, oldest-first)
 Read only to dedup an old name not found in the main decisions-log.md. Rolled from decisions-log.md 2026-07-07 (Fire 10) when the main log crossed ~120 lines.
-Covers: Wave 1-3 generic kills, manual OMG.L/Figure-03 fire, Fire 3 (EDGAR+Apptronik/Agility BOM+Korea/Japan+HSAI), Fire 4 (SOS Lab closure+W-track open+AV sensor-pod BOM+China OEM BOM+Taiwan+13F KOID) through LESSON 4.
+Covers: Wave 1-3 generic kills, manual OMG.L/Figure-03 fire, Fire 3 (EDGAR+Apptronik/Agility BOM+Korea/Japan+HSAI), Fire 4 (SOS Lab closure+W-track open+AV sensor-pod BOM+China OEM BOM+Taiwan+13F KOID) through LESSON 4, Fire 5 (China price pre-gate completion + Keli/Leadshine causal-rigor + Hota gate completion + AV Chinese-robotaxi BOM + patent-assignee sweep).
+
+--- Fire 5, 2026-07-06 (China price pre-gate completion + Keli/Leadshine causal-rigor + Hota gate completion + AV Chinese-robotaxi BOM + patent-assignee sweep) ---
+2026-07-06 | Green Harmonic (688017.SH) | KILL (already-run) | +298.6%/12m (2-source: stockanalysis ¥474.60, investing.com ¥475.04, Jul 6'26) — mkt cap ~$12.5B
+2026-07-06 | Wolong Electric Drive (600580.SH) | KILL (double: already-run + size-gate) | +91-96%/12m AND robotics line only ~15% of $2.16B revenue (up from 8% in 2024; has a 500k-unit Tesla Optimus motor order per metal.com but still too diluted to multiply the stock)
+2026-07-06 | Zhucheng Tech (301280.SZ) | KILL (already-run) | +97.1%/12m (stockanalysis, Jul 6'26)
+2026-07-06 | Xiangxin Tech / Lucky Harvest (002965.SZ) | KILL (size-gate) | $1.11B revenue; humanoid exposure still at JV/R&D-center stage (Guangdong Academy of Sciences), no disclosed revenue share
+2026-07-06 | Far East Cable (600869.SH) | KILL (double: already-run + size-gate) | +407-413%/12m, $3.9B diversified cable/energy base, robot-harness line an undisclosed sliver; goodwill fully impaired, controlling shareholder disclosed share-reduction Mar 2026
+2026-07-06 | Siling (301550.SZ) | KILL (already-run) | +156.6%/12m (stockanalysis, Jul 3'26)
+2026-07-06 | Zhongding (000887.SZ) | KILL (size-gate) | $2.77B revenue; humanoid JV (XCC Group) just launched first-phase production line 2026, revenue negligible
+2026-07-06 | China Leadshine (002979.SZ) | KILL | no named humanoid/robotics buyer disclosed (company IR explicitly states "customers still being onboarded, small-batch orders" as of 2026); revenue overwhelmingly cyclical industrial servo/stepper (PV/lithium-battery capex-linked)
+2026-07-06 | **Keli Sensing (603662.SH)** | **WATCH (new, early-stage/optionality)** | uniquely SURVIVES gate 1: company-disclosed, press-corroborated Huawei embodied-intelligence design-win (sample delivered Sept'24 → tested/passed → order delivered Dec'24); explicitly denied Tesla rumors same period (Jan'25); robotics still <5% of $180M revenue base — dossier kb/companies/KELI.md
 
 2026-07-05 | Mega-cap compute (NVDA/TSM/AVGO/MU) | KILL | real forced spend but no revenue-multiplication for a small base + already priced
 2026-07-05 | Reducers Harmonic Drive/Nabtesco/THK/Hiwin | KILL | already re-rated +81–148%; market front-ran the humanoid-chokepoint thesis
