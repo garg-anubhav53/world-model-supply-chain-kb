@@ -1,18 +1,28 @@
 # PRICES CACHE — last-seen move/valuation (staleness window: 7 days)
-As of 2026-07-07 (Fire 27) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+As of 2026-07-08 (Fire 29) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
 
 ## Live WATCH candidates
 | Ticker | ~12m move | run-tag | note |
 |---|---|---|---|
-| HSAI | Fire 27: ~$16.15 (2-source: stockanalysis.com), near 52wk low, pre-split (split effective Jul 10 2026, 3 days out — verify next fire) | NOT-MOVED (continuing slide) — now the KB's strongest shortlist name, see kb/companies/HSAI.md | Litigation still pending, no ruling since Mar 19 2026 argument (~3.6mo). No new named-customer news since Jul 1. |
-| **MNTS (Momentus)** | Fire 27: $6.22 (2-source: stockanalysis.com + Google Finance), Jul 7 close, flat | NOT-MOVED on price | Fire 27: no new SEC filing (CIK 1781162, still Jun 18 2026) — 9th consecutive fire with no new dilution. Capture-rate weakness CONFIRMED (a "$3.5M DARPA expansion" headline traced to a stale Feb 2025 award). Aug 18 2026 Q2 print now the explicit keep/kill decision point. |
-| **464080.KQ (SOS Lab)** | Fire 27: ₩9,180 (Jul 7 close, 3-source: stockanalysis.com + Investing.com + TradingView) — NOT actually flat: -49.86% over 6 months | **DOWNGRADED Fire 27 — WATCH(weak), see kb/companies/SOSLAB.md** | H1 2026 revenue ₩2.1B vs ₩35.3B FY guide (<10% of target), op-loss ₩8.6B > revenue. Boston Dynamics leg confirmed dead (BD sources from Velodyne). |
-| NOVT | $161.72 (Jul 3 2026) → ~$161 (Jul 6 2026, Fire 27) | PARTIAL | Fire 27: confirmed member of NVIDIA Halos AI Systems Inspection Lab — new thesis-relevant positive (not yet a gate change) |
-| ON | $95.00 (Jul 6 2026) → ~$117 (Fire 27 read, pulled back ~21% off the Synaptics-deal pop) | PARTIAL | no new AV/camera-CMOS-specific news since 7/1 |
-| OMG.L | 39.50p → 39.5p (Fire 27, unchanged) | NOT-MOVED | no news since 7/1 |
-| KLIN.SW | 11.30 CHF (Jul 1 2026, unchanged Fire 27) | NOT-MOVED | no news since 7/1 |
-| **POCI (Precision Optics)** | $4.86 (Jul 7 2026, Fire 27, -2.0%) | NOT-MOVED — see kb/companies/POCI.md | Fire 27: record Q3, raised FY guide to $26-28M + $3.5M follow-on order (ophthalmic/satellite programs, not the Procept surgical-robotics buyer). No thesis catalyst. |
-| TKR (Spinea) | $138.06 (Jul 7 2026), ATH $146.37 | PARK | no Spinea-specific news |
+| HSAI | Fire 29: ~$16.15 (2-source), near 52wk low, pre-split (split effective Jul 10 2026, 2 days out at check — verify next fire) | NOT-MOVED — full staleness-guard re-derivation done this fire, see kb/companies/HSAI.md | Binding gate BROADENED beyond the litigation docket to the wider geopolitical/cyber-narrative posture (2026-07-07 CNBC piece). Financials clean, concentration improving, but growth decelerating (Q2 guide +20-27% vs +29.6% actual). |
+| **AIRG (Airgain)** | Fire 29: ~$5.94-5.98 (2-source), mkt cap ~$75M, unchanged | NOT-MOVED, see kb/companies/AIRG.md | Coco Robotics dollar/volume commitment still unquantified; capture-rate (sole vs 1-of-N) still unresolved. Next check: Q2 2026 earnings call. |
+| **MNTS (Momentus)** | Fire 29: $6.22 (2-source), flat | NOT-MOVED on price | 11th consecutive fire with no new SEC filing (CIK 1781162, still Jun 18 2026). Aug 18 2026 Q2 print remains the keep/kill decision point. |
+| **464080.KQ (SOS Lab)** | Fire 28: ₩9,180, -49.86% over 6mo (not re-checked Fire 29) | WATCH(weak), reason recharacterized Fire 28 — see kb/companies/SOSLAB.md | Fire 28 CORRECTED the "distress" framing (misdated H1-2025 data) — real liquidity ~₩47B, no capital impairment. Not re-touched this fire. |
+| NOVT | $161.72 (Jul 3 2026) → ~$161 (not re-checked Fire 29) | PARTIAL | NVIDIA Halos member (Fire 27) |
+| ON | ~$117 (not re-checked Fire 29) | PARTIAL | no new AV/camera-CMOS-specific news |
+| OMG.L | 39.50p (not re-checked Fire 29) | NOT-MOVED | no news |
+| KLIN.SW | 11.30 CHF (not re-checked Fire 29) | NOT-MOVED | no news |
+| **POCI (Precision Optics)** | Fire 28: $4.86 (not re-checked Fire 29) | NOT-MOVED — see kb/companies/POCI.md | Fire 28 staleness-guard CONFIRMED WATCH(weak), genuinely flat/range-bound. Not re-touched this fire. |
+| TKR (Spinea) | $138.06 (not re-checked Fire 29) | PARK | no Spinea-specific news |
+
+## On-deck / pending price watch
+| Ticker | ~12m move | run-tag | note |
+|---|---|---|---|
+| Seyond Holdings (2665.HK) | Fire 29: HK$3.16-3.18 (2-source), mkt cap ~$525-530M — UP slightly from ~$490M Fire 27 | NOT-MOVED toward the gate | Size gate ($300M cap) — gap widened, not narrowed. |
+| MicroVision (MVIS) | Fire 29: not independently re-priced (52wk $0.26-$1.73, mkt cap ~$117M as of Fire 28) | PARTIAL | Buyer name still explicitly withheld per 2026-07-07 shareholder letter; 2026-07-10 reverse-split/dilutive-note vote flagged. |
+| Zhu Cheng Technology (301280.SZ) | Fire 29: ¥40.77-48.54 (2-source), +69.89% to +88%/12m | KILL, price-gated (independently confirmed) | RECHECK FLAG resolved Fire 29 — stays killed on both causal-rigor and price grounds. |
+| Hanwei Technology/Nengsida (300007.SZ) | Fire 29: ¥39.26-39.56 (2-source), roughly flat/-10%/12m | KILL (causal-rigor fail, not price-gated) | RECHECK FLAG resolved Fire 29 — stays killed, aggregator claims unconfirmed at primary-source level. |
+| Interlink Electronics (LINK) | Fire 29: ~$57M mkt cap, not re-rated (surgical-robotics sweep) | WEAK-PENDING | Real disclosed FSR shipment to a surgical-robot platform, no buyer name yet. |
 
 ## Fire-24 found-and-gate-checked (KILL)
 | Ticker | ~12m move | run-tag | note |

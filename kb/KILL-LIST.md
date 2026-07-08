@@ -49,7 +49,8 @@ KULR Technology KULR (named buyer German Bionic went insolvent)
 Zhongda-Leader SZ-002896 众大力德 Zhongda Lide (Unitree supplier but too large + already-run)
 Shuanglin 300100.SZ 双林股份 (own IR: "暂无客户、无收入" — no customers, no revenue)
 Zhaowei 003021.SZ 兆威机电 (refuses to confirm customers; already 3-4x/12m; HK dual-listed)
-Zhu-Cheng 301280.SZ 珠城科技 (UBTECH exclusive connector JV: own IR "尚未形成实际销售收入" + already 2x/12m)
+Zhu-Cheng 301280.SZ 珠城科技 (UBTECH exclusive connector JV: own IR "尚未形成实际销售收入" + already 2x/12m; RECHECK FLAG RESOLVED Fire 29 — stays killed, independently re-confirmed at +69.89% to +88%/12m + JV still capacity-stage not revenue)
+Hanwei-Technology/Nengsida 300007.SZ 汉威科技 (refuses to name customers per 互动易 NDA-refusal reply, "无法擅自披露客户信息"; RECHECK FLAG RESOLVED Fire 29 — stays killed, aggregator claims of named Unitree/UBTECH shipments unconfirmed at primary-source level, company has publicly denied a rumored ¥500M humanoid order)
 Wolong 600580.SH 卧龙电驱 (media 35% Unitree claim; large-cap already +60%/2mo)
 Aishida 002403.SZ 爱仕达 (vague "全面战略合作协议" with Zhiyuan, no component/$)
 Namuga 190510.KQ 나무가 (already ~+163%/YTD, fails price gate)
@@ -141,6 +142,13 @@ SENASIC 6675.HK (automotive sensor SoC, unnamed "top 10 automakers" only + up ~7
 Robotphoenix (HKEX, robot MAKER not supplier, off-thesis)
 Hyperscale-Data GPUS (Omnipresent Robotics subsidiary — real AgiBot deal but WRONG DIRECTION: buyer/reseller of AgiBot's robots, not a supplier into AgiBot's BOM — new failure-pattern category, distinct from TAM-boilerplate)
 Haiqing-Zhiyuan 01392.HK 深圳海清智元科技 (ALIAS-TRAP: unrelated multispectral-AI company, NOT AgiBot/Zhiyuan Robotics — listed Jun 22 2026, +270% debut; do not confuse the two)
+Samhyun 437730.KQ 삼현 (Korean motion-control, real humanoid joint-actuator prototype orders but unnamed buyers + already +47%+/1mo)
+MengYing-Technology 盟英科技 (Taiwan, real Tesla Optimus 3 reducer supplier but private JV of already-killed Mirle/2464.TW + Hota/1536.TW, no ticker)
+Kopin-Corp KOPN (real named Carl Zeiss Meditec surgical-display buyer but already +150-204%/12m)
+Luna-Innovations LUNA (historical Intuitive Surgical fiber-optic supplier, relationship ended 2014-15, now financially distressed/deregistering)
+Kempower-Oyj KEMPOWR.HE (real Einride EV-charging supplier via customs record, but generic charging infra/diffuse buyer base, off-thesis)
+Zebra-Technologies ZBRA x Skild-AI ($20M robotics-automation divestiture Mar 2026, large-cap divestiture not a supplier design-win)
+Advantech 2395.TW (NVIDIA ecosystem member but ~$120M robotics pipeline vs ~$9.4B mkt cap, materiality fail)
 
 ## ON-DECK (1 gate away from qualifying — standing recheck triggers, not full kills)
 - **Seyond Holdings (2665.HK)** — clean sole-source NIO LiDAR disclosure (+SAIC-VW/GAC/Foton/Leapmotor), -80% de-rated from 52wk high. Blocked ONLY by size (~$490M vs $300M widened-bar cap). Recheck if it de-rates further.
@@ -149,8 +157,7 @@ Haiqing-Zhiyuan 01392.HK 深圳海清智元科技 (ALIAS-TRAP: unrelated multisp
 - **Sharpa Robotics** (Singapore, Hesai-founder spinout) — real named NVIDIA + Unitree design win + formal Hesai connected-party supply agreement. Blocked by being PRIVATE (no ticker). Recheck if it files for a public listing.
 
 ## RECHECK FLAGS (new claims contradict prior kill reasons — verify against primary source before acting)
-- **Hanwei Technology/Nengsida (300007.SZ)** — killed for "refuses to name customers (NDA)" but fresh aggregator sourcing (multiple independent posts) now claims specific named tactile-sensor/e-skin products shipped to Unitree + UBTECH. Recheck against a primary IR/prospectus source.
-- **Zhu Cheng Technology (301280.SZ)** — killed for "no actual sales revenue yet" but fresh press claims it is UBTECH's "exclusive high-density connector supplier," shipping >1M units/year. Recheck against a primary IR/prospectus source.
+(none currently open — Hanwei Technology/Nengside and Zhu Cheng Technology both RESOLVED Fire 29, see below, stay killed)
 
 ## CHINESE NAME ALIASES (common dedup traps — the same company under different romanizations)
 灵心巧手 = Lingxin Qiaoshou = LinkerBot = Linker Bionics (private, ~$3B val)
