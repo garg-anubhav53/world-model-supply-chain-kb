@@ -5,6 +5,8 @@ Created 2026-07-08 (Fire 36, first light dossier — on-deck since ~Fire 30) | V
 
 **Blocking gate:** market cap. Fire 36 2-source reading: **~$495-527M USD** (stockanalysis.com 2026-07-08: HK$3.000/share, 1.30B shares, HK$4.11B ≈ $527M; alt source 2026-07-02: HK$3.847B ≈ $493M). Essentially unchanged vs. prior fires' $502-524M — has NOT de-rated under $300M or the $350M widened bar.
 
+**Fire 37 update — gate still blocked, no new named customer:** market cap confirmed ~$500M (etnet.com.hk 2026-07-08: HK$3.91B ≈ $500M, 1,304,457,000 shares × HK$3.00), essentially flat — still ~1.7x the $300M cap. New volume disclosure (2026-07-07): Q2 2026 shipments ~271,100 LiDAR units, +385% YoY/+49% QoQ; non-auto (robotics/industrial) shipments ~32,300 units Jan-May 2026 (+1,177% YoY) — strong growth but a volume disclosure, not a new named customer (the unnamed May 2025 "leading Chinese auto group" deal remains unnamed). Hesai litigation (filed Oct 28 2025, Ningbo court) remains pending, no resolution found.
+
 **Price gate:** PASSES cleanly — HK$3.00 vs. 52wk high HK$17.88 = down ~83%, sitting at/near the 52wk low.
 
 **Fire 36 new negatives (weakens the eventual case even if size gate later flips):** FY2025 revenue $154M (-3.4% YoY), gross margin only 7.9% (up from -8.7% but still thin), net loss $328M (narrowed ~18% YoY but still large), "intense pricing pressure." Competitive rank: 2025 unit shipments Hesai 1.62M vs. RoboSense ~912K vs. Seyond only ~330K — a distant #3, with Hesai using self-developed chips to undercut on cost. Hesai has also filed litigation against Seyond ahead of its HK listing. NIO's own equity stake in Seyond crashed post-lockup.

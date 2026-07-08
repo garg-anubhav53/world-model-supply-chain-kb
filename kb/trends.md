@@ -1,6 +1,9 @@
 # TRENDS — specific sub-trends → implicated nodes/companies
 Make these SHARPER each run (name concrete capex events / production ramps). A tighter trend = a tighter causal link.
 
+## T18 — Tesla Optimus dexterous-hand tier-1 assembly ramp (Fire 37, first pass)
+Tesla's Optimus program is disclosing named tier-1 assembly-level suppliers for dexterous hands, not just raw components — Xinjian Transmission (新剑传动, pre-IPO ChiNext) went from a pure planetary-roller-screw vendor to a full assembly (screw+sensor+motor) supplier via a H2 2025 mass-production order (1,000+ units). This is a sharper signal than the earlier "sample-stage"/rumor-tier Tesla ties killed elsewhere in the KB (e.g. Laimu Co, MengYing) — a genuine primary-source production order, not investor-question inference. Un-crowded angle: watch for other Tesla dexterous-hand tier-1 assemblers disclosed via the SAME ChiNext/STAR-Market IPO-prospectus mining vector (Xinjian's own prospectus may name its sub-suppliers once filed) — this is a fresher vein than the well-picked-over Unitree/UBTECH/AgiBot buyer-prospectus corner.
+
 ## T1 — Humanoid actuator ramp (prototype → pilot production, 2026)
 Buyers: Figure (BotQ ~1 robot/90min), Apptronik, Neura, Unitree. Forces: actuators, strain-wave reducers, frameless motors + laminations, force-torque sensors, joint encoders, NdFeB magnets.
 Un-crowded links: gear machine-tools (make the reducers), encoder ICs (Melexis), motor laminations (Mitsui), ex-China magnets (Neo).

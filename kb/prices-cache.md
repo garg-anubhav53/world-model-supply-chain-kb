@@ -1,5 +1,18 @@
 # PRICES CACHE — last-seen move/valuation (staleness window: 7 days)
-As of 2026-07-08 (Fire 36) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+As of 2026-07-08 (Fire 37) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+
+## Fire 37 new gate-checks (killed/confirmed/promoted, see decisions-log.md)
+| Ticker | ~12m move | run-tag | note |
+|---|---|---|---|
+| MNTS (Momentus) | $6.22 (2026-07-07/08, 2-source), mkt cap ~$100.9-110M, down ~85-95% off 52wk high | RAN — 2nd staleness-guard re-derivation, KILLED | Share count tripled (5.84M→16.22M) in ~4 months, no forced buyer ever emerged. See kb/companies/MNTS.md. |
+| Xinjian Transmission (新剑传动, pre-IPO) | no ticker yet, pre-IPO | RAN — widened-bar reassessment, PROMOTED to WATCH | Named buyer = Tesla, H2 2025 mass-production order. Post-IPO est. mkt cap ¥5-10B/~$700M-1.4B. See kb/companies/XINJIAN.md. |
+| HSAI (Hesai) | $16.15 (2026-07-07 close, pre-split), split effective 2026-07-10 (not yet executed) | NOT-MOVED | Confirmed 2-source (stockanalysis.com, MarketBeat). |
+| NOVT (Novanta) | $147.85 (2026-07-07 close, -10.3%) | RESOLVED — sector contagion, not fundamental | 2 sources now agree ($147.85); explained by Jul 7 broad semicap/AI-capex sell-off (Samsung earnings/DeepSeek reports), not company-specific. |
+| AIRG (Airgain) | earnings Aug 7 (release)/Aug 11 (call) confirmed on track | NOT-MOVED | No new 8-K since Jun 11 2026 (routine annual-meeting results). |
+| 464080.KQ (SOS Lab) | ₩8,700 (2026-07-08, 3:29-3:30pm KST, -5.23%) | RECONCILED | 2 sources now agree (Investing.com KR, stockanalysis.com); prior ₩9,770 figure was stale/incorrect. |
+| 2665.HK (Seyond Holdings) | HK$3.00 (2026-07-08), mkt cap ~$500M | PARTIAL — on-deck, unchanged | Still ~1.7x the $300M cap; new Q2 volume disclosure (+385% YoY shipments), no new named customer. |
+| MVIS (MicroVision) | mkt cap ~$117M, cash $46.1M + $42M ATM | PARTIAL — on-deck, unchanged | New Luminar-Caterpillar circumstantial thread found, buyer still unnamed. Jul 10 2026 vote still pending. |
+| 2451.HK (Luyuan Group Holdings) | mkt cap ~HK$6.5B/~$830M | NEW — pending verification | China e-bike maker → Youlu/Deer Robotics reducer deal, buyer legitimacy unconfirmed. |
 
 ## Fire 36 new gate-checks (killed/confirmed/downgraded, see decisions-log.md)
 | Ticker | ~12m move | run-tag | note |
