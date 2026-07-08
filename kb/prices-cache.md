@@ -1,5 +1,15 @@
 # PRICES CACHE — last-seen move/valuation (staleness window: 7 days)
-As of 2026-07-08 (Fire 30) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+As of 2026-07-08 (Fire 31) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+
+## Fire 31 new gate-checks (killed/pending, not live WATCH)
+| Ticker | ~12m move | run-tag | note |
+|---|---|---|---|
+| 4976.TW (Calin Technology) | ~NT$36.60 (cnyes) / NT$36.55 (Yahoo), mkt cap ~NT$5.17B, flat vs Fire 30 | RAN — killed, see kb/companies/CALIN.md | Waymo tie never 2nd-sourced; management guided flat 2026 revenue. |
+| 603633.SH (Laimu Co) | ~¥6.26, mkt cap ~¥2.72B (~$375M), 1yr -29.1%, near 52wk low ¥6.21-13.37 | RAN — found-and-killed same fire, see kb/companies/LAIMU.md | De-rating reflects real deteriorating fundamentals (FY25 net loss -¥148.5M), not an undiscovered gem. |
+| 002664.SZ (Xinzhi Group) | ~¥17.8-19.88 (2 dates), mkt cap ~¥7.3-8.1B, ~-32%/12m | PARTIAL — weak-watch/PENDING, unchanged | Price gate passes; Huawei/Unitree relationship still R&D-stage. |
+| 2665.HK (Seyond Holdings) | HK$3.00-3.04, mkt cap ~HK$3.97B (~$505M), -68.96% YTD | PARTIAL — on-deck, unchanged | ~$205M over the $300M widened-bar WATCH cap; blocked on size only. |
+| MVIS (MicroVision) | not independently re-priced this fire (buyer-name gate is binding, not price) | PARTIAL — on-deck, unchanged | Buyer freshly reconfirmed undisclosed 2026-07-07. |
+| MNTS (Momentus) | $6.22 (2-source: stockanalysis.com, Google Finance, Jul 7 close), 12m ~-50%, 6m ~-20% | RAN — WATCH-weak/lean-KILL, see kb/companies/MNTS.md | Mkt cap ~$110-117M (KB's prior "$50-70M" was stale — rise is dilution, not re-rating). |
 
 ## Fire 30 new gate-checks (killed/pending, not live WATCH)
 | Ticker | ~12m move | run-tag | note |

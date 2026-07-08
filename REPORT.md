@@ -1,60 +1,62 @@
 # REPORT — most interesting live ideas (curated; freshest first)
-*Updated 2026-07-08, Fire 29. 9 live WATCH names, target 15 — no net-new addition this fire, but 2 open recheck flags resolved and the KB's longest-tenured shortlist name got a genuine full re-derivation.*
+*Updated 2026-07-08, Fire 31. 9 live WATCH names, target 15 — no net-new addition this fire (3rd consecutive), but 2 KILLs and a major shortlist downgrade mark real conviction-track progress.*
 
 ## Where we stand (honest)
-Thesis INTACT. This fire found no new addable WATCH candidate — but that's a search-breadth result, not a thesis failure: two fresh angles (surgical-robotics supply chain, a LatAm 3rd pass) were genuinely tested and came back thin/exhausted, which is itself useful signal about where NOT to spend future budget. The fire's real progress was in rigor, not breadth.
+Thesis INTACT. This fire found no new addable WATCH candidate — but that's a search-breadth result, not a thesis failure. The real work this fire was rigor: resolving a stale PENDING to a clean KILL, catching an overhyped sourcing claim before it entered the pipeline, and running the KB's first-ever genuine full re-derivation on its longest-tenured shortlist name (Momentus) — which found the underlying causal thesis was softer than 14 fires of accumulated narrative implied.
 
-**Both open RECHECK FLAGS from Fire 28 were resolved.** Hanwei Technology/Nengsida (300007.SZ) and Zhu Cheng Technology (301280.SZ) had fresh aggregator claims contradicting their prior KILL reasons (named Unitree/UBTECH shipments for Hanwei; a >1M-units/year exclusive UBTECH connector deal for Zhu Cheng). Two independent scouts — a Sonnet sourcing scout and an adversarial Opus dive, working blind to each other — both traced the claims to unconfirmed retail/aggregator posts with no primary 互动易/IR source. Both companies stay KILLED. Zhu Cheng is also now independently confirmed price-gated (+69.89% to +88%/12m across two sources).
+**Calin Technology (4976.TW) resolved PENDING→KILL.** Fire 30 logged it as WATCH-weak/PENDING on an unconfirmed single-sourced DigiTimes claim that Calin was Waymo's sole camera-lens supplier. This fire found the decisive disconfirming evidence: a 2026-06-27 Commercial Times management interview that (a) never mentioned Waymo despite a direct opportunity to validate the claim, instead pivoting the company's growth narrative to drones/low-altitude-economy, and (b) explicitly guided full-year 2026 revenue **flat**. Two years of zero corroboration plus management's own flat guidance kills the thesis on both the causal-link and multiplication legs.
 
-**HSAI got its first genuine full staleness-guard re-derivation in many fires**, not just a price/litigation-docket refresh. It confirms WATCH, but the binding gate has genuinely broadened: beyond the still-pending D.C. Circuit ruling (Docket 25-5256), a 2026-07-07 CNBC piece raised a cybersecurity/spoofing narrative that could keep the geopolitical overhang alive even if HSAI wins its appeal. The re-derivation also found real positives worth noting: customer concentration is genuinely improving (top-5 customers now 55.8% of FY2025 revenue, down from 67.5% in FY2023), and the company absorbed the collapse of its former #1 customer (28.4%→<5% of revenue) while still growing revenue ~46%. But growth is decelerating (Q2 2026 guidance implies +20-27% vs. +29.6% actual Q1) and net margin is thin (2.7% GAAP) — this is a thin-margin unit-volume ramp, not a margin-expansion story.
+**Laimu Co (徕木股份/603633.SH) found-and-killed same fire — a useful sourcing-discipline catch.** A China A-share scout reported it as an "exclusive supplier of dexterous-hand joint connectors to UBTECH Walker X and Unitree Go1." Full diligence found that claim traced to an *unconfirmed investor question* in a 互动易 thread — the company itself never confirmed it, replying only with a boilerplate disclaimer. Real confirmed exposure is AgiBot at sample-stage and Robot Era for cosmetic (not connector) parts — commodity content, non-exclusive, and the multiplication math is off by 1-2 orders of magnitude against a company that just swung to a ¥148.5M net loss. Standing lesson for future scouts: always trace a 互动易-sourced buyer claim to the company's own reply, not the investor's framing of the question.
+
+**Momentus (MNTS) downgraded WATCH→WATCH-weak/lean-KILL** after its first genuine full re-derivation since Fire 18 (it's been on the shortlist since Fire 17, 14 fires, mostly on status-checks rather than fundamentals re-pulls). The re-derivation found Gate 2 — forced-buyer capture, the gate that defines this entire thesis — is confirmed FAILING: no named captive buyer exists, real revenue is elective/competitive rideshare where Momentus is one-of-many against SpaceX/D-Orbit/Impulse/Vast, and the differentiating robotic-arm IP belongs to a private partner (Lodestar Space), not Momentus. It stays off an immediate KILL only because solvency (Gate 4) and paper revenue growth (Gate 3, off a tiny base) still clear — but the Aug 18 2026 Q2 print is now an explicit **KILL-UNLESS-PROVEN** checkpoint, not just a decision point.
 
 ## BUY candidates
 None yet cleared all 4 gates cleanly.
 
 ## Live / next-up (best current ideas)
-- **HSAI (Hesai Group)** — dominant China LiDAR, broadest named-buyer base in the KB. Price ~$16.15, near 52wk low, split still pending (2 days out, effective Jul 10 2026). **Binding gate BROADENED this fire**: no longer just the D.C. Circuit litigation, now the wider US geopolitical/cyber-narrative posture. Customer concentration genuinely improving; growth decelerating.
-- **Airgain (AIRG, Nasdaq)** — micro-cap RF/antenna maker (~$75M mkt cap), real SEC-disclosed design win with Coco Robotics. Re-checked this fire: no new quantification of the dollar commitment, capture-rate still genuinely unresolved (not confirmed sole-source, but no competing vendor named either). Stays WATCH — next real catalyst is the Q2 2026 earnings call.
-- **Momentus (MNTS, Nasdaq)** — space-robotics integration micro-cap. Price $6.22, unchanged. 11th consecutive fire with no new dilution filing. **Aug 18 2026 Q2 earnings remains the explicit keep/kill decision point.**
-- **SOS Lab (464080.KQ)** — Korean LiDAR maker. Not re-touched this fire (Fire 28 corrected its "distress" framing to "broken revenue thesis"); stays WATCH(weak).
-- **Precision Optics (POCI, Nasdaq)** — medical-robotics optics. Not re-touched this fire (Fire 28's staleness guard confirmed genuinely flat price); stays WATCH(weak).
+- **HSAI (Hesai Group)** — dominant China LiDAR, broadest named-buyer base in the KB. Not re-touched this fire; carries forward Fire 29's full staleness-guard re-derivation. Price ~$16.15 pre-split (8-for-1 split effective Jul 10 2026 — verify next fire).
+- **Airgain (AIRG, Nasdaq)** — micro-cap RF/antenna maker (~$75M mkt cap), real SEC-disclosed design win with Coco Robotics. Not re-touched this fire. Binding gate to promote further: quantify the dollar commitment — next check Q2 2026 earnings call.
+- **Momentus (MNTS, Nasdaq)** — **DOWNGRADED this fire** (see above). Price $6.22, mkt cap ~$110-117M (a KB-accuracy correction — the prior "$50-70M" figure was stale; the rise is dilution, not re-rating). **Aug 18 2026 Q2 print is now a KILL-UNLESS-PROVEN checkpoint.**
+- **SOS Lab (464080.KQ)** — Korean LiDAR maker. Not re-touched this fire; stays WATCH(weak) on Fire 28's corrected "broken revenue thesis" framing.
+- **Precision Optics (POCI, Nasdaq)** — medical-robotics optics. Not re-touched this fire; stays WATCH(weak) on Fire 28's staleness-guard confirmation.
 
 ## Pending — fresh leads needing a filing or named-buyer disclosure before a full gate-check
-- **On-deck, 1 gate from WATCH: Seyond Holdings (2665.HK)** — sole-source NIO LiDAR disclosure. Rechecked this fire: mkt cap actually ~$525-530M, UP slightly from ~$490M — the gap to the $300M cap widened, not narrowed.
-- **On-deck, 1 gate from WATCH: MicroVision (MVIS)** — $117M mkt cap, real MDA for lidar into autonomous hauling trucks. Rechecked this fire: a 2026-07-07 shareholder letter explicitly confirms the buyer stays undisclosed "for competitive-sensitivity reasons." New flag: a dilutive reverse-split/note-repayment vote at the 2026-07-10 Annual Meeting.
-- **NEW Fire 29: Interlink Electronics (LINK)** — ~$57M mkt cap, debt-free, not re-rated. Real disclosed (2026-03-26) shipment of "a second-generation custom FSR solution for a leading robotic-assisted surgery platform" — no buyer name yet, the first find from a new surgical-robotics sourcing angle.
-- **NEW Fire 29: Chun Yuan-KY (4571.TW)** — Taiwan precision-gear maker, prospective (unconfirmed) US-humanoid dexterous-hand-gear sampling.
-- Sharpa Robotics, AEye (LIDR), Blue Dot Touch Control, Kunwei Technology, PaXini Tech — unchanged since Fire 28.
-- **UVision Air** — still unfiled, filing window remains LIVE, valuation raised to $3.5-4B (from $3-3.5B).
-- **Quantum Space (Nasdaq: IPFX→QSPC)** — no S-4 yet; SPAC close targeted Q4 2026.
-- **Xtend (JFB)** — Gauntlet II Fort Carson trial CONFIRMED scheduled for August 2026; amended S-4 still not effective.
-- **Lingxin Qiaoshou (灵心巧手)**, **Tesollo Inc. (Korea)** — unchanged.
-- **Weak forward-listing leads (no named buyer yet):** Seer Robotics (06106.HK), LDROBOT (01236.HK), Dobot, Korean Hyundai camera-module trio, Vueron Technology, DeepRoute.ai, DSIT Solutions and ASIO (Israel).
+- **On-deck, 1 gate from WATCH: Seyond Holdings (2665.HK)** — sole-source NIO LiDAR disclosure. Rechecked this fire: mkt cap ~$505M (2-source), essentially flat vs Fire 30, still ~$205M over the $300M cap.
+- **On-deck, 1 gate from WATCH: MicroVision (MVIS)** — real MDA for lidar into autonomous hauling trucks. Rechecked this fire: a 2026-07-07 shareholder Q&A freshly reconfirms the buyer stays undisclosed.
+- **UVision Air** — still unfiled; the "second week of July" filing window is now OVERDUE as of 2026-07-08. Valuation $3.5-4B (one report cites up to $5B). Highest-priority daily check.
+- **Quantum Space (Nasdaq: IPFX→QSPC)** — SPAC economics now public (pre-money $600M), but S-4 itself still not filed.
+- **Xtend (JFB)** — formally advanced to Gauntlet II qualification (Aug 2026, Fort Carson); amended S-4 still not effective.
+- **Blue Dot Touch Control, Kunwei Technology, PaXini Tech, Sharpa Robotics** — all closed fresh funding rounds this fire (PaXini now a >¥10B unicorn) but remain private; Blue Dot now explicitly targets a ~2028 STAR Market IPO.
+- **State Grid's 24-unit distribution-network sub-tender** — bid-opening now dated 2026-07-13, worth a direct recheck for a named winner; the main ¥68bn/8,500-unit tender's winner disclosure still due ~Jul 31 2026.
+- **Interlink Electronics (LINK), Chun Yuan-KY (4571.TW), Xinzhi Group (信质集团/002664.SZ — R&D-stage torque-motor tie to Huawei/Unitree)** — all unchanged.
+- **Weak forward-listing leads (no named buyer yet):** Seer Robotics (06106.HK), LDROBOT (01236.HK), Dobot, Korean Hyundai camera-module trio, Vueron Technology, DeepRoute.ai, ASIO (Israel), Adastec (Turkey, private — still shows no listing signal, ~$3.81M total funding).
 
 ## WATCH (real but not a buy today)
 - **OMG.L (Vicon)**, **KLIN.SW (Klingelnberg)**, **NOVT**, **ON** — not re-touched this fire.
 
 ## Killed / rejected this run (see kb/decisions-log.md and kb/KILL-LIST.md for full reasoning)
-- **Hanwei Technology/Nengsida (300007.SZ), Zhu Cheng Technology (301280.SZ)** — RECHECK FLAGS resolved via 2 independent verifications, both stay KILLED (Zhu Cheng also independently price-gated).
-- **Samhyun (KOSDAQ: 437730)** — price-gated + unnamed buyers. **MengYing Technology** — real Tesla Optimus 3 supplier but a private JV, not tradable. **Kopin Corp (KOPN), Luna Innovations (LUNA)** — surgical-robotics sweep, both real-but-fail (price-gated / distressed). **Kempower Oyj** — off-thesis generic EV-charging infra. **Zebra Technologies→Skild AI divestiture, Advantech (2395.TW)** — off-thesis/materiality fail.
+- **Calin Technology (4976.TW)** — resolved PENDING→KILL, Waymo tie never 2nd-sourced + management's own flat 2026 guidance.
+- **Laimu Co (徕木股份/603633.SH)** — found-and-killed same fire, sourcing claim didn't survive diligence, now loss-making.
+- **Motional, Aurora Innovation, Nuro (ImportYeti customs check)** — all confirmed dead ends, including a name-collision false-match on Aurora Innovation.
+- **Turkey/BIST broader sweep (ASELSAN, Altınay Savunma, BAYRK)** — ASELSAN too large/re-rated, Altınay fails causal+financial gates, BAYRK a false lead (unrelated shoe-sole maker).
 
 ## Promoted / demoted this run
-No promotions or demotions this fire. Two RECHECK FLAGS resolved (both confirmed stay KILLED, not a status change but real diligence work). HSAI's binding-gate description updated (broadened) without a status change (stays WATCH).
+**Momentus (MNTS) DOWNGRADED** WATCH → WATCH-weak/lean-KILL (score 4→3) — the only status change this fire. No promotions.
 
 ## Confirmed dead-end / closed vectors this run
-Cursor=11 (TIC/certification) — re-confirmed no fresh trigger. Surgical-robotics supply chain (D4, first-ever sweep) — tested thin, one marginal lead. LatAm geography (3rd pass) — CONFIRMED EXHAUSTED, structural (B3/BMV IPO windows frozen, USAR not yet closed/already re-rated/US-listed). NVIDIA-ecosystem sweep — negative, roster is mega-cap/private. Waabi/Plus.ai customs lookups — no matching page found, likely genuine dead ends (no US customs footprint).
+Consumables/aftermarket (ring item #2) re-confirmed idle — 2nd confirmation since Fire 9. Motional/Aurora/Nuro customs lookups closed (FRESH-ANGLES #4 untested-targets list now exhausted). Turkey/BIST geography deepened and re-closed pending a new trigger.
 
 ## Confirmed PRODUCTIVE vectors this run (repeat / build on)
-**Independent double-verification of recheck flags** — running a Sonnet scout AND an Opus adversarial dive blind to each other on the same open question produced high-confidence resolution; worth reusing for any future contested claim. **ImportYeti r.jina.ai proxy** — confirmed still working, but only via raw curl through Bash (the WebFetch tool 401s on it) — an important tooling correction for future fires. **EDGAR EFTS buyer-paired queries** — generalized a new false-positive pattern ("competitor-list boilerplate") worth filtering fast in future sweeps.
+**EDGAR+互动易 China A-share buyer scan** — found a real lead (Laimu), even though it didn't survive diligence; the method works, but requires tracing claims to the company's actual reply, not the investor's question framing. **Staleness-guard full re-derivation** (2nd use in KB history, after HSAI Fire 29) — found Momentus's thesis was genuinely weaker than accumulated status-checks implied; worth running proactively on other long-tenured names, not just when a fire has spare capacity.
 
 ## Method gap flagged (not a tested-negative)
-Standards-body roster mining remains the standing tooling gap from prior fires (needs an authenticated SAE/IEEE-SA/AUTOSAR account). New tooling correction (not a gap): the WebFetch tool cannot reach r.jina.ai (401) — use Bash/curl instead for that proxy.
+Standards-body roster mining remains the standing tooling gap from prior fires (needs an authenticated SAE/IEEE-SA/AUTOSAR account).
 
 ## Next sourcing vectors (queued, priority order)
-1. **Seyond Holdings and MicroVision are the two closest on-deck names** — each blocked by exactly one gate; standing recheck triggers logged.
-2. **UVision Air's filing window remains LIVE** — recheck every 2-3 days; valuation now $3.5-4B.
-3. **State Grid's ¥68bn/8,500-unit humanoid-inspection-robot tender** (corrected figure) — winning-bidder disclosure due ~Jul 31 2026.
-4. Rotation cursor now **12** — NODE: production-test/calibration + edge/onboard thermal, already tested Fire 12 — check for a fresh trigger before re-running, otherwise apply an idle-dimension override.
-5. Retry customs/bill-of-lading (curl-based r.jina.ai proxy) on any remaining untested merchant AV fleets.
-6. Continue monitoring Xinjian, Weimao, Landai, HSAI litigation docket + post-split price, Xtend's Fort Carson trial (August 2026), Agility/Quantum Space/D-Fend transaction progress.
-7. Interlink Electronics (LINK), Chun Yuan-KY (4571.TW) — recheck if either discloses a named buyer.
-8. Korean Hyundai camera-module trio — follow up for a formal 공시.
+1. **UVision Air's filing window is now OVERDUE** — recheck daily, the single highest-value near-term trigger; valuation $3.5-4B.
+2. **State Grid's 24-unit sub-tender bid-opening (2026-07-13)** — recheck directly for a named winner.
+3. **Seyond Holdings and MicroVision are the two closest on-deck names** — each blocked by exactly one gate; standing recheck triggers logged.
+4. Rotation cursor now **3** — GEOGRAPHY: India round 2 (CLOSED Fire 10) — check for a fresh trigger before re-running, otherwise apply an idle-dimension override.
+5. **Momentus's Aug 18 2026 Q2 print is now a KILL-UNLESS-PROVEN checkpoint** — needs a materially larger directed/sole-source award or genuine recurring-revenue conversion, else default action is KILL.
+6. Continue monitoring Xinjian, Weimao, Landai, HSAI litigation docket + post-split price, Xtend's Gauntlet II delivery window, Agility/Quantum Space/D-Fend transaction progress.
+7. Interlink Electronics (LINK), Chun Yuan-KY (4571.TW), Xinzhi Group — recheck if any discloses a named buyer/production order.

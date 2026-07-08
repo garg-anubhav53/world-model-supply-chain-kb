@@ -156,6 +156,8 @@ Hanyu-Group/Tongchuan 300403.SZ 汉宇集团/同川科技 (EngineAI/Xiaopeng/Xia
 Yunzhihui-Technology 01037.HK (UBTECH manufacturing/sales JV partner, not a component supplier; already +107.55% on announcement day)
 Dafeng-Industry 603081.SH 大丰实业 (AgiBot robot-in-tourism JV but distribution/integration deal not component supply, revenue -31.55% YoY)
 Jinghua-New-Material 603683.SH 晶华新材 (real AgiBot e-skin showcase product via Jingzhigan subsidiary, but already +200%+ off 52wk low, price-gate fail)
+Calin-Technology 4976.TW 佳凌科技 (KILLED Fire 31: Waymo camera-lens "sole supplier" claim never 2nd-sourced in ~2yr, management's own 2026-06-27 interview gave flat 2026 revenue guidance and pivoted growth narrative to drones — thesis dead on both causal-link and multiplication legs)
+Laimu-Co 603633.SH 徕木股份 (KILLED Fire 31, found-and-killed same fire: "exclusive UBTECH/Unitree dexterous-hand connector supplier" claim traced to an unconfirmed investor question, not a company disclosure; real exposure is sample-stage AgiBot + cosmetic parts for Robot Era only; multiplication math off by 1-2 orders of magnitude; now loss-making -¥148.5M FY25, TTM NI -¥203M)
 
 ## ON-DECK (1 gate away from qualifying — standing recheck triggers, not full kills)
 - **Seyond Holdings (2665.HK)** — clean sole-source NIO LiDAR disclosure (+SAIC-VW/GAC/Foton/Leapmotor), -80% de-rated from 52wk high. Blocked ONLY by size (~$490M vs $300M widened-bar cap). Recheck if it de-rates further.
@@ -168,8 +170,8 @@ Jinghua-New-Material 603683.SH 晶华新材 (real AgiBot e-skin showcase product
 ## RECHECK FLAGS (new claims contradict prior kill reasons — verify against primary source before acting)
 (none currently open — Hanwei Technology/Nengsida and Zhu Cheng Technology both RESOLVED Fire 29, see below, stay killed)
 
-## CUSTOMS/BILL-OF-LADING DEAD ENDS (Fire 30 — buyer names checked via ImportYeti r.jina.ai/curl method, no further retry needed)
-EasyMile (only 3rd-party supplier is TLD Europe/Alvest Group, PRIVATE) · Cruise/GM (robotaxi ops shut down, stale suppliers) · Boston Dynamics (captive to parent Hyundai + mega-cap diffuse suppliers) · Torc Robotics (captive to parent Daimler Truck) · WeRide, Pony.ai (customs shipments are internal-subsidiary-only; WeRide itself already public/NASDAQ:WRD) · Serve Robotics, Starship Technologies, Navya, Seegrid, Agility Robotics, Apptronik, Oxbotica (all noise/generic/mega-cap-diffuse suppliers on customs lookup)
+## CUSTOMS/BILL-OF-LADING DEAD ENDS (Fire 30-31 — buyer names checked via ImportYeti r.jina.ai/curl method, no further retry needed)
+EasyMile (only 3rd-party supplier is TLD Europe/Alvest Group, PRIVATE) · Cruise/GM (robotaxi ops shut down, stale suppliers) · Boston Dynamics (captive to parent Hyundai + mega-cap diffuse suppliers) · Torc Robotics (captive to parent Daimler Truck) · WeRide, Pony.ai (customs shipments are internal-subsidiary-only; WeRide itself already public/NASDAQ:WRD) · Serve Robotics, Starship Technologies, Navya, Seegrid, Agility Robotics, Apptronik, Oxbotica (all noise/generic/mega-cap-diffuse suppliers on customs lookup) · **Motional** (Fire 31: supplier records are entirely related-party Hyundai entities — Hyundai Mobis, Hyundai Motor Company, Hyundai Motor Group Innovation) · **Aurora Innovation** (Fire 31: ImportYeti's "aurora-innovation" record is a false match — an unrelated Oregon textile/agri-chemical importer, not the Pittsburgh AV trucking company) · **Nuro** (Fire 31: supplier records are mega-cap only — BYD Auto Industrial, Pegatron, Delta Electronics Jiangsu; 2 quasi-candidates HL Mando and Cooler Master both fail size/re-rating gates, Cooler Master already off-thesis)
 
 ## CHINESE NAME ALIASES (common dedup traps — the same company under different romanizations)
 灵心巧手 = Lingxin Qiaoshou = LinkerBot = Linker Bionics (private, ~$3B val)
