@@ -114,6 +114,43 @@ Dobot (no named external buyer yet — PENDING only)
 Samsung SDI LG Energy Solution (too large)
 CATL BYD (China-listed, too large, inaccessible for most investors)
 Wolong (see above)
+Fenglong-Co 002931.SZ 锋龙股份 (real UBTECH 43% controlling-stake tie, but mkt cap ~$2.18B + 355%/12m — 7x over widened-bar size cap, already priced)
+Green-Harmonic 688017.SS 绿的谐波 (dup of Leaderdrive above; too large ¥89.5B)
+Fulin-Precision 300432.SZ 富临精工 (AgiBot joint-module supplier but already-run + diversified auto-parts base)
+Orbbec 688322.SH 奥比中光 (real Unitree/UBTECH vision supplier but too large/diversified, FY2025 rev ¥9.4bn)
+Wanma 002276.SZ 万马股份 (real Unitree cable supplier, NDA-refuses named customer + size/concentration fail)
+Moons-Electric 603728.SH 鸣志电器 (hollow-cup motor supplier claim but too large ¥26.5B + margin compression)
+Best-Precision 300580.SZ 贝斯特 (Yuhua Precision subsidiary, ball-screw supplier but momentum already running, WEAK-PENDING not KILL)
+Huayi-Technology 688071.SH 华依科技 (IMU supplier to Zhiyuan/AgiBot but sell-the-news pop-fade + margin compression, WEAK-PENDING not KILL)
+Weifeng-Electronics 301328.SZ 维峰电子 (FALSE-POSITIVE TRAP: company explicitly denies any Unitree business relationship)
+Jingduan-Precision-Forging 300258.SZ 精锻科技 (UBTECH reducer collab claim but zero sales revenue, R&D stage)
+Siling 301550.SZ 斯菱股份 (UBTECH reducer partner but already-run ~10x, P/E 146x)
+Dechang 605555.SH 德昌股份 (motor supplier claim but UBTECH not named in primary source, pre-revenue)
+Wanji-Technology 300552.SZ 万集科技 (real Unitree lidar design-win but too large ¥56.6B, primarily AV-lidar business)
+Changsheng-Bearing 300718.SZ 长盛轴承 (real Unitree bearing supplier but materiality <1% + extreme price gate, serial re-rater, hit fresh limit-up Jul 2026)
+Zhejiang-XCC 603667.SH 五洲新春 (Tesla Tier-2 planetary-roller-screw supplier via Bosch but +300%+ already-run, Q1 profit down >18% YoY)
+Everwin-Precision 300115.SZ 长盈精密 (real Figure AI disclosure, cleanest-looking this fire, but mkt cap $7.5B + materiality fail — humanoid rev ¥80M vs multi-billion base)
+Shuanghuan-Transmission 002472.SZ 双环传动 (real Unitree exclusive-reducer + Tesla Optimus validation, well-evidenced, but mkt cap $5.6B + near 52wk high)
+Rongtai 603119.SH 浙江荣泰 (Tesla mica-insulation supplier, Diz Precision robotics entry, but own IR admits robotics rev only 4.27% of total)
+Zhenyu-Technology 300953.SZ 震裕科技 (Tesla/Xiaomi supply-chain rumor, NDA-refuses to confirm + actuator module still in supplier-qualification review)
+Mianxin 688286.SH 敏芯股份 (MEMS tactile/force sensors for Optimus dexterous hand, but R&D-stage only, no shipped product/revenue)
+Mirle-Automation 2464.TW (Tesla Optimus harmonic-reducer/joint-module supplier but mkt cap ~$1.0B + re-rated NT$53→206)
+Asia-Optical 3019.TW (Tesla lens supplier claim but mkt cap ~$1.2B)
+Jiangsu-New-Vision 2632.HK (HUD/camera cockpit supplier, BYD/Li Auto/NIO named but off-thesis cockpit-display + mkt cap ~$661M)
+SENASIC 6675.HK (automotive sensor SoC, unnamed "top 10 automakers" only + up ~72% since IPO)
+Robotphoenix (HKEX, robot MAKER not supplier, off-thesis)
+Hyperscale-Data GPUS (Omnipresent Robotics subsidiary — real AgiBot deal but WRONG DIRECTION: buyer/reseller of AgiBot's robots, not a supplier into AgiBot's BOM — new failure-pattern category, distinct from TAM-boilerplate)
+Haiqing-Zhiyuan 01392.HK 深圳海清智元科技 (ALIAS-TRAP: unrelated multispectral-AI company, NOT AgiBot/Zhiyuan Robotics — listed Jun 22 2026, +270% debut; do not confuse the two)
+
+## ON-DECK (1 gate away from qualifying — standing recheck triggers, not full kills)
+- **Seyond Holdings (2665.HK)** — clean sole-source NIO LiDAR disclosure (+SAIC-VW/GAC/Foton/Leapmotor), -80% de-rated from 52wk high. Blocked ONLY by size (~$490M vs $300M widened-bar cap). Recheck if it de-rates further.
+- **MicroVision (MVIS)** — $117M mkt cap, not re-rated, real Jun 10 2026 Master Development Agreement for lidar into an OEM's autonomous hauling trucks. Blocked ONLY by an unnamed OEM buyer. Recheck 8-Ks for the buyer name.
+- **AEye (Nasdaq: LIDR)** — NVIDIA Halos AI Systems Inspection Lab member, ~$62M mkt cap, +35.85%/12m. Blocked by no named buyer for its real ~$30M OEM design-win opportunity (Halos membership itself is certification, not a purchase order). Recheck for the OEM name.
+- **Sharpa Robotics** (Singapore, Hesai-founder spinout) — real named NVIDIA + Unitree design win + formal Hesai connected-party supply agreement. Blocked by being PRIVATE (no ticker). Recheck if it files for a public listing.
+
+## RECHECK FLAGS (new claims contradict prior kill reasons — verify against primary source before acting)
+- **Hanwei Technology/Nengsida (300007.SZ)** — killed for "refuses to name customers (NDA)" but fresh aggregator sourcing (multiple independent posts) now claims specific named tactile-sensor/e-skin products shipped to Unitree + UBTECH. Recheck against a primary IR/prospectus source.
+- **Zhu Cheng Technology (301280.SZ)** — killed for "no actual sales revenue yet" but fresh press claims it is UBTECH's "exclusive high-density connector supplier," shipping >1M units/year. Recheck against a primary IR/prospectus source.
 
 ## CHINESE NAME ALIASES (common dedup traps — the same company under different romanizations)
 灵心巧手 = Lingxin Qiaoshou = LinkerBot = Linker Bionics (private, ~$3B val)

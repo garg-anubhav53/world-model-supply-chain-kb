@@ -71,11 +71,21 @@ First pass (Fire 22) found Sinbon/3023.TW and BizLink/3665.TW but NDA'd customer
 ## KEY CATALYSTS TO MONITOR (time-sensitive)
 | Event | What to check | Timing |
 |---|---|---|
+| UVision Air F-1 | Filing window is NOW LIVE ("second week of July") — shorten recheck cadence to 2-3 days | Imminent, highest-priority near-term trigger |
 | HSAI 8-for-1 split | Verify executed Jul 10 2026; check post-split price for re-entry | Jul 10 2026 |
-| HSAI 1260H ruling | D.C. Circuit No. 25-5256 — oral argument was ~Mar 2026, ruling still pending | Ongoing |
-| UVision Air F-1 | Daily EDGAR company search; expect "second week of July" per press | Imminent |
-| SOS Lab going-concern | Check FY2025H2 filing + cash runway vs ₩8.6B/H1 operating loss | Next IR cycle |
-| Momentus Q2 print | Aug 18 2026 — keep/kill decision based on robotics revenue capture | Aug 18 2026 |
-| Unitree prospectus | STAR Market filing; read full supplier appendix for new names | Post-IPO approval Jul 3 2026 |
+| HSAI D.C. Circuit ruling | Docket No. 25-5256 — oral argument ~Mar 2026, ruling still pending ~3.6-3.7mo post-argument | Ongoing, check weekly |
+| State Grid humanoid-inspection tender | ¥6.8bn tender, winning-bidder disclosure — first disclosed-budget named-buyer event in the China A-share vector | ~Jul 31 2026 (NEW, Fire 28) |
+| Momentus Q2 print | Aug 18 2026 — keep/kill decision based on robotics revenue capture; 10th consecutive clean EDGAR check as of Fire 28, any new S-1/S-3/ATM before this date = immediate downgrade trigger | Aug 18 2026 |
+| SOS Lab revenue vs. FY2026 guidance | Fire 28 CORRECTED the "distress" framing (was a misdated article) — real liquidity ~₩47B, no capital impairment, ~2yr runway. Next check: does H2 2026 revenue close the gap to guidance, or does the thesis stay broken | Next H1 2026 semi-annual report (files mid-August) |
+| Seyond Holdings (2665.HK) de-rate | On-deck WATCH candidate, blocked only by size (~$490M vs $300M cap) — recheck if it falls further | Ongoing |
+| MicroVision (MVIS) buyer-name disclosure | On-deck WATCH candidate, blocked only by an unnamed OEM — watch 8-Ks | Ongoing |
+| Unitree prospectus | STAR Market filing; supplier appendix now heavily mined (27+ names checked across Fires 27-28), marginal yield thinning | Post-IPO approval Jul 3 2026 |
 | Xinjian Transmission | ChiNext inquiry round + prospectus — named buyers (Tesla/Zhiyuan/Unitree) | Ongoing |
 | Blue Dot Touch Control | Track toward STAR Market filing (~2028 but can surface earlier) | Ongoing |
+| Tesollo KOSDAQ listing | NEW Fire 28: timeline explicitly pushed to "after 2027" — deprioritize near-term rechecks | Long watch |
+| Hanwei/Nengsida + Zhu Cheng Technology | RECHECK FLAG (Fire 28): fresh claims contradict prior kill reasons — verify against primary source | Next fire |
+
+## METHOD UPDATE (Fire 28)
+- **ImportYeti 403/Cloudflare block bypass found**: proxy requests through `r.jina.ai/https://www.importyeti.com/company/<slug>` returns full page content including gated supplier tables. Retry Waabi/Plus/Einride/Gatik (previously tooling-blocked) with this method next fire.
+- **China A-share sourcing (互动易 + trade press + buyer-prospectus mining) is now heavily saturated**: ~30 names checked across Fire 28 alone, zero cleared all 4 gates — every real named-buyer disclosure is already priced in (+100% to +740% moves); unpriced names have no revenue or refuse to confirm. Marginal yield thinning; still worth a lighter-touch pass each fire (new disclosures do appear) but don't over-invest scout budget here relative to other vectors.
+- **EDGAR EFTS full-text remains productive**: found Airgain/Coco Robotics this fire (NEW WATCH). The date-range param bug is intermittent/rate-limit-related — sequential single-phrase queries work even when parenthesized OR-queries 500.
