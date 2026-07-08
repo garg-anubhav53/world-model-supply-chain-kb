@@ -1,5 +1,12 @@
 # PRICES CACHE — last-seen move/valuation (staleness window: 7 days)
-As of 2026-07-08 (Fire 29) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+As of 2026-07-08 (Fire 30) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+
+## Fire 30 new gate-checks (killed/pending, not live WATCH)
+| Ticker | ~12m move | run-tag | note |
+|---|---|---|---|
+| DSIT.TA | ~1,455 ILS, 12m +16% net but masks a 3x-run-then-56%-crash (52wk range 1,119-3,302) | RAN — killed, see kb/companies/DSIT.md | Off-thesis naval-UUV-sonar; already re-rated+crashed on this exact narrative. |
+| KARSN.IS (Karsan Otomotiv) | ~12.89 TRY, +27-28.7% nominal 12m (real-terms ~-5% vs ~32% Turkish CPI) | RAN (real-terms) — killed, see kb/companies/KARSAN.md | Value-trap signature — nominal gain masks a hard-currency de-rate. |
+| 4976.TW (Calin Technology) | ~NT$37.05, 12m point-to-point ~-5% but +37% in the last 3 months (52wk range 22.80-59.20) | PARTIAL — WATCH-weak/PENDING, see kb/companies/CALIN.md | Active momentum name, not undiscovered; recurring Taiwan AV-optics theme stock. |
 
 ## Live WATCH candidates
 | Ticker | ~12m move | run-tag | note |

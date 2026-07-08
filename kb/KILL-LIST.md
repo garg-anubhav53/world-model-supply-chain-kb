@@ -149,15 +149,27 @@ Luna-Innovations LUNA (historical Intuitive Surgical fiber-optic supplier, relat
 Kempower-Oyj KEMPOWR.HE (real Einride EV-charging supplier via customs record, but generic charging infra/diffuse buyer base, off-thesis)
 Zebra-Technologies ZBRA x Skild-AI ($20M robotics-automation divestiture Mar 2026, large-cap divestiture not a supplier design-win)
 Advantech 2395.TW (NVIDIA ecosystem member but ~$120M robotics pipeline vs ~$9.4B mkt cap, materiality fail)
+DSIT-Solutions DSIT.TA (CORRECTED Fire 30: NOT private — trades on TASE; real naval-UUV-sonar maker w/ GhostFin autonomy angle, but already ran 3x/crashed 56%, no named buyer, off-thesis vertical)
+Karsan-Otomotiv BIST:KARSN (Turkey, first geography touch; real Beep Inc autonomous-shuttle relationship via customs record, but bump-not-multiply, multi-vendor, loss-making, Turkish macro risk — Adastec, private, is the sharper name if it lists)
+Leadshine-Technology 002979.SZ 雷赛智能 (real Zhiyuan "Excellent Supplier Partner" >120k-unit disclosure, but ATH Feb 2026 + already-covered "humanoid concept stock," price-gate fail)
+Hanyu-Group/Tongchuan 300403.SZ 汉宇集团/同川科技 (EngineAI/Xiaopeng/Xiaomi harmonic-reducer supplier via subsidiary, but company's own 互动易 reply walks back humanoid framing — "主要客户以工业机器人为主")
+Yunzhihui-Technology 01037.HK (UBTECH manufacturing/sales JV partner, not a component supplier; already +107.55% on announcement day)
+Dafeng-Industry 603081.SH 大丰实业 (AgiBot robot-in-tourism JV but distribution/integration deal not component supply, revenue -31.55% YoY)
+Jinghua-New-Material 603683.SH 晶华新材 (real AgiBot e-skin showcase product via Jingzhigan subsidiary, but already +200%+ off 52wk low, price-gate fail)
 
 ## ON-DECK (1 gate away from qualifying — standing recheck triggers, not full kills)
 - **Seyond Holdings (2665.HK)** — clean sole-source NIO LiDAR disclosure (+SAIC-VW/GAC/Foton/Leapmotor), -80% de-rated from 52wk high. Blocked ONLY by size (~$490M vs $300M widened-bar cap). Recheck if it de-rates further.
 - **MicroVision (MVIS)** — $117M mkt cap, not re-rated, real Jun 10 2026 Master Development Agreement for lidar into an OEM's autonomous hauling trucks. Blocked ONLY by an unnamed OEM buyer. Recheck 8-Ks for the buyer name.
 - **AEye (Nasdaq: LIDR)** — NVIDIA Halos AI Systems Inspection Lab member, ~$62M mkt cap, +35.85%/12m. Blocked by no named buyer for its real ~$30M OEM design-win opportunity (Halos membership itself is certification, not a purchase order). Recheck for the OEM name.
 - **Sharpa Robotics** (Singapore, Hesai-founder spinout) — real named NVIDIA + Unitree design win + formal Hesai connected-party supply agreement. Blocked by being PRIVATE (no ticker). Recheck if it files for a public listing.
+- **Calin Technology (4976.TW, 佳凌科技)** — NEW Fire 30. Taiwan camera-lens maker, DigiTimes-reported (single-sourced, unconfirmed) sole Waymo camera-lens supplier. Blocked by disclosure quality (no 2nd source/Calin IR confirmation) AND thin margins (~2% gross). Recheck on a 2nd-source Waymo confirmation or a margin recovery.
+- **Xinzhi Group (002664.SZ, 信质集团)** — NEW Fire 30. Frameless torque-motor maker, passes price+financial gates cleanly. Blocked ONLY by Gate 2 — Huawei/Unitree relationship still R&D/sample-stage, no firm production contract. Recheck on a disclosed production order.
 
 ## RECHECK FLAGS (new claims contradict prior kill reasons — verify against primary source before acting)
 (none currently open — Hanwei Technology/Nengsida and Zhu Cheng Technology both RESOLVED Fire 29, see below, stay killed)
+
+## CUSTOMS/BILL-OF-LADING DEAD ENDS (Fire 30 — buyer names checked via ImportYeti r.jina.ai/curl method, no further retry needed)
+EasyMile (only 3rd-party supplier is TLD Europe/Alvest Group, PRIVATE) · Cruise/GM (robotaxi ops shut down, stale suppliers) · Boston Dynamics (captive to parent Hyundai + mega-cap diffuse suppliers) · Torc Robotics (captive to parent Daimler Truck) · WeRide, Pony.ai (customs shipments are internal-subsidiary-only; WeRide itself already public/NASDAQ:WRD) · Serve Robotics, Starship Technologies, Navya, Seegrid, Agility Robotics, Apptronik, Oxbotica (all noise/generic/mega-cap-diffuse suppliers on customs lookup)
 
 ## CHINESE NAME ALIASES (common dedup traps — the same company under different romanizations)
 灵心巧手 = Lingxin Qiaoshou = LinkerBot = Linker Bionics (private, ~$3B val)

@@ -71,7 +71,7 @@ First pass (Fire 22) found Sinbon/3023.TW and BizLink/3665.TW but NDA'd customer
 ## KEY CATALYSTS TO MONITOR (time-sensitive)
 | Event | What to check | Timing |
 |---|---|---|
-| UVision Air F-1 | Filing window remains LIVE ("second week of July") — valuation now $3.5-4B (raised from $3-3.5B) — shorten recheck cadence to 2-3 days | Imminent, highest-priority near-term trigger |
+| UVision Air F-1 | Fire 30: STILL UNFILED as of 2026-07-08 — EDGAR full-text confirms zero hits; all press coverage found is mid-to-late-June, no July-dated filing confirmation. The "second week of July" window claim has NOT yet been verified as fired. Valuation $3.5-4B. **Recommend daily EDGAR check continues.** | Imminent, highest-priority near-term trigger |
 | HSAI 8-for-1 split | Verify executed Jul 10 2026; check post-split price for re-entry | Jul 10 2026 |
 | HSAI D.C. Circuit ruling + broadened gate | Docket No. 25-5256 still pending ~3.7mo post-argument; Fire 29's full re-derivation found the binding gate now BROADER than the docket alone — a 2026-07-07 CNBC cyber/spoofing narrative could keep the geopolitical overhang alive even on a litigation win | Ongoing, check weekly |
 | State Grid humanoid-inspection tender | **CORRECTED: ¥68bn/8,500-unit tender** (not ¥6.8bn), winning-bidder disclosure — Fire 29 confirmed still on the original Q1-pilot→Q3-scale-procurement cadence, genuinely too early yet | ~Jul 31 2026 |
@@ -79,13 +79,22 @@ First pass (Fire 22) found Sinbon/3023.TW and BizLink/3665.TW but NDA'd customer
 | SOS Lab revenue vs. FY2026 guidance | Fire 28 CORRECTED the "distress" framing (was a misdated article) — real liquidity ~₩47B, no capital impairment, ~2yr runway. Next check: does H2 2026 revenue close the gap to guidance, or does the thesis stay broken | Next H1 2026 semi-annual report (files mid-August) |
 | Seyond Holdings (2665.HK) de-rate | On-deck WATCH candidate — Fire 29: mkt cap actually ~$525-530M (2-source), gap to the $300M cap widened slightly, not narrowed | Ongoing |
 | MicroVision (MVIS) buyer-name disclosure | On-deck WATCH candidate — Fire 29: 2026-07-07 shareholder letter explicitly confirms buyer stays undisclosed "for competitive-sensitivity reasons"; also watch the 2026-07-10 reverse-split/dilutive-note vote | Ongoing |
-| Xtend Gauntlet II trial | CONFIRMED scheduled for Fort Carson, CO (announced 2026-07-02) | August 2026 |
+| Xtend Gauntlet II trial | CONFIRMED scheduled for Fort Carson, CO (announced 2026-07-02). Fire 30 new detail: requires delivery of 120 lethality-payload drones within ~5 weeks of qualification — a concrete, material milestone worth a direct recheck once the window opens | August 2026 |
+| Calin Technology (4976.TW) Waymo tie | NEW Fire 30 — single-sourced DigiTimes claim ("reportedly sole supplier" of Waymo camera lenses), UNCONFIRMED by Calin IR or any 2nd outlet, possibly stale to pre-6th-gen specs. Recheck for a 2nd-source confirmation | Ongoing |
 | Interlink Electronics (LINK) named-buyer disclosure | NEW Fire 29 lead — real disclosed surgical-robot FSR shipment, no buyer name yet; recheck for a name in a future earnings call | Ongoing |
 | Unitree prospectus | STAR Market filing; supplier appendix now heavily mined (27+ names checked across Fires 27-28), marginal yield thinning | Post-IPO approval Jul 3 2026 |
 | Xinjian Transmission | ChiNext inquiry round + prospectus — named buyers (Tesla/Zhiyuan/Unitree) | Ongoing |
 | Blue Dot Touch Control | Track toward STAR Market filing (~2028 but can surface earlier) | Ongoing |
 | Tesollo KOSDAQ listing | NEW Fire 28: timeline explicitly pushed to "after 2027" — deprioritize near-term rechecks | Long watch |
 | ~~Hanwei/Nengsida + Zhu Cheng Technology~~ | **RESOLVED Fire 29** — both independently re-verified at the primary-source level, both STAY KILLED (Zhu Cheng also independently price-gated) | Closed |
+
+## METHOD UPDATE (Fire 30)
+- **Job-posting inversion (angle #7) tested for the first time**: negative but conceptually validated — every supplier it points to is already re-rated or too large. Don't re-run immediately; retry in 6-12mo on smaller/less-covered OEMs.
+- **Waymo 6th-gen sensor-pod teardown (structured method) tested for the first time**: reconfirms vertical integration on lidar/radar/compute, but found 1 new lead (Calin Technology/4976.TW) that prior press-only searches missed — worth reusing on OTHER AV OEMs' sensor pods.
+- **ImportYeti r.jina.ai/curl method retried on EasyMile + 8 more merchant buyers**: 8 confirmed dead ends (EasyMile, Cruise, Boston Dynamics, Torc Robotics, WeRide, Pony.ai, Serve Robotics, Starship, Navya, Seegrid, Agility, Apptronik, Oxbotica — all captive/internal/diffuse/private-supplier). 1 new lead: Beep Inc → Karsan Otomotiv (BIST:KARSN, Turkey) — found-and-KILLED after gate-check, but opens Turkey/BIST as a new geography and flags private Adastec as the sharper name.
+- **Unitree/UBTECH/AgiBot buyer-prospectus mining is now ESSENTIALLY EXHAUSTED** (27+ names across Fires 27-30) — don't re-run without a genuinely NEW buyer prospectus filing.
+- **KB accuracy correction**: DSIT Solutions was wrongly logged "private/mulling a TASE IPO" across Fires 25 and 29 — it already trades as DSIT.TA. First real gate-check done Fire 30: KILLED (off-thesis + already re-rated/crashed).
+- **Seer Robotics (06106.HK) and LDROBOT (01236.HK) status corrected**: both already IPO'd (Jun 24 and May 11 2026 respectively) — no longer "unpriced," still no named buyer.
 
 ## METHOD UPDATE (Fire 29)
 - **ImportYeti r.jina.ai proxy bypass SHARPENED**: the bypass itself still works, but the WebFetch TOOL 401s on r.jina.ai URLs — must use raw `curl` through Bash instead. Retried on Waabi (no page found, any slug), Plus.ai (no match), Einride (found real records, incl. Kempower Oyj — off-thesis generic EV-charging), Gatik (1 irrelevant record). Waabi/Plus.ai appear to have no meaningful US customs footprint under any guessable slug — likely a genuine dead end for these two specifically, not a tooling block.
