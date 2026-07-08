@@ -193,6 +193,40 @@ The universe (`kb/universe/README.md`) is a holistic map of the ecosystem's DIME
 - **`kb/DIGEST.md` is the READ-FIRST 1-pager** (rewrite it every fire): top-5 conviction shortlist + binding gates, the cursor focus, one-line coverage status, pointers. **Read DIGEST + INDEX + coverage-ledger + pipeline + the decisions-log KILL-INDEX every fire (all compact); open a full companies/<T> dossier or an archive ONLY for the name you're actively working.** Never read all companies/* or full raw logs each fire.
 - **SIZE DISCIPLINE:** keep `decisions-log.md` a compact one-line-per-name KILL-INDEX (ticker | 3-word reason | date); when it exceeds ~120 lines, roll the oldest into `decisions-log-archive.md` (read only to dedup an old name). Keep every evergreen file ~1 screen; raw notes to `runs/<UTC>/`. The DIGEST + INDEX are the routing layer — everything else is opened on demand, so per-fire read cost stays bounded no matter how large the KB gets.
 
+## 20. IMPROVEMENTS FOR FIRES 28-47 (2026-07-08 audit — implement immediately)
+
+### A. DEDUP FIX — inject the kill list into EVERY scout, not just the main read contract
+The recurring dedup failure (same 3 names re-surfaced in consecutive fires: Laifual/Fine-Motion/Jiangte) happens because scouts operate without full KB context. Fix:
+1. `kb/KILL-LIST.md` is now the compact, flat dedup guard. READ it during Step 1. Pass the CHINESE NAME ALIASES section directly into any scout prompt doing China A-share hunting (as inline text, not a file pointer, so every scout has it). Quote: "Before reporting any find as new, verify its TICKER, CHINESE NAME, and any alias against the KILL LIST. If matched → skip it, don't report it."
+2. For Chinese names specifically: always cross-check valuation/round figures AND Chinese characters, not just the romanized English name — the LinkerBot=灵心巧手 catch is the model to follow.
+3. Run a DEDUP PASS as the first sub-step of any China/Korea/Taiwan/Japan multi-name scout before doing any analysis. Cost: near-zero. Saves an Opus gate-check every time.
+
+### B. TOOLING-BLOCKED VECTOR REPLACEMENTS
+Replace blocked methods with free, proven alternatives:
+- **Customs/BoL** (ImportGenius/Panjiva = paid/blocked) → use **ImportYeti.com (free)**, buyer-name-first lookup for MERCHANT AV buyers (Zoox, Pony.ai, WeRide, Motional, Aurora, Nuro). CONFIRMED works (Fire 19). DO NOT try captive buyers (Tesla/Figure/Unitree — zero US customs footprint, confirmed dead-end).
+- **Patent mining** (Google Patents JS-blocked, PatSnap paid) → use **USPTO EFTS full-text** (`efts.sec.gov/LATEST/search-index?q="B25J"&dateRange=custom` or phrase queries against 10-K/10-Q filings). Also: search `site:patents.google.com [company name] "robot joint"` as a plain web search (returns Google Patents without JS rendering).
+- **Standards-body rosters** (ISO TC299/SAE/AUTOSAR/IEEE-1588 = ALL paywalled) → **REPLACE WITH**: (a) conference exhibitor lists (Automate, IREX, Hannover Messe — publicly available PDFs), (b) AUTOSAR Core Partner list (public page, mega-caps only but free), (c) search "[standard name] working group member [company]" as a plain web search. If paywalled, **DO NOT re-run this vector** — log "tooling-blocked, skip until authenticated account available" and spend compute elsewhere.
+- **Google Patents CPC B25J assignee mining** (JS-blocked) → use USPTO PatFT bulk data or `efts.sec.gov` 10-K text searches for patent-related disclosures; also search `"CPC B25J" "[company name]" patent` as a plain web search.
+
+### C. NEW HIGH-YIELD SOURCING TO ADD EVERY FIRE (from FRESH-ANGLES.md)
+The single most productive NEW method: **buyer-prospectus supplier mining** (validated Fire 17 on Unitree, yielded 1 real kill and validated the method). Now apply it to:
+1. Unitree STAR Market prospectus (IPO approved Jul 3 2026) — read the full supplier appendix for named tier-2 suppliers
+2. UBTECH 2025 annual report (9880.HK) — supplier disclosures
+3. AgiBot/Zhiyuan — partial supplier lists available in Chinese press
+4. Every newly-filed IPO prospectus found in the forward-listing pipeline
+
+Read `kb/FRESH-ANGLES.md` every fire alongside DIGEST — it lists the 11 best untapped sourcing angles with concrete methods, plus the time-sensitive catalysts to monitor (HSAI split/litigation, UVision Air F-1, SOS Lab going-concern check, Momentus Aug 18 print, Unitree prospectus).
+
+### D. PIPELINE DROUGHT FIX — widen the criteria for WATCH (without lowering conviction)
+10 fires without a new WATCH is a structural signal. The SOLE/PREFERRED gate is right for a BUY, but for a WATCH (which just means "worth deeper diligence"), a named-buyer disclosure + small base + not-re-rated is sufficient even if capture-rate is 1-of-N. Specifically:
+- A China A-share with a **named humanoid OEM buyer in a 互动易 filing** + **<$300M mkt cap** + **not price-gated** qualifies as WATCH (assign score 4, lower than a sole-source name)
+- A forward-listing company with a **named buyer in its prospectus** + **clear IPO timeline (<18 months)** qualifies as WATCH (score 3, with the understanding it's pre-listing)
+- The WATCH label means "spend one more fire of Opus diligence" — it does NOT mean BUY. The BUY bar (sole/preferred/spec-locked) stays where it is.
+This widening should surface Blue Dot Touch Control (named Zhiyuan+Xiaomi, ~2028 IPO), Tesollo (KOSDAQ listing imminent, needs a named buyer to qualify), and others currently stuck in "PENDING."
+
+### E. STALENESS GUARD — re-derive shortlist names periodically, don't just status-check
+SOS Lab sat at #1 for many fires on stale framing. Standing rule: any name on the shortlist for >5 fires without a status change gets a **GENUINE FULL RE-DERIVATION** (not just "price flat, no news") — re-pull the fundamentals from scratch, re-run the adversarial bear. Do this even if nothing has "happened." Assign 1 Opus dive per fire specifically to the longest-tenured unchanged shortlist name.
+
 ## 19. READ / WRITE CONTRACT + FILE MAP (keep the KB organized — do exactly this each fire)
 **FILE MAP (one job per file — never duplicate content across files, never invent new top-level files; extend the map):**
 `DIGEST.md`=read-first 1-pager (rewritten each fire) · `INDEX.md`=router/map (update only on structure change) · `coverage-ledger.md`=dimension coverage + ROTATION CURSOR · `pipeline.md`=full ranked table + top-5 conviction shortlist · `decisions-log.md`=append-only KILL-INDEX (1 line/name; roll >120 lines→`decisions-log-archive.md`) · `dead-ends.md`=no-public-vehicle nodes (quarterly decay) · `trends.md`=named sub-trends · `prices-cache.md`=price/move per ticker (7d staleness) · `watchlist.md`=live WATCH + signal · `coverage-map.md`=node×geo grid + vector queue · `universe/README.md`=framework (rarely changes) · `universe/seed-map.md`=example names (append new seeds) · `companies/<T>.md`=per-name dossier (only names diligenced this fire) · `STATE.md`=checkpoint (hypothesis, task queue) · `REPORT.md`=curated human-facing top ideas · `runs/<UTC>/`=raw scratch.
