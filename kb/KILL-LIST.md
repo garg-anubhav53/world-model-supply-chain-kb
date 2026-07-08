@@ -188,6 +188,9 @@ Dingzhi-Technology 鼎智科技/920593.BJ (KILLED Fire 35: real company-confirme
 Liwang 力王股份/920627.BJ (KILLED Fire 35: lithium-battery R&D contract with Tsinghua Shenzhen for "humanoid robot batteries" but generic ¥300k research contract, no named OEM buyer + mkt cap ¥21.5B)
 Jiezhong-Technology 捷众科技/920690.BJ (KILLED Fire 35: passes size cap (~¥1.6-2.2B) but named humanoid/quadruped joint-gear partner is 云深处/Cloud Deep/DEEP Robotics — off-thesis buyer, not AgiBot/Zhiyuan/Unitree/UBTECH)
 Langxin-Electric 朗信电气/874326.BJSE (KILLED Fire 35: false-positive trap — aggregator implied humanoid-robotics relevance but company's own IPO disclosure is pure automotive/HVAC thermal-management, zero robotics content)
+Foresight-Autonomous FRSX (KILLED Fire 36: real VisionWave/VWAV sensor-integration deal into VARAN platform + passes size/price gates, but VisionWave becomes BOTH controlling shareholder (up to 52% stake) AND buyer — structural controlling-shareholder-as-buyer disqualifier, same pattern as Fenglong Co/Aishida below)
+ParaZero-Technologies PRZO (Fire 36: real named XTEND partnership (Mar 2026) but Nasdaq minimum-bid-noncompliance notice + other orders anonymized — distress overrides the one disclosure, dead-end/watch-only not a full kill)
+Infobird IFBD (Fire 36: EDGAR "Zhiyuan" hit is a name collision — Infobird's own PRC subsidiary "Guangnian Zhiyuan (Beijing) Technology," unrelated to the humanoid-robotics Zhiyuan/AgiBot company — new false-positive pattern, filter in future EDGAR EFTS sweeps)
 
 ## PENDING (weak leads, not yet gate-checked)
 (none currently open — Fire 32's ARRK/Kaiwang/Genesis-CIGIT entries all resolved to KILL Fire 33, see above)

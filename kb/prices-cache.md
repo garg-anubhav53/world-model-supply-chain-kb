@@ -1,5 +1,17 @@
 # PRICES CACHE — last-seen move/valuation (staleness window: 7 days)
-As of 2026-07-08 (Fire 35) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+As of 2026-07-08 (Fire 36) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+
+## Fire 36 new gate-checks (killed/confirmed/downgraded, see decisions-log.md)
+| Ticker | ~12m move | run-tag | note |
+|---|---|---|---|
+| FRSX (Foresight Autonomous) | ~$34M mkt cap post-money, -87%/2025, roughly flat/+14%/12m | RAN — found-and-killed, structural disqualifier | VisionWave/VWAV taking up to 52% stake = controlling-shareholder-as-buyer. See kb/companies/FRSX.md. |
+| AIRG (Airgain) | $5.76 (2026-07-07 close), mkt cap $78.8M, +86% off 52wk low / -25% off 52wk high | RAN — first-ever staleness-guard re-derivation, DOWNGRADE | 4-gate 3/8, removed from top-5 conviction. Q2 call confirmed Aug 7-11 2026. See kb/companies/AIRG.md. |
+| 2665.HK (Seyond Holdings) | HK$3.00 (2026-07-08, 2-source), mkt cap ~$495-527M | PARTIAL — on-deck, unchanged, new negatives found | Still ~2x the $300M cap; FY2025 net loss $328M, GM 7.9%, #3 by volume. See kb/companies/SEYOND.md. |
+| MVIS (MicroVision) | mkt cap ~$117M | PARTIAL — on-deck, unchanged | Buyer still unnamed; Jul 10 2026 vote pending. See kb/companies/MVIS.md. |
+| HSAI (Hesai) | $16.15-16.85 (2-source, 2026-07-07, not split-adj), split effective 2026-07-10 | NOT-MOVED | -7.6% on 7/7, no identified negative catalyst — noise. |
+| MNTS (Momentus) | $6.22-6.58 (2-source, wide spread) | NOT-MOVED | No new EDGAR filing since Jun 18. |
+| 464080.KQ (SOS Lab) | ₩8,700 vs alt ₩9,770 — sources disagree, reconcile next fire | NOT-MOVED | No new contract news. |
+| NOVT (Novanta) | $147.85 (-10.3% on 7/7) vs $161.72 alt intraday | FLAG — unexplained drop, no EDGAR cause found | Follow-up next fire, not yet a staleness-guard trigger. |
 
 ## Fire 35 new gate-checks (killed/confirmed, see decisions-log.md)
 | Ticker | ~12m move | run-tag | note |
