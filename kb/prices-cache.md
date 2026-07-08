@@ -1,5 +1,21 @@
 # PRICES CACHE — last-seen move/valuation (staleness window: 7 days)
-As of 2026-07-08 (Fire 33) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+As of 2026-07-08 (Fire 34) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+
+## Fire 34 new gate-checks (killed/confirmed, see decisions-log.md)
+| Ticker | ~12m move | run-tag | note |
+|---|---|---|---|
+| HSAI | $16.55 (2026-07-07 close, +2.48% day), split not yet executed | RAN — 2nd staleness-guard re-derivation, STAYS WATCH, see kb/companies/HSAI.md | Q1 2026 GAAP-profitable, new legislative headwind (SAFE LiDAR Act). |
+| 2980.T (SRE Holdings) | ¥2,535 (2026-07-08), mkt cap ~¥42.05B (~$280M), -19.4%/12m | RAN — KILLED, see kb/companies/SRE.md | KyoHA role is financial/advisory only, no product link to humanoid hardware. |
+| UMAC (Unusual Machines) | $20.01 (2026-07-08), mkt cap ~$958M, 52wk high $34.36 (2026-06-02) | RECONFIRMED already-run, defense/drone vertical | Real Gauntlet-II supplier disclosure but decisively already-run. |
+| 2665.HK (Seyond Holdings) | HK$3.00 (2026-07-08 16:14 HKT), mkt cap ~$498M | PARTIAL — on-deck, unchanged | Still above the $300M cap. |
+| MVIS (MicroVision) | not independently re-priced (buyer-name gate binding) | PARTIAL — on-deck, unchanged | 2026-07-10 dilution vote hasn't occurred yet as of this check. |
+| AIRG (Airgain) | $5.94 (2026-07-07 close), mkt cap ~$75.29M | NOT-MOVED | Q2 2026 earnings call still not scheduled. |
+| 600592.SH (Longxi Bearing) | mkt cap ~¥8.6B (~$1.2B) | RAN — killed size-gate | Real AgiBot wrist/ankle joint-bearing JV, too large. |
+| 301005.SZ (Chaojie/Essence Fastening) | >¥200+ (well past +60%/12m) | RAN — killed price-gate | Real small-batch AgiBot fastener orders, already re-rated. |
+| 688306.SH (Ningbo PIA/Joyson) | +345.7% off 2024 low | RAN — killed price-gate | Real AgiBot JV, decisively already-run. |
+| 002048.SZ (Ningbo Huaxiang) | mkt cap ~¥20-24B (~$3B) | RAN — killed size-gate | Real 3yr AgiBot OEM manufacturing authorization, too large. |
+| 002448.SZ (Zhongyuan Neipei) | mkt cap ~¥8.18B (~$1.1B) | RAN — killed size-gate + no %-disclosed | Real 5yr "core supplier" pact via JV, too large + immaterial. |
+| 002965.SZ (Xiangxin Technology) | mkt cap ~¥10.9B (~$1.5B) | RAN — killed size-gate | Real UBTECH/KUKA structural-component supplier, too large. |
 
 ## Fire 33 new gate-checks (killed/confirmed, see decisions-log.md)
 | Ticker | ~12m move | run-tag | note |
