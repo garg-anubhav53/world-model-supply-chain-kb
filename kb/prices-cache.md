@@ -1,5 +1,19 @@
 # PRICES CACHE — last-seen move/valuation (staleness window: 7 days)
-As of 2026-07-08 (Fire 31) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+As of 2026-07-08 (Fire 32) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+
+## Fire 32 new gate-checks (killed/pending, not live WATCH)
+| Ticker | ~12m move | run-tag | note |
+|---|---|---|---|
+| POCI (Precision Optics) | $4.86 (stockanalysis.com, 2026-07-07 close), mkt cap ~$53.2M, ~flat/range-bound 12m (52wk $3.55-$6.15) | RAN — KILLED (staleness-guard re-derivation), see kb/companies/POCI.md | Not a price-gate kill — a causal-link kill (Gate 2 = 0, named buyer no longer visible in disclosure). |
+| 603331.SH (Baida Precision) | ~¥10 → limit-up ¥19.80 (2026-02-13, ~+98% in ~3-4wk) then partial pullback; full 12m move UNKNOWN (2-source only for the Jan-Feb spike window) | RAN — found-and-killed same fire, see kb/companies/BAIDA.md | Company's own clarification: robotics revenue "极低"/extremely low, FY2025 net-loss swing to ~-¥193.33M. |
+| 300458.SZ (Allwinner Technology) | mkt cap ~¥31.6B (~$4.4B), 52wk range ¥32.6-55.9 (exact 12m % not verified) | RAN — killed size-gate, quick-kill | ~70% of Unitree's application processors per prospectus, but far too large/diversified. |
+| 603009.SH (Beite Technology) | mkt cap ~¥16.4B (~$2.3B, 2025-12-31) | RAN — killed size-gate, quick-kill | Still R&D/validation-stage for Unitree, also too large. |
+| 2665.HK (Seyond Holdings) | HK$3.03-3.04, mkt cap ~HK$3.95-4.11B (~$505-527M), 52wk high HK$17.88 (~-83% de-rate, deepened slightly) | PARTIAL — on-deck, unchanged | Still ~$205M over the $300M widened-bar WATCH cap. |
+| MVIS (MicroVision) | not independently re-priced (buyer-name gate is binding, not price) | PARTIAL — on-deck, unchanged | 2026-07-07 8-K is the already-known CEO Q&A letter, buyer still unnamed; 2026-07-10 dilution vote outcome pending. |
+| 002664.SZ (Xinzhi Group) | not independently re-priced this fire (prior: -32%/12m) | PARTIAL — weak-watch/PENDING, unchanged | Huawei/Unitree relationship still explicitly sample/R&D-stage. |
+| MNTS (Momentus) | $6.58 (Yahoo, intraday) / $5.91-6.04 (stockanalysis.com, Jul 3/6 range) — noisy microcap, ~$6/share, mkt cap ~$110-111M | NOT-MOVED, no new filing since 2026-06-18 | Aug 18 2026 Q2 print remains the KILL-UNLESS-PROVEN checkpoint. |
+| HSAI | pre-split price ~$18-22 (2-source disagreement: $21.63 Yahoo vs $18.23 stockanalysis.com — likely snapshot-timing, treat as a range) | PARTIAL, split executes 2026-07-10 (2 days out) | Re-verify cleanly post-split next fire. |
+| AIRG (Airgain) | not independently re-priced this fire (prior: ~$5.94-5.98, mkt cap ~$75M) | NOT-MOVED | Q2 2026 earnings call not yet scheduled as of 2026-07-08. |
 
 ## Fire 31 new gate-checks (killed/pending, not live WATCH)
 | Ticker | ~12m move | run-tag | note |
@@ -25,11 +39,11 @@ As of 2026-07-08 (Fire 31) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Ref
 | **AIRG (Airgain)** | Fire 29: ~$5.94-5.98 (2-source), mkt cap ~$75M, unchanged | NOT-MOVED, see kb/companies/AIRG.md | Coco Robotics dollar/volume commitment still unquantified; capture-rate (sole vs 1-of-N) still unresolved. Next check: Q2 2026 earnings call. |
 | **MNTS (Momentus)** | Fire 29: $6.22 (2-source), flat | NOT-MOVED on price | 11th consecutive fire with no new SEC filing (CIK 1781162, still Jun 18 2026). Aug 18 2026 Q2 print remains the keep/kill decision point. |
 | **464080.KQ (SOS Lab)** | Fire 28: ₩9,180, -49.86% over 6mo (not re-checked Fire 29) | WATCH(weak), reason recharacterized Fire 28 — see kb/companies/SOSLAB.md | Fire 28 CORRECTED the "distress" framing (misdated H1-2025 data) — real liquidity ~₩47B, no capital impairment. Not re-touched this fire. |
-| NOVT | $161.72 (Jul 3 2026) → ~$161 (not re-checked Fire 29) | PARTIAL | NVIDIA Halos member (Fire 27) |
+| **NOVT (Novanta/ATI)** | $161.72 (Jul 3 2026) → ~$161 (not re-checked Fire 32) | PARTIAL — bench-promoted into top-5 conviction slot Fire 32 (POCI's vacancy) | NVIDIA Halos member (Fire 27); has NEVER had an individual dossier/full gate-check — highest-priority EXPLOIT target next fire. |
 | ON | ~$117 (not re-checked Fire 29) | PARTIAL | no new AV/camera-CMOS-specific news |
 | OMG.L | 39.50p (not re-checked Fire 29) | NOT-MOVED | no news |
 | KLIN.SW | 11.30 CHF (not re-checked Fire 29) | NOT-MOVED | no news |
-| **POCI (Precision Optics)** | Fire 28: $4.86 (not re-checked Fire 29) | NOT-MOVED — see kb/companies/POCI.md | Fire 28 staleness-guard CONFIRMED WATCH(weak), genuinely flat/range-bound. Not re-touched this fire. |
+| ~~POCI (Precision Optics)~~ | $4.86 (2026-07-07) | **KILLED Fire 32** — see kb/companies/POCI.md | 2nd staleness-guard re-derivation flipped WATCH(weak)→KILL; removed from live WATCH table. |
 | TKR (Spinea) | $138.06 (not re-checked Fire 29) | PARK | no Spinea-specific news |
 
 ## On-deck / pending price watch

@@ -158,6 +158,14 @@ Dafeng-Industry 603081.SH 大丰实业 (AgiBot robot-in-tourism JV but distribut
 Jinghua-New-Material 603683.SH 晶华新材 (real AgiBot e-skin showcase product via Jingzhigan subsidiary, but already +200%+ off 52wk low, price-gate fail)
 Calin-Technology 4976.TW 佳凌科技 (KILLED Fire 31: Waymo camera-lens "sole supplier" claim never 2nd-sourced in ~2yr, management's own 2026-06-27 interview gave flat 2026 revenue guidance and pivoted growth narrative to drones — thesis dead on both causal-link and multiplication legs)
 Laimu-Co 603633.SH 徕木股份 (KILLED Fire 31, found-and-killed same fire: "exclusive UBTECH/Unitree dexterous-hand connector supplier" claim traced to an unconfirmed investor question, not a company disclosure; real exposure is sample-stage AgiBot + cosmetic parts for Robot Era only; multiplication math off by 1-2 orders of magnitude; now loss-making -¥148.5M FY25, TTM NI -¥203M)
+Precision-Optics POCI (KILLED Fire 32: 2nd genuine staleness-guard re-derivation — Procept BioRobotics no longer named anywhere in latest 10-Q/call, Gate 2 scores 0/2; new #1 customer is off-thesis aerospace/defense 44% of revenue; DSCR covenant breach; causal-link kill not price-gate kill)
+Baida-Precision 603331.SH 百达精工 (KILLED Fire 32, found-and-killed same fire: company-confirmed Galbot JV but own 2026-02-24/25 clarification admits "极低"/extremely-low robotics revenue + FY2025 net-loss swing to ~-¥193.33M; reads as a robot CUSTOMER piloting Galbot units, not yet a forced component supplier)
+Allwinner-Technology 300458.SZ 全志科技 (KILLED Fire 32: real ~70% Unitree application-processor supplier per prospectus, but mkt cap ~¥31.6B/~$4.4B, diversified consumer/auto chipmaker — decisive size-gate fail)
+Beite-Technology 603009.SH 北特科技 (KILLED Fire 32: planetary-roller-screw component, still R&D/validation-stage for Unitree + mkt cap ~¥16.4B/~$2.3B — decisive size-gate fail)
+
+## PENDING (weak leads, not yet gate-checked — Fire 32 additions)
+- **ARRK Corporation (7873.T)** — small/micro-cap Japanese prototyping/product-development-support manufacturer, joined Japan's KyoHA humanoid consortium as a "special sponsor" (~2026-04-28). Weaker tier than full membership; unclear if this is a component-supply relationship vs. prototyping services. No confirmed mkt cap yet. Needs a follow-up diligence pass.
+- **Kaiwang Technology (凯旺科技/301182.SZ), Genesis/CIGIT (创世纪/300083.SZ)** — real, company-confirmed Unitree suppliers (cable/connector; CNC machine tools respectively) per 互动易/prospectus, but disclosures are stale (~Feb 2025) and both are consensus "every Unitree-supply-chain roundup" names — not independently gate-checked (size/price/materiality) by this KB yet. Worth a full gate-check next time cursor/EXPLOIT capacity allows.
 
 ## ON-DECK (1 gate away from qualifying — standing recheck triggers, not full kills)
 - **Seyond Holdings (2665.HK)** — clean sole-source NIO LiDAR disclosure (+SAIC-VW/GAC/Foton/Leapmotor), -80% de-rated from 52wk high. Blocked ONLY by size (~$490M vs $300M widened-bar cap). Recheck if it de-rates further.
@@ -185,3 +193,4 @@ EasyMile (only 3rd-party supplier is TLD Europe/Alvest Group, PRIVATE) · Cruise
 爱仕达 = Aishida (002403.SZ — no named component/$, collaboration only)
 珠城科技 = Zhu Cheng Technology (301280.SZ — no revenue yet, already 2x)
 卧龙电驱 = Wolong Electric Drive (600580.SH — already +60%, too large)
+蔚蓝锂芯 = Vital Bee Battery = Jiangsu Azure (002245.SZ, formerly 澳洋顺昌 — already killed Fire 23, materiality+price fails; resurfaced under an unfamiliar English brand name via the Unitree prospectus Fire 32, dedup-caught)
