@@ -162,10 +162,21 @@ Precision-Optics POCI (KILLED Fire 32: 2nd genuine staleness-guard re-derivation
 Baida-Precision 603331.SH 百达精工 (KILLED Fire 32, found-and-killed same fire: company-confirmed Galbot JV but own 2026-02-24/25 clarification admits "极低"/extremely-low robotics revenue + FY2025 net-loss swing to ~-¥193.33M; reads as a robot CUSTOMER piloting Galbot units, not yet a forced component supplier)
 Allwinner-Technology 300458.SZ 全志科技 (KILLED Fire 32: real ~70% Unitree application-processor supplier per prospectus, but mkt cap ~¥31.6B/~$4.4B, diversified consumer/auto chipmaker — decisive size-gate fail)
 Beite-Technology 603009.SH 北特科技 (KILLED Fire 32: planetary-roller-screw component, still R&D/validation-stage for Unitree + mkt cap ~¥16.4B/~$2.3B — decisive size-gate fail)
+ARRK-Corporation 7873.T (KILLED Fire 33, hard correction: acquired by Mitsui Chemicals via share exchange effective 2020-08-01, delisted from TSE 2020-07-30 — NOT a tradeable public equity, has not been for 6 years; KyoHA "special sponsor" tier itself was also generic prototyping-services language with no named humanoid model/component/dollar terms)
+Kaiwang-Technology 301182.SZ 凯旺科技 (KILLED Fire 33, first full gate-check: real Unitree cable/connector tie since Apr 2023 but company's own disclosure says <1% of revenue; mkt cap re-rated ~2.4x since Jan 2026 on an unrelated AI-datacenter copper-cable theme, not Unitree; 3rd consecutive annual net loss)
+Genesis-CIGIT 300083.SZ 创世纪 (KILLED Fire 33, first full gate-check: real Unitree relationship since 2022 but company's own disclosure explicitly limits it to CNC machine-tool sales, "does not directly supply humanoid-robot components"; mkt cap ~$3B/~10x size cap, Dec-2025 ¥382M court judgment, rising leverage)
+Xinhongye 301310.SZ 鑫宏业 (Fire 33: unverifiable secondary-source claim of a Robotera tie, company site unreachable, no corroboration — dead-end for now, not a confirmed kill)
+Ruikeda 688800.SH 瑞可达 (KILLED Fire 33: real "batch supply to multiple leading global embodied-robot companies" language but customer unnamed AND already large-cap/re-rated ~¥23.9B/~$3.3B)
+Jiangsu-Rayli 300660.SZ 江苏雷利 (KILLED Fire 33: company explicitly DENIED the media-reported Unitree tie — real customer is private Nanjing Weilan, not Unitree)
+Keli-Sensing 603662.SH 柯力传感 (RECONFIRMED Fire 33: investor reply implies it does NOT currently supply Unitree — named buyer is Kepler/开普勒 instead; stays on the "1-of-16 Huawei partners" WATCH-adjacent note from earlier fires, not promoted)
+Yibo-Tech 301366.SZ 一博科技 (KILLED Fire 33: real named Unitree+UBTech customer but immaterial — PCB/PCBA core business ¥1.127B revenue — + ~$1.6B mkt cap)
+Tianqi-Co 002009.SZ 天奇股份 (KILLED Fire 33: real Galbot JV but shell-stage, ¥360万 registered capital, ~$0 revenue, + near size cap)
+Fengli-Zhineng 301368.SZ 丰立智能 (KILLED Fire 33: real 星动纪元/Robotera harmonic-reducer small-batch supply but already priced at 468-854x trailing P/E)
+Yingli 002988.SZ 英力股份 (KILLED Fire 33: sample-stage magnesium-aluminum structural parts, buyer under NDA, no revenue yet)
+Hyperscale-Data GPUS (RECONFIRMED Fire 33 via EDGAR EFTS sweep: same already-killed "wrong direction" AgiBot-reselling relationship — Omnipresent Robotics subsidiary buys/resells AgiBot robots, not a supplier into AgiBot's BOM)
 
-## PENDING (weak leads, not yet gate-checked — Fire 32 additions)
-- **ARRK Corporation (7873.T)** — small/micro-cap Japanese prototyping/product-development-support manufacturer, joined Japan's KyoHA humanoid consortium as a "special sponsor" (~2026-04-28). Weaker tier than full membership; unclear if this is a component-supply relationship vs. prototyping services. No confirmed mkt cap yet. Needs a follow-up diligence pass.
-- **Kaiwang Technology (凯旺科技/301182.SZ), Genesis/CIGIT (创世纪/300083.SZ)** — real, company-confirmed Unitree suppliers (cable/connector; CNC machine tools respectively) per 互动易/prospectus, but disclosures are stale (~Feb 2025) and both are consensus "every Unitree-supply-chain roundup" names — not independently gate-checked (size/price/materiality) by this KB yet. Worth a full gate-check next time cursor/EXPLOIT capacity allows.
+## PENDING (weak leads, not yet gate-checked)
+(none currently open — Fire 32's ARRK/Kaiwang/Genesis-CIGIT entries all resolved to KILL Fire 33, see above)
 
 ## ON-DECK (1 gate away from qualifying — standing recheck triggers, not full kills)
 - **Seyond Holdings (2665.HK)** — clean sole-source NIO LiDAR disclosure (+SAIC-VW/GAC/Foton/Leapmotor), -80% de-rated from 52wk high. Blocked ONLY by size (~$490M vs $300M widened-bar cap). Recheck if it de-rates further.

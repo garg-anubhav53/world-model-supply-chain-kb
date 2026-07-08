@@ -1,5 +1,19 @@
 # PRICES CACHE — last-seen move/valuation (staleness window: 7 days)
-As of 2026-07-08 (Fire 32) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+As of 2026-07-08 (Fire 33) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+
+## Fire 33 new gate-checks (killed/confirmed, see decisions-log.md)
+| Ticker | ~12m move | run-tag | note |
+|---|---|---|---|
+| NOVT (Novanta/ATI) | $147.85 (stockanalysis.com, 2026-07-07) / $161.72 (Yahoo/Macrotrends, 2026-07-02), mkt cap ~$5.58-5.76B, up ~38%/12m near highs | RAN — CONFIRMED WATCH (materiality-capped, first-ever full gate-check), see kb/companies/NOVT.md | 4-gate score 5/8; real robotics exposure but too diversified for it to multiply total revenue. |
+| 464080.KQ (SOS Lab) | ₩8,700 (2-source, 2026-07-08), fresh 52wk low, -28.3%/12m | NOT-MOVED (still cheap) — STAYS WATCH(weak), staleness-guard re-derivation done, see kb/companies/SOSLAB.md | New negative: Q1 2026 revenue fell sequentially from Q4 2025. |
+| 301182.SZ (Kaiwang Technology) | ¥88.36 (fupanwang, 2026-06-08), mkt cap ~¥8.5B (~$1.17B), up ~2.4x since Jan 2026 | RAN — KILLED, see kb/companies/KAIWANG.md | Re-rated on an unrelated AI-copper-cable theme, not Unitree; company's own disclosure says <1% Unitree revenue. |
+| 300083.SZ (Genesis/CIGIT) | ¥12.92 (fupanwang, 2026-07-08), mkt cap ~¥21.5B (~$2.97B), up ~39% since January | RAN — KILLED, see kb/companies/CIGIT.md | ~10x the size cap; Unitree relationship is a fungible CNC-machine sale, not a robot component. |
+| 7873.T (ARRK Corporation) | N/A — delisted from TSE 2020-07-30 | DEAD EQUITY | Acquired by Mitsui Chemicals via share exchange effective 2020-08-01; not investable under any framing. |
+| 2665.HK (Seyond Holdings) | HK$3.02-3.06 (2-source, 2026-07-08), mkt cap ~$505-512M | PARTIAL — on-deck, unchanged | Still ~$200M+ over the $300M cap. |
+| MVIS (MicroVision) | not independently re-priced (buyer-name gate binding) | PARTIAL — on-deck, unchanged | Buyer still unnamed; Caterpillar ID confirmed as trade-press inference, not company confirmation. |
+| HSAI | $16.15 (2-source, 2026-07-07 close) | PARTIAL, split executes 2026-07-10 (2 days out) | Re-verify cleanly post-split next fire. |
+| AIRG (Airgain) | $5.94 (2-source, 2026-07-07 close), mkt cap ~$75M | NOT-MOVED | Q2 2026 earnings call still not scheduled. |
+| MNTS (Momentus) | $6.22 (2-source, 2026-07-07 close) | NOT-MOVED, no new filing since 2026-06-18 | Aug 18 2026 Q2 print remains the KILL-UNLESS-PROVEN checkpoint. |
 
 ## Fire 32 new gate-checks (killed/pending, not live WATCH)
 | Ticker | ~12m move | run-tag | note |
@@ -38,8 +52,8 @@ As of 2026-07-08 (Fire 32) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Ref
 | HSAI | Fire 29: ~$16.15 (2-source), near 52wk low, pre-split (split effective Jul 10 2026, 2 days out at check — verify next fire) | NOT-MOVED — full staleness-guard re-derivation done this fire, see kb/companies/HSAI.md | Binding gate BROADENED beyond the litigation docket to the wider geopolitical/cyber-narrative posture (2026-07-07 CNBC piece). Financials clean, concentration improving, but growth decelerating (Q2 guide +20-27% vs +29.6% actual). |
 | **AIRG (Airgain)** | Fire 29: ~$5.94-5.98 (2-source), mkt cap ~$75M, unchanged | NOT-MOVED, see kb/companies/AIRG.md | Coco Robotics dollar/volume commitment still unquantified; capture-rate (sole vs 1-of-N) still unresolved. Next check: Q2 2026 earnings call. |
 | **MNTS (Momentus)** | Fire 29: $6.22 (2-source), flat | NOT-MOVED on price | 11th consecutive fire with no new SEC filing (CIK 1781162, still Jun 18 2026). Aug 18 2026 Q2 print remains the keep/kill decision point. |
-| **464080.KQ (SOS Lab)** | Fire 28: ₩9,180, -49.86% over 6mo (not re-checked Fire 29) | WATCH(weak), reason recharacterized Fire 28 — see kb/companies/SOSLAB.md | Fire 28 CORRECTED the "distress" framing (misdated H1-2025 data) — real liquidity ~₩47B, no capital impairment. Not re-touched this fire. |
-| **NOVT (Novanta/ATI)** | $161.72 (Jul 3 2026) → ~$161 (not re-checked Fire 32) | PARTIAL — bench-promoted into top-5 conviction slot Fire 32 (POCI's vacancy) | NVIDIA Halos member (Fire 27); has NEVER had an individual dossier/full gate-check — highest-priority EXPLOIT target next fire. |
+| **464080.KQ (SOS Lab)** | Fire 33: ₩8,700, fresh 52wk low, -28.3%/12m | WATCH(weak), staleness-guard full re-derivation Fire 33 — see kb/companies/SOSLAB.md | New negative: Q1 2026 revenue fell sequentially from Q4 2025. Hard test now the H1 2026 semiannual report (~mid-Aug). |
+| **NOVT (Novanta/ATI)** | $147.85-161.72 (2-source, Jul 2-7 2026), mkt cap ~$5.58-5.76B | RAN — CONFIRMED WATCH (materiality-capped), first-ever full gate-check Fire 33 | Real robotics exposure (Amazon/NVIDIA/ATI force-torque) but ~$1B revenue company, too diversified to multiply. See kb/companies/NOVT.md. |
 | ON | ~$117 (not re-checked Fire 29) | PARTIAL | no new AV/camera-CMOS-specific news |
 | OMG.L | 39.50p (not re-checked Fire 29) | NOT-MOVED | no news |
 | KLIN.SW | 11.30 CHF (not re-checked Fire 29) | NOT-MOVED | no news |
