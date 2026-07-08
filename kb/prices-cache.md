@@ -1,5 +1,14 @@
 # PRICES CACHE — last-seen move/valuation (staleness window: 7 days)
-As of 2026-07-08 (Fire 38) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+As of 2026-07-08 (Fire 39) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+
+## Fire 39 new gate-checks (killed/confirmed, see decisions-log.md)
+| Ticker | ~12m move | run-tag | note |
+|---|---|---|---|
+| HSAI (Hesai) | $16.15 close 7/7 (-7.56%, 2-source: stockanalysis.com + Google Finance, exact match) | RECONCILED — no new news | Split still not executed (2 days out at check time); litigation 25-5256 still no ruling. |
+| NOVT (Novanta) | $147.85 close 7/7 (2-source: stockanalysis.com + Google Finance, exact match) | RECONCILED — resolved a cross-scout conflict | A separate dive mis-read pre-selloff Jul-2/6 prices ($158-165, Yahoo/CNN) as "more current" — those predate the already-logged Jul-7 sector-contagion drop. $147.85 is correct/current. 2nd staleness-guard re-derivation: STAYS WATCH, 5/8 unchanged. See kb/companies/NOVT.md. |
+| AIRG (Airgain) | $5.94 close 7/7 (2-source: stockanalysis.com + Google Finance, exact match) | NOT-MOVED | Only routine insider 10b5-1 sales; Aug 7-11 2026 earnings on track. |
+| 464080.KQ (SOS Lab) | ₩8,700 (2-source: stockanalysis.com + kr.investing.com, exact match) | NOT-MOVED | Boston Dynamics toured ~10 Korean auto-parts makers incl. SOS Lab early June 2026 — due-diligence/inspection stage only, no award. |
+| 5371.TWO (Coretronic Corp) | NT$35.9B mkt cap (~$1.12B), +66-80%/12m (3-source) | RAN — new find via ImportYeti, found-and-KILLED same fire | Price gate fail + primary-source contradiction (Avride states Taiwan manufacturing, customs shipper is Kunshan-China). Logged as customs-only unconfirmed, not promoted. |
 
 ## Fire 38 new gate-checks (killed/confirmed, see decisions-log.md)
 | Ticker | ~12m move | run-tag | note |
