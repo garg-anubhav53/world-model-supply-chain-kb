@@ -157,7 +157,7 @@ Advantech 2395.TW (NVIDIA ecosystem member but ~$120M robotics pipeline vs ~$9.4
 - **Sharpa Robotics** (Singapore, Hesai-founder spinout) — real named NVIDIA + Unitree design win + formal Hesai connected-party supply agreement. Blocked by being PRIVATE (no ticker). Recheck if it files for a public listing.
 
 ## RECHECK FLAGS (new claims contradict prior kill reasons — verify against primary source before acting)
-(none currently open — Hanwei Technology/Nengside and Zhu Cheng Technology both RESOLVED Fire 29, see below, stay killed)
+(none currently open — Hanwei Technology/Nengsida and Zhu Cheng Technology both RESOLVED Fire 29, see below, stay killed)
 
 ## CHINESE NAME ALIASES (common dedup traps — the same company under different romanizations)
 灵心巧手 = Lingxin Qiaoshou = LinkerBot = Linker Bionics (private, ~$3B val)
