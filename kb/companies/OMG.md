@@ -1,8 +1,11 @@
 # Oxford Metrics / Vicon — OMG.L (AIM)
-Updated 2026-07-05 | Verdict: **WATCH (lean KILL — not a buy)**
+Updated 2026-07-08 (Fire 35) | Verdict: **KILL** (2nd-ever genuine full re-derivation, first to flip verdict — staleness-guard rule)
 
-- **What:** Parent of Vicon (optical motion-capture) + industrial metrology. Micro-cap ~£44.5m; net cash £37m (~83% of cap), debt-free, 7.3% yield + buyback. Management competent.
-- **Not-run:** YES — −35%/12m, near 52-wk low, robotics not in price.
-- **Causal link:** SPECULATIVE — mocap is being DISPLACED for robot training data by sim/synthetic (NVIDIA GR00T/Cosmos), egocentric video, teleop, AND OMG's own markerless line (growing 2.6x vs marker-optical 1.8x). No named large humanoid customer (only GM legacy).
-- **Multiplication:** NO — Vicon segment ~£31.8m; a robotics deal ~£100–300k; need 100–300 lab deployments just to 2x the segment once. Mgmt's own 5-yr ceiling is ~2x group, not the 5–10x we hunt.
-- **Why watch not buy:** passes gate #4 (fortress) and #1 (not-run) but FAILS #2 (causal) and #3 (multiplication). Displacement risk is live.
+- **What:** Parent of Vicon (optical motion-capture) + industrial metrology (IVMS). Micro-cap ~£43.3m (39.5p, 2026-07-02, Yahoo Finance/lse.co.uk), 52wk range 38.5-62.8p — trading ~2% off its 52wk low, -35%/12m.
+- **Financials (H1 FY26, to 31 Mar 2026, RNS 2026-06-17):** Revenue £20.7m (+3%). Vicon segment £16.3m (+10%, 79% of group), adj. EBIT £0.6m. **Order intake -21% to £18.0m (book-to-bill <1)** — a demand signal, not just timing. Net cash £31.7m, DOWN from £39.9m six months prior (drained by £3.7m dividend + £1.3m buyback + M&A pool) — still debt-free, ~73% of cap, ~7% yield, buyback live.
+- **Causal link — still absent after 6+ months:** zero named humanoid/embodied-AI customer. Management (2026-06-17 call) cites only legacy GM + NASA spacesuits — unchanged from origination. Markerless line is shifting toward proprietary/exclusive IP, but the addressable market is too small to matter.
+- **Displacement thesis — confirmed and worsening:** NVIDIA Cosmos 3/Isaac GR00T (2026) generates 780K synthetic trajectories in 11 hours from a small number of human demos — real mocap survives only as a ground-truth seed, and the volume math means each robotics program needs FEWER mocap rigs over time, not more. Structural headwind, not neutral.
+- **Multiplication — structurally fails:** Vicon segment ~£32-33m annualized; a robotics-lab deal is ~£100-300k — 100-200 deployments needed just to 2x the segment once. Management's own 5yr ceiling is ~£90m group (~2x group from £44.8m FY25), below the KB's 2-3x *segment* minimum bar.
+- **4 gates:** (1) not-rerated 2/2 · (2) causal link 0/2 (speculative, no named buyer, displacement worsening) · (3) multiplication 0/2 (structurally capped, not "hasn't happened yet") · (4) financial health 2/2 (still debt-free/cash-backed, but cash eroding). **Total 4/8 — gates 2 and 3 are structurally broken.**
+- **Verdict: KILL.** A well-run, cash-backed defensive micro-cap, but not an asymmetry — no forced buyer exists, the displacement dynamic is real and getting worse, and the arithmetic caps upside far below the hunt's bar. Re-open trigger: a named, exclusive robotics-training-data contract material enough to move the £32m Vicon segment (none exists today).
+- Sources: Yahoo Finance/lse.co.uk (2026-07-02); Oxford Metrics H1 FY26 RNS + earnings call, Investing.com (2026-06-17); NVIDIA Isaac GR00T/Cosmos 3 developer blog (2026).

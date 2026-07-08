@@ -183,6 +183,11 @@ Ningbo-Huaxiang 宁波华翔/002048.SZ (KILLED Fire 34: real 3-year OEM authoriz
 Zhongyuan-Neipei 中原内配/002448.SZ (KILLED Fire 34: real 5-year "core supplier" pact for humanoid joint modules via the 普智机器人 JV, but mkt cap ~¥8.18B/~$1.1B + no revenue % disclosed, double gate-fail)
 Xiangxin-Technology 祥鑫科技/002965.SZ (KILLED Fire 34: real metal structural-component supplier to UBTECH/KUKA, but mkt cap ~¥10.9B/~$1.5B, decisive size-gate fail)
 Wuxi-Boton 宝通科技/300031.SZ (KILLED Fire 34: Unitree cooperation is joint industrial-application R&D for mining/smelting/cement/port use cases, not a component-supply relationship + 52wk range already +147% peak swing, off-thesis + price-gate fail)
+Oxford-Metrics OMG.L (KILLED Fire 35: first-ever genuine staleness-guard full re-derivation after sitting "no change" since KB inception — order intake -21%/book-to-bill<1, net cash eroding £39.9m→£31.7m, still zero named humanoid buyer 6+ months on, NVIDIA synthetic-data volume math worsening the displacement thesis, multiplication structurally capped at mgmt's own ~2x-GROUP 5yr ceiling. Causal-link + multiplication gates structurally broken, not price-gate kill)
+Dingzhi-Technology 鼎智科技/920593.BJ (KILLED Fire 35: real company-confirmed Zhiyuan "excellent cooperator" tie, but mkt cap ~¥6.73B + own words confirm only small-batch sampling stage, double gate-fail; also a SUBSIDIARY/AFFILIATE of already-killed Jiangsu Leili/江苏雷利/300660.SZ — dedup trap)
+Liwang 力王股份/920627.BJ (KILLED Fire 35: lithium-battery R&D contract with Tsinghua Shenzhen for "humanoid robot batteries" but generic ¥300k research contract, no named OEM buyer + mkt cap ¥21.5B)
+Jiezhong-Technology 捷众科技/920690.BJ (KILLED Fire 35: passes size cap (~¥1.6-2.2B) but named humanoid/quadruped joint-gear partner is 云深处/Cloud Deep/DEEP Robotics — off-thesis buyer, not AgiBot/Zhiyuan/Unitree/UBTECH)
+Langxin-Electric 朗信电气/874326.BJSE (KILLED Fire 35: false-positive trap — aggregator implied humanoid-robotics relevance but company's own IPO disclosure is pure automotive/HVAC thermal-management, zero robotics content)
 
 ## PENDING (weak leads, not yet gate-checked)
 (none currently open — Fire 32's ARRK/Kaiwang/Genesis-CIGIT entries all resolved to KILL Fire 33, see above)
@@ -214,3 +219,4 @@ EasyMile (only 3rd-party supplier is TLD Europe/Alvest Group, PRIVATE) · Cruise
 珠城科技 = Zhu Cheng Technology (301280.SZ — no revenue yet, already 2x)
 卧龙电驱 = Wolong Electric Drive (600580.SH — already +60%, too large)
 蔚蓝锂芯 = Vital Bee Battery = Jiangsu Azure (002245.SZ, formerly 澳洋顺昌 — already killed Fire 23, materiality+price fails; resurfaced under an unfamiliar English brand name via the Unitree prospectus Fire 32, dedup-caught)
+鼎智科技 = Dingzhi Technology (920593.BJ, BJSE) — subsidiary/affiliate of Jiangsu Leili (江苏雷利/300660.SZ, already-killed Fire 33) — same corporate family, different ticker/exchange

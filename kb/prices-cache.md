@@ -1,5 +1,20 @@
 # PRICES CACHE — last-seen move/valuation (staleness window: 7 days)
-As of 2026-07-08 (Fire 34) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+As of 2026-07-08 (Fire 35) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+
+## Fire 35 new gate-checks (killed/confirmed, see decisions-log.md)
+| Ticker | ~12m move | run-tag | note |
+|---|---|---|---|
+| OMG.L (Oxford Metrics/Vicon) | 39.5p (2026-07-02), mkt cap ~£43.3m, -35%/12m, ~2% off 52wk low | RAN — first-ever staleness-guard re-derivation, KILLED | Order intake -21%, net cash £39.9m→£31.7m. See kb/companies/OMG.md. |
+| 920593.BJ (Dingzhi Technology) | mkt cap ~¥6.73B (Jan 2026) | RAN — killed size-gate | Real Zhiyuan tie but sampling-stage only + subsidiary of already-killed Jiangsu Leili. |
+| 920627.BJ (Liwang) | mkt cap ¥21.5B | RAN — killed size+causal-gate | Generic battery R&D contract, no named OEM buyer. |
+| 920690.BJ (Jiezhong Technology) | mkt cap ~¥1.6-2.2B (passes size cap) | RAN — killed causal-gate | Named buyer is DEEP Robotics, off-thesis. |
+| AIRG (Airgain) | $5.76-5.94 (2-source, 2026-07-07 close), mkt cap ~$75-79M | NOT-MOVED | Q2 2026 earnings call still not scheduled. |
+| MNTS (Momentus) | $6.04-6.22 (2-source, 2026-07-07/08), mkt cap ~$100-128M (dilution-noisy) | NOT-MOVED | No new ATM draw since pre-existing $75M ATM + $25M registered-direct. |
+| 464080.KQ (SOS Lab) | ₩8,700 (freshest source) | NOT-MOVED | No new contract news since Fire 33. |
+| NOVT (Novanta) | $147.85-161.72 (2-source spread), mkt cap ~$5.6-5.8B | NOT-MOVED (spread explained) | Divergence traces to the already-known $300M private placement/Riverpoint acquisition (June 2026, not new). |
+| 2665.HK (Seyond Holdings) | HK$3.00 (2026-07-08, 2-source), mkt cap ~$502-524M | PARTIAL — on-deck, unchanged | Still above the $300M cap. |
+| MVIS (MicroVision) | not independently re-priced (buyer-name gate binding) | PARTIAL — on-deck, unchanged | 2026-07-10 dilution vote hadn't occurred yet at check time. |
+| HSAI (Hesai) | split effective 2026-07-10, not yet executed at check | NOT-MOVED (same-day recheck) | D.C. Circuit still no ruling. |
 
 ## Fire 34 new gate-checks (killed/confirmed, see decisions-log.md)
 | Ticker | ~12m move | run-tag | note |
