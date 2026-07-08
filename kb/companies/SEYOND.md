@@ -1,5 +1,7 @@
 # Seyond Holdings — 2665.HK
-Created 2026-07-08 (Fire 36, first light dossier — on-deck since ~Fire 30) | Verdict: **PENDING/on-deck — 1 gate from WATCH (size), gate does NOT flip this fire** | Track: **AV (China LiDAR)**
+Updated 2026-07-08 (Fire 38, on-deck since ~Fire 30) | Verdict: **PENDING/on-deck — 1 gate from WATCH (size), gate does NOT flip this fire** | Track: **AV (China LiDAR)**
+
+**Fire 38 update — light check, no material change:** Mkt cap ~HK$3.847B (≈$493M USD) as of early July 2026 — essentially unchanged, still ~1.6x the $300M cap. No new named-customer disclosure since Fire 37's +385% YoY shipment-volume news. Only customer-adjacent item found: a CES 2026 (January) "world-first OEM design win" claim for the solid-state Hummingbird D1 — OEM still unnamed, and this predates the last fire's report, so likely already-known/stale, not new.
 
 **What:** China LiDAR maker, HK-listed. Clean sole-source NIO LiDAR disclosure (as of 2026-04-10, reconfirmed still current — NIO hit a 1M-cumulative-LiDAR-delivery milestone with Seyond as "solo supplier," ET7→ET9, ET9 uses jointly-defined Falcon + dual Robin W config) plus expansion to SAIC-VW, GAC, Leapmotor, and an unnamed "leading Chinese auto group" entering mass production 2026. FY2026 shipment guide ~200% growth / ~1M-unit target.
 

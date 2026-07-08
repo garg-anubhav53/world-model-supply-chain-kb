@@ -1,5 +1,16 @@
 # PRICES CACHE — last-seen move/valuation (staleness window: 7 days)
-As of 2026-07-08 (Fire 37) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+As of 2026-07-08 (Fire 38) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+
+## Fire 38 new gate-checks (killed/confirmed, see decisions-log.md)
+| Ticker | ~12m move | run-tag | note |
+|---|---|---|---|
+| 2451.HK (Luyuan Group Holdings) | HK$12.88 (Investing.com, 2026-07-08), mkt cap HK$5.25B (~$670M); alt source ~HK$6.23B (~$795M) | RAN — VERIFIED and KILLED, size gate | Decisively over the $300M widened-bar cap regardless of Youlu/Deer Robotics' buyer legitimacy. See kb/companies/LUYUAN.md. |
+| 464080.KQ (SOS Lab) | ₩8,700 (2026-07-08, 2-source: stockanalysis.com + Investing.com, -5.23%) | RAN — 2nd staleness-guard full re-derivation, STAYS WATCH(weak) | Reconciles Fire 36-37's price disagreement in favor of ₩8,700. Binding pre-commitment set: H1 2026 report = keep/kill decision point. See kb/companies/SOSLAB.md. |
+| HSAI (Hesai) | $16.15 close 7/7 (-7.56%, stockanalysis.com) vs $18.23 intraday 7/8 (+15.67%, Yahoo Finance) — sources disagree on magnitude, both show a sharp volatile upswing | PARTIAL — real pre-split momentum confirmed | GuruFocus/TipRanks confirm 2 separate surge days (+10.5%, +16.9%), new analyst Outperform initiation ($23.50 PT), Mercedes-Benz sentiment. Split effective 7/10, not yet executed. Litigation (25-5256) still no ruling. |
+| NOVT (Novanta) | $147.85 (2-source: stockanalysis.com + Yahoo Finance, both agree exactly, 7/7 close) | RECONCILED — 2-source agreement, no new company-specific news | -10.33% drop still attributed to sector contagion; no 8-K since 7/7. |
+| AIRG (Airgain) | $5.94 (2-source: stockanalysis.com + MarketBeat, both agree exactly, 7/7 close) | NOT-MOVED | Mkt cap ~$75.3-78.7M. Q2 earnings date formal confirmation still pending (~4wks out, as expected). |
+| 2665.HK (Seyond Holdings) | HK$3.847B mkt cap (~$493M) | PARTIAL — on-deck, unchanged | Still ~1.6x the $300M cap; no new named customer. |
+| MVIS (MicroVision) | buyer still unconfirmed via re-pulled primary 8-K exhibit | PARTIAL — on-deck, unchanged | Jul 10 2026 vote (reverse split + convertible-note issuance) confirmed still pending at check time. |
 
 ## Fire 37 new gate-checks (killed/confirmed/promoted, see decisions-log.md)
 | Ticker | ~12m move | run-tag | note |
@@ -108,7 +119,7 @@ As of 2026-07-08 (Fire 37) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Ref
 | HSAI | Fire 29: ~$16.15 (2-source), near 52wk low, pre-split (split effective Jul 10 2026, 2 days out at check — verify next fire) | NOT-MOVED — full staleness-guard re-derivation done this fire, see kb/companies/HSAI.md | Binding gate BROADENED beyond the litigation docket to the wider geopolitical/cyber-narrative posture (2026-07-07 CNBC piece). Financials clean, concentration improving, but growth decelerating (Q2 guide +20-27% vs +29.6% actual). |
 | **AIRG (Airgain)** | Fire 29: ~$5.94-5.98 (2-source), mkt cap ~$75M, unchanged | NOT-MOVED, see kb/companies/AIRG.md | Coco Robotics dollar/volume commitment still unquantified; capture-rate (sole vs 1-of-N) still unresolved. Next check: Q2 2026 earnings call. |
 | **MNTS (Momentus)** | Fire 29: $6.22 (2-source), flat | NOT-MOVED on price | 11th consecutive fire with no new SEC filing (CIK 1781162, still Jun 18 2026). Aug 18 2026 Q2 print remains the keep/kill decision point. |
-| **464080.KQ (SOS Lab)** | Fire 33: ₩8,700, fresh 52wk low, -28.3%/12m | WATCH(weak), staleness-guard full re-derivation Fire 33 — see kb/companies/SOSLAB.md | New negative: Q1 2026 revenue fell sequentially from Q4 2025. Hard test now the H1 2026 semiannual report (~mid-Aug). |
+| **464080.KQ (SOS Lab)** | Fire 38: ₩8,700 (2-source reconciled), fresh 52wk low | WATCH(weak), 2nd staleness-guard full re-derivation Fire 38 — see kb/companies/SOSLAB.md | Q1 2026 revenue collapse re-confirmed. BINDING PRE-COMMITMENT: H1 2026 semiannual report (~mid-Aug) is the keep/kill decision point — downgrade to KILL next fire absent a ramp. |
 | **NOVT (Novanta/ATI)** | $147.85-161.72 (2-source, Jul 2-7 2026), mkt cap ~$5.58-5.76B | RAN — CONFIRMED WATCH (materiality-capped), first-ever full gate-check Fire 33 | Real robotics exposure (Amazon/NVIDIA/ATI force-torque) but ~$1B revenue company, too diversified to multiply. See kb/companies/NOVT.md. |
 | ON | ~$117 (not re-checked Fire 29) | PARTIAL | no new AV/camera-CMOS-specific news |
 | OMG.L | 39.50p (not re-checked Fire 29) | NOT-MOVED | no news |

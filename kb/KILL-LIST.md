@@ -209,7 +209,7 @@ T-Mobile-US TMUS (Fire 37: real disclosure — Figure AI's F03 humanoid robots u
 - **Calin Technology (4976.TW, 佳凌科技)** — NEW Fire 30. Taiwan camera-lens maker, DigiTimes-reported (single-sourced, unconfirmed) sole Waymo camera-lens supplier. Blocked by disclosure quality (no 2nd source/Calin IR confirmation) AND thin margins (~2% gross). Recheck on a 2nd-source Waymo confirmation or a margin recovery.
 - **Xinzhi Group (002664.SZ, 信质集团)** — NEW Fire 30. Frameless torque-motor maker, passes price+financial gates cleanly. Blocked ONLY by Gate 2 — Huawei/Unitree relationship still R&D/sample-stage, no firm production contract. Recheck on a disclosed production order.
 - ~~Xinjian Transmission (新剑传动)~~ — **PROMOTED TO WATCH Fire 37** (named buyer confirmed as TESLA, H2 2025 mass-production order for dexterous-hand assemblies). Removed from ON-DECK/PENDING. See pipeline.md, kb/companies/XINJIAN.md.
-- **Luyuan Group Holdings (绿源集团控股, 2451.HK)** — NEW Fire 37. China e-bike maker (~$830M mkt cap) supplying reducer joint modules to 有鹿机器人/Youlu ("Deer") Robotics, ~100K-unit order target 2026. Blocked by TWO unverified items: Youlu's legitimacy/production credibility as a real forced-buyer at scale (historically a consumer lawn-mower-robot maker, unclear if this is a genuine robotics pivot), and Luyuan's own mkt cap likely exceeding the WATCH cap regardless. Recheck once Youlu's buyer legitimacy is verified.
+- ~~Luyuan Group Holdings (绿源集团控股, 2451.HK)~~ — **KILLED Fire 38** (size gate confirmed, mkt cap $600-800M — see KILL-LIST additions above, kb/companies/LUYUAN.md). Removed from ON-DECK.
 
 ## RECHECK FLAGS (new claims contradict prior kill reasons — verify against primary source before acting)
 (none currently open — Hanwei Technology/Nengsida and Zhu Cheng Technology both RESOLVED Fire 29, see below, stay killed)
@@ -232,3 +232,8 @@ EasyMile (only 3rd-party supplier is TLD Europe/Alvest Group, PRIVATE) · Cruise
 蔚蓝锂芯 = Vital Bee Battery = Jiangsu Azure (002245.SZ, formerly 澳洋顺昌 — already killed Fire 23, materiality+price fails; resurfaced under an unfamiliar English brand name via the Unitree prospectus Fire 32, dedup-caught)
 鼎智科技 = Dingzhi Technology (920593.BJ, BJSE) — subsidiary/affiliate of Jiangsu Leili (江苏雷利/300660.SZ, already-killed Fire 33) — same corporate family, different ticker/exchange
 天鹏电源 = Tiandeng Power — subsidiary of 蔚蓝锂芯/Jiangsu Azure (002245.SZ, already-killed) — resurfaced Fire 37 as Unitree's ~60% cylindrical-cell battery supplier under the subsidiary name, same corporate family
+
+## Fire 38 additions
+Luyuan-Group-Holdings 2451.HK 绿源集团控股 (KILLED Fire 38: size gate — mkt cap ~HK$4.6-6.2B/~$600-800M confirmed 2-source, decisively over the $300M widened-bar cap regardless of buyer legitimacy. Buyer 有鹿机器人/Youlu "Deer" Robotics itself real/funded/revenue-generating but "人形机器人"/humanoid is a future roadmap stage, not current shipping product — actual products are wheeled/mobile-form retrofits. See kb/companies/LUYUAN.md.)
+CVGI Commercial-Vehicle-Group (RECONFIRMED Fire 38: real "officially in production on the Zoox robotaxi program" 8-K disclosure, May 2026 — but already on this list, already-run/materiality-too-low per the original Fire 19 kill. Dedup catch, not new.)
+ZVision (Beijing, private) — real named Baidu Apollo RT6 blind-spot-lidar supplier (4 units/vehicle), found Fire 38 AV sensor-pod Tier-3 pass — PRIVATE, no ticker, not actionable. Log for future IPO-watch only.
