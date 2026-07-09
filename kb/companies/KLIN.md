@@ -1,5 +1,7 @@
 # Klingelnberg AG — KLIN.SW
-Updated 2026-07-05 | Verdict: **WATCH (not a buy)**
+Updated 2026-07-09 (Fire 41, light sanity-check re-confirm) | Verdict: **WATCH (not a buy)**
+
+**Fire 41 re-check:** price CHF ~10.30, mkt cap ~CHF 91M (stockanalysis.com, 2026-07-09), trading near 52wk low (CHF 9.94-13.90) — still genuinely NOT re-rated, unlike ON Semiconductor (killed same fire on this exact axis). Framing below unchanged, no new catalyst.
 
 - **What:** Gear-grinding machines + gear metrology/inspection. Only listed pure-play; Reishauer (peer) private.
 - **Causal link:** PROBABLE (leans speculative for humanoid-specific) — link runs through metrology + general precision grinding, not humanoid strain-wave reducers specifically. Robotics not a disclosed segment.

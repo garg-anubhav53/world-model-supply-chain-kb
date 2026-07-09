@@ -280,3 +280,24 @@ Kiwi-Campus/Kiwibot, Zipline-International, Mobileye-robotaxi-customs (dead-ends
 ## Fire 40 PENDING (new, not yet investable — no ticker or no footprint)
 - **泉智博 (Quanzhibo)** — private six-dim force-torque sensor maker, real named strategic investors (Zhiyuan, Geely, CRRC, Lejiu Robotics) across 7 funding rounds. No ticker. Watch for a future listing.
 - **Also, Inc.** (Rivian spinoff, $1B val, real multi-year DoorDash strategic-buyer deal, $200M+ raised) — zero ImportYeti footprint because US vehicle deliveries hadn't started as of 2026-07-09. Recheck via ImportYeti in 1-2 quarters once production-volume imports begin — this is exactly the setup (new entrant + named strategic buyer + forced revenue ramp) the customs method is built to catch.
+
+## Fire 41 additions (2026-07-09)
+ON-Semiconductor ON (KILLED Fire 41: first-ever genuine full re-derivation after 40+ fires as an undiligenced legacy WATCH placeholder — already re-rated +61.2%/12mo price + +74.2%/12mo mkt-cap [2-source] + 137% YTD, decisive Gate-1 fail; also a materiality trap — $38.7B cap/$6B revenue, image sensors only ~16% of revenue [mostly auto ADAS, losing share to Sony], no named humanoid buyer ever existed anywhere in the disclosure record. Same structural pattern as NOVT/Fire33. See kb/companies/ON.md.)
+Lizhong-Group 立中集团 300428.SZ (KILLED Fire 41: 5yr RMB75M fixed-point deal for skeleton/joint/dexterous-hand parts, but named buyer is Beijing Weijing Intelligent/北京伟景智能 — not on target-OEM list)
+Fengguang-Precision 丰光精密 430510.BJSE (KILLED Fire 41: harmonic reducers "for humanoid robots" but company explicitly declines to name customers citing confidentiality — no named buyer)
+Hongying-Intelligent 宏英智能 001266.SZ (KILLED Fire 41: sensor/electric-control products "usable in humanoid robots" but core business is mobile-machinery electronics/datacenter liquid-cooling/aerospace — no named humanoid buyer)
+Hualing-Cable 华菱线缆 001208.SZ (KILLED Fire 41: Jul-8 limit-up driven by an unrelated grid-cable contract + M&A deal; humanoid angle is pre-research/technical-reserve stage only, no shipped product)
+Huichen-Co 慧辰股份 688500.SH (KILLED Fire 41: exclusive 1,000-unit deal with 松延动力/Songyan/Noetix — off-thesis buyer not on target-OEM list, same pattern as DEEP Robotics)
+Vay (Berlin teleoperated ride-hailing, Henderson NV footprint) — 1 ImportYeti shipment, supplier is private Dutch seat-maker Eblo Seating B.V., dead end
+"Verne" ImportYeti hit is an unrelated Chilean homonym (Pudahuel, Chile) — NOT Rimac Group's Verne robotaxi (Zagreb) — geography-mismatch false positive, same pattern as Avride/Coretronic
+Glydways (autonomous pod transit, Khosla/Suzuki-backed) — only 3 shipments (prototype/engineering-sample volumes), suppliers are own-subsidiary/Mitsui-owned-Arrk-Engineering/mislabeled-China-shipment — too early-stage, dead end
+DeepRoute.ai — no US customs footprint under any slug (China-domestic ops, same captive-buyer logic as Tesla/Unitree/Figure)
+Cyngn Inc (CYN) — ImportYeti records are all 2017-2018 pre-pivot "sightseeing bus" era, stale/irrelevant to current DriveMod business
+Also-Inc (reconfirmed Fire 41: zero ImportYeti footprint, still pre-commercial — US production-volume deliveries not yet started; recheck in 1-2 quarters)
+
+## Fire 41 DEDUP CATCHES (scout mis-flagged these already-killed names as "near-misses" — caught during synthesis, not new, no re-analysis)
+Zhongding-Sealing-Parts 中鼎股份 000887.SZ (already killed Fire 37, size gate)
+Jiangsu-Azure/蔚蓝锂芯 002245.SZ (already killed Fire 23, materiality+price — see CHINESE NAME ALIASES section)
+Hanyu-Group/汉宇集团/同川科技 300403.SZ (already killed Fire 35, company walks back humanoid framing)
+Bukom 步科股份 688160.SH (already in KILL-LIST mega-row)
+Haozhi-Mechatronics 昊志机电 300503.SZ (already killed Fire 37, at ATH)

@@ -1,5 +1,16 @@
 # PRICES CACHE — last-seen move/valuation (staleness window: 7 days)
-As of 2026-07-09 (Fire 40) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+As of 2026-07-09 (Fire 41) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+
+## Fire 41 new gate-checks (killed/confirmed, see decisions-log.md)
+| Ticker | ~12m move | run-tag | note |
+|---|---|---|---|
+| ON (ON Semiconductor) | $99.46 (stockanalysis.com, 2026-07-09), mkt cap ~$38.7B. +61.2%/12mo price (Macrotrends), +74.2%/12mo mkt-cap (stockanalysis.com), +137% YTD | RAN, decisively — KILLED (first-ever full re-derivation, materiality trap) | Doubled off 52wk low $44.56 to high $134.92. See kb/companies/ON.md. |
+| KLIN.SW (Klingelnberg) | CHF ~10.30 (stockanalysis.com, 2026-07-09), mkt cap ~CHF 91M, near 52wk low (CHF 9.94-13.90) | NOT-MOVED — genuinely un-re-rated, stays WATCH | Lighter reconfirm alongside ON's full re-derivation. See kb/companies/KLIN.md. |
+| HSAI (Hesai) | $16.47 (stockanalysis.com, 2026-07-09 3:10pm EDT) vs $16.60 (7/8 close) | NOT-MOVED | Split not yet executed, effective 7/10 open. |
+| AIRG (Airgain) | $5.76 (7/7) / $5.98 (7/8) | NOT-MOVED | Flat-to-down vs $6.06 baseline, no material move. |
+| 464080.KQ (SOS Lab) | ₩8,870 (stockanalysis.com, 2026-07-09) | NOT-MOVED | Exactly matches prior baseline. |
+| NOVT (Novanta) | $148.59 (2026-07-09) | NOT-MOVED | Essentially flat vs $147.85 (7/7 close). |
+| 2665.HK (Seyond) | ~HK$10.90, mkt cap ~$490M (stockinvest.us, resolving a data conflict vs a stale/miscalculated ~$1.8B figure elsewhere) | NOT-MOVED | Still above size threshold, on-deck unchanged. |
 
 ## Fire 40 new gate-checks (killed/confirmed, see decisions-log.md)
 | Ticker | ~12m move | run-tag | note |

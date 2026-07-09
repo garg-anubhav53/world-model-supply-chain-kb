@@ -1,5 +1,5 @@
 # WATCHLIST — live candidates + monitoring signals
-Updated 2026-07-08 (Fire 39).
+Updated 2026-07-09 (Fire 41). **KILLED this fire: ON Semiconductor (ON)** — first-ever genuine full re-derivation after 40+ fires as an undiligenced legacy WATCH placeholder; already re-rated +61-74%/12mo (2-source) + materiality trap (image sensors ~16% of a $38.7B-cap/$6B-revenue company, no named humanoid buyer). See kb/companies/ON.md, decisions-log.md. Top-priority table below (HSAI/AIRG/SOS-Lab/NOVT/Xinjian) and on-deck (Seyond/MicroVision) all confirmed unchanged this fire via a light-monitor pass — no binding-gate triggers.
 
 ## TOP priority
 | Ticker | Thesis in one line | Signal to watch |
