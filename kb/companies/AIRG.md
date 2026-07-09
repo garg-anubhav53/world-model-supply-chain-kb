@@ -1,7 +1,19 @@
 # Airgain, Inc. — AIRG (Nasdaq)
-Updated 2026-07-08 (Fire 36) | Verdict: **WATCH, DOWNGRADED in conviction (4-gate 3/8) — first-ever genuine staleness-guard full re-derivation** | Track: **R (robotics, adjacent — autonomous delivery robots)**
+Updated 2026-07-09/10 (Fire 42, 2nd genuine staleness-guard full re-derivation) | Verdict: **WATCH, unchanged (4-gate 3/8)** | Track: **R (robotics, adjacent — autonomous delivery robots)**
 
-**Fire 36 — first genuine from-scratch re-derivation since origination (all prior fires were "re-read the same filing" light checks, never a real re-pull):**
+**Fire 42 — 2nd genuine from-scratch re-derivation (1st was Fire 36, 6 fires ago), all primary sources re-pulled:**
+- **Price drift:** $6.07 (Yahoo Finance) / $5.76 (CNN/Nasdaq, 2026-07-07 print) — up modestly (~5%) from Fire 36's $5.76-5.98 on no company-specific news; now ~102% off the 52wk low ($3.00) — marginally MORE priced-in than before, though not enough to move Gate 1's score.
+- **Gate 2 hardened, not resolved:** Q1 10-Q (filed 2026-05-06) re-pulled directly — contains ZERO mention of Coco Robotics/VTOL/autonomous/drone/delivery robots anywhere; customers appear only as anonymized "Customer A/B/C/D" concentration disclosures. Confirms the robotics story lives entirely in press releases and earnings-call color, never in a binding SEC filing — a real, if unsurprising, hardening of the bear case. Coco Robotics design win still verbatim-unchanged since 2026-03-12 (no PO/dollar figure after 4 months); 2nd "autonomous VTOL" customer still unnamed. A separate $4M IoT purchase order (2026-03-04 PR) was clarified as a long-time non-Coco, non-robotics customer — do not conflate with the robotics thesis.
+- **Gate 3 still fails on fresh arithmetic:** Q1 2026 actual revenue $11.511M; Q2 guide $12.5-14.5M (midpoint $13.5M, ~$50-54M annualized). Coco's own 10,000-vehicle 2026 goal × 2 modems × ~$100-200/modem ≈ $2-4M lifetime, still low-single-digit % of the base. Coco itself is thesis-neutral-positive (launched "Coco 2," 3,000+ merchants, live on Uber Eats/DoorDash/Wolt) — customer health is not the problem, arithmetic is.
+- **Gate 4 unchanged:** Q1 2026 net loss $(1.897)M, cash $7.127M, zero debt, equity $28.015M; Q2 guided to breakeven (+$0.01 EPS, +$0.2M adj. EBITDA).
+- **No pre-announcement or analyst preview found** ahead of the confirmed Aug 7 (release)/Aug 11 (call) Q2 earnings date — nothing has genuinely moved between Fire 36 and now.
+
+**4-gate score: 3/8, UNCHANGED** (Gate 1=1/2, Gate 2=1/2, Gate 3=0/2, Gate 4=1/2) — identical to Fire 36.
+
+**Binding gate reaffirmed and sharpened:** Aug 7-11, 2026 Q2 earnings call. If the sequential guide holds AND there is *still* no Coco/VTOL dollar figure and the VTOL customer remains unnamed, **the next fire after Aug 11 should treat AIRG as a live KILL candidate** — a robotics-adjacency thesis producing zero robotics numbers across 2+ consecutive quarters post-first-disclosure has effectively failed its own test. This is now an explicit, dated trigger, not an open-ended "keep watching."
+
+---
+**Fire 36 (first genuine re-derivation, for reference):**
 - **Correction to the KB's own framing:** the Coco Robotics design win was FIRST disclosed in a standalone press release **2026-03-12**, not the 2026-05-06 8-K (which merely re-listed it as a quarterly highlight, identical language). The KB has effectively been anchored on a March disclosure that was never expanded in 4 months.
 - **No material 8-K since May 6, 2026.** Only two subsequent 8-Ks: June 11 (Item 5.07, routine annual-meeting vote results only) and April 21 (Item 5.02, CTO Ali Sadri terminated, Office of the CTO eliminated — cost-neutral-to-positive restructuring, ~$382K severance).
 - **Coco Robotics still zero hard numbers** — no dollar figure, no unit commitment, no PO, still "multi-million-dollar opportunity over the life of the rollout," unchanged verbatim across 4 months. One concrete new detail: **two Airgain NimbeLink cellular modems per robot** (redundant architecture) — but these are resold/module products, not proprietary spec-locked antennas — lower switching-cost lock-in than a custom design.
