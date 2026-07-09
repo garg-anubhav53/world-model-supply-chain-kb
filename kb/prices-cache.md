@@ -154,7 +154,7 @@ As of 2026-07-09 (Fire 41) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Ref
 | OMG.L | 39.50p (not re-checked Fire 29) | NOT-MOVED | no news |
 | KLIN.SW | 11.30 CHF (not re-checked Fire 29) | NOT-MOVED | no news |
 | ~~POCI (Precision Optics)~~ | $4.86 (2026-07-07) | **KILLED Fire 32** — see kb/companies/POCI.md | 2nd staleness-guard re-derivation flipped WATCH(weak)→KILL; removed from live WATCH table. |
-| TKR (Spinea) | $138.06 (not re-checked Fire 29) | PARK | no Spinea-specific news |
+| ~~TKR (Spinea)~~ | ~$139-142 / ATH $142.94 (Fire 43, 2-source) | **KILLED Fire 43 (2/8)** | +102% 12mo, at all-time high — Gate 1 fail; zero named humanoid buyer (Gate 2); Spinea <1% of $4.58B rev (Gate 3). See kb/companies/TKR.md |
 
 ## On-deck / pending price watch
 | Ticker | ~12m move | run-tag | note |
