@@ -1,5 +1,18 @@
 # PRICES CACHE — last-seen move/valuation (staleness window: 7 days)
-As of 2026-07-09 (Fire 41) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+As of 2026-07-09 (Fire 43) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+
+## Fire 43 new gate-checks (killed/confirmed/promoted, see decisions-log.md)
+| Ticker | ~12m move | run-tag | note |
+|---|---|---|---|
+| TKR (Timken/Spinea) | $139-142 (2-source), all-time high $142.94, +102.1%/12mo, mkt cap ~$9.6B | RAN, decisively — KILLED (first-ever full re-derivation, materiality trap, 3rd legacy-placeholder pattern) | See kb/companies/TKR.md. |
+| 2665.HK (Seyond Holdings) | HK$2.910 (2-source: stockanalysis.com + etnet.com.hk, 2026-07-09), mkt cap ~$483M, AT 52wk low | RAN — PROMOTED to WATCH (weak, size-gate reinterpreted vs the $800M hard cap) | **Data-integrity flag: a WebSearch-summarized TradingView figure (HK$10.90/~$1.8B, "ATL HK$9.23") is FALSE — do not reuse; both direct sources agree on HK$2.910/HK$2.900 ATL.** See kb/companies/SEYOND.md. |
+| HSAI (Hesai) | $16.40 (2-source: stockanalysis.com + StockTitan, 2026-07-09), post-split | NOT-MOVED — price confirmed, mkt cap still UNRELIABLE across aggregators (stale share-count lag) | True mkt cap ≈$20.6B computed manually (1,257.1M shares × $16.40) — do not trust any single aggregator's HSAI mkt cap until they catch up. |
+| NOVT (Novanta) | $151.66 (2-source: stockanalysis.com + Google Finance, 2026-07-09), mkt cap ~$5.4-5.7B | NOT-MOVED | Flat within prior $148-152 range. |
+| 464080.KQ (SOS Lab) | ₩8,870 (2026-07-09), +1.95% day, mkt cap ₩159.19B | NOT-MOVED | No H1 2026 preliminary guidance found ahead of ~mid-Aug binding report. |
+| LINK (Interlink Electronics) | $4.17 (2-source, 2026-07-09), mkt cap ~$65-67M | NOT-MOVED | Russell Microcap inclusion (non-fundamental, eff. 2026-06-29). |
+| AIRG (Airgain) | $5.88 (2-source, 2026-07-09), mkt cap ~$74.5-76.3M | NOT-MOVED | Earnings date not yet formally confirmed by 8-K (~Aug 7/11 estimate unconfirmed). |
+| MVIS (MicroVision) | $0.40 (stockanalysis.com, 2026-07-09), mkt cap ~$120-133M (2-source) | NOT-MOVED, AGM outcome UNKNOWN (meeting is 2026-07-10, day after this check) | Recheck immediately next fire for the post-meeting 8-K. |
+| LIDR (AEye) | $1.36 (2-source, 2026-07-09), mkt cap ~$63M | NOT-MOVED | Still no named OEM for the ~$30M design-win opportunity. |
 
 ## Fire 41 new gate-checks (killed/confirmed, see decisions-log.md)
 | Ticker | ~12m move | run-tag | note |

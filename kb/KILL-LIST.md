@@ -3,7 +3,7 @@ Match on TICKER, CHINESE NAME, or ENGLISH ALIAS. If a match is found → already
 Rebuilt 2026-07-08 from all fires. Update by appending only.
 
 ## ALREADY KILLED (final, do not re-research without a hard new catalyst)
-NVDA TSM AVGO MU ANET VRT ETN GEV PWR NVT MOD COHR LITE FN MRVL GLW SMCI AMKR TTMI STM ADI TXN LSCC MPWR NXPI LYC MP NOVT ON TKR OUST AEVA INVZ ARBE AIXA VICR TAIYO-6976 VPG SOSLAB-partial
+NVDA TSM AVGO MU ANET VRT ETN GEV PWR NVT MOD COHR LITE FN MRVL GLW SMCI AMKR TTMI STM ADI TXN LSCC MPWR NXPI LYC MP OUST AEVA INVZ ARBE AIXA VICR TAIYO-6976 VPG SOSLAB-partial (Fire 43 housekeeping: ON and TKR removed from this row — both now have full explicit 4-gate kill entries below [ON: Fire 41; TKR/Spinea: Fire 43]. NOVT removed — it was never actually killed, it is the KB's live #2 conviction WATCH name; its presence here was itself the bug the "undiligenced legacy placeholder" audits were chasing.)
 SBB-Tech-389500 SBB Tech 389500.KQ 에스비비테크
 Nabtesco-6268 Nabtesco 6268.T ナブテスコ
 THK-6481 THK 6481.T THKコーポレーション
@@ -61,7 +61,7 @@ Basler AG BSL.DE (camera for humanoids but generic/categorical + already ~3x/12m
 Kikuchi-Seisakusho 3444.T 菊地歯車 (micro-cap, no external named buyer + already +453%/12m)
 Hota 1536.TW 和大工業 (no PO after 5+ fires; balance sheet deteriorating — being KILLED; Fire 42: resurfaced with a fresh 2026-07-08/09 "invited into Tesla Optimus planetary-reducer supply chain, certification stage" report + mkt cap ~$490M — dedup-caught before re-analysis, prior kill reasons stand, don't re-open without a materially different disclosure)
 Jiangsu-Leili 300660.SZ 江苏雷利 (multiplication unproven/no $ disclosed; being KILLED → watch for FY25 annual with robotics segment)
-Keli-Sensing 603662.SH 柯力传感 (WATCH: capture-rate 1-of-16 Huawei partners, not sole)
+Keli-Sensing 603662.SH 柯力传感 (KILLED Fire 43: status upgraded from stale ambiguous WATCH-adjacent note — six-dim force sensor sampled to Zhiyuan/Tesla but disclosure dated Jan 2025/stale, company's own reply says "not yet sampled" to Tesla; mkt cap now ¥188B/~$26B [2026-07-03], +8.37% single-day move confirms active re-rating; decisive Gate 1+3 fail)
 Momentus MNTS (KILLED Fire 37: 2nd staleness-guard full re-derivation — no forced buyer ever emerged, share count tripled in 4 months via serial dilution, Lodestar arm IP still third-party. Do not re-diligence without a genuinely new named/sole-source production award.)
 Lingyunguang 688400.SH (IPO-stage royalty IP, not a physical forced-buyer; off-thesis business model)
 Jiangsu-Azure 002245.SZ (real Unitree disclosure but fails materiality+price gates)
@@ -179,7 +179,7 @@ SRE-Holdings 2980.T (KILLED Fire 34, first-ever full gate-check: real-estate-AI 
 Unusual-Machines UMAC (RECONFIRMED Fire 34, defense/drone vertical: real "supplies components to over half of Drone Dominance program winners" disclosure, but ~$958M mkt cap, 52wk high hit 2026-06-02, Russell 2000 addition — decisively already-run, confirms the original Fire-11 kill with fresher/worse numbers)
 Longxi-Bearing 龙溪股份/600592.SH (KILLED Fire 34: real AgiBot Yuanzheng A1/A2 wrist/ankle joint-bearing JV, but mkt cap ~¥8.6B/~$1.2B, size-gate fail)
 Chaojie-Essence-Fastening 超捷股份/301005.SZ (KILLED Fire 34: real small-batch AgiBot fastener/PEEK-part orders, company itself says "low proportion of revenue," but stock ran to >¥200+, well past +60%/12m, price-gate fail)
-Ningbo-PIA-Joyson 均普智能/688306.SH (KILLED Fire 34: real "普智机器人" JV with AgiBot for humanoid-body co-development, 1,000 units/yr planned capacity, but stock +345.7% off its 2024 low, decisive price-gate fail)
+Ningbo-PIA-Joyson 均普智能/688306.SH = Junsheng Intelligent (KILLED Fire 34: real "普智机器人" JV with AgiBot for humanoid-body co-development, 1,000 units/yr planned capacity, but stock +345.7% off its 2024 low, decisive price-gate fail; Fire 43: dedup-caught again under the "Junsheng Intelligent" English romanization — see CHINESE NAME ALIASES)
 Ningbo-Huaxiang 宁波华翔/002048.SZ (KILLED Fire 34: real 3-year OEM authorization from AgiBot to manufacture full-size bipedal robots, Shanghai Lingang plant in mass production, but mkt cap ~¥20-24B/~$3B, decisive size-gate fail)
 Zhongyuan-Neipei 中原内配/002448.SZ (KILLED Fire 34: real 5-year "core supplier" pact for humanoid joint modules via the 普智机器人 JV, but mkt cap ~¥8.18B/~$1.1B + no revenue % disclosed, double gate-fail)
 Xiangxin-Technology 祥鑫科技/002965.SZ (KILLED Fire 34: real metal structural-component supplier to UBTECH/KUKA, but mkt cap ~¥10.9B/~$1.5B, decisive size-gate fail)
@@ -233,6 +233,7 @@ EasyMile (only 3rd-party supplier is TLD Europe/Alvest Group, PRIVATE) · Cruise
 蔚蓝锂芯 = Vital Bee Battery = Jiangsu Azure (002245.SZ, formerly 澳洋顺昌 — already killed Fire 23, materiality+price fails; resurfaced under an unfamiliar English brand name via the Unitree prospectus Fire 32, dedup-caught)
 鼎智科技 = Dingzhi Technology (920593.BJ, BJSE) — subsidiary/affiliate of Jiangsu Leili (江苏雷利/300660.SZ, already-killed Fire 33) — same corporate family, different ticker/exchange
 天鹏电源 = Tiandeng Power — subsidiary of 蔚蓝锂芯/Jiangsu Azure (002245.SZ, already-killed) — resurfaced Fire 37 as Unitree's ~60% cylindrical-cell battery supplier under the subsidiary name, same corporate family
+均普智能 = Junsheng Intelligent = Ningbo PIA-Joyson (688306.SH, already killed Fire 34) — resurfaced Fire 43 under the "Junsheng Intelligent" English romanization via buyer-prospectus mining, dedup-caught before publication
 
 ## Fire 38 additions
 Luyuan-Group-Holdings 2451.HK 绿源集团控股 (KILLED Fire 38: size gate — mkt cap ~HK$4.6-6.2B/~$600-800M confirmed 2-source, decisively over the $300M widened-bar cap regardless of buyer legitimacy. Buyer 有鹿机器人/Youlu "Deer" Robotics itself real/funded/revenue-generating but "人形机器人"/humanoid is a future roadmap stage, not current shipping product — actual products are wheeled/mobile-form retrofits. See kb/companies/LUYUAN.md.)
@@ -314,4 +315,15 @@ Hota-Industrial 和大工業 1536.TW (already killed, see mega-row update above 
 Mirle-Automation 盟立自動化 2464.TW (already killed, see entry above — resurfaced, even more over-cap/re-rated than before)
 
 ## Fire 42 PENDING/status update (not new, not re-killed — a real gate change worth flagging)
-Dongfang-Electric-Heating 东方电热 300217.SZ / subsidiary 温擎智控 (Fire 40 logged this as "NDA-blocked, no named buyer" PENDING/dead-end. Fire 42: buyer gate actually RESOLVED — company publicly named Unitree+UBTech as liquid-cooling customers among 5 humanoid makers at an Apr 2026 public event [Beijing Yizhuang humanoid half-marathon]. Now blocked purely by size — mkt cap ~$930M [2-source], over the $800M hard cap. Recheck if it de-rates below cap; this is meaningfully closer to qualifying than the prior NDA-blocked framing suggested.)
+Dongfang-Electric-Heating 东方电热 300217.SZ / subsidiary 温擎智控 (Fire 40 logged this as "NDA-blocked, no named buyer" PENDING/dead-end. Fire 42: buyer gate actually RESOLVED — company publicly named Unitree+UBTech as liquid-cooling customers among 5 humanoid makers at an Apr 2026 public event [Beijing Yizhuang humanoid half-marathon]. Now blocked purely by size — mkt cap ~$930M [2-source], over the $800M hard cap. Fire 43: mkt cap now ¥75.08亿/~$1.05B [2-source, 同花顺/搜狐证券] — moved FURTHER above the cap, not closer. Recheck if it de-rates below cap.)
+
+## Fire 43 additions (2026-07-09)
+TKR — Spinea (The Timken Company, NYSE) (KILLED Fire 43: 3rd "undiligenced legacy placeholder" — see mega-row update above and kb/companies/TKR.md. First-ever genuine full 4-gate re-derivation: fails Gate 1 [+102% 12mo, all-time-high $142.94, $9.6B mega-cap], Gate 2 [zero named humanoid OEM anywhere in primary sources], Gate 3 [Spinea ~$40M <1% of Timken's $4.58B revenue]. Score 2/8. NOVT now the only genuinely-live name in the legacy mega-cap row.)
+上纬新材 Shangwei New Material 688585.SH (KILLED Fire 43, found-and-killed: Zhiyuan Robotics acquiring 66.99% control as a listing-backdoor vehicle [disclosed 2026-07-08] — 3 consecutive 20cm limit-ups, already a famous "AgiBot shadow stock," not a supplier relationship in the target sense)
+高测股份 Gaoce 688556.SH (KILLED Fire 43: composite metal tendon-rope for dexterous hands, buyer anonymized as "北美客户"/North American customer per 互动易 [2026-05-09/05-27] — same anonymized-buyer pattern as the already-killed Farasis Energy; revenue down 18.4% YoY, net loss)
+中京电子 Zhongjing Electronics 002579.SZ (KILLED Fire 43: FPC for robot joints, company's own 互动易 reply confirms customers "still being actively onboarded"/sample-stage only, no named target-OEM buyer)
+柯力传感 Keli Sensing 603662.SH (KILLED Fire 43: status upgraded from a stale ambiguous WATCH-adjacent note to explicit kill — see mega-row update above; mkt cap now ¥188B/~$26B, actively re-rating)
+Sona Comstar SONACOMS (India, NSE/BSE 543300) (dedup-caught Fire 43, near-certain duplicate of the KB's pre-existing "Sona BLW(SONACOMS)" legacy entry — real Neura Robotics humanoid-actuator India-manufacturing tie [Oct 2025] + ₹626M robotics capex, but mkt cap ~$4.6B, P/E ~60x, near 52wk high, +45.3% mkt-cap/12mo — extensively pre-priced "robot concept stock")
+
+## Fire 43 PENDING (new, not yet investable)
+BrainCo 强脑科技 (private, filed confidentially for HKEX IPO Jan 12 2026, still "in review" as of May 2026) — named [small-batch] Unitree dexterous-hand supplier per Unitree's own STAR Market prospectus; pre-IPO valuation >$1.3B. Track for HKEX listing/prospectus.
