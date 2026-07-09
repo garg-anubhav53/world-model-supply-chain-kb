@@ -1,5 +1,8 @@
 # PRICES CACHE — last-seen move/valuation (staleness window: 7 days)
-As of 2026-07-09 (Fire 43) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+As of 2026-07-09/10 (Fire 45) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+
+## Fire 45 reconfirm (all NOT-MOVED vs Fire 43/44 — see decisions-log.md)
+HSAI $16.40 (2-source) · Seyond HK$2.91 (~$488-490M) · AIRG $5.76-5.88 (2-source) · MVIS ~$0.36 (mkt cap ~$117-124M, AGM is 2026-07-10, one day out at check — outcome genuinely not-yet-available) · AEye $1.34-1.36 (~$62-63M) · Xinjian (no ticker, pre-IPO, still "已受理").
 
 ## Fire 43 new gate-checks (killed/confirmed/promoted, see decisions-log.md)
 | Ticker | ~12m move | run-tag | note |
