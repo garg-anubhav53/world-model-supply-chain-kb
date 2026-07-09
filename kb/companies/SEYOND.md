@@ -1,5 +1,7 @@
 # Seyond Holdings — 2665.HK
-Updated 2026-07-08 (Fire 38, on-deck since ~Fire 30) | Verdict: **PENDING/on-deck — 1 gate from WATCH (size), gate does NOT flip this fire** | Track: **AV (China LiDAR)**
+Updated 2026-07-09 (Fire 40, on-deck since ~Fire 30) | Verdict: **PENDING/on-deck — 1 gate from WATCH (size), gate does NOT flip this fire** | Track: **AV (China LiDAR)**
+
+**Fire 40 update (Opus on-deck push) — new 52wk low, size gate still does NOT flip:** 2-source price TODAY: stockanalysis.com HK$2.910 (mkt cap HK$3.78B, 1.30B shares) / etnet.com.hk HK$2.910 (17:59 HKT, mkt cap ~HK$3.79B) → **~$482-483M USD**. Stock is now sitting AT its 52wk low (HK$2.90), down ~69% from the HK$17.88 high — a further ~3% de-rate from Fire 38/39's ~HK$3.00, but nowhere near the ~35% additional drop needed to cross under $300-400M. No new named-buyer win/loss, no capital raise/dilution/going-concern signal despite the ~$328M FY2025 net loss (Dec-2025 HK listing + Series B+ cash cushion). Gate check unchanged: price/not-re-rated PASSES (at 52wk low), named buyer PASSES (NIO sole-source), revenue-multiplies ~1-2/2, financial health FAILS (deep losses, 7.9% GM, distant #3 by volume, Hesai litigation). **SIZE remains the sole hard block; grinding lower but not there.** Next check: FY2026 interim results.
 
 **Fire 38 update — light check, no material change:** Mkt cap ~HK$3.847B (≈$493M USD) as of early July 2026 — essentially unchanged, still ~1.6x the $300M cap. No new named-customer disclosure since Fire 37's +385% YoY shipment-volume news. Only customer-adjacent item found: a CES 2026 (January) "world-first OEM design win" claim for the solid-state Hummingbird D1 — OEM still unnamed, and this predates the last fire's report, so likely already-known/stale, not new.
 

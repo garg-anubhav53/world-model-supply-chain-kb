@@ -1,5 +1,14 @@
 # PRICES CACHE — last-seen move/valuation (staleness window: 7 days)
-As of 2026-07-08 (Fire 39) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+As of 2026-07-09 (Fire 40) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+
+## Fire 40 new gate-checks (killed/confirmed, see decisions-log.md)
+| Ticker | ~12m move | run-tag | note |
+|---|---|---|---|
+| HSAI (Hesai) | $16.60 (stockanalysis.com, 2026-07-09 14:11 EDT, +1.41% intraday), mkt cap $17.64B | RECONCILED — 3rd genuine staleness-guard re-derivation, STAYS WATCH, first explicit score 6/8 | Split executes tomorrow (7/10), not yet executed. RoboSense added to DoD 1260H list (sector-wide headwind). Goldman PT raised to $36. New Aug-28 EGM watch item. See kb/companies/HSAI.md. |
+| AIRG (Airgain) | $6.06 (stockanalysis.com, 2026-07-09) / $6.06-6.07 (marketbeat.com), +~5% intraday | NOT-MOVED (materially) | No company-specific news found for the pop (checked EDGAR, last 8-K still 6/11) — noise not signal. Aug 7-11 earnings on track. |
+| 464080.KQ (SOS Lab) | ₩8,870 (stockanalysis.com + kr.investing.com, 2-source, +1.95%) | NOT-MOVED (materially) | Boston Dynamics still evaluation-stage, no award. Binding H1 2026 report checkpoint unchanged. |
+| 2665.HK (Seyond Holdings) | HK$2.910 (2-source: stockanalysis.com + etnet.com.hk), mkt cap ~$482-483M | RAN toward 52wk low — on-deck, size gate still blocks | New 52wk low, ~3% further de-rate vs Fire 38/39, still ~1.6x the cap. See kb/companies/SEYOND.md. |
+| MVIS (MicroVision) | $0.3831 (stockanalysis.com), mkt cap $127.04M | NOT-MOVED — on-deck, buyer gate hardens | Company's own 7/7 filing explicitly declines to name customers. AGM outcome pending (vote is 7/10). See kb/companies/MVIS.md. |
 
 ## Fire 39 new gate-checks (killed/confirmed, see decisions-log.md)
 | Ticker | ~12m move | run-tag | note |
