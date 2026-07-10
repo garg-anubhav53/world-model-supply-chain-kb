@@ -1,0 +1,24 @@
+# Tier IV Inc. (TSE Growth, ticker 593A) — NEW WATCH, Fire 54 (2026-07-10)
+
+**Verdict: WATCH (forward-listing carve-out — named buyer in prospectus + IPO <18mo). Score 3 per the widened WATCH bar, NOT a BUY-track name yet (pre-listing, heavy cash burn).**
+
+## What it is
+Japanese L4-autonomous-driving software company, creator of the open-source Autoware stack. IPOing on Tokyo Stock Exchange Growth market **2026-07-22** (12 days from this fire's date). Discovered via a Japan small-cap sweep (alternate surface, idle-override off cursor=2/consumables-aftermarket which re-confirmed idle for the 5th consecutive touch).
+
+## Causal link (Gate 2)
+Named forced buyer: **Isuzu Motors**, via Isuzu's own newsroom PR (isuzu-global.com, 2026-03-17) and a joint release — "TIER IV and Isuzu advance autonomous transit with deployment of Level 4 autonomous buses powered by NVIDIA DRIVE Hyperion" (ERGA EV bus program). This is a primary-source company disclosure, not analyst inference. **Not sole-source** — Tier IV's own prospectus discloses 18 OEM/Tier-1 partners total, so this is a 1-of-N relationship, which is why it clears the WATCH bar (widened Fire-53-era criteria) but not the BUY bar (sole/preferred/spec-locked).
+
+## Financials (Gate 3 — multiplies, Gate 4 — financial health FLAG)
+- FY2025 (ended Sep-25) consolidated revenue ¥6.41B (~$43M); FY2026 guided ¥8.48B (+32.4%). ~100% AV-software exposure — trivially clears the small-base/high-exposure Gate 3 test.
+- **Gate 4 concern (not yet resolved):** heavy and widening losses. FY2025 operating loss ¥5.5B on ¥6.4B revenue; FY2026 guided operating loss ¥6.7B; operating cash flow -¥7.28B. Pre-profit cash burn. IPO proceeds (~¥20-27B raised) extend runway but do not resolve the underlying burn rate. **This is the binding gate for any future promotion — needs a credible path to profitability or a much larger backlog disclosure.**
+
+## Pricing / Gate 1 (not yet tradeable)
+Book-building firmed to ¥1,015-1,085/share (+6.9% off the ¥1,015 low end). Implied market cap ~¥70-75.1B (~$460-500M) — above the informal $300M WATCH-cap, but the explicit forward-listing carve-out (named buyer + IPO <18mo) applies regardless of cap size. Institutional interest (Resona AM, Neuberger Berman funds) was solid but not manic — not the extreme-oversubscription pattern that triggers an immediate kill elsewhere in this KB (cf. Momenta Global). Has not traded yet — Gate 1 cannot be scored until debut-day price action is observed.
+
+## Binding gate / next check
+**Debut trades 2026-07-22.** Recheck immediately after: (1) debut-day price move (kill if it pops >60% day-one — already-priced), (2) any further named-buyer disclosure in the final prospectus/listing circular, (3) whether the loss trajectory in any post-listing update shows a credible narrowing path.
+
+## Sources
+Nikkei price-range article (https://www.nikkei.com/article/DGXZQOUC041JJ0U6A700C2000000/); ipo-navi.jp IPO report (https://ipo-navi.jp/column/tier4-iv-ipo-listing-report); Automotive World Isuzu partnership (https://www.automotiveworld.com/news/tier-iv-and-isuzu-launch-l4-autonomous-buses-on-nvidia-platform/); Isuzu newsroom 2026-03-17 (https://www.isuzu-global.com/en/newsroom/20260317_1.html); EDINET prospectus (disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100Y9OA.pdf), filed 2026-06-09. All checked 2026-07-10.
+
+Last updated: Fire 54 (2026-07-10), new dossier.
