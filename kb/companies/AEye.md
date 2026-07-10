@@ -1,5 +1,13 @@
 # AEye, Inc. — LIDR (Nasdaq)
-Created 2026-07-09/10 (Fire 45, first dedicated dossier — previously tracked only inline in watchlist.md/pipeline.md/prices-cache.md/decisions-log.md) | Verdict: **PENDING/on-deck — 1 gate from WATCH (named buyer), gate does NOT flip, case marginally WEAKENED** | Track: **AV/defense (lidar); no humanoid-robotics exposure found**
+Updated 2026-07-10 (Fire 55, on-deck push) | Verdict: **PENDING/on-deck — 1 gate from WATCH (named buyer), unchanged** | Track: **AV/defense (lidar); no humanoid-robotics exposure found**
+
+## Fire 55 update — on-deck push, no change
+- The ~$30M "major transportation OEM" design win remains unnamed after 12+ months. Refined detail found: the ~$30M figure ties to a "potential $30M Apollo OEM program starting late 2026," with the Apollo units themselves manufactured by **LITEON** — LITEON is the contract manufacturer, not the OEM buyer, which stays undisclosed.
+- **Q2 2026 earnings date still not officially announced** — AEye's Events & Presentations page shows nothing past the May 13 Q1 call; the ~Jul 30 date remains an unconfirmed aggregator estimate.
+- **Price (2-source, 2026-07-10)**: stockanalysis.com $1.34/mkt cap $62.06M; companiesmarketcap ~$1.455-1.46/~$65.3M. 52wk range $0.96-$6.44.
+- **Verdict: STAYS ON-DECK, no change this fire.**
+
+---
 
 **Fire 54 update (2026-07-10) — on-deck push, no change:** Buyer for the ~$30M design win still NOT named — most recent substantive filing (Q1 2026 results, 2026-05-13) unchanged, names only "SynTech" (defense) and generic "multiple autonomous trucking programs"/"OEMs." Q2 2026 earnings date **still not officially set** as of this check (no PR/8-K found announcing one; Q2 2025 was reported July 31, 2025, so a late-Jul/early-Aug 2026 date is a plausible but unconfirmed guess). Q1 revenue ~$101K (+60% YoY) on 21 revenue-generating customers; cash+securities $77.2M, FY2026 burn guide $30-35M (runway into 2028). Price 2-source: $1.345 (stockanalysis.com, 2026-07-10) / $1.46 (marketbeat.com, 2026-07-06), mkt cap ~$62-67M. **Verdict: STAYS ON-DECK, nothing flipped.**
 

@@ -1,4 +1,18 @@
 # Xinjian Transmission (新剑传动 / Hangzhou Xinjian Mechatronic Transmission) — pre-IPO, ChiNext
+Updated 2026-07-10 (Fire 55, verification-gap follow-up — UNRESOLVED DISCREPANCY flagged, not silently picked) | Verdict: **UNCHANGED — score holds 4/8. IPO review-stage status is now in explicit 2-vs-1 conflict across independent Fire 55 agents; treat 已受理/accepted as the safer working default until a primary SZSE check settles it.** | Track: **R** (humanoid robotics — mechanical/actuation)
+
+## Fire 55 update — SZSE status verification produces a genuine cross-scout conflict, logged not resolved
+Three independent Fire 55 agents each separately searched for Xinjian's current SZSE ChiNext review stage:
+- **One dedicated Opus dive** found a specific, dated mirror-source article (中金在线/cnfol.com, 2026-07-08) naming Xinjian among a batch of 5 companies ("新剑传动、智岩科技、三绿科技、奥托股份、万力轮胎") whose status changed **已受理→已问询 (inquiry stage) on 2026-07-08** — this is the SAME claim already on file from Fire 52's original finding, now independently re-surfaced via the same secondary source.
+- **Two other independently-run scouts** (the Chinese trade press sweep and the shortlist light-monitor, working the question without knowing the other was doing so) both searched this same question this fire and found ONLY 已受理/accepted (dated 2026-06-26, via 10jqka/Sina/cls.cn), with no evidence of the inquiry-stage transition — one explicitly flagged "your prior assumption of 已问询 appears premature/unconfirmed."
+- **SZSE itself remains directly inaccessible** to all three agents (listing.szse.cn 404s / JS-rendered) — none of the three reached a true primary-source confirmation either way.
+- **Resolution: NOT silently picked.** Following the KB's own standing precedent (Longxi Bearing's Fire 52-53 buyer-identity conflict — log both sides, don't guess), this is carried forward as an explicit open discrepancy. Leaning toward **已受理/accepted as the more corroborated default** (2 independent misses vs. 1 specific-but-unverified hit), but the 已问询 claim traces to a real dated article naming a specific batch of 5 companies, which is not nothing. **Next touch: a genuine primary-source SZSE portal check (or a working mirror) is needed to settle this definitively — do not treat either status as confirmed until then.**
+- **Not in dispute, reconfirmed by the dedicated Opus dive**: buyer-naming framing (客户A/Customer A remains anonymized in the prospectus; Tesla is market inference only, never named) and the production-volume framing (150 total actuator assemblies delivered in 2025, of which 109 went to Customer A) both hold. One caution flag added: keep the "109" figure explicitly scoped to "执行器总成 (actuator assemblies) delivered to Customer A" — a separate, much larger ~1M-unit figure exists for planetary-roller-screw production/planned capacity, a different product line entirely; don't let the two get conflated in future summaries.
+- Score, capture-rate, and multiplication math NOT re-derived this fire (per the routine's staleness-guard cadence — last full re-derivation was Fire 52, not yet due again).
+
+---
+
+## Fire 52 (prior full re-derivation) — for reference
 Updated 2026-07-10 (Fire 52, 3rd genuine staleness-guard re-derivation since Fire 44) | Verdict: **UNCHANGED — score 4/8, terminal-kill trigger did NOT fire, but IPO advanced procedurally: 已受理→已问询.** | Track: **R** (humanoid robotics — mechanical/actuation)
 
 ## Fire 52 — 3rd genuine staleness-guard re-derivation (Opus), score unchanged but a real procedural move

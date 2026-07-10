@@ -15,6 +15,9 @@ Named forced buyer: **Isuzu Motors**, via Isuzu's own newsroom PR (isuzu-global.
 ## Pricing / Gate 1 (not yet tradeable)
 Book-building firmed to ¥1,015-1,085/share (+6.9% off the ¥1,015 low end). Implied market cap ~¥70-75.1B (~$460-500M) — above the informal $300M WATCH-cap, but the explicit forward-listing carve-out (named buyer + IPO <18mo) applies regardless of cap size. Institutional interest (Resona AM, Neuberger Berman funds) was solid but not manic — not the extreme-oversubscription pattern that triggers an immediate kill elsewhere in this KB (cf. Momenta Global). Has not traded yet — Gate 1 cannot be scored until debut-day price action is observed.
 
+## Fire 55 update (2026-07-10) — schedule confirmed on track, minor pricing-source discrepancy noted
+Bookbuilding window 2026-07-14 to 7-17, official offer price fixed 2026-07-13, debut 2026-07-22 unchanged. Isuzu Motors relationship re-verified current, no denial/change found. **Pricing-figure discrepancy across Fire 55 scouts, not yet resolved**: one source read an indicative price of ¥1,015/share (implied mkt cap ~¥64.5-70B/~$430-470M, reportedly *below* Tier IV's last private valuation); another read a firmed book-build range of ¥1,085-1,600/share (up from ¥1,015-1,500). Likely the same underlying range described two different ways (low-end vs. full band) rather than a real conflict, but flag for confirmation once the official price fixes 7/13. Backers reconfirmed: Toyota Innovation Fund (~1% stake, ¥1B), Isuzu, Suzuki, Yamaha Motor, Mitsubishi Corp, JR East. No change to WATCH verdict or the binding Gate-4 cash-burn flag.
+
 ## Binding gate / next check
 **Debut trades 2026-07-22.** Recheck immediately after: (1) debut-day price move (kill if it pops >60% day-one — already-priced), (2) any further named-buyer disclosure in the final prospectus/listing circular, (3) whether the loss trajectory in any post-listing update shows a credible narrowing path.
 

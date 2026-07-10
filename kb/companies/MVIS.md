@@ -1,5 +1,15 @@
 # MicroVision — MVIS (Nasdaq)
-Updated 2026-07-09/10 (Fire 45, on-deck since ~Fire 28) | Verdict: **PENDING/on-deck — 1 gate from WATCH (named buyer); AGM outcome genuinely not-yet-available, not unresolved** | Track: **AV (autonomous mining/construction hauling lidar)**
+Updated 2026-07-10 (Fire 55, on-deck push) | Verdict: **PENDING/on-deck — 1 gate from WATCH (named buyer). Both buyer names still withheld in every primary source; a new risk flag (Nasdaq minimum-bid compliance) added.** | Track: **AV (autonomous mining/construction hauling lidar)**
+
+## Fire 55 update — on-deck push, gate still closed, one hardware step forward + one new risk flag
+- Swept every 8-K from the last 60 days (05-13, 06-01, 06-10, 06-12, 06-25, 07-07) plus the Q1 10-Q/earnings and investor decks. **Neither buyer named anywhere.** EDGAR full-text search of MVIS's own CIK for "Caterpillar" returns zero hits — the circumstantial link is unchanged, nothing hardened it.
+- **New event this window**: a June 29, 2026 press release discloses MicroVision **delivered MOVIA sensors to the "leading AI company and hyperscaler" for robotics/AI evaluation** — a step from paper MDA to physical hardware in the field, but not revenue recognition and the customer remains unnamed.
+- **AGM Item 5.07 8-K**: as expected, not yet posted (AGM held 2026-07-10, filing due ~7/14-16).
+- **New risk flag**: a June 12, 2026 8-K (Item 3.01) discloses MVIS applied to transfer from Nasdaq Global Market to Nasdaq Capital Market to gain another 180 days to cure its $1.00 minimum-bid-price deficiency; ~$42M remained on its ATM facility. Relevant to any future WATCH write-up given the sub-$1 price and ongoing dilution capacity.
+- **Price (2-source, 2026-07-10)**: stockanalysis.com $0.3959/mkt cap $131.29M; Yahoo-derived ~$0.40/~$132.8M. 52wk range $0.26-$1.73.
+- **Verdict: STAYS ON-DECK, gate does not flip.** The MOVIA delivery is the freshest de-risking datapoint (worth tracking ahead of the mining-OEM MDA as the more likely near-term naming catalyst) but neither buyer is confirmed.
+
+---
 
 **Fire 54 update (2026-07-10) — on-deck push, gate does NOT flip, hardened further:**
 - **New June-10 Master Development Agreement** (long-term, Program Description dated June 1 2026) with "the world's leading manufacturer of construction and mining equipment" for lidar integration into next-gen autonomous hauling — a genuine step up from evaluation-stage to a long-term development pact, but **still no dollar figure and the OEM is still NOT named by the company.** Trade press (International Mining, 2026-06-12) explicitly states "clearly Caterpillar... but the company was not named in the release" — same inference chain as before (MicroVision's Jan-2026 Luminar-lidar-business acquisition, and Luminar's own March-2025 Caterpillar deal).
