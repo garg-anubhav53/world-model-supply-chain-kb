@@ -220,7 +220,7 @@ EasyMile (only 3rd-party supplier is TLD Europe/Alvest Group, PRIVATE) · Cruise
 
 ## CHINESE NAME ALIASES (common dedup traps — the same company under different romanizations)
 灵心巧手 = Lingxin Qiaoshou = LinkerBot = Linker Bionics (private, ~$3B val)
-拉弗尔谐波 = Laifual = Lafu Harmonic (03952.HK — already killed)
+拉弗尔谐波 = 来福谐波 = Laifual = Laifu Harmonic = Lafu Harmonic (03952.HK — already killed; 来福谐波 just completed its HK IPO 2026-06-30/+17% in 3 days — Fire 46 dedup catch, same ticker, do not re-open as a fresh IPO find)
 环动科技 = Zhejiang Fine Motion = Zhejiang Huandong (Estun customer, not humanoid)
 江特电机 = Jiangte Electronics = Mige Motor (002176.SZ — already killed)
 双林股份 = Shuanglin (no customers/revenue per own IR)
@@ -267,6 +267,20 @@ Henggong-Precision 恒工精密 301261.SZ (KILLED Fire 40: real Zhiyuan upper-li
 Riying-Electronics 日盈电子 603286.SH (KILLED Fire 40: e-skin narrative stock +300%/12m, but company's own clarification states project revenue <¥10,000 and explicitly NO orders — self-denied false positive, same pattern as Weifeng Electronics)
 Geli-Bo 格力博 301260.SZ (KILLED Fire 40: real Zhiyuan JV via 浙江智鼎, 15mo old, but mkt cap ~¥7.8B/~$1.1B, already ran to 52wk high ¥25.96 before pulling back — size+price gate fail)
 Fulai-New-Material 福莱新材 605488.SH (KILLED Fire 40: real Feb-2026 100k-unit e-skin order from Lingxin Qiaoshou/灵心巧手, also UBTECH e-skin tie, but mkt cap ~¥10.5B/~$1.46B, P/E 121.9x, hit a same-day trading-halt limit-up 2026-07-02 — actively re-rating, decisive size+price gate fail)
+
+## Fire 46 additions (2026-07-10)
+Wanda-Bearing 万达轴承 (BJSE) (KILLED Fire 46: own disclosure explicitly states "尚未与下游人形机器人相关企业建立合作关系，无相关营业收入" — no cooperation relationship with humanoid-robot companies, no related revenue — R&D-sample stage only, decisive Gate 2 fail)
+Junchuang-Technology 骏创科技 833533/920533.BJ (KILLED Fire 46: widely-repeated "exclusive Tesla Optimus faceplate supplier" claim traced to a retail-investor forum post (东方财富股吧), not a company disclosure — unconfirmed rumor; also FY2025 net profit -31.27% YoY, Q1 2026 -19.18% YoY, stock down ~63% from its own Mar-2025 humanoid-driven peak, a prior spike already faded)
+Changhong-Energy 长虹能源 836239/920239.BJSE (KILLED Fire 46: real named-buyer relationship — exclusive Unitree H1 semi-solid-state battery module, 450-600k unit 2025 supply target disclosed — but FY2025 revenue ¥4.485B/~$625M with the humanoid order only "千万级"/~$1-3M, decisive Gate 3 materiality-trap fail)
+Qinchuan-Machine-Tool 秦川机床 000837.SZ (KILLED Fire 46: aggregator-level, not primary-source-confirmed, claim of a Tesla Optimus Gen-2 RV-reducer "main supplier" role — robot-reducer revenue is single-digit % of a ¥3.86B diversified machine-tool business, loss-making 2 straight years, FY2024 net margin ~1.4% — double Gate 3+4 fail)
+Tensor/AutoX-rebrand (customs dead-end, Fire 46: only a stale 2022 ImportYeti record predating the VinFast/Tensor rebrand — vehicles likely imported as finished units via VinFast, not under the AutoX import identity)
+Ottonomy (customs dead-end, Fire 46: zero ImportYeti record under any tried slug)
+Vayu-Robotics (Fire 46: acquired by Serve Robotics Aug 2025 — already-captive per existing kill-list logic, not pursued independently)
+
+## Fire 46 false-positive patterns (EDGAR EFTS, log to prevent re-spend)
+"Competitor-SPAC" pattern (NEW Fire 46): Churchill Capital Corp XI's own risk-factor language lists Figure AI, Apptronik, 1X Technologies, Boston Dynamics, and Sanctuary AI as Agility Robotics' COMPETITORS (not customers/suppliers) — this single filing will keep surfacing as a "hit" on all 5 buyer-paired EDGAR queries every future fire; treat as a standing filter, not a new lead.
+"Executive-bio mention" pattern (NEW Fire 46): a filing names a target-OEM only because an executive's biography references a PAST employer there (e.g. Serve Robotics' CFO bio: "former Controller, Apptronik") — a personnel biography, not a business/customer/supplier relationship. Distinct from TAM-boilerplate and competitor-list-boilerplate.
+New "Zhiyuan"-name-collision entities (Fire 46, extends the Fire-36/43/45 pattern to 10+ total instances): Waterdrop Inc/WDH ("Zhiyuan Award," an award name), China Automotive Systems/CAAS ("Suzhou Qingshan Zhiyuan Venture Capital Fund," a PE-fund subsidiary), 17 Education & Technology/YQ ("Zhongshan County Zhiyuan Middle School," a school name), XPeng/XPEV ("Mr. Zhiyuan Chen," an individual JV shareholder), Lichen International/LICN ("Shanghai Zhiyuan," an unrelated tax/finance-services subsidiary), WeRide/WRD ("Beijing Xufeng Zhiyuan Intelligent Technology," an unrelated shareholder LP). All confirmed unrelated to Zhiyuan Robotics/AgiBot after identity check.
 Dongfang-Electric-Heating 东方电热 300217.SZ (PENDING/dead-end Fire 40: real subsidiary 温擎智控 full liquid-cooling system for humanoid robots, showcased at Beijing Yizhuang humanoid half-marathon, "several leading humanoid companies" — but company confirmed on 2026-05-08 earnings call it is NDA-bound, cannot disclose partner names. RECHECK if an NDA-covered name ever leaks — small/undiscovered enough to still qualify if named.)
 Zhongshi-Technology 中石科技 300684.SZ (PENDING/dead-end Fire 40: TIM/heat-pipe/vapor-chamber maker, products "applicable to robotics" but company secretary explicitly confirmed via investor platform it will NOT disclose humanoid customer names, citing periodic-report policy. RECHECK if a name surfaces.)
 Feirongda 飞荣达 300602.SZ (KILLED Fire 40: indirect exposure via >8% stake in Shanghai Huake Lengxin/上海华科冷芯, the disclosed exclusive supplier of levitation micro-pumps to Honor's "Shanjian/闪电" humanoid robot — real named buyer but indirect/minority-stake, mkt cap ~¥13.4B/~$1.85B, stock +117% in 11 months — decisive size+price gate fail)

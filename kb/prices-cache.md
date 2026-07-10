@@ -353,5 +353,17 @@ Shuanglin/Neuromeka/Valeo → KILL (Fire 6). Jiangsu Leili → WATCH (Fire 6) �
 | 160190.KQ (Higen R&M) | 30%+ daily pops | RAN |
 | 108490.KQ (Robotis) | +330% | RAN |
 
+## Fire 46 prices (2026-07-10, new WATCH + shortlist refresh)
+| Ticker | Price/mkt cap | Note |
+|---|---|---|
+| 049070.KQ (Intops Co Ltd) | ~₩273-323B mkt cap (~$200-235M), down ~44% off 52wk high ₩27,200 to ₩15,140 | NEW WATCH — PBR ~0.5x, not re-rated |
+| 101170.KQ (Woorim P&ES) | mkt cap ~₩93B (~$65-93M), ₩7,050-10,390 range, 52wk low ₩4,845 | NEW WATCH — round-tripped off a Dec-2025 spike (₩24,000), net +41%/yr |
+| HSAI | $16.37 (CNBC Jul 8) / $16.40 (stockanalysis Jul 9), TRUE mkt cap ≈$20.6B (1,257.1M post-split shares) | staleness-guard reconfirmed, score 7/8; aggregators still wrong, compute manually |
+| 464080.KQ (SOS Lab) | ₩9,050 (up from ₩8,700), still down ~24%/yr, near 52wk low | unchanged thesis |
+| 2665.HK (Seyond Holdings) | HK$2.95-3.12, near 52wk low ~HK$2.90 | unchanged |
+| AIRG | $5.88 (up slightly) | sell-side targets risen further, consensus ~$7.70-8.88 |
+| MVIS | ~$132-134M mkt cap (up from $117M, mostly dilution), $0.38-0.40/share | AGM held today, Item 5.07 8-K pending |
+| LIDR (AEye) | ~$67M mkt cap (up slightly), ~$1.46/share | unchanged |
+
 ## Already-RAN (do not re-price often; kills)
 Harmonic Drive +148% · Nabtesco +127% · THK +81% · Hiwin +115% · Ouster +250% · Aeva +180% · Lumentum +138% · Coherent +107% · GE Vernova ~+200% · Vertiv +177% · Modine +167% · nVent +121% · TTM +307% · Amkor +240% · STM +127% · LSCC +194% · Lynas +159% · Taiyo Yuden +175% · Vicor +145% · Aixtron +334%
