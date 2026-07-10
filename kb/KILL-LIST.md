@@ -2,6 +2,17 @@
 Match on TICKER, CHINESE NAME, or ENGLISH ALIAS. If a match is found → already killed/parked, skip it.
 Rebuilt 2026-07-08 from all fires. Update by appending only.
 
+## Fire 47 additions (2026-07-10)
+Mentee-Robotics (Israeli humanoid startup, acquired by Mobileye/MBLY, announced 2026-02-03, $900M) (KILLED Fire 47: related-party/insider deal — Mobileye's CEO/CTO were Mentee's chairman/co-founder; Mobileye itself already mega-cap/re-rated, humanoid business a small diversifying add-on)
+BST-Group (TASE IPO 2026-06-15) (KILLED Fire 47, found-and-killed: pure construction/real-estate developer, zero robotics/AV/defense connection — off-thesis)
+Iron-Dome-Acquisition-I (Nasdaq: IDACU) (NOT a kill — blank-check SPAC, S-1 filed 2026-01-30, $200M raise, Israeli cyber/defense/AI mandate, no target yet. Logged for tracking only, same status class as Xtend/JFB pre-merger. Recheck when a definitive merger target is announced.)
+Haozhi-Mechatronics 昊志机电 300503.SZ (DEDUP CATCH Fire 47: a scout re-reported this — already killed Fire 37, already-run/at-ATH — as a "new" candidate citing fresh Unitree/UBTECH small-batch delivery language, caught at synthesis before publication)
+Keli-Sensing 柯力传感 603662.SH (DEDUP CATCH Fire 47: a scout re-reported this — already killed Fire 43, mkt cap now ¥188B/~$26B — as a "new" candidate citing a Kepler humanoid buyer, caught at synthesis before publication)
+Aishida 爱仕达 002403.SZ (RECONFIRMED KILL Fire 47: fresh 2026-07-06 AgiBot cooperation-agreement deepening — limit-up on announcement day then -17% over 2 sessions, sell-the-news again, same pattern as the Fire 34 recheck)
+Longcheer-Technology 龙旗科技 603341.SH (RECONFIRMED KILL/stale Fire 47: 15,000th-unit AgiBot dexterous-hand-ODM delivery milestone [Jun 2026] is just a production milestone on an Oct-2025 order, already priced then, not a new disclosure)
+
+**NAMING CORRECTION (not a kill, dedup note):** "Woorim P&ES" (101170.KQ, logged Fire 46) is the WRONG name — the actual entity is **Woorim PTS ("Woorim Power Train Solution Co., Ltd.," formerly 우림기계/Woorim Machinery)**. Same ticker/company, name only. Future scouts should search "Woorim PTS" or "우림피티에스," not "Woorim P&ES."
+
 ## ALREADY KILLED (final, do not re-research without a hard new catalyst)
 NVDA TSM AVGO MU ANET VRT ETN GEV PWR NVT MOD COHR LITE FN MRVL GLW SMCI AMKR TTMI STM ADI TXN LSCC MPWR NXPI LYC MP OUST AEVA INVZ ARBE AIXA VICR TAIYO-6976 VPG SOSLAB-partial (Fire 43 housekeeping: ON and TKR removed from this row — both now have full explicit 4-gate kill entries below [ON: Fire 41; TKR/Spinea: Fire 43]. NOVT removed — it was never actually killed, it is the KB's live #2 conviction WATCH name; its presence here was itself the bug the "undiligenced legacy placeholder" audits were chasing.)
 SBB-Tech-389500 SBB Tech 389500.KQ 에스비비테크

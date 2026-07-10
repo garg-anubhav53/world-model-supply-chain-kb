@@ -1,5 +1,8 @@
 # PRICES CACHE — last-seen move/valuation (staleness window: 7 days)
-As of 2026-07-09/10 (Fire 45) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+As of 2026-07-10 (Fire 47) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+
+## Fire 47 reconfirm (all NOT-MOVED vs Fire 46, full shortlist light-monitor — see decisions-log.md)
+HSAI $16.40 (unchanged, true mkt cap ≈$20.6B manual calc — aggregators still wrong) · SOS Lab ₩9,220 (+1.9%, not material) · Intops ₩17,730-18,770 (~$191-212M) · Woorim PTS (name-corrected from "P&ES") ₩7,050-7,610 (~$68-93M, near 52wk low, confirmed 2-source) · Seyond HK$2.91-2.95 (~$484-490M, AT 52wk low — **reconfirm: TradingView/Yahoo showed a false stale HK$10.90/~$14.16B this fire, a 2nd occurrence of this exact aggregator trap for this ticker, do not use TradingView for Seyond**) · Xinjian (no ticker, pre-IPO, still "已受理," no inquiry letter) · AIRG $5.76-5.94 (flat) · NOVT ~$148 (unchanged) · MVIS mkt cap ~$132-134M (AGM held 7/10, Item 5.07 8-K not yet filed) · AEye $1.36 (~$63-67M, unchanged).
 
 ## Fire 45 reconfirm (all NOT-MOVED vs Fire 43/44 — see decisions-log.md)
 HSAI $16.40 (2-source) · Seyond HK$2.91 (~$488-490M) · AIRG $5.76-5.88 (2-source) · MVIS ~$0.36 (mkt cap ~$117-124M, AGM is 2026-07-10, one day out at check — outcome genuinely not-yet-available) · AEye $1.34-1.36 (~$62-63M) · Xinjian (no ticker, pre-IPO, still "已受理").

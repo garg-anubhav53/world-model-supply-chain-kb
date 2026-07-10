@@ -1,5 +1,25 @@
-# Woorim P&ES — 101170 (KOSDAQ)
-Created 2026-07-10 (Fire 46) | Verdict: **NEW WATCH (weak, score ~4/8) — found via Korea/Japan trade-press sweep, disclosure-quality unresolved** | Track: **R**
+# Woorim PTS — 101170 (KOSDAQ)
+Updated 2026-07-10 (Fire 47) | Verdict: **STAYS WATCH (weak) — 3 factual corrections + gate partially resolved** | Track: **R**
+
+**Fire 47 update — 3 corrections to the Fire 46 premise, all material:**
+1. **Name correction:** the company is **Woorim PTS ("Woorim Power Train Solution Co., Ltd.," formerly 우림기계/Woorim Machinery, renamed 2021)** — NOT "Woorim P&ES." Ticker/entity (101170.KQ) is unchanged; only the name was wrong.
+2. **Woorim is NOT actually in the Korea Herald 2026-06-29 factory-tour article** (which names only Hyundai Mobis, Hwashin Precision, SOS Lab, sourced to "media reports Monday," not Boston Dynamics/Hyundai directly). The Fire 46 "4th named participant in the tour" framing conflated two separate stories — this is now corrected.
+3. **Business-mix correction:** Woorim's actual base is **excavator transmissions (~57.6% of 2023 revenue) + industrial reducers (~42.4%)** — NOT "aerospace/precision gearboxes" as previously logged. Company is loss-making, ROE ~-9%.
+
+**Gate 2 (causal link) — PARTIALLY RESOLVED, reclassified (not promoted to airtight):** The actual Boston Dynamics link traces to finance-scope.com (2025-11-28), quoting an on-record **Woorim company official**: *"[we are] continuously supplying ultra-precision robot reducers to Boston Dynamics... not yet at mass-production scale, but orders are ongoing."* Newsis (2025-12-24) and later outlets repeat this same quote — it is the origin, not independent corroboration. No DART material-contract filing (공시) exists naming Boston Dynamics; no KRX inquiry-disclosure response found despite the Dec-26 +24.7% spike; no Boston Dynamics/Hyundai statement names Woorim anywhere. **Verdict: this is genuinely the company's OWN on-record statement (stronger than the pure press-rumor pattern that killed Junchuang Technology) but weaker than a filed disclosure or counterparty confirmation** — lands between the KB's two disclosure-quality tiers. Reclassify Gate 2 from "unconfirmed press aggregation" to "company-self-confirmed, counterparty-unconfirmed, no filing, explicitly pre-mass-production." Does NOT trigger the KB's kill-on-walkback pattern (company affirms, has not denied, has not gone cold — as of mid-2026 still reiterates ongoing orders, building 20,000-set/yr reducer capacity by end-2026; Hyundai targets robot deployment at Metaplant America from 2028).
+
+**Gate 1 (not re-rated): still PASS, reconfirmed.** ₩7,610, mkt cap ₩95.1B (~$68M), 2026-07-10 10:15 KST (AlphaSquare) — near 52wk low (range ₩4,845-24,000), confirming the round-trip pattern versus its Dec-2025 CES-driven spike. Matches Fire 46's ~₩93B reading.
+
+**Gate 3 (multiplies): still weak/unresolved.** Base business (excavator + industrial reducers) is NOT humanoid-adjacent; Atlas exposure is a tiny, unquantified, pre-mass-production sliver with no disclosed dollar/volume figures.
+
+**Gate 4 (financial health): now checked — WEAK.** Loss-making, ROE ~-9%.
+
+**Recommendation: STAYS WATCH (weak) — gate softened but not resolved to promotion grade. Binding next-fire checkpoint (unchanged framing, now sharper): KILL unless one of (a) a DART material-contract 공시 naming Boston Dynamics, (b) a Boston Dynamics/Hyundai source naming Woorim, or (c) the end-2026 capacity ramp converts to a disclosed mass-production order appears. Absent that, this stays an early, self-reported, immaterial link on a loss-making excavator-gearbox maker.**
+
+**Sources (Fire 47):** Korean Wikipedia (name/entity history); FnGuide A101170; Korea Herald factory-tour article (2026-06-29, confirms Woorim absent); finance-scope (2025-11-28, origin quote); Newsis (2025-12-24, repeat); AlphaSquare (2026-07-10 price).
+
+---
+Created 2026-07-10 (Fire 46) | Original verdict: **NEW WATCH (weak, score ~4/8) — found via Korea/Japan trade-press sweep, disclosure-quality unresolved** | Track: **R**
 
 **Discovery:** Taiwan/Korea/Japan trade-press sweep, surfaced as a 4th named participant (alongside Hyundai Mobis, Hwashin Precision, SOS Lab) in the Boston Dynamics Atlas Korean supply-chain tour/evaluation story. Precision reducer/gearbox maker; Korean financial press repeatedly names it as a supplier of Atlas's core reducer/gearbox modules.
 

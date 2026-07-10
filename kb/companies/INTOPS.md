@@ -1,5 +1,16 @@
 # Intops Co Ltd — 049070 (KOSDAQ)
-Created 2026-07-10 (Fire 46) | Verdict: **NEW WATCH (weak, score ~4/8) — found via ImportYeti customs record, materiality unresolved** | Track: **R**
+Updated 2026-07-10 (Fire 47) | Verdict: **STAYS WATCH — materiality gate now QUANTIFIED (Opus re-derivation): ~4-5% of revenue, real but flat 5 years, unproven growth** | Track: **R**
+
+**Fire 47 update — materiality gate resolved with a hard number (not a clean promote, not a kill):** Robotics-EMS is not a disclosed standalone DART segment (bundled into "IT Device/모바일·로봇 EMS," ~63% of revenue, dominated by Samsung mobile). But LS Securities' 2026-01-20 upgrade note gives a firm build-up: Bear Robotics serving robots (Servi/Servi Plus) — ~5,000 units/yr exclusively produced since 2021, contributing ~250-300억 KRW (~$18-22M) of LS's 2026E 6,131억 KRW (~$450M) total revenue ≈ **~4-5% of revenue today.** Samsung smartphone parts remain ~70% of revenue. This clears the "materiality trap" kill bar (not a <1-2% rounding error) but does NOT clear "large and growing" — **the robot line has been flat at ~250-300억 for 5 years**; the "wearable-robot EMS platform" pivot is still pre-revenue (Samsung Bot Fit at "mass-production standby"; a Wrobotics/위로보틱스 MOU signed 2026-05-18 targets production only in H2 2026). Q1 2026's return to profitability (₩163.1B rev, ₩6.4B op profit) was driven by Vietnam-plant Samsung-phone yield recovery, NOT robotics.
+
+**Causal link intact and structurally interesting:** Bear Robotics is now 61.1%-owned by LG Electronics (control secured Jan 2025); LG has declared 2026 a "foundation year" for commercial robots via Bear and stood up a CEO-level Robotics Business Center (2026-06-30) — a credible multiplication driver (deep-pocketed parent scaling the exact customer Intops exclusively builds for). **New structural risk flagged:** LG is vertically integrated — as Bear scales, LG could in-source production and displace Intops. Intops' moat ("only Samsung-ecosystem partner with robot mass-production capacity") is real but not permanent.
+
+**Revised score: stays ~4/8, gate re-scoped from "quantify materiality" (done) to "confirm the H2 2026 ramp is real."** Binding next-fire checkpoint: Q2 2026 earnings (expected early-to-mid August 2026) — look for (1) Bear unit volume actually exceeding 5,000/yr (LG-driven), (2) first recognized wearable-robot (Wrobotics/Bot Fit) revenue. Both appearing → PROMOTE candidate. Robot revenue still flat + wearable still MOU-stage → drifts toward KILL/downgrade (narrative without numbers).
+
+**Sources (Fire 47):** LS Securities upgrade note via Edaily/Daum (2026-01-20); Bloter (May 2026, Samsung ~70% of revenue, wearable "no significant volume yet"); finance-scope (2025-12-29, Bear exclusive, LG 61.1% stake, Bot Fit standby); etnews/MoneyToday (2026-05-18/19, Wrobotics MOU); LG Global Newsroom/TechTimes (2026-06-30, Robotics Business Center).
+
+---
+Created 2026-07-10 (Fire 46) | Original verdict: **NEW WATCH (weak, score ~4/8) — found via ImportYeti customs record, materiality unresolved** | Track: **R**
 
 **Discovery:** ImportYeti customs sweep on Bear Robotics (LG Electronics-acquired 2025 serving-robot maker, real sustained US import footprint since 2019). Prior fire's fetch attempt truncated mid-page before reaching the supplier table (a known r.jina.ai limitation on high-shipment-volume pages); this fire's retry succeeded — the truncation was transient, not a durable block.
 
