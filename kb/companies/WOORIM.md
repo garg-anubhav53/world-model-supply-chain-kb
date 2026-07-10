@@ -1,5 +1,19 @@
 # Woorim PTS — 101170 (KOSDAQ)
-Updated 2026-07-10 (Fire 47) | Verdict: **STAYS WATCH (weak) — 3 factual corrections + gate partially resolved** | Track: **R**
+Updated 2026-07-10 (Fire 48) | Verdict: **KILLED — binding pre-commitment fired, none of 3 trigger conditions met** | Track: **R**
+
+**Fire 48 — KILL, per the Fire 47 binding pre-commitment (Opus full re-check).** The rule set last fire was explicit: KILL unless (a) a DART filing names Boston Dynamics, (b) Boston Dynamics/Hyundai themselves name Woorim, or (c) a disclosed mass-production order appears. A genuine search (DART, Korean financial press, Boston Dynamics' own press, Hyundai press) from 2025-11-28 through 2026-07-10 found **none of the three**:
+- (a) No DART filing found — FY2025 annual results (2026-03-13) mention "defense/aerospace/robot new business" only generically.
+- (b) **Mild disconfirming evidence**: a dedicated Korea Herald article (2026-06-29) specifically mapping Boston Dynamics' Korean Atlas suppliers names Hyundai Mobis, Hwashin Precision, and SOS Lab — but explicitly NOT Woorim. A supplier-focused article that omits Woorim while naming three others is a soft negative, not just an absence of confirmation.
+- (c) No mass-production order — Boston Dynamics' own 2026-06-25 announcement of a $100M Waltham robotics/AI center places Atlas commercialization at **2028**; still pre-mass-production exactly as at Fire 47.
+The sole evidence remains the unchanged 2025-11-28 finance-scope.com company-official quote — seven months stale with zero corroboration.
+
+**Price re-check confirms genuinely NOT re-rated, but on worsening fundamentals.** ₩7,580-7,650 (2-source, 2026-07-10), mkt cap ~₩95.1-95.2B (~$68M) — bottom quartile of the 52wk range (₩4,845-24,000). The CES-2026 Atlas-hype spike to ₩24,000 fully round-tripped. However Q1 2026 revenue was **₩10.3B, -33.6% YoY** (worse than Fire 47's framing), and TTM P/E ~44x on depressed, impairment-flattered earnings — the base excavator-transmission business is shrinking, not just "flat."
+
+**Verdict: KILL.** Not a price-gate kill (Gate 1 still passes) — a causal-link/binding-pre-commitment kill: the one piece of evidence was never upgraded past a single stale self-affirmed quote, and a dedicated primary-source supplier map now positively excludes Woorim. Re-open trigger: any of the original 3 conditions (DART filing / BD-Hyundai naming / disclosed mass-production order) appearing in the future — treat as a fresh find, not a reopened WATCH.
+
+**Sources (Fire 48):** valueline.co.kr, itooza.com, alphasquare.co.kr (2026-07-10 price); koreaherald.com/article/10791707 (2026-06-29, Atlas supplier map excluding Woorim); hankyung.com (2026-06-25, BD Waltham center / 2028 commercialization); news.nate.com (2026-03-13, FY2025 results).
+
+---
 
 **Fire 47 update — 3 corrections to the Fire 46 premise, all material:**
 1. **Name correction:** the company is **Woorim PTS ("Woorim Power Train Solution Co., Ltd.," formerly 우림기계/Woorim Machinery, renamed 2021)** — NOT "Woorim P&ES." Ticker/entity (101170.KQ) is unchanged; only the name was wrong.

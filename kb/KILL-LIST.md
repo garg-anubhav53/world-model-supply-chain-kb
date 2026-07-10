@@ -2,6 +2,21 @@
 Match on TICKER, CHINESE NAME, or ENGLISH ALIAS. If a match is found → already killed/parked, skip it.
 Rebuilt 2026-07-08 from all fires. Update by appending only.
 
+## Fire 48 additions (2026-07-10)
+Woorim-PTS 101170.KQ 우림피티에스 (formerly "Woorim P&ES," formerly 우림기계/Woorim Machinery) (KILLED Fire 48: binding pre-commitment fired — none of the 3 pre-agreed trigger conditions [DART filing / BD-Hyundai naming / disclosed mass-production order] were met, and a dedicated Korea Herald Atlas-supplier map (2026-06-29) now positively excludes Woorim while naming Hyundai Mobis/Hwashin Precision/SOS Lab. Q1 2026 revenue -33.6% YoY. Causal-link kill, not price-gate — price still near 52wk low. See kb/companies/WOORIM.md.)
+Kempower-Oyj KEMPOWR.HE (DEDUP CATCH Fire 48: ImportYeti scout re-surfaced the same Einride customs lead already killed Fire 39/45 — "real Einride EV-charging supplier via customs record, but generic charging infra/diffuse buyer base, off-thesis." No new information; still killed, still off-thesis.)
+Aishida 爱仕达 002403.SZ (DEDUP CATCH Fire 48: Chinese trade-press scout re-surfaced the same 2026-07-06 AgiBot cooperation agreement already reconfirmed-killed Fire 47 — sell-the-news, limit-up then -17%/2 sessions. No new information.)
+永臻股份 603381.SH (KILLED Fire 48: real self-disclosed AgiBot aluminum-alloy component delivery, but disclosure dated 2025-11-07 — 8 months stale, predates this fire's search window, not a fresh find)
+永贵电器 300351.SZ (KILLED Fire 48: AgiBot connector/cable strategic framework agreement dated 2025-11-11 — stale, same pattern as 永臻股份)
+联创电子 002456.SZ (KILLED Fire 48: repeatedly named as Unitree's vision-lens/optical-module supplier across many "core supplier" listicles since 2025 — old, widely-circulated narrative, presumptively already re-rated)
+科捷智能 688455.SH (KILLED Fire 48: invested ¥51M in Robotera's funding round + logistics-robot integration partnership — an investor/systems-integrator relationship, not a component-BOM supplier; off-thesis business-model)
+玉禾田 300815.SZ (KILLED Fire 48: AgiBot-backed sanitation-robot deployment partner, already spiked ~40% in Aug 2025 on the AgiBot stake announcement — off-thesis business model [deployment partner, not component supplier] + already re-rated)
+肇民科技, 奥迪威 832491.BJ, 众诚科技 (KILLED Fire 48, group entry: all 3 rode the Jul 2026 Unitree-IPO limit-up wave as "humanoid concept" stocks, but none has a company statement directly naming Unitree/AgiBot/UBTECH/EngineAI/Robotera as a customer — 肇民科技 only says it "co-develops precision parts with clients" [unnamed]; 奥迪威 is generic robotics-sensor/Tesla-Optimus narrative; 众诚科技 is a sales/leasing distribution partner for an unnamed "leading embodied-intelligence" company, not a component supplier. All 3 already multi-day-rallied on the limit-up board — re-rated.)
+
+## Fire 48 PENDING (weak leads, not yet WATCH)
+- **TBI Motion Technology (4540.TW)** — DigiTimes (2026-06-30): company-confirmed small-batch humanoid ballscrew/linear-motion shipments have begun, but no OEM buyer named. Mkt cap ~$223M — clears size gate cleanly if a buyer surfaces. Recheck for a named customer next fire.
+- **Fuxing Motor/富兴电机, Qianjue Robotics/千觉机器人, Xier Robotics/希尔机器人** — surfaced via AgiBot's own Apr 18 2026 partner-conference press coverage as investees/JV partners (servo/brushless DC motor, tactile sensor, and digital servo-drive makers respectively). Not prospectus-confirmed suppliers, no ticker found — likely private. Logged for future IPO-watch only, not diligenced further.
+
 ## Fire 47 additions (2026-07-10)
 Mentee-Robotics (Israeli humanoid startup, acquired by Mobileye/MBLY, announced 2026-02-03, $900M) (KILLED Fire 47: related-party/insider deal — Mobileye's CEO/CTO were Mentee's chairman/co-founder; Mobileye itself already mega-cap/re-rated, humanoid business a small diversifying add-on)
 BST-Group (TASE IPO 2026-06-15) (KILLED Fire 47, found-and-killed: pure construction/real-estate developer, zero robotics/AV/defense connection — off-thesis)
