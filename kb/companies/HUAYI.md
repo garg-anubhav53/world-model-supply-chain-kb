@@ -1,0 +1,20 @@
+# Huayi Technology (华依科技) — 688071.SH (Shanghai STAR Market)
+Created 2026-07-10 (Fire 50) | Verdict: **NEW WATCH (weak), score 3/8 — named Zhiyuan/AgiBot IMU supplier, not re-rated, small base, but GATE 4 (financial health) explicitly weak** | Track: **R**
+
+**Discovery:** surfaced INDEPENDENTLY by two parallel scouts this fire (cursor scout working the positioning/timing node, and the Chinese trade-press scout) — convergent discovery from different search angles is itself a mild confidence signal. A third scout (China A-share 互动易 sweep) also found it and recommended KILL on gate 4 alone; the orchestrator's synthesis below treats gate 4 as a caution flag, not an automatic kill, per KB precedent (Intops was carried at WATCH through 5 consecutive loss quarters on a real causal story).
+
+**Business:** core business is automotive powertrain intelligent test equipment (NOT a GNSS/RTK pure-play, which is why the Fire 37 positioning-and-timing sweep missed it — IMU is a diversification line, not the core listing thesis).
+
+**Causal link — company's own disclosure, not analyst inference:** confirmed via investor-interaction-platform (互动易) disclosure dated 2025-08-06, reaffirmed in later Q&A, that Huayi has supplied IMU products to **Zhiyuan (智元/AgiBot)** humanoid robots for center-of-gravity/posture sensing. Separately, its ARU8010 attitude sensor "won a bid" from an unnamed top-tier humanoid maker (not counted toward the named-buyer gate).
+
+**Gate scores (0-2 each):**
+- Gate 1 (NOT re-rated): **2/2** — 1-year price change only +4.06% (investing.com, 2026-07-10). 52-week range ¥15.26–50.84 shows the stock DID spike and give back gains at some point in the window — worth flagging for future timing checks, but the trailing-12m figure is clean.
+- Gate 2 (causal link airtight, named buyer): **1.5/2** — real, dated, company-own disclosure naming Zhiyuan; docked slightly because it's "supplied IMU products" language (not an exclusive/sole-source contract with a $ figure).
+- Gate 3 (revenue multiplies / small base): **2/2** — FY2025 revenue ¥510M (~$71M, well under the $800M hard cap), market cap ~¥2.9–3.04B (~$400–420M), comfortably under cap and close to the <$300M ideal band. Revenue +20.45% YoY.
+- Gate 4 (financially healthy): **0/2, explicit caution flag.** FY2025 swung to a **net loss of ¥61.65M** (vs. prior-year profit); analyst commentary (Chinese sell-side) flags "revenue growth without profit growth, rising short-term debt pressure" (增收不增利，短期债务压力上升). Q1 2026 profit near breakeven, down -54% YoY. No going-concern language found by any of the 3 scouts that checked this — this reads as a growth-company-burning-cash pattern (core auto-test-equipment business under margin pressure), not confirmed distress, but it is real enough that a 4th scout independently recommended a hard KILL on this gate alone.
+
+**Total: 3/8 (weighted), logged as WATCH(weak) not KILL** — the causal-link evidence is real and company-sourced (a genuine, if not sole-source, forced-buyer relationship), the base is small and not re-rated, which is what the widened-WATCH-bar rule (§20D) is designed to catch. The financial-health weakness is the binding gate, not a disqualifier on its own, consistent with how the KB carried Intops through its own loss-quarter run.
+
+**Binding next-gate:** confirm the debt/liquidity trajectory does NOT deteriorate into going-concern territory at the next quarterly report (Q2/H1 2026, expected ~Aug 2026) — if net losses widen further or short-term debt coverage weakens materially, this converts to a KILL. If profitability stabilizes or the Zhiyuan IMU relationship converts to a larger, named order, this is a promotion candidate.
+
+**Sources:** Huayi Technology 互动易 investor Q&A (2025-08-06, reaffirmed in later exchanges); investing.com (2026-07-10, 1yr price); Chinese sell-side commentary on FY2025 results (net loss ¥61.65M) and Q1 2026 results (-54% YoY profit).

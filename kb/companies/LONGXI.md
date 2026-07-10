@@ -1,0 +1,18 @@
+# Fujian Longxi Bearing (龙溪股份) — 600592.SH (Shanghai A-share)
+Created 2026-07-10 (Fire 50) | Verdict: **PENDING (not yet WATCH) — exclusive Zhiyuan joint-bearing JV supplier, de-rated not re-rated, but company's OWN risk disclosure admits "extremely limited near-term contribution"** | Track: **R**
+
+**Discovery:** buyer-prospectus/trade-press mining scout, found via Zhiyuan's own supplier communications (not a third-party prospectus — Zhiyuan itself hasn't filed one).
+
+**Causal link — real and unusually strong disclosure quality, but capped by the company's own admission:** Longxi holds 85% of a JV that is Zhiyuan's core joint-bearing supplier for the 远征A2 humanoid — exclusive supply of joint modules, and Longxi received Zhiyuan's "Excellent Partner Award." This is a stronger form of evidence than most "named buyer" disclosures in the KB (an exclusive JV + a formal partner award beats a showcase appearance or a vague cooperation-agreement mention) — BUT Longxi's own risk-factor disclosure states the humanoid-robot bearing business is still "in R&D/small-batch sample-testing, extremely limited near-term contribution" — nearly identical language to the pattern that killed Shuangyi Technology (双一科技) at Fire 49 ("尚未形成连续性订单"/no continuous orders yet).
+
+**Gate scores (0-2 each):**
+- Gate 1 (NOT re-rated): **2/2** — stock hit a 52-week LOW of ¥15.39–15.56 in mid-June 2026, down from a 52-week high of ¥32.00 — down >50% from peak. De-rated, not re-rated. Current price ~¥15-19, market cap ~¥7.7–8.8B (~$1.1B — over the $800M hard cap on market cap alone, though revenue is well under).
+- Gate 2 (causal link airtight): **1.5/2** — real, exclusive, JV-structured, award-validated relationship; docked because it's sourced from Longxi's own announcements/JV disclosure rather than a formal Zhiyuan-filed prospectus (Zhiyuan hasn't filed one) — same evidentiary tier as most of the KB's Chinese A-share finds.
+- Gate 3 (revenue multiplies): **1/2** — FY2025 total revenue ¥1.346B (~$188M, comfortably under the $800M cap), BUT revenue FELL 24.3% YoY, and the company's own words say the humanoid line contributes "extremely limited" near-term revenue — this is a CAUSAL-RIGOR fail on the ≤24-month revenue mechanism gate (§13/C-5), not a size fail.
+- Gate 4 (financially healthy): **1/2, quality-of-earnings flag** — FY2025 net profit ¥169M (+34.5% YoY headline-positive), but ~55% of that profit came from non-recurring items including securities trading gains — the core operating business is weaker than the headline suggests.
+
+**Total: 5.5/8 (weighted), logged as PENDING not WATCH.** The disclosure quality (exclusive JV + award) is genuinely above-average for this KB, which is why this isn't a hard KILL — but the company's own admission that the humanoid business is still sample-testing-stage with extremely limited near-term contribution is the same shape as a pattern the KB has explicitly killed before (Shuangyi Technology, Fire 49). Also worth noting: market cap (~$1.1B) is itself over the $800M hard cap, though this is a soft factor given the small revenue base.
+
+**Binding next-gate to promote to WATCH:** ANY disclosure of order conversion beyond sample/small-batch stage (a unit-volume figure, a contract value, or the 远征A2 program moving to mass production) — recheck opportunistically, not on a fixed schedule, since this depends on Zhiyuan's own production ramp, not a filing deadline.
+
+**Sources:** Longxi Bearing company announcements re: 85%-owned JV with Zhiyuan (远征A2 joint-bearing exclusive supply); Zhiyuan "Excellent Partner Award" disclosure; Longxi FY2025 results (revenue ¥1.346B/-24.3% YoY, net profit ¥169M/+34.5% YoY, ~55% non-recurring); 2-source price check (52wk low ¥15.39-15.56, 52wk high ¥32.00), 2026-07-10.

@@ -1,5 +1,5 @@
 # WATCHLIST — live candidates + monitoring signals
-Updated 2026-07-10 (Fire 48). **1 KILL, no new WATCH this fire:** Woorim PTS KILLED — its Fire-47 binding pre-commitment resolved cleanly (none of the 3 trigger conditions fired; a dedicated Korea Herald Atlas-supplier map now positively excludes it). HSAI's 5th genuine staleness-guard re-derivation held its score at 7/8 but formally downgraded it from "unconditional #1" to "needs a specific new trigger to reconfirm top spot" (asymmetry-quality decay now 2 fires running). See kb/companies/WOORIM.md, HSAI.md, decisions-log.md.
+Updated 2026-07-10 (Fire 50). **1 NEW WATCH this fire: Huayi Technology (华依科技, 688071.SH)** — named Zhiyuan/AgiBot IMU supplier, not re-rated, small base, but explicit gate-4 (financial health) caution flag (FY2025 net loss). Found independently by 2 scouts. **1 new PENDING (not yet WATCH): Longxi Bearing (龙溪股份, 600592.SH)** — exclusive Zhiyuan joint-bearing JV, but company's own words admit near-term immateriality. HSAI's 8x market-cap error (carried Fires 40-48) was found and fixed Fire 49 — TRUE cap ≈$2.6B/~6x sales, not $20.6B/~40x, reconfirming HSAI as strong #1, not "fully priced." See kb/companies/HUAYI.md, LONGXI.md, HSAI.md, decisions-log.md.
 
 ## TOP priority
 | Ticker | Thesis in one line | Signal to watch |
