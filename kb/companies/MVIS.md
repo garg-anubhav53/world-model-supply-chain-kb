@@ -1,5 +1,10 @@
 # MicroVision — MVIS (Nasdaq)
-Updated 2026-07-10 (Fire 55, on-deck push) | Verdict: **PENDING/on-deck — 1 gate from WATCH (named buyer). Both buyer names still withheld in every primary source; a new risk flag (Nasdaq minimum-bid compliance) added.** | Track: **AV (autonomous mining/construction hauling lidar)**
+Updated 2026-07-10 (Fire 56, on-deck push) | Verdict: **PENDING/on-deck — gate does not flip. Real distress flag: Nasdaq Capital Market transfer must be effective before JULY 13 2026 (3 days out) to secure a 2nd 180-day cure window.** | Track: **AV (autonomous mining/construction hauling lidar)**
+
+## Fire 56 update — gate closed, hard near-term distress deadline identified
+Two fresh disclosures, both keep buyers anonymous: (1) June 29 PR confirms physical MOVIA S deliveries + backlog to the 2nd unnamed AI/hyperscaler customer, framed as evaluation not commitment. (2) June 10 8-K Master Development Agreement with the mining/construction OEM is a signed MDA (upgrade from mere evaluation) but still does NOT name Caterpillar. **Nasdaq listing risk sharpened**: original deficiency notice Jan 12 2026 (sub-$1.00); MVIS applied June 12 to transfer to Nasdaq Capital Market for a 2nd 180-day grace period — **this transfer must be effective before July 13, 2026** (this week) or the extension is lost; a DEF 14A seeks reverse-split authorization. Price ~$0.40, mkt cap ~$133M — even though size/valuation gates would clear if a buyer were named, the **active delisting-cure process now trips the not-distressed criterion independently.** Verdict: does NOT qualify for WATCH on two independent grounds. Next check: July 13 transfer-deadline outcome, and any Item 5.07/naming 8-K. Sources: ir.microvision.com/455 (2026-06-29); stocktitan.net 8-K (2026-06-10); accessnewswire.com (2026-06-12, Nasdaq transfer).
+
+---
 
 ## Fire 55 update — on-deck push, gate still closed, one hardware step forward + one new risk flag
 - Swept every 8-K from the last 60 days (05-13, 06-01, 06-10, 06-12, 06-25, 07-07) plus the Q1 10-Q/earnings and investor decks. **Neither buyer named anywhere.** EDGAR full-text search of MVIS's own CIK for "Caterpillar" returns zero hits — the circumstantial link is unchanged, nothing hardened it.

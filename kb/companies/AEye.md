@@ -1,5 +1,10 @@
 # AEye, Inc. — LIDR (Nasdaq)
-Updated 2026-07-10 (Fire 55, on-deck push) | Verdict: **PENDING/on-deck — 1 gate from WATCH (named buyer), unchanged** | Track: **AV/defense (lidar); no humanoid-robotics exposure found**
+Updated 2026-07-10 (Fire 56, on-deck push) | Verdict: **PENDING/on-deck — 1 gate from WATCH (named buyer), unchanged. Q2 earnings estimate slipped to ~Aug 10.** | Track: **AV/defense (lidar); no humanoid-robotics exposure found**
+
+## Fire 56 update — no change, earnings-date estimate pushed later
+No naming development in the trailing 30 days — LITEON remains confirmed as contract manufacturer only. Recent news is product/partnership only (Apollo + NVIDIA Thor integration, MDOT infrastructure demo), none naming the OEM. **Q2 earnings date: aggregator estimate (MarketBeat/TipRanks) now shows ~Aug 10, 2026** — pushed later from the prior ~Jul 30 estimate; still an algorithmic placeholder, not company-confirmed. Price ~$1.45 (7/6), mkt cap ~$65-67M, 52wk range $0.96-$6.44 — trading near lows, has NOT re-rated, so if the OEM is ever named all other gates clear cleanly; buyer-naming remains the sole blocker. Verdict: does not qualify, no change. Next check: AEye's Q2 print (~Aug 10 est.) or any interim 8-K naming the OEM.
+
+---
 
 ## Fire 55 update — on-deck push, no change
 - The ~$30M "major transportation OEM" design win remains unnamed after 12+ months. Refined detail found: the ~$30M figure ties to a "potential $30M Apollo OEM program starting late 2026," with the Apollo units themselves manufactured by **LITEON** — LITEON is the contract manufacturer, not the OEM buyer, which stays undisclosed.
