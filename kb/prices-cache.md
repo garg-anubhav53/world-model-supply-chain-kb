@@ -1,5 +1,8 @@
 # PRICES CACHE — last-seen move/valuation (staleness window: 7 days)
-As of 2026-07-10 (Fire 52) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+As of 2026-07-10 (Fire 53) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+
+## Fire 53 reconfirm (conviction-track names only)
+Intops ₩18,110, mkt cap ₩298.1B (investing.com+alphasquare.co.kr, 2-source, 2026-07-10) — down ~17% since a Jan-2026 broker note (₩21,850 then), 52wk range 13,000-24,950, PBR 0.39-0.47x, PER 13.3 · Longxi Bearing (600592.SH) ¥14.55/share, ¥5.84B mkt cap (investing.com) / ¥58.14亿 (taoguba.cn), 2-source, 2026-07-10 — down from Fire 50's ~¥7.7-8.8B/~$1.1B to ~$856-861M USD (~6.79 CNY/USD), still above the ~$800M WATCH cap but margin narrowed to ~7-8% over (was clearly-over-$1.2B before) · Dongfang Electric Heating (300217.SZ) ¥6.13B (stockanalysis.com, 2026-07-10, price ¥4.44/share) — essentially flat vs Fire 52's ¥6.13-6.56B range, still above the ¥5.74B trigger.
 
 ## Fire 52 reconfirm (conviction-track names only, full shortlist not re-priced this fire)
 Xinjian (no ticker, pre-IPO — status advanced 已受理→已问询 on 2026-07-08, implied post-money via proposed raise ¥2.822bn/≤27.99M shares ≈ ¥100.8/share → ¥11-28B range depending on float, NOT a real price) · MVIS $0.40, mkt cap ~$132.65M (stockanalysis.com 7/9-10), 331.62M shares, 52wk $0.26-$1.73 — cross-check Yahoo/CNN $0.35-0.38/~$123-134M — down ~53% YoY, revenue -74% YoY · AEye $1.36, mkt cap ~$62.99M (stockanalysis.com 7/10), 46.31M shares, 52wk $0.97-$6.44 — cross-check companiesmarketcap/WallStreetZen ~$1.46/~$65.3M — down ~79% from 52wk high · Dongfang Electric Heating (300217.SZ) ¥6.13B (stockanalysis.com) / ¥6.562B (futunn.com), both 2026-07-10 — narrowed from Fire 50's ¥6.607B, still above the ¥5.74B trigger + $800M cap, price down ~17% since May (¥5.38→¥4.44) despite a +6.99% intraday pop today.

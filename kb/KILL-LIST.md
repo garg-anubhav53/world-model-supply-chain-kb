@@ -2,6 +2,18 @@
 Match on TICKER, CHINESE NAME, or ENGLISH ALIAS. If a match is found → already killed/parked, skip it.
 Rebuilt 2026-07-08 from all fires. Update by appending only.
 
+## Fire 53 additions (2026-07-10)
+Allegro-MicroSystems ALGM (KILLED Fire 53: real "design wins with humanoid robotics customers... two design wins with leading Chinese robotic companies for use in robotic joints" 10-K disclosure [filed 2026-05-21] — but FY2026 revenue $890M, auto-kill >$800M, already re-rating [23% YoY rev growth, near-tripled EPS])
+Luxshare-ICT/Luxshare-Precision-Industry 002475.SZ + new HK dual-listing (KILLED Fire 53: co-led EngineAI's $200M Series B as manufacturing-capacity partner, mega-cap Tier-1 auto-parts supplier, investor relationship not component-supply)
+Minth-Group 0425.HK (KILLED Fire 53: AgiBot's Europe distribution/training-ground partner, mega-cap Tier-1 auto-parts supplier, distribution relationship not component-supply)
+Kempower-Oyj KEMPOWR.HE (KILLED Fire 53: 2 ImportYeti shipments of EV-charging hardware to Einride, single-shipment/immaterial evidence, off-thesis — EV charging infra not robot/AV BOM)
+Cheng-Shin-Rubber 2105.TW (KILLED Fire 53: Serve Robotics' rubber-component supplier via ImportYeti, but mega-cap $2.91B revenue tire maker, ~0% robotics exposure)
+oToBrite-Electronics 2256.TWO (KILLED Fire 53: real humanoid/AMR vision pivot [Turing Drive/EverFocus/DFI partners] but +181%/12m and +206% mkt-cap already re-rated)
+LG-Innotek (KILLED Fire 53: real named buyers Figure AI + Boston Dynamics for camera/vision modules, but LG Group affiliate mega-cap, robotics immaterial % of total revenue)
+美湖股份/Hunan-Meihu 603319.SH (dedup catch Fire 53, already killed Fire 44 as "Hunan-Meihu/speculative" — flagging the Chinese-name alias explicitly since a scout almost mistook it as new)
+Kodiak-Robotics, Plus/PlusAI, Cartken, Starship-Technologies, Coco-Robotics, Gatik-AI, Kiwibot (dead-ends Fire 53, cursor=1 customs/BoL sweep — zero/stale/name-collision ImportYeti footprint, not kills, no public supplier surfaced)
+远梦机器人 — ALIAS-TRAP, DOES NOT EXIST (Fire 53: exhaustively searched, no registry/news trace found; a Fire-52 scout's name for Longxi Bearing's buyer was a transcription artifact of 远征 [AgiBot's Yuanzheng A1 robot model] — the real buyer is confirmed AgiBot/智元机器人. If this name resurfaces, treat as the same transcription error, not a new lead.)
+
 ## Fire 52 additions (2026-07-10)
 飞龙股份/Feilong-Automotive 002536.SZ (KILLED Fire 52: liquid-cooled water pumps/thermostatic valves for robot joint modules, "joint R&D with certain automotive OEM customers" — but mkt cap ~¥298-337B/~$4.1-4.7B + 52wk range +400%+ — double decisive size+price fail)
 苏州天脉/Suzhou-Tianmai 301626.SZ (KILLED Fire 52: thermal materials/vapor chambers/TIM maker; company's own 互动易 reply: "目前公司的产品应用于机器人方面较少" [currently our products have relatively little application in robotics] — explicit self-denial, no named buyer)

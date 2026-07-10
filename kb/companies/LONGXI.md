@@ -1,5 +1,15 @@
 # Fujian Longxi Bearing (龙溪股份) — 600592.SH (Shanghai A-share)
-Created 2026-07-10 (Fire 50) | Verdict: **PENDING (not yet WATCH) — exclusive Zhiyuan joint-bearing JV supplier, de-rated not re-rated, but company's OWN risk disclosure admits "extremely limited near-term contribution"** | Track: **R**
+Updated 2026-07-10 (Fire 53, buyer-identity resolution) | Verdict: **STAYS PENDING — buyer-identity discrepancy RESOLVED (AgiBot confirmed), market cap gap to the WATCH threshold narrowed sharply but not closed** | Track: **R**
+
+## Fire 53 — buyer-identity discrepancy resolved
+Fire 52 flagged a conflict: 3 prior fires' evidence named AgiBot (远征A1/灵犀X2) as the buyer, but one Fire-52 scout instead named an unrelated "远梦机器人" for the same March-2025 award. This fire ran a dedicated resolution: **AgiBot/智元机器人 confirmed as the real buyer**, via multi-source corroboration — AgiBot's own 2025-03-26 first supplier-conference award roster (published on its own site and independently covered by e-works/中华工控网/自动化网/东方财富) explicitly lists "龙溪股份（轴承）" as the bearing-category award winner, consistent with the existing JV/award-based evidence below. **"远梦机器人" was searched exhaustively (Chinese-language, business registries, news) and found to not exist as a real company** — treated as a scout transcription artifact (远征→远梦, 远征 being AgiBot's robot model name), not a competing valid lead. Longxi's own IR statements remain deliberately generic/cautious (standard A-share practice), which is likely why the buyer had to be pieced together from secondary press/research-note sources in the first place.
+
+**Market cap re-checked, 2-source:** investing.com (¥14.55/share, 399.55M shares, ¥5.84B) and taoguba.cn (¥58.14亿/¥5.814B) — both 2026-07-10. At ~6.79 CNY/USD that's **~$856-861M USD**, down from Fire 50's ~¥7.7-8.8B/~$1.1B+ (the 52-week range ¥13.18-32.00 shows the stock down >50% from its high). **Still fails the KB's ~$800M WATCH cap, but the margin has narrowed from clearly-over to only ~7-8% over** — worth a tight recheck (2-source) next time this name comes up, since a further ~10% price decline alone would cross it. Revenue mechanism (¥1.346B FY2025, -24.3% YoY, "extremely limited near-term contribution" per the company's own words) was not re-verified this fire — unchanged from the Fire 50 read below.
+
+**Source note:** direct 互动易/cninfo query returned HTTP 503 (likely blocked) — the AgiBot-buyer conclusion rests on consistent multi-source secondary financial-media reporting, not a raw cninfo Q&A read. A true primary-source (cninfo) confirmation is still a worthwhile gap to close on a future touch.
+
+---
+Created 2026-07-10 (Fire 50) | Prior verdict: **PENDING (not yet WATCH) — exclusive Zhiyuan joint-bearing JV supplier, de-rated not re-rated, but company's OWN risk disclosure admits "extremely limited near-term contribution"** | Track: **R**
 
 **Discovery:** buyer-prospectus/trade-press mining scout, found via Zhiyuan's own supplier communications (not a third-party prospectus — Zhiyuan itself hasn't filed one).
 
