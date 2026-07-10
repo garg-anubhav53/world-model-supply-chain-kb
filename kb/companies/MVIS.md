@@ -48,3 +48,12 @@ Two fresh disclosures, both keep buyers anonymous: (1) June 29 PR confirms physi
 **Next check:** July 10 shareholder-vote outcome (dilution/reverse-split) + Q2 2026 earnings (~August 2026) — most probable venue for the OEM to finally be named.
 
 **Sources:** June 10 2026 8-K/PR: ir.microvision.com/news/press-releases/detail/450/ · sec.gov/Archives/edgar/data/0000065770/000149315226028053/ex99-1.htm · June 12 8-K: sec.gov/Archives/edgar/data/0000065770/000149315226028501/ex99-1.htm · im-mining.com/2026/06/12/caterpillar-signs-lidar-deal-for-mining-truck-autonomy-with-microvision/ (trade-press inference, not confirmation).
+
+---
+**Fire 57 (2026-07-10) — on-deck push (Opus). Verdict: STAYS ON-DECK, does not promote. New independent distress deadline UNRESOLVED as of today.**
+
+**Direct SEC EDGAR check (CIK 0000065770):** most recent filing is an 8-K dated 2026-07-07 (Items 7.01/9.01) — nothing filed since. AGM was held today 2026-07-10 (9am PT, reverse-split authorization 1-for-5→1-for-15 + convertible-note share issuance on the ballot) — **Item 5.07 AGM-results 8-K not yet posted** (due within 4 business days, ~7/14-16). **Nasdaq Capital Market listing transfer: NOT confirmed effective** — no Item 3.01 8-K, press release, or news item found. **Buyer for the Jun 10 MDA: still never named** in any filing/call/PR.
+
+**Distress-deadline status: PENDING, neither met nor missed as of 2026-07-10.** The transfer must be effective before July 13, 2026 (3 days out) to secure a 2nd 180-day delisting-cure window — this is independent of and adds to the unnamed-buyer gate. Prices (2-source, 2026-07-10): $0.3838/mkt cap $127.27M (stockanalysis.com); $0.38/$132.69M (marketbeat.com).
+
+**Recommend hard recheck 2026-07-13/14** for both the Item 5.07 8-K and any Item 3.01 transfer-effective 8-K — this is now the single nearest-dated binding trigger on the entire shortlist.

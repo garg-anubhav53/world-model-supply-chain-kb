@@ -52,3 +52,20 @@ Created 2026-07-10 (Fire 46) | Original verdict: **NEW WATCH (weak, score ~4/8) 
 **Sources:** ImportYeti.com/company/bear-robotics (via r.jina.ai proxy, 2026-07-10); Korean financial press (Q1 2026 earnings, "wearable robot manufacturing platform" pivot framing); KOSDAQ 049070 price/market-cap quotes, 2026-07-10.
 
 **Next steps:** (1) find Intops' own IR disclosure/annual report for a robotics/EMS-platform segment revenue breakdown; (2) confirm Bear Robotics' own financial health as a going concern (LG-acquired, should be stable — verify); (3) 2-source price reconfirm.
+
+---
+**Fire 57 (2026-07-10) — STALENESS-GUARD full re-derivation (Opus), genuine from-scratch re-pull, not a status check. Verdict: HOLD WATCH, score 4/8, unchanged.**
+
+**Gate 1 (2/2):** Price 18,110 KRW (2-source: investing.com, stockanalysis.com), +6.84% intraday (theme-rotation pop, no discrete catalyst — 3rd time this pattern recurs), identical to Fire 53's read. 52wk range 13,000-24,950. Still ~17% below the Jan-2026 analyst-note level and ~33% below ATH. Clean pass, de-rated not re-rated.
+
+**Gate 2 (1/2):** Bear Robotics exclusive-EMS relationship intact (reconfirmed). NEW: LG's Robotics Business Center went live 2026-07-01 (head Song Si-yong) — LG's own newsroom describes a 3-axis push including in-house "actuators/core components" development. Intops has no upgraded or contractual role in the new center per any disclosure found — this is an escalating (not yet triggered) insourcing/vertical-integration risk to the Bear exclusivity moat. Also: every named buyer (Bear serving robots, Samsung Bot Fit, Hyundai/Kia X-ble wearables) is service-robot/exoskeleton, none humanoid/AV — thesis-fit remains weak even though the link itself is real.
+
+**Gate 3 (1/2, binding):** Still ~4-5% of revenue and flat (LS Securities model, 2026E ₩613B total, robot line roughly flat). Wearable pivot (Bot Fit/Wrobotics) still explicitly pre-revenue per a fresh company quote this fire ("still early-stage market, not yet meaningful volume"). Q2/H1 2026 earnings NOT yet released (due ~mid-Aug 2026) — multiplication question structurally unanswerable this fire, no new number to act on.
+
+**Gate 4 (1/2):** Balance sheet safe (net cash ~80% of mkt cap, PBR ~0.4x), June-2026 ₩17.6B share cancellation intact. But FY2025 was a full-year OPERATING LOSS (₩-11.3B, approved at March-2026 AGM) — sober frame, not distressed but not strong either.
+
+**Adversarial bear (re-tested, not rebutted):** "A cyclical Samsung-mobile EMS/plastics supplier in a robot costume — robot revenue flat ~4-5% for 5 years, every named buyer is service-robot/exoskeleton not humanoid, marquee wearable catalysts still pre-revenue after 1+ year, and its Bear moat is a latent short on LG's own newly-disclosed actuator/component build-out." No fresh evidence rebuts this.
+
+**Binding checkpoint unchanged: H1/Q2 2026 report (~mid-Aug 2026).** Robot-EMS breaking toward >10% of sales + first recognized wearable revenue → UPGRADE candidate. Flat robot line + wearable still MOU-stage → DOWNGRADE toward KILL. **New escalating watch item: LG's in-house actuator/component build-out as a live insourcing threat.**
+
+Sources: investing.com/equities/intops-co-ltd; stockanalysis.com/quote/kosdaq/049070 (both 2026-07-10); irobotnews.com/news/articleView.html?idxno=47203 (LG Robotics Business Center, eff. 2026-07-01); Korean press (Wrobotics pre-revenue quote, this fire); DART (FY2025 -₩11.3B op loss, March-2026 AGM).

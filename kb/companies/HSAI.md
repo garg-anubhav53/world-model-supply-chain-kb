@@ -131,3 +131,20 @@ Updated 2026-07-10 (Fire 49) | Verdict: **WATCH — MAJOR CORRECTION: an 8x mark
 - **Verdict:** WATCH. Gate #1 FAILS (already ran + pulled back on regulatory risk, not a clean not-yet-discovered name). Gate #2 PARTIAL FAIL (real named wins + one confirmed defection + two unverifiable anchor contracts). Gates #3 and #4 PASS (real near-term revenue ramp; strong balance sheet) with an asterisk on the pending appellate ruling.
 - **Trigger to revisit BUY case:** D.C. Circuit ruling outcome (argued, undecided — highest-leverage near-term catalyst), the remaining unnamed anchor customer being disclosed, or H2 2026 print showing ATX bookings actually converting to shipped revenue.
 - **Sources (Fire 8):** Justia docket 25-5256 · investor.hesaitech.com "Hesai Notices Appeal" · ainvest.com 2026-07 litigation summary · gurufocus.com 8-for-1 split approval · Gasgoo (Motional Ioniq 5 lidar order, dated) · techtimes.com 2026-06-30 (DoD 1260H list expansion, context only).
+
+---
+**Fire 57 (2026-07-10) — CNBC cybersecurity narrative deep-dive (Opus). Verdict: recycled/already-priced advocacy journalism, NOT a new gate. WATCH 7/8 holds, no change.**
+
+**What the story claims:** CNBC, "Chinese lidar maker with Nvidia ties accused of being cyber risk for U.S.," 2026-07-07 (FDD-sourced). A Duke University lab demoed that planted malware could make Hesai lidar "see a phantom person" or hide a real one; cites the 2024 leap-year firmware bug as evidence of remote-update exposure; national-security framing leans on the existing 1260H "Chinese military company" listing + Hesai sensors deployed at JFK airport and in Zoox/Waabi/Kodiak/Nuro fleets. Hesai's CEO rebutted: sensors "store no data and cannot phone home," firmware bug fixed within a day.
+
+**Is it a new regulatory threat? No.** No new ban, CFIUS/FCC action, bill, or customer-audit mandate. Every instrument named already exists in the KB's framework (1260H designation, SAFE LiDAR Act H.R.6576, the connected-vehicle rule eff. Jan 2027). The only genuinely new fact is the Duke spoofing demo — a security-research finding, not a legal instrument, with no action following it.
+
+**Follow-up since Jul 7:** Rep. Moolenaar quoted but his SAFE LiDAR Act cosponsorship press release predates the story (Jun 29). NVIDIA issued only a non-substantive defensive statement (no design-win reversal). Zero customer defections — Zoox/Waabi/Kodiak/Nuro shipments unaffected. Wide press pickup but all recycling the single CNBC/FDD source, not new reporting.
+
+**Relation to binding gates:** the SAME underlying regulatory risk (1260H / D.C. Circuit 25-5256 / SAFE LiDAR Act) re-surfacing in press form, not a new vector. Does not touch the D.C. Circuit docket. Section 164's DoD-procurement carve-out unaffected (commercial AV sales untouched).
+
+**Price reaction:** flat. $16.48 (stockanalysis.com) / $16.44 (Google Finance), both 2026-07-10 — essentially unchanged since Jul 7 ($16.37). The ~10% slide from $18.22 (Jul 1) mostly predates/coincides with the story but has not extended — market is not repricing this.
+
+**Recommendation:** retire as a monitored narrative item, not a gate. Only becomes gate-relevant on SAFE LiDAR Act floor action, a named customer dropping Hesai on cyber grounds, or a CFIUS/FCC/DOT proceeding — none exist today. Real dated catalysts remain the D.C. Circuit ruling and the Aug 28 EGM circular.
+
+Sources: CNBC (2026-07-07); FDD (2026-07-07); chinaselectcommittee.house.gov Moolenaar release (2026-06-29); stockanalysis.com + Google Finance (2026-07-10).

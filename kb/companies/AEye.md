@@ -24,3 +24,8 @@ No naming development in the trailing 30 days — LITEON remains confirmed as co
 - **4-gate score:** Gate1 (not re-rated) PASS · Gate2 (named buyer) **FAIL — sole binding block, now softer than before** · Gate3 (multiplies) structural-pass-but-contingent on Gate2 · Gate4 (financially healthy) PASS.
 - **Verdict: STAYS ON-DECK, does not promote — case marginally weaker this fire** (the $30M win's near-term materiality was explicitly walked back by management, not just left unquantified). Next real trigger: Q2 2026 earnings (~mid-Aug 2026, on Q1's cadence) for any supplier/customer-naming language.
 - **Sources:** Q1 2026 call transcript: fool.com/earnings/call-transcripts/2026/06/02/aeye-lidr-q1-2026-earnings-transcript/ · Q1 2026 results PR (2026-05-13): investors.aeye.ai/news-releases/news-release-details/aeye-reports-first-quarter-2026-results-commercial-pipeline · price: stockanalysis.com/stocks/LIDR/ (2026-07-09), stocktitan.net/overview/LIDR/ (2026-07-08) · StockTitan news feed (SynTech Apr 28, MoveAWheeL May 19 2026).
+
+---
+**Fire 57 (2026-07-10) — on-deck push (Opus). Verdict: STAYS ON-DECK, no change.**
+
+Prices (2-source, 2026-07-10): $1.345/mkt cap $62.29M (stockanalysis.com); $1.34/$62.29M (marketbeat.com) — 52wk $0.968-6.44, near lows, not re-rated. Q2 2026 earnings date still NOT company-confirmed — MarketBeat now shows July 30 (estimated), vs. the prior ~Aug 10 aggregator estimate; the two disagree and both are algorithmic placeholders (Q2-2025 actual was July 31). OEM behind the ~$30M Apollo design win still not named — LITEON remains the confirmed contract manufacturer, not the buyer, no naming progress this fire. Sole binding block (named buyer) unchanged.

@@ -44,3 +44,12 @@ Created 2026-07-10 (Fire 50) | Prior verdict: **PENDING (not yet WATCH) — excl
 **Binding next-gate to promote to WATCH:** ANY disclosure of order conversion beyond sample/small-batch stage (a unit-volume figure, a contract value, or the 远征A2 program moving to mass production) — recheck opportunistically, not on a fixed schedule, since this depends on Zhiyuan's own production ramp, not a filing deadline.
 
 **Sources:** Longxi Bearing company announcements re: 85%-owned JV with Zhiyuan (远征A2 joint-bearing exclusive supply); Zhiyuan "Excellent Partner Award" disclosure; Longxi FY2025 results (revenue ¥1.346B/-24.3% YoY, net profit ¥169M/+34.5% YoY, ~55% non-recurring); 2-source price check (52wk low ¥15.39-15.56, 52wk high ¥32.00), 2026-07-10.
+
+---
+**Fire 57 (2026-07-10) — FX-corrected recheck (Opus). Verdict: STILL FAILS the corrected cap, stays PENDING. Closest-to-flip name in the KB.**
+
+FX rate confirmed 2-source (open.er-api.com 6.8002, TradingEconomics/exchangerates.org.uk 6.7809, corroborated by Fed H.10 Jul-6) — working rate 6.79. Corrected $800M cap = ¥5.43B (was frozen at a stale-rate-derived ¥5.74B).
+
+Market cap (2-source, Tencent qt.gtimg.cn + Sina hq.sinajs.cn, 2026-07-10): ¥14.55/share × 399,553,571 shares = **¥5.8135B**. In USD at the corrected rate: **$855-857M — still ~7% ($55M) over the corrected cap.** CNY-anchored compare (no FX assumption needed): ¥5.8135B vs ¥5.43B = +7.1% over — confirms the USD math independently. Today's session: +6.83% (¥13.62→¥14.55, same-session pop as Fire 56, no net-new move); 12mo -29.33% (Gate 1 clean). Intraday low ¥13.73 = ~$809M, still barely over cap even at the day's trough — break-even price to clear ≈ ¥13.58.
+
+No order-conversion disclosure found this fire (still "limited near-term contribution," R&D/small-batch only; Q1-2026 revenue -26.9% YoY, net profit ~breakeven). **Recommend updating the KB's frozen ¥5.74B threshold to ¥5.43B going forward.** Would need one more ~7% down-session, or a real order-conversion disclosure, to promote. Tightest-cadence recheck of any PENDING name.
