@@ -373,3 +373,15 @@ Shuanglin/Neuromeka/Valeo → KILL (Fire 6). Jiangsu Leili → WATCH (Fire 6) �
 
 ## Already-RAN (do not re-price often; kills)
 Harmonic Drive +148% · Nabtesco +127% · THK +81% · Hiwin +115% · Ouster +250% · Aeva +180% · Lumentum +138% · Coherent +107% · GE Vernova ~+200% · Vertiv +177% · Modine +167% · nVent +121% · TTM +307% · Amkor +240% · STM +127% · LSCC +194% · Lynas +159% · Taiyo Yuden +175% · Vicor +145% · Aixtron +334%
+
+## Fire 49 prices (2026-07-10, shortlist refresh + HSAI correction)
+| Ticker | Price/mkt cap | Note |
+|---|---|---|
+| HSAI | $16.40 (stockanalysis.com+MarketBeat, Jul 9 close), **CORRECTED true mkt cap ≈$2.6B (~6x sales)** — 157.14M ADS-equivalent × $16.40; supersedes the erroneous $20.6B figure used Fires 40/44/46/48 | 8x mkt-cap error found+fixed Fire 49, see kb/companies/HSAI.md |
+| 464080.KQ (SOS Lab) | ₩9,190 (kr.investing.com) / ₩9,230 (stockanalysis.com), mkt cap ₩159.19B (~$115M) | flat vs Fire 48, score now explicitly 5/8 |
+| 049070.KQ (Intops) | ₩18,190-18,230, mkt cap ~₩268.4B (~$194M) | 2nd consecutive unexplained ~7% intraday pop, no catalyst found — flag for next fire |
+| 2665.HK (Seyond Holdings) | HK$2.94-2.95 (etnet.com.hk + stockinvest.us) | unchanged; WebSearch/aggregator trap reconfirmed again (returned HK$9.94/10.90, ~3.5x wrong) |
+| 300217.SZ (Dongfang Electric Heating) | ¥4.41 (Tencent) / ¥4.29 (Investing.com), mkt cap ¥6.518B/~$905-918M | auto-WATCH trigger checked, NOT fired, trend reversed (+6.27%/+3.37% today) |
+| AIRG | $5.88-6.07 | unchanged, no pre-announcement, Aug 7-11 trigger stands |
+| MVIS | $0.3823-0.40, mkt cap ~$132.65M | AGM held today, Item 5.07 8-K pending ~Jul 13-16 |
+| LIDR (AEye) | $1.36, mkt cap ~$62.99M | unchanged |
