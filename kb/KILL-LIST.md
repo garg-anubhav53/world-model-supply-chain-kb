@@ -2,6 +2,22 @@
 Match on TICKER, CHINESE NAME, or ENGLISH ALIAS. If a match is found → already killed/parked, skip it.
 Rebuilt 2026-07-08 from all fires. Update by appending only.
 
+## Fire 69 additions (2026-07-11) — full reasoning in decisions-log.md, this is the dedup-index version
+XTEND (→NYSE "XTND" via JFB Construction Holdings SPAC, CIK 0002111860) — KILL Gate 1, price-gated (JFB already +100%+ off 52wk low on Feb-2026 deal news, ~$4.87 post 2:1 split) despite real named DoD/SOCOM+Israeli-MoD buyers. Newly-checked-and-parked this fire, add to dedup guard.
+Red Cat Holdings/Teal Drones (RCAT) — KILL Gate 2 (wrong-direction: Gauntlet II PRIME contractor, not a supplier into the program). Newly-checked-and-parked.
+珠城科技/Zhucheng Technology (301280.SZ) — KILL Gate 1+size (UBTECH exclusive connector supplier, real ¥800M/5yr contract, but +98% re-rated + mkt cap $0.8-1.1B over the $300M WATCH cap).
+아이엘/iL Corp (307180.KQ, Korea) — KILL (wrong-direction: itself the humanoid maker/seller, not a component supplier) + oversized (~$1.8-2.2B mkt cap).
+Hwashin Precision (126640.KQ) — RESOLVED KILL, removed from recheck-flag list (+204.71%/12m confirmed, never had a named buyer).
+TBI Motion, Excellence Optoelectronics/EOI (Taiwan) — KILL Gate 2, generic "entering humanoid supply chain" language, no named buyer.
+Ningbo Huaxiang(宁波华翔/002048.SZ), Lens Technology(蓝思科技/300433.SZ) — KILL size (AgiBot contract manufacturers, mega-cap).
+Joyson Electronics(均胜电子/600699.SH), Pengling Co(鹏翎股份/300375.SZ) — KILL Gate 2 (minority equity stakes in private 他山科技/Tashan Technology, not a supply relationship).
+日盈电子(603286.SH, self-denial), 奥迪威/Audiowell(vague/no named buyer), 福莱新材(order-uncertainty/no named buyer) — KILL Gate 2, fingertip-tactile-sensor sweep.
+**DEDUP CATCHES (already on this list, re-surfaced this fire, no new analysis needed next time):** 汉威科技/苏州能斯达(Hanwei/Nengsida, 300007.SZ, e-skin — already-tracked + already-re-rated) · Liquidmetal Technologies(LQMT, "developing humanoid components," still no named buyer) · 柯力传感/Keli Sensing(603662.SH, already KILLED Fire 16, capture-rate).
+**PRIVATE fingertip-tactile-sensor leaders (no ticker, IPO-watch only, add to universe/seed-map):** 他山科技/Tashan Technology · 帕西尼/PaXini Tech · 猿声科技/Yuansheng · 上海织识/Shanghai Zhishi · 坤维科技/Kunwei Technology (already tracked elsewhere).
+**Fingertip tactile-sensor arrays (distinct from body e-skin) — NEW SATURATED CATEGORY, structural: all tech leaders private, listed A-share names hold only minority equity stakes or are sample-stage. Do not re-run without a hard new trigger (an IPO from 他山科技/PaXini, or a listed investee disclosing direct component sales).**
+**Defense/drone-autonomy vertical — 6th consecutive idle-confirmation (Fires 11/23/34/45/57/69).** Neros Technologies still private/no S-1. Gauntlet II's only 2 public-market-adjacent finalists (RCAT, XTND/JFB) both fail hard gates (see above).
+**ImportYeti.com — BLOCKED this fire (site-wide 403/Cloudflare from this session's network egress), inconclusive not negative.** Contradicts the FRESH-ANGLES "confirmed works Fire 19" note — flag as environment/session-dependent; retry next fire, don't treat as a permanent dead-end yet.
+
 ## Fire 68 additions (2026-07-11) — full reasoning in decisions-log.md, this is the dedup-index version
 **TICKER CORRECTION (carried since Fire 60): 徕木股份/Laimu is 603633.SH, NOT 002745.SZ** — the 002745.SZ figure in the Fire-60 pipeline note and this file's Fire-60-era entries (below) was an error; the company's own dedicated dossier (companies/LAIMU.md, created Fire 31) has the correct ticker and a full KILL writeup (Gate 3 off by 1-2 orders of magnitude on any humanoid-content multiplication math, Gate 4 net loss -302% YoY FY2025). Resurfaced Fire 68 via a fresh AgiBot/Startdot-Era connector claim — DEDUP CATCH, already KILLED, no new analysis needed if it resurfaces again.
 Weimao Electronics/威贸电子 920346.BJ (DOWNGRADED Fire 68, PENDING→dead-end: Sept-2025 Shanghai Turing Zhizao Robotics MOU still unconverted 10 months on — no PO/revenue; Q1 2026 revenue -3.73% YoY, profit -13.76% YoY, core business now shrinking, not multiplying. Buyer itself is a general industrial-robot integrator, weak humanoid-pure-play fit.)
