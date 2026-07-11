@@ -1,4 +1,12 @@
 # Fujian Longxi Bearing (龙溪股份) — 600592.SH (Shanghai A-share)
+Updated 2026-07-11 (Fire 64) | Verdict: **STAYS PENDING, score 5/8. Gap unchanged +7.06% — no promotion.** | Track: **R**
+
+## Fire 64 — mandatory recheck (Opus), no promotion
+2-source (Tencent qt.gtimg.cn + Eastmoney push2delay), both agreeing: last price ¥14.55, prev close ¥13.62 — matches Fire 63 exactly (2026-07-11 is a Saturday, no new A-share session since Fire 63's Jul-10 read). Gap to the ¥13.59 trigger: **(14.55-13.59)/13.59 = +7.06%, unchanged.** Confirmed: did NOT close ≤¥13.59 on any day since Fire 63 (Jul-9 near-miss stayed at ¥13.62, never crossed). No LIVE PROMOTION. Stays PENDING 5/8. Next check: Monday 2026-07-13 close.
+Sources: qt.gtimg.cn, Eastmoney push2delay (both 2026-07-11 read of Jul-10 close).
+
+---
+
 Updated 2026-07-11 (Fire 63) | Verdict: **STAYS PENDING, score 5/8. No new session since Fire 62 (Jul 11 is Saturday) — reconfirmed via a 2nd independent derivation method, gap unchanged at +7.06%.** | Track: **R**
 
 ## Fire 63 — conviction-track recheck (Opus), independently re-derives the same Thursday near-miss
