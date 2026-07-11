@@ -1,4 +1,27 @@
 # MicroVision — MVIS (Nasdaq)
+Updated 2026-07-11 (Fire 63) | Verdict: **KILL (0/8) — REMOVE from shortlist/on-deck entirely. Thesis terminally invalidated by the 2026-07-10 AGM's shareholder-approved distress-financing stack.** | Track: **AV (autonomous mining/construction hauling lidar)**
+
+## Fire 63 — KILL (explicit decision, Opus conviction-track)
+The 2026-07-10 AGM (previously only a pending downgrade signal) **passed all 5 proposals**, including board authority for a **1-for-5 to 1-for-15 reverse split** and the **share issuance under the $43M senior secured convertible notes** (removing the 61,315,971-share conversion cap — dilution now uncapped). No acquirer/strategic buyer named anywhere in the AGM materials. This is the shareholder-level consummation of the full distress-financing signature the Fire 62 downgrade flagged.
+
+**4-gate re-score, all from scratch: 0/8.**
+1. Not re-rated/no distress signature — **0/2**: reverse split + voluntary Nasdaq downlisting + uncapped dilutive convertible + FY2025 revenue -74% YoY ($1.21M) = the textbook opposite of a clean setup.
+2. Causal link airtight — **0/2**: no buyer has ever been named across 63 fires; the AGM produced none.
+3. Revenue multiplies — **0/2**: no deal exists to multiply, and the $1.55M TTM base is *shrinking* 64-74%.
+4. Financially healthy — **0/2**: survival depends on the $43M dilutive convertible (conv. $0.8819 vs $0.38 spot) + a $42M ATM shelf + the reverse split itself.
+
+**Price/financials (stockanalysis.com, 2026-07-10 close):** $0.3838 (-4.05%), mkt cap ~$127M, 331.6M shares out (pre-split).
+
+**Note — this is a thesis-invalidation KILL, not a mechanical-trigger KILL:** the formal Item 5.07 vote-result 8-K had not yet posted on EDGAR as of this fire (due ~2026-07-16), and no formal delisting notice exists (MVIS instead transferred Nasdaq Global→Capital Market on 2026-06-12 seeking a 2nd 180-day cure period). The prior fire's two mechanical triggers ("delisting notice → escalate to KILL" / "named buyer → reopen on-deck") have technically not fired — this KILL is reached on the gates directly: a reverse split + uncapped dilutive convertible + voluntary downlisting + collapsing revenue is disqualifying on its own, independent of the delisting-notice question.
+
+**Adversarial bear (steelmanning the bull, then rebutting):** Bull says MVIS is cheap lidar optionality with automotive/Microsoft IP, $43M buys runway, and the reverse split cures the listing so it survives to a design-win or takeout. Rebuttal: zero named buyer ever, anywhere in this hunt; the $43M convertible is distress capital (underwater strike, stacked with an uncapped-now share issuance + $42M ATM — equity is the funding source, subordinated to dilution); revenue is $1.55M and falling, no base to multiply; a reverse split is a re-rating red flag, not a fundamentals cure.
+
+**Confirming (not thesis-reviving) checkpoints, logged for completeness only:** Item 5.07 8-K on EDGAR by ~2026-07-16; Nasdaq's decision on the 2nd 180-day period around 2026-07-13; reverse-split execution/ratio within 1 year. Only a genuinely NEW named strategic buyer could reopen this name — none exists as of this fire.
+
+**Sources:** themarketsdaily.com (2026-07-10, AGM results); marketbeat.com instant-alert (2026-07-10); StockTitan DEF 14A/PRE 14A ($43M notes, conv. $0.8819, cap removal); data.sec.gov/submissions/CIK0000065770.json (checked 2026-07-11, latest filing still 2026-07-07); stockanalysis.com/stocks/mvis (2026-07-10 close).
+
+---
+
 Updated 2026-07-11 (Fire 62) | Verdict: **DOWNGRADE — off on-deck/1-gate-from-WATCH standing, down to low-conviction. NOT a KILL (no delisting notice, actively curing), NOT a promotion (still no named buyer). Jul-13 cure deadline resolves Monday.** | Track: **AV (autonomous mining/construction hauling lidar)**
 
 ## Fire 62 — DOWNGRADE (decision move, Opus)

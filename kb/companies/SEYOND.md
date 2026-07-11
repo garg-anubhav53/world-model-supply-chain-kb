@@ -1,4 +1,23 @@
 # Seyond Holdings — 2665.HK
+Updated 2026-07-11 (Fire 63) | Verdict: **ADVERSARIAL VERIFICATION PASS — score HOLDS 7/8, no independent confirmation OR contradiction found on the +117% figure; one genuine new bear-sharpening datapoint surfaced.** | Track: **AV (China LiDAR)**
+
+## Fire 63 — adversarial verification deep-dive (Opus) on the single load-bearing data point
+Targeted, hard attempt to independently verify or refute the "+117% YoY Q1 2026 revenue" figure that the entire further-upgrade case rests on. **Result: could not move the needle in either direction at the revenue level — genuinely still unconfirmed, not merely "not yet re-checked."**
+
+**Provenance clarified:** the +117%/~$55M figure traces to the company's own **2025 annual-results announcement** (2026-03-31/04-01), not the separate April 9 shipment-only voluntary announcement (which explicitly cautioned volumes "do not directly represent revenue"). Two distinct disclosures were previously being conflated.
+
+**No independent corroboration exists, and none is currently possible.** Simply Wall St confirms Seyond has **zero analyst coverage** — there is no independent estimate to check the preliminary figure against. Every financial-media mention found is a re-print of the company's own number. No profit alert/profit warning has been filed since the annual results (only routine share-buyback disclosures, June 9-10). The H1 2026 interim (due by 2026-08-31) remains unfiled — genuinely the only venue where this resolves.
+
+**Indirect corroboration (independently HKEX-filed, not fabricated) — plus one materially new datapoint:** Q1 2026 shipments ~181,400 units/+340% YoY (already known) and **NEW: Q2 2026 shipments ~271,100 units/+385% YoY/+49% QoQ, filed 2026-07-07 (4 days before this fire)** — Robin/灵雀 +3,209% YoY, now the dominant mix driver. No Q2 revenue figure disclosed. Directionally supportive (+117% revenue is conservative vs +340% volume) but doesn't resolve the ASP question.
+
+**Genuine NEW red flag — should cap, not raise, conviction on the precise number:** Seyond's own FY2025 record already showed shipments +44.6% while **revenue FELL 3.4%** — Chinese press explicitly labeled it "增量不增收" (volume up, revenue not up), driven by ASP collapse as the cheap 905nm Robin line scaled ~10x. Q1/Q2 2026's mix is even MORE skewed toward ultra-cheap Robin than FY2025 was, implying a further blended-ASP compression (~$600s → ~$300s/unit estimated). **This makes the precise +117% figure plausible but not mechanically guaranteed by the volume jump — it could land lower once ASP/mix is actually booked.** Gross margin was only 7.9% in FY2025 (vs Hesai's ~41.8%), so even a revenue beat wouldn't imply a profitability inflection.
+
+**Verdict: 7/8 score HOLDS — this was a verification exercise, not a re-derivation, and it correctly did not move the score absent new evidence.** The bear case is sharper (ASP/mix risk is now explicitly evidenced by Seyond's own FY2025 precedent, not just flagged as a generic risk), but nothing here rebuts the existing thesis either. Binding gate unchanged: H1 2026 interim (~late Aug 2026, no date set).
+
+**Sources:** huxiu.com/article/4847062.html (2026-04-01, provenance of the +117% guidance); cn.investing.com/news/stock-market-news/article-3302943 + finet.com.cn (2026-04-09 shipment-only announcement); simplywall.st/stocks/hk/automobiles/hkg-2665 (zero analyst coverage); ithome.com/0/973/382.htm + gasgoo.com (2026-07-07, Q2 shipment filing); QQ/huxiu (2026-04-12, "增量不增收" FY2025 ASP-collapse coverage).
+
+---
+
 Updated 2026-07-11 (Fire 62) | Verdict: **STALENESS-GUARD RE-DERIVATION — score CONFIRMED 7/8, verdict UNCHANGED (genuine re-derivation, 6 fires since Fire 56 — the longest-stale name on the shortlist)** | Track: **AV (China LiDAR)**
 
 ## Fire 62 — full re-derivation (Opus), longest-tenured unchanged shortlist name, staleness-guard requirement

@@ -1,4 +1,27 @@
 # Intops Co Ltd — 049070 (KOSDAQ)
+Updated 2026-07-11 (Fire 63, staleness-guard full re-derivation — 10 fires since the last genuine full re-derivation, longest-stale shortlist name) | Verdict: **UPGRADE 4/8 → 5/8 (conservative; O1 also defends 6/8 on a generous read) — moves into the top-5 shortlist ahead of SOS Lab. STAYS WATCH.** | Track: **R**
+
+## Fire 63 — full staleness-guard re-derivation (Opus), genuinely re-pulled from scratch
+**Gate 1 (not re-rated): PASS (2/2).** 2-source (stockanalysis.com + investing.com, 2026-07-10): ₩18,110, mkt cap ₩286.75B, 1-yr change +9.5-10.8% — well below the 60% reject threshold, ~27% below the 52wk high (₩24,950). Unchanged from Fire 61.
+
+**Gate 2 (causal link): PARTIAL (1/2), reframed sharper.** Bear Robotics/LG relationship reconfirmed as a genuinely **exclusive OEM contract, actually in serial production** (Servi/Servi Plus) — this is airtight, not inferred. Samsung Bot Fit remains on-thesis but NOT dated/binding — still "standby," no volume disclosure. Net: one airtight leg (Bear/LG), one real-but-undated leg (Samsung) — same overall shape as Fire 61, scored consistently.
+
+**Gate 3 (multiplies): WEAK, still the binding constraint (1/2, strict read 0/2).** Independently re-derived, not copied: robot-EMS remains a small sliver of a ¥590.8B diversified FY2025 base (phone components, auto parts, appliances, medical, cosmetics cases). Bear Robotics OEM revenue described as "수백억"/tens of billions KRW — plausible math (5,000-10,000 units/yr × ~20M KRW/unit × ~30% Intops take ≈ ¥29-50B) still lands under ~10% of total revenue. **This is the gate that has NOT improved** — flagging honestly rather than inflating the upgrade.
+
+**Gate 4 (financially healthy): PASS (2/2), reassessed stronger than recent fires' 1/2 reads.** Net cash ~₩239.3B (2024 YE) ≈ **83% of the entire market cap**, debt ratio ~15.7%, positive net income every year (FY23 +27.7B, FY24 +21.5B, FY25 +16.2B — even in the FY2025 operating-loss year, driven by interest/investment income). Q1 2026 operating profit turned positive again (+₩6.4B, IT-device segment profitable for the first time in 5 quarters). FCF negative in 2024/2025 is growth capex (dedicated Gumi robot line) + investments (Perige Aerospace pre-IPO stake), trivially covered by the net-cash pile — not distress.
+
+**Score: 2+1+1+2 = 6/8 generous / 2+1+0+2 = 5/8 conservative. Recording 5/8 as the working score** (the strict Gate-3 read is more consistent with how this KB scores "small sliver of a diversified base" elsewhere) — **this is a genuine, defensible UPGRADE from 4/8, driven by a stronger Gate-4 read (fortress balance sheet) and a sharper Gate-2 characterization (Bear/LG confirmed exclusive+in-production), not by any change in the weak Gate-3.** Moves Intops ahead of SOS Lab (4/8) into the #3 shortlist slot.
+
+**Adversarial bear (fresh, not restated):** strip the robot glamour and this is a low-growth, low-margin Samsung captive EMS/plastics shop that just posted a full-year operating loss, whose core phone-component business has been shrinking for 3 years. The robot story, after 2+ years of hype, remains an immaterial sliver of a diversified base, and the marquee Bot Fit catalyst has missed multiple windows with no dated path. Bear/LG's "exclusive" contract is a contract-manufacturer's pitch — LG *owns* Bear Robotics outright and could in-source assembly once volume justifies it; Samsung could dual-source Bot Fit at scale. The bull case is "cheap + net cash + real-but-small robot optionality," which is a value thesis wearing a robotics costume, not yet a forced-spend revenue multiplier.
+
+**Note on the Bear Robotics/ImportYeti angle (dedup, not new):** this fire's ImportYeti scout independently re-pulled Bear Robotics' customs data and found 47-of-56 shipments to Intops — this is the SAME fact already on file since Fire 46 (re-derived 4x since), not a new discovery. Flagging explicitly because the orchestrator's scout brief was drafted from a stale "Fire 45 OPEN THREAD" note in KILL-LIST.md that had never been marked resolved — see this fire's KILL-LIST.md/FRESH-ANGLES.md updates, which correct that stale entry. Independent re-confirmation of the underlying customs data is still useful (matches exactly: 47/56, 84%) but should not be reported as new in any future fire.
+
+**One specific, checkable trigger for next touch:** DART H1 2026 semi-annual report (반기보고서), due ~2026-08-14 — check specifically for a "단일판매·공급계약체결" (single supply-contract) disclosure naming Samsung/Bot Fit or Bear Robotics with a stated value, or a discrete robot-revenue line. Either would flip Gate 3 from "distant optionality" toward "dated ramp" and justify a further upgrade. A silent slip past the August report (no disclosure, no revenue line) argues for reverting toward 4/8.
+
+**Sources:** stockanalysis.com/quote/kosdaq/049070 + investing.com/equities/intops-co-ltd (2026-07-10); Korean finance aggregators + LS Securities note (2026-05-19) for financials cross-check; ImportYeti.com/company/bear-robotics-inc via r.jina.ai (2026-07-11, dedup-reconfirm of the Fire-46 figure).
+
+---
+
 Updated 2026-07-11 (Fire 61, full staleness-guard re-derivation — longest-stale shortlist name, 8 fires since Fire 53) | Verdict: **STAYS WATCH, score HOLDS 4/8 — genuine CONFIRMATION, not a correction. 2 data fixes + 1 catalyst rotation.** | Track: **R**
 
 ## Fire 61 — full staleness-guard re-derivation (Opus), genuinely re-pulled from scratch

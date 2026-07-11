@@ -1,4 +1,17 @@
 # Fujian Longxi Bearing (龙溪股份) — 600592.SH (Shanghai A-share)
+Updated 2026-07-11 (Fire 63) | Verdict: **STAYS PENDING, score 5/8. No new session since Fire 62 (Jul 11 is Saturday) — reconfirmed via a 2nd independent derivation method, gap unchanged at +7.06%.** | Track: **R**
+
+## Fire 63 — conviction-track recheck (Opus), independently re-derives the same Thursday near-miss
+2-source Jul-10 close, both agreeing exactly: Tencent qt.gtimg.cn (¥14.55, ts 20260710161454) and 股票复盘网/fupanwang.com (¥14.55, +6.83%, upd. 2026-07-10 15:13). Gap to the ¥13.59 trigger: **+7.06%, unchanged from Fire 62.** No promotion — trigger not met.
+
+**Independently-derived new observation (via a different method than Fire 61's direct kline pull):** fupanwang's stated +6.83% day-change on ¥14.55 back-solves to a **Thursday (Jul 9) close of ≈¥13.62** — matching Fire 61's directly-sourced ¥13.62 exactly, now cross-confirmed via a second, independent calculation path. The stock came within **~0.2%** of the ¥13.59 trigger intraweek before Friday's rally pushed it back to +7.06%. The trigger is genuinely live, not a distant target — a single ~7% down-day flips it to WATCH.
+
+**Verdict: PENDING holds, score 5/8. Next check: Monday 2026-07-13 close (2-source).**
+
+Sources: qt.gtimg.cn/q=sh600592 (ts 20260710161454); 600592.fupanwang.com (upd. 2026-07-10 15:13, +6.83%).
+
+---
+
 Updated 2026-07-11 (Fire 62) | Verdict: **STAYS PENDING, score 5/8. Gap widened to +7.1% (¥14.55 vs ¥13.59 trigger) — trend rising AWAY from the trigger after the insider-buy-fueled bounce.** | Track: **R**
 
 ## Fire 62 — recheck (Opus), 2-source confirmed
