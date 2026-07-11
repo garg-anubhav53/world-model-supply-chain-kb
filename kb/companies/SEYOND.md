@@ -1,5 +1,22 @@
 # Seyond Holdings — 2665.HK
-Updated 2026-07-11 (Fire 63) | Verdict: **ADVERSARIAL VERIFICATION PASS — score HOLDS 7/8, no independent confirmation OR contradiction found on the +117% figure; one genuine new bear-sharpening datapoint surfaced.** | Track: **AV (China LiDAR)**
+Updated 2026-07-11 (Fire 66) | Verdict: **STALENESS-GUARD FULL RE-DERIVATION — HOLD, score CONFIRMED 7/8, no gate moved.** #1 shortlist, unchanged. | Track: **AV (China LiDAR)**
+
+## Fire 66 — from-scratch staleness-guard re-derivation (Opus), longest-tenured unchanged shortlist name (3 fires since Fire 63)
+2-source price: stockanalysis.com HK$2.960 (mkt cap HK$3.85B) / marketscreener.com HK$2.960 (~$491M USD, YTD -70.92%) — both 2026-07-10 close (HK market closed Sat 07-11). Sitting ~2% above the all-time/52wk low (HK$2.90); ~84% below the HK$17.88 post-listing peak; still below its HK$10 De-SPAC listing price despite +385% Q2 shipment growth. TradingView/generic-search bogus-price trap reproduced a 6th time (false HK$10.90/$14.16B) — rejected.
+
+**Gate 2 (causal link):** re-verified against Seyond's own FY2025 results PR + Q2 shipment filing (CnEVPost, 2026-07-07) — customer base intact and broad (NIO/Onvo core, SAIC-VW, GAC, Foton, Shaanxi Heavy Duty, Leapmotor, Pony.ai, PlusAI, DeepWay, Inceptio, Zelos, UISEE, KUSA, Aventi). **No genuinely new named-buyer win since Fire 63** — the CES-2026 Hummingbird D1 solid-state "design win" remains UNNAMED (already logged Fire 56). Causal chain now ~4 fires without a fresh datapoint.
+
+**Gate 3 (revenue multiplies):** H1 2026 interim **still unfiled** (due by 2026-08-31, no board-meeting notice yet). **New bear-sharpening finding:** the load-bearing +117% Q1 2026 revenue figure does not appear in Seyond's own promotional results PR — it's buried on p.21 of the full annual report, preliminary/unaudited, zero analyst coverage exists to check it (Simply Wall St confirmed). Q2's shipment mix is even MORE Robin-skewed (71% of volume, +3,209% YoY) than FY2025's — the exact mix that produced FY2025's "增量不增收" (units +44.6%, revenue -3.4%) ASP collapse. Volume multiplication is real and accelerating (H1 2026 already exceeds all of FY2025); dollar multiplication remains directionally supported but not mechanically guaranteed. Asterisk retained, if anything sharpened.
+
+**Gate 4 (financial health):** unchanged from audited FY2025 (Deloitte, unqualified) — cash $105.87M (+146% YoY) + $13.6M restricted + $64.7M undrawn facilities, positive equity $45.2M, going-concern clean. Binding constraint persists: operating burn $70.1M/yr (rising), gross margin thin at 7.9%, all $65.4M borrowings CURRENT (roll/refinancing risk). Runway ~1.5yr.
+
+**Adversarial bear case:** Seyond is a distant #3 (~15.8% China ADAS-LiDAR share vs Hesai ~35%/Huawei ~30.5%) selling a commodifying SKU into a price war it's losing on ASP, and the market has voted — all-time low, below its own SPAC listing price, even after +385% shipment growth. The entire further-upgrade case rests on one preliminary, unaudited, uncorroborated self-reported figure so under-owned it isn't even in the company's own promotional PR. Q2's mix is even more Robin-skewed than the FY2025 period that produced a revenue *decline* on unit growth. Rising $70M/yr burn funded entirely by short-term debt it must roll; NIO remains the load-bearing demand pillar; Hesai's suit targets the now-71%-of-volume Robin/E1X line; no new named OEM in 4 fires.
+
+**Score: 7/8 unchanged (Gate1 2/2, Gate2 2/2, Gate3 2/2*, Gate4 1/2). VERDICT: HOLD — genuine ground-up re-verification, no gate moved, no new fact justifies UPGRADE or DOWNGRADE.** Next binding-gate checkpoint: **H1 2026 interim, due by 2026-08-31.** Flips BUY if H1 confirms +100%+ *audited* dollar revenue reacceleration + margin ≥8% + burn moderates/debt partly refinanced non-current. Flips KILL if dollar revenue fails to inflect, margin re-breaks toward zero, going-concern/covenant issue, adverse Hesai ruling on Robin/E1X, or a NIO stake sale confirms.
+
+**Sources:** stockanalysis.com/quote/hkg/2665 + marketscreener.com (price 2-source, 2026-07-10); seyond.com/globenewswire FY2025 annual-report PR (2026-03-31); cnevpost.com (Q2 shipments, 2026-07-07); HKEXnews title search (no new filings since 07-07); simplywall.st (zero analyst coverage, reconfirmed).
+
+---
 
 ## Fire 63 — adversarial verification deep-dive (Opus) on the single load-bearing data point
 Targeted, hard attempt to independently verify or refute the "+117% YoY Q1 2026 revenue" figure that the entire further-upgrade case rests on. **Result: could not move the needle in either direction at the revenue level — genuinely still unconfirmed, not merely "not yet re-checked."**

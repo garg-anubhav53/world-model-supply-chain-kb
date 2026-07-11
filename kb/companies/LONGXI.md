@@ -1,5 +1,11 @@
 # Fujian Longxi Bearing (龙溪股份) — 600592.SH (Shanghai A-share)
-Updated 2026-07-11 (Fire 64) | Verdict: **STAYS PENDING, score 5/8. Gap unchanged +7.06% — no promotion.** | Track: **R**
+Updated 2026-07-11 (Fire 66) | Verdict: **STAYS PENDING, score 5/8. Closest-ever approach to the flip trigger this fire — no promotion (no close ≤¥13.59).** | Track: **R**
+
+## Fire 66 — mandatory recheck (Opus): closest-ever approach, still no close at/below trigger
+2-source (Tencent `qt.gtimg.cn` + Sina `hq.sinajs.cn`, both agreeing): last close ¥14.55 (2026-07-10), gap to the ¥13.59 trigger **+7.06%, unchanged from Fire 65's headline number**. But the full daily-close series since Fire 65 (Sina kline) shows the **tightest approach yet**: 2026-07-09 closed ¥13.62 (just ¥0.03/0.22% above the ¥13.59 trigger) with an **intraday low of ¥13.18 — the first intraday BREACH of the trigger recorded in this KB's history** — before a same-day/next-day rally pushed the close back up through ¥14.55-16.12 over the following two weeks. The daily-CLOSE trigger definition (not intraday) means this did NOT fire, but the name is trading materially closer to the flip than the flat "+7.06%" headline number implies on its own. **Recheck priority stays highest in the KB — check every fire without exception, and watch specifically for any close (not just intraday touch) at or below ¥13.59.**
+Sources: qt.gtimg.cn + hq.sinajs.cn (2-source close, 2026-07-10); Sina kline (daily-close series since Fire 65, 2026-07-11).
+
+---
 
 ## Fire 64 — mandatory recheck (Opus), no promotion
 2-source (Tencent qt.gtimg.cn + Eastmoney push2delay), both agreeing: last price ¥14.55, prev close ¥13.62 — matches Fire 63 exactly (2026-07-11 is a Saturday, no new A-share session since Fire 63's Jul-10 read). Gap to the ¥13.59 trigger: **(14.55-13.59)/13.59 = +7.06%, unchanged.** Confirmed: did NOT close ≤¥13.59 on any day since Fire 63 (Jul-9 near-miss stayed at ¥13.62, never crossed). No LIVE PROMOTION. Stays PENDING 5/8. Next check: Monday 2026-07-13 close.
