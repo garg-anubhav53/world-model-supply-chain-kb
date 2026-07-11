@@ -1,4 +1,18 @@
 # Fujian Longxi Bearing (龙溪股份) — 600592.SH (Shanghai A-share)
+Updated 2026-07-11 (Fire 61, decisive flip-trigger check) | Verdict: **TRIGGER NOT FIRED — stays PENDING, score 5/8. Tightest-ever miss: closed ¥13.62 on Jul 9, just ¥0.03 (0.22%) above the ¥13.59 trigger, before a rally pushed it back to ¥14.55.** | Track: **R**
+
+## Fire 61 — decisive, dated flip-trigger resolution (Opus)
+2-source daily closes (Tencent qt.gtimg.cn/web.ifzq.gtimg.cn kline + Sina money.finance.sina.com.cn kline, identical to the fen): Jul 3 ¥16.12 (humanoid-rally spike) → Jul 6 ¥15.08 → Jul 7 ¥14.46 → Jul 8 ¥13.79 → **Jul 9 ¥13.62 (closest-ever, missed the ¥13.59 trigger by ¥0.03/0.22%)** → **Jul 10 ¥14.55 (+6.83%, current)**. **No daily close has been ≤¥13.59 — trigger NOT fired.** Current gap from the Jul 10 close: 6.6%. (Intraday lows did breach the line — Jul 9 low ¥13.18 — but the KB's trigger is explicitly close-based.)
+
+Market cap reconfirmed: at ¥14.55, ¥5.813B (~$855-858M at 6.78-6.80 FX); at the ¥13.59 trigger price, exactly ¥5.43B/~$800M — reconciles the KB's own threshold arithmetic.
+
+**New context:** a 2026-07-09 insider-buy filing (6 directors/execs incl. Chairman Chen Jinhui, 67,400 shares/¥909,372, avg ≈¥13.49 — bought right at the lows) explains the Jul 10 rebound. AgiBot relationship intact (Excellent Partner Award, effectively-exclusive wrist/ankle joint content ~¥8k/robot); company continues to caveat R&D/small-batch-sampling stage. Q1 2026 core joint-bearing revenue +11.09% YoY.
+
+**Verdict: score HOLDS 5/8, stays PENDING.** Trigger unchanged: promote to WATCH on any daily close ≤¥13.59/share. Given this was the tightest-ever miss (0.22%), recommend checking every fire without exception.
+
+Sources: qt.gtimg.cn, web.ifzq.gtimg.cn, money.finance.sina.com.cn (kline APIs, 2-source identical), hq.sinajs.cn/v_sh600592 real-time quote (2026-07-10 print), Sina/STCN/Sohu (2026-07-09 insider-buy filing).
+
+---
 Updated 2026-07-11 (Fire 58, tight recheck) | Verdict: **STAYS PENDING — pushed FURTHER over cap by Friday's humanoid-sector rally. Now ~7.0% over (was sitting essentially AT the corrected cap as recently as 2026-07-09).** | Track: **R**
 
 ## Fire 58 update — Friday rally widened the gap, not closed it

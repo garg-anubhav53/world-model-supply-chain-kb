@@ -1,4 +1,24 @@
 # Intops Co Ltd — 049070 (KOSDAQ)
+Updated 2026-07-11 (Fire 61, full staleness-guard re-derivation — longest-stale shortlist name, 8 fires since Fire 53) | Verdict: **STAYS WATCH, score HOLDS 4/8 — genuine CONFIRMATION, not a correction. 2 data fixes + 1 catalyst rotation.** | Track: **R**
+
+## Fire 61 — full staleness-guard re-derivation (Opus), genuinely re-pulled from scratch
+**Gate 1 (not re-rated): PASS.** 2-source (stockanalysis.com + Investing.com, both 2026-07-10): ₩18,110, mkt cap ₩286.75B, 1-yr change **+10.8-10.97%** — well below the +60% re-rating threshold, and ~27% below the 52-wk high (₩24,950). Asymmetry entry intact.
+
+**Gate 2 (causal link): PARTIAL, unchanged in substance.** Bear Robotics exclusivity still current (no 2026 news of a supplier change). **New concrete threat:** LG's CEO-direct Robotics Business Center (live 2026-07-01) unveiled its own actuator brand "LG Actuator AXIOM" + a Changwon pilot line, aimed first at LG's own robots — a real insourcing risk to the Bear moat, though no disclosed transfer of Servi/Servi Plus assembly away from Intops yet. **New positives:** Hyundai/Kia X-ble Shoulder now in **actual mass production** (May 2026, not just MOU) + a new WIRobotics wearable-robot MOU — the EMS platform is broadening to multiple named OEMs, not a single Bear/Bot-Fit bet.
+
+**Gate 3 (multiplies): FAIL, still binding.** No fresh materiality breakout in Q1 2026 filings — robot-EMS % of revenue remains unquantified, ~4-5% working estimate unchanged. **DATA CORRECTION:** the KB's carried "Q1 2026 revenue +14.8% YoY" figure is WRONG — actual Q1 2026 revenue was essentially **flat, ~+0.9% YoY** (₩163.1B); the real Q1 story was a **profit turnaround** (op profit ₩0.3B→₩6.4B, net ₩2.7B→₩11.8B) driven by legacy Samsung-smartphone-parts yield normalization in Vietnam, NOT robotics. Correct this figure everywhere it's carried in DIGEST/STATE.
+
+**Gate 4 (financially healthy): PASS.** ₩30.5B shareholder-return program (₩17.6B treasury cancellation + ₩13.0B buyback), P/E ~13, low PBR, profit turnaround. Governance noise (2026-06-18 CEO transition amid a succession/EB-call-option controversy) but not a red flag.
+
+**Catalyst rotation — the marquee Bot Fit catalyst DETERIORATED:** Korean industry press (Infostock Daily, updated 2026-03-24) now describes Samsung Bot Fit B2C as **"사실상 좌초"/"effectively foundering"** — stuck in B2B rehab-center trials over control-system errors, no clear 2026 path. This directly impairs the binding catalyst tied to the H1 2026 report. **Partial offset:** Hyundai X-ble Shoulder mass production + WIRobotics prove the EMS platform is a repeatable capability, not a one-customer bet — this roughly nets out against the Bot Fit deterioration, landing back at 4/8.
+
+**Score: 4/8 (re-derived, not copied). Verdict: HOLD at WATCH — genuine CONFIRMATION**, not inflated into false drama. Same conclusion reached fully from scratch.
+
+**Carry-forward trigger for next re-derivation (H1 2026 report, DART, expected ~mid-August 2026):** (1) does Intops break out a robotics/robot-EMS revenue line or file a single-supply-contract disclosure above ~5% of revenue → materiality clears → UPGRADE. (2) if robot-EMS stays <5% of revenue AND LG is confirmed moving Bear Robotics assembly in-house/to another EMS → DOWNGRADE toward KILL. (3) if Samsung formally shelves Bot Fit B2C, strike it from the catalyst stack (Hyundai X-ble Shoulder + WIRobotics remain live).
+
+**Sources:** stockanalysis.com/quote/kosdaq/049070 + investing.com/equities/intops-co-ltd (2026-07-10); finance-scope 2025-12-29 & MTN 2026-01-19 (Bear Robotics exclusivity); irobotnews/Sedaily/EBN (LG Robotics Business Center, AXIOM, eff. 2026-07-01); alphabiz (Q1 2026 report, ~70% Samsung mix); Infostock Daily 2025-09-19/upd. 2026-03-24 (Bot Fit "foundering"); Newsprime/Daum (Hyundai X-ble Shoulder mass production, May 2026 + WIRobotics MOU); Asiae 2026-06-30 + etnews/Hankyung 2026-06-18 (buyback/cancellation + CEO transition).
+
+---
 Updated 2026-07-10 (Fire 53, full staleness-guard re-derivation) | Verdict: **STAYS WATCH, score HOLDS 4/8 — existing framing CONFIRMED from scratch, not overturned. Binding gate re-confirmed, sharpened.** | Track: **R**
 
 ## Fire 53 — full staleness-guard re-derivation (Opus): the longest-stale shortlist name (5 fires since Fire 47) re-derived from primary sources
