@@ -1,4 +1,13 @@
 # Huayi Technology (华依科技) — 688071.SH (Shanghai STAR Market)
+Updated 2026-07-11 (Fire 62) | Verdict: **HOLD, score unchanged 3/8 — genuine evidence upgrade (MOU→confirmed batch supply), offset by weak fundamentals; binding gate remains the H1 2026 report** | Track: **R**
+
+## Fire 62 — light-monitor pass (Opus), evidence upgrade, no score change
+Q2/H1 2026 report NOT yet filed (半年报 due by 2026-08-31 per SSE STAR Market rules; no preliminary release). **New, dated (2026-07-05/06, STCN/163/CITNews): a confirmed BATCH/VOLUME supply agreement with 觅蜂科技/MeGo Technology** — advancing the Fire-60 "MOU-adjacent" finding to a confirmed deal. MeGo is incubated and controlled by Zhiyuan/AgiBot (chaired by Zhiyuan partner/SVP 姚卯青); Huayi's self-developed motion-capture IMU will be fully integrated across the entire MEgo product line (Gripper UMI claw, View head-mounted terminal, teleoperation data-collection workstations); MeGo targets ~10M data-collection hours in 2026. No order-value/materiality figure disclosed. Context: FY2025 net loss WIDENED to -¥61.65M (from -¥46.74M) per the annual report (filed ~Apr 2026), but **Q1 2026 swung marginally positive** (+¥1.35M net profit, -54% YoY, on ¥157M revenue +10.6%) — loss-narrowing intra-year, not widening, ahead of the actual H1 test. Also newly noted: Huayi filed an HK H-share IPO application 2026-02-24.
+**Verdict: HOLD, score holds 3/8** — the Zhiyuan-axis relationship genuinely improved (unquantified MOU → confirmed batch supply into a Zhiyuan-controlled subsidiary), a modest positive, but offset by still-weak fundamentals and unquantified materiality. Binding KILL gate unchanged: **converts to KILL only if H1 2026 losses widen further** — Q1's marginal profit is a mildly favorable early read.
+Sources: STCN/163/CITNews (2026-07-05/06, MeGo batch-supply deal); Huayi FY2025 annual report (~Apr 2026); Q1 2026 filing.
+
+---
+
 Created 2026-07-10 (Fire 50) | Verdict: **NEW WATCH (weak), score 3/8 — named Zhiyuan/AgiBot IMU supplier, not re-rated, small base, but GATE 4 (financial health) explicitly weak** | Track: **R**
 
 **Discovery:** surfaced INDEPENDENTLY by two parallel scouts this fire (cursor scout working the positioning/timing node, and the Chinese trade-press scout) — convergent discovery from different search angles is itself a mild confidence signal. A third scout (China A-share 互动易 sweep) also found it and recommended KILL on gate 4 alone; the orchestrator's synthesis below treats gate 4 as a caution flag, not an automatic kill, per KB precedent (Intops was carried at WATCH through 5 consecutive loss quarters on a real causal story).

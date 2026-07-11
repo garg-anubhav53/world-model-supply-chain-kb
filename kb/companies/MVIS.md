@@ -1,5 +1,13 @@
 # MicroVision — MVIS (Nasdaq)
-Updated 2026-07-11 (Fire 58, on-deck push) | Verdict: **PENDING/on-deck — gate does not flip. Nasdaq Capital Market transfer deadline (Jul 13) still UNRESOLVED as of this fire (2 days out); resolves only Monday. Distress trending toward resolution, not toward KILL — reverse split now board-authorized.** | Track: **AV (autonomous mining/construction hauling lidar)**
+Updated 2026-07-11 (Fire 62) | Verdict: **DOWNGRADE — off on-deck/1-gate-from-WATCH standing, down to low-conviction. NOT a KILL (no delisting notice, actively curing), NOT a promotion (still no named buyer). Jul-13 cure deadline resolves Monday.** | Track: **AV (autonomous mining/construction hauling lidar)**
+
+## Fire 62 — DOWNGRADE (decision move, Opus)
+EDGAR CIK 0000065770 direct pull: most recent 8-K 2026-07-07 + same-day DEFA14A; **nothing filed 07-09/10/11.** Annual meeting held 2026-07-10 — shareholders approved ALL proposals: (a) board-discretion reverse split 1-for-5 to 1-for-15 (ratio/timing not yet set, NOT executed), (b) share issuance under the $43M senior secured convertible notes (issued 2026-02-23), (c) authorized-share reduction 510M→150M. Nasdaq Capital Market transfer (applied 06-12) still NOT confirmed effective. No delisting notice filed. No named buyer/strategic partner — still unnamed after 62 fires.
+**Verdict rationale:** the delisting binary is resolving toward "survives, but via dilution," not "cured on fundamentals" — a reverse split stacked with a $43M convertible-note share issuance and a voluntary downlisting to a lower Nasdaq tier is textbook distressed-microcap self-financing, and it directly *contradicts* the "imminent strategic buyer" framing that was the sole basis for the on-deck/1-gate-from-WATCH standing. **DOWNGRADE off on-deck to low-conviction** — explicitly not a KILL (company is actively curing, no delisting event) and explicitly not a promotion (no named buyer).
+Next check (2026-07-13, Monday): (i) 8-K executing the reverse split; (ii) Nasdaq decision on the Capital Market transfer/180-day extension; (iii) any delisting notice — if issued, escalate DOWNGRADE→KILL; (iv) Item 5.07 AGM vote-tally 8-K (due within 4 business days of 07-10).
+Sources: data.sec.gov/submissions/CIK0000065770.json (2026-07-11); themarketsdaily.com (2026-07-10, AGM results).
+
+---
 
 ## Fire 58 update — deadline still pending (market closed for the weekend), one new de-risking datapoint
 - **EDGAR direct check (CIK 0000065770):** most recent 8-K still dated 2026-07-07 — nothing filed since. No Nasdaq Capital Market transfer-effective 8-K, no Item 3.01 delisting notice, no Item 5.07 AGM vote-results 8-K yet. The Jul 13 deadline resolves only Monday (today is Saturday, markets/EDGAR closed).

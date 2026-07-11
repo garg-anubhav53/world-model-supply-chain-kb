@@ -1,5 +1,11 @@
 # Fujian Longxi Bearing (龙溪股份) — 600592.SH (Shanghai A-share)
-Updated 2026-07-11 (Fire 61, decisive flip-trigger check) | Verdict: **TRIGGER NOT FIRED — stays PENDING, score 5/8. Tightest-ever miss: closed ¥13.62 on Jul 9, just ¥0.03 (0.22%) above the ¥13.59 trigger, before a rally pushed it back to ¥14.55.** | Track: **R**
+Updated 2026-07-11 (Fire 62) | Verdict: **STAYS PENDING, score 5/8. Gap widened to +7.1% (¥14.55 vs ¥13.59 trigger) — trend rising AWAY from the trigger after the insider-buy-fueled bounce.** | Track: **R**
+
+## Fire 62 — recheck (Opus), 2-source confirmed
+Two independent sources for the 2026-07-10 close (only session since Fire 61's Jul-9 near-miss; Jul-11 is Saturday): fupanwang.com (close ¥14.55, prev ¥13.62, +6.83%) and cfi.cn (close ¥14.55, +6.83%, ¥359.91M turnover) — both agree exactly, matching Fire 61's numbers. **No qualifying close (≤¥13.59) has occurred.** Gap to trigger: (14.55−13.59)/13.59 = **+7.06%**, trend rising/moving away after the Jul-9 insider-buy-fueled bounce off ¥13.62. **Verdict: STAYS PENDING, score holds 5/8.** No promotion this fire. Check every fire without exception per standing instruction — next check Mon 2026-07-13 close.
+Sources: 600592.fupanwang.com, quote.cfi.cn/quote1300_600592.html (both 2026-07-10 close).
+
+---
 
 ## Fire 61 — decisive, dated flip-trigger resolution (Opus)
 2-source daily closes (Tencent qt.gtimg.cn/web.ifzq.gtimg.cn kline + Sina money.finance.sina.com.cn kline, identical to the fen): Jul 3 ¥16.12 (humanoid-rally spike) → Jul 6 ¥15.08 → Jul 7 ¥14.46 → Jul 8 ¥13.79 → **Jul 9 ¥13.62 (closest-ever, missed the ¥13.59 trigger by ¥0.03/0.22%)** → **Jul 10 ¥14.55 (+6.83%, current)**. **No daily close has been ≤¥13.59 — trigger NOT fired.** Current gap from the Jul 10 close: 6.6%. (Intraday lows did breach the line — Jul 9 low ¥13.18 — but the KB's trigger is explicitly close-based.)
