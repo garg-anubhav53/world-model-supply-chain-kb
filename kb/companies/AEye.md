@@ -1,5 +1,13 @@
 # AEye, Inc. — LIDR (Nasdaq)
-Updated 2026-07-10 (Fire 56, on-deck push) | Verdict: **PENDING/on-deck — 1 gate from WATCH (named buyer), unchanged. Q2 earnings estimate slipped to ~Aug 10.** | Track: **AV/defense (lidar); no humanoid-robotics exposure found**
+Updated 2026-07-11 (Fire 58, on-deck push) | Verdict: **PENDING/on-deck — 1 gate from WATCH (named buyer), unchanged. Q2 date still unconfirmed, aggregators still disagree.** | Track: **AV/defense (lidar); no humanoid-robotics exposure found**
+
+## Fire 58 update — no change
+- Q2 2026 earnings date still not company-confirmed; no PR on AEye's IR press-release page. Aggregators disagree (MarketBeat ~Aug 10 vs. an earlier Jul 30 estimate) — both remain algorithmic placeholders. For reference, Q2 2025 was reported July 31, 2025.
+- No new named buyer/design-win in the trailing 30 days. The ~$30M Apollo OEM program remains unnamed; LITEON remains confirmed as contract manufacturer only, not the buyer.
+- **Verdict: no change.** Sole binding block (named buyer) unchanged. Next real trigger: Q2 2026 earnings.
+- Sources: investors.aeye.ai/news-events/press-releases (2026-07-11) · marketbeat.com/stocks/NASDAQ/LIDR/earnings/.
+
+---
 
 ## Fire 56 update — no change, earnings-date estimate pushed later
 No naming development in the trailing 30 days — LITEON remains confirmed as contract manufacturer only. Recent news is product/partnership only (Apollo + NVIDIA Thor integration, MDOT infrastructure demo), none naming the OEM. **Q2 earnings date: aggregator estimate (MarketBeat/TipRanks) now shows ~Aug 10, 2026** — pushed later from the prior ~Jul 30 estimate; still an algorithmic placeholder, not company-confirmed. Price ~$1.45 (7/6), mkt cap ~$65-67M, 52wk range $0.96-$6.44 — trading near lows, has NOT re-rated, so if the OEM is ever named all other gates clear cleanly; buyer-naming remains the sole blocker. Verdict: does not qualify, no change. Next check: AEye's Q2 print (~Aug 10 est.) or any interim 8-K naming the OEM.
