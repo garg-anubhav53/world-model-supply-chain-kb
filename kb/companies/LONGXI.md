@@ -61,4 +61,7 @@ FX rate confirmed 2-source (open.er-api.com 6.8002, TradingEconomics/exchangerat
 
 Market cap (2-source, Tencent qt.gtimg.cn + Sina hq.sinajs.cn, 2026-07-10): ¥14.55/share × 399,553,571 shares = **¥5.8135B**. In USD at the corrected rate: **$855-857M — still ~7% ($55M) over the corrected cap.** CNY-anchored compare (no FX assumption needed): ¥5.8135B vs ¥5.43B = +7.1% over — confirms the USD math independently. Today's session: +6.83% (¥13.62→¥14.55, same-session pop as Fire 56, no net-new move); 12mo -29.33% (Gate 1 clean). Intraday low ¥13.73 = ~$809M, still barely over cap even at the day's trough — break-even price to clear ≈ ¥13.58.
 
+---
+**Fire 59 (2026-07-11) recheck: still ~7.0% over the corrected ¥5.43B cap, unchanged from Fire 58 — no new trading session since (weekend).** Price ¥14.55, mkt cap ¥5.81B/~$857M (jisilu.cn + investing.com, both 2026-07-11, reflecting Friday's close). Still the KB's single closest-to-flip name; re-verify at Monday's open.
+
 No order-conversion disclosure found this fire (still "limited near-term contribution," R&D/small-batch only; Q1-2026 revenue -26.9% YoY, net profit ~breakeven). **Recommend updating the KB's frozen ¥5.74B threshold to ¥5.43B going forward.** Would need one more ~7% down-session, or a real order-conversion disclosure, to promote. Tightest-cadence recheck of any PENDING name.

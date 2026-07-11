@@ -65,4 +65,11 @@ Two fresh disclosures, both keep buyers anonymous: (1) June 29 PR confirms physi
 
 **Distress-deadline status: PENDING, neither met nor missed as of 2026-07-10.** The transfer must be effective before July 13, 2026 (3 days out) to secure a 2nd 180-day delisting-cure window — this is independent of and adds to the unnamed-buyer gate. Prices (2-source, 2026-07-10): $0.3838/mkt cap $127.27M (stockanalysis.com); $0.38/$132.69M (marketbeat.com).
 
+---
+**Fire 59 (2026-07-11) — recheck, 2 days from the Jul-13 deadline. Verdict: STILL PENDING, no promotion.**
+
+AGM outcome (held 2026-07-10): shareholders approved all 5 proposals (reverse split 1-for-5→1-for-15 at board's discretion within 1yr, convertible-note share issuance, director elections, say-on-pay, auditor ratification) per trade press (themarketsdaily.com, 2026-07-10) — but **no Item 5.07 8-K has posted on EDGAR yet** (CIK 65770, latest filing still the 2026-07-07 8-K); the reverse split is shareholder-authorized but NOT yet executed. **Nasdaq Capital Market transfer outcome still unconfirmed** — no approval/denial found; Jul-13 deadline remains technically live. Price ~$0.38 intraday 2026-07-11, mkt cap ~$132M. **New, thesis-relevant tidbit:** a June 29, 2026 delivery of MOVIA S lidar to an unnamed "leading AI/hyperscaler" was explicitly framed for **robotics evaluation** (not just automotive) — first sign of a possible humanoid/robotics buyer angle for MVIS, but the buyer remains unnamed; do not promote on this alone, flag for next fire's on-deck check. Buyer for the original Jun 10 MDA (Caterpillar-inferred) still never formally named in any filing/call/PR.
+
+Sources: themarketsdaily.com (2026-07-10 AGM report); data.sec.gov/submissions/CIK0000065770.json (checked 2026-07-11); stocktitan.net/sec-filings/MVIS; finance.yahoo.com/quote/MVIS (2026-07-11).
+
 **Recommend hard recheck 2026-07-13/14** for both the Item 5.07 8-K and any Item 3.01 transfer-effective 8-K — this is now the single nearest-dated binding trigger on the entire shortlist.
