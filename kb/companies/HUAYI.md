@@ -1,5 +1,10 @@
 # Huayi Technology (华依科技) — 688071.SH (Shanghai STAR Market)
-Updated 2026-07-11 (Fire 68) | Verdict: **HOLD, score CONFIRMED unchanged 3/8 via a SECOND genuine staleness-guard full re-derivation (4 fires since Fire 64) — binding gate remains the H1 2026 report, still not filed** | Track: **R**
+Updated 2026-07-11 (Fire 70) | Verdict: **Light evidence-enrichment only — score UNCHANGED 3/8, not independently re-derived this fire** | Track: **R**
+
+## Fire 70 — supplementary evidence (not a re-derivation)
+A Fire 70 buyer-prospectus mining scout (working the AgiBot/UBTECH sourcing vector, unaware this was an already-tracked shortlist name) independently found Huayi under its formal registered Chinese name (华依科技) as a confirmed AgiBot IMU supplier via a disclosure dated 2025-08-06 — same already-known relationship already priced into the existing 3/8 score, no new gate movement. Logged here (and cross-referenced in KILL-LIST.md's CHINESE NAME ALIASES) purely as a dedup-guard fix so a future fire doesn't mistake "华依科技" for a new candidate. No change to rank, score, or binding gate (H1 2026 report, due ≤2026-08-31, still not filed).
+
+---
 
 ## Fire 68 — staleness-guard FULL RE-DERIVATION #2 (Opus, longest-tenured shortlist name — 4 fires since Fire 64, Fires 65-67 only did light "has H1 filed" checks)
 **Verdict: CONFIRM, unchanged at 3/8 (raw 4/8 = 2+1+1+0), delta=0.** An honest confirmation, not a manufactured correction — the value is the independent re-verification itself.

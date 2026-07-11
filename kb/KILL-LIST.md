@@ -2,6 +2,33 @@
 Match on TICKER, CHINESE NAME, or ENGLISH ALIAS. If a match is found → already killed/parked, skip it.
 Rebuilt 2026-07-08 from all fires. Update by appending only.
 
+## Fire 70 additions (2026-07-11) — full reasoning in decisions-log.md, this is the dedup-index version
+Hi-Target Navigation/中海达 (300177.SZ) — RESOLVED KILL (2nd consecutive check, still no named buyer despite 2+ years of consistent investor-query refusal; de-rated below the $800M cap [~$684M] but a fresh financial-distress disqualifier emerged: FY2025 net loss widened -1770% YoY, rising leverage, goodwill-impairment risk). Removed from ring#9 near-miss tracking.
+Taijing Technology/泰晶科技 (603738.SH) — KILL Gate 2, self-denial/vague pattern ("actively exploring and deploying," quantity/scale explicitly undisclosed) — same shape as the already-killed Huace/CHCNAV.
+中京电子 (002579.SZ) — KILL Gate 2, FPC for humanoid joints confirmed but named buyer explicitly "still being actively onboarded" (no named OEM) + mkt cap ~$1.4B over cap.
+弘信电子/Suntak Technology (300657.SZ) — KILL, named buyer is Xiaomi (not an approved-OEM-set buyer) + at all-time trading highs, mkt cap ~$3.3B.
+胜宏科技 (Victory Giant) — KILL, "small-batch to humanoid robots" only, no named OEM, mkt cap far above cap (PCB-robot rally poster child).
+卡倍亿 (300863.SZ) — KILL, only "established contact" with Unitree (no firm order) + at all-time highs, mkt cap ~$2.3B.
+弘景光电 — KILL Gate 2, sample-stage only, company's own IR reply explicitly denies reaching cooperation with the named prospect.
+联创电子 — KILL Gate 2, marketing language only ("lenses can be applied to..."), no confirmed order.
+联合光电 — KILL, explicit company denial of humanoid/quadruped robot involvement (IR reply, Feb 2025).
+保隆科技 (603197.SH), 信捷电气 (603416.SH) — KILL, named buyer is Tesla Optimus (not the approved-OEM set) + already well-covered by sell-side.
+创明新能源, 极海微, 圣邦股份, 思瑞浦 — KILL, no named buyer / generic "robot-scenario shipments" language, or established large-cap analog-IC names.
+长盛轴承 (300718.SZ) — KILL, AgiBot relationship only "technical exchange" stage (no confirmed order), stock +680%/12m, mkt cap ~¥30B.
+南方精工 — KILL size, large-cap reducer/bearing name, no fresh disclosure.
+立景创新/Cowell (camera-module JV with AgiBot) — dead-end, private/majority Luxshare-founder-family owned, not independently listed.
+维峰电子 (301328.SZ) — KILL Gate 2, only names medical robots, no confirmed humanoid OEM order.
+胜蓝股份 (300843.SZ) — KILL Gate 2, UBTECH connector still "in development stage," trivial revenue, also grossly oversized on reported mkt cap.
+得润电子 (002055.SZ) — KILL Gate 2, only generic industry-chain association, no confirmed named-buyer order.
+鑫宏业 (301310.SZ) — KILL Gate 2, AgiBot harness "in testing," not confirmed.
+超捷股份 (301005.SZ) — dead-end, real confirmed AgiBot small-batch order but disclosure dates to March 2025, already fully covered/priced by the market.
+Minth Group/敏实集团 — KILL size, mega-cap developing wireless-charging tech with AgiBot.
+**DEDUP CATCHES (already on this list or already-tracked, re-surfaced this fire, no new analysis needed next time):** 龙溪股份/Longxi Bearing (600592.SH) — re-surfaced via its real AgiBot joint-bearing JV (~75% share); this is the SAME entity as the KB's existing PENDING Longxi Bearing tracked for its price flip-trigger, not a new name — the AgiBot tie is supplementary evidence for the existing dossier. 华依科技 (688071.SH) — this IS the KB's existing #4 shortlist Huayi Technology under its formal registered Chinese name; confirmed AgiBot IMU supplier via a 2025-08-06 disclosure, supplementary evidence only, no new candidate. 沪光股份 (605333.SH) = Kunshan Huguang, already killed Fire 44 (96%-auto-harness core + $1.5B cap) — add to CHINESE NAME ALIASES. 科达利/Kedali (002850.SZ) — already resolved KILL Fire 66 (10x mkt-cap error, actual ~¥54-58B). 柯力传感/Keli Sensing (603662.SH) — already KILLED Fire 16. 汉威科技 (300007.SZ) — already tracked/re-rated. 领益智造/Lingyi iTech — already-known mega-cap (>$5B).
+**EDGAR EFTS — 10th consecutive null result; 8 new "Zhiyuan" name-collision filers logged (add to standing false-positive taxonomy, do not re-verify):** Lichen International (LICN, subsidiary-name collision), Cloopen Group (RAASY, PE-fund-name collision), China Automotive Systems (CAAS, PE-fund-LP-stake collision), XPENG (XPEV, individual-given-name collision), Ebang International (EBON, subsidiary-name collision), Waterdrop (WDH, media-award-name collision), 17 Education & Technology (YQ, school-name collision), WeRide (WRD, investment-partnership-shareholder-name collision).
+**ImportYeti.com — BLOCKED for a 2nd consecutive fire (site-wide 403/Cloudflare, including a known-good control-test page/Zoox).** Escalating from "session-dependent" toward a genuine method-degradation concern — recommend dropping retry cadence to every 3-4 fires rather than every fire until it recovers.
+**Ring #9 (NODE: positioning & timing) — now tested negative 2 consecutive fires (Fire 37, Fire 70), the one standing near-miss (Hi-Target Navigation) is now RESOLVED KILL. Ring #11 (TIC/certification) — 7th consecutive idle-confirmation.**
+**CIK housekeeping correction: Churchill Capital Corp XI's real CIK is 0002074973, NOT 0002111860 — 0002111860 belongs to Xtend AI Robotics Inc (already tracked/killed as XTEND/JFB).**
+
 ## Fire 69 additions (2026-07-11) — full reasoning in decisions-log.md, this is the dedup-index version
 XTEND (→NYSE "XTND" via JFB Construction Holdings SPAC, CIK 0002111860) — KILL Gate 1, price-gated (JFB already +100%+ off 52wk low on Feb-2026 deal news, ~$4.87 post 2:1 split) despite real named DoD/SOCOM+Israeli-MoD buyers. Newly-checked-and-parked this fire, add to dedup guard.
 Red Cat Holdings/Teal Drones (RCAT) — KILL Gate 2 (wrong-direction: Gauntlet II PRIME contractor, not a supplier into the program). Newly-checked-and-parked.
@@ -538,6 +565,9 @@ T-Mobile-US TMUS (Fire 37: real disclosure — Figure AI's F03 humanoid robots u
 EasyMile (only 3rd-party supplier is TLD Europe/Alvest Group, PRIVATE) · Cruise/GM (robotaxi ops shut down, stale suppliers) · Boston Dynamics (captive to parent Hyundai + mega-cap diffuse suppliers) · Torc Robotics (captive to parent Daimler Truck) · WeRide, Pony.ai (customs shipments are internal-subsidiary-only; WeRide itself already public/NASDAQ:WRD) · Serve Robotics, Starship Technologies, Navya, Seegrid, Agility Robotics, Apptronik, Oxbotica (all noise/generic/mega-cap-diffuse suppliers on customs lookup) · **Motional** (Fire 31: supplier records are entirely related-party Hyundai entities — Hyundai Mobis, Hyundai Motor Company, Hyundai Motor Group Innovation) · **Aurora Innovation** (Fire 31: ImportYeti's "aurora-innovation" record is a false match — an unrelated Oregon textile/agri-chemical importer, not the Pittsburgh AV trucking company) · **Nuro** (Fire 31: supplier records are mega-cap only — BYD Auto Industrial, Pegatron, Delta Electronics Jiangsu; 2 quasi-candidates HL Mando and Cooler Master both fail size/re-rating gates, Cooler Master already off-thesis)
 
 ## CHINESE NAME ALIASES (common dedup traps — the same company under different romanizations)
+沪光股份 = Kunshan Huguang (605333.SH — already killed Fire 44, 96%-auto-harness core + $1.5B cap; resurfaced Fire 70 under its Chinese-only name via a trade-press wiring-harness sweep, dedup-caught)
+华依科技 = Huayi Technology (688071.SH — the KB's existing #4 conviction-shortlist name; a Fire 70 buyer-prospectus scout independently found it under its formal registered Chinese name as an AgiBot IMU supplier — same company, not a new candidate, supplementary evidence only)
+龙溪股份 = Longxi Bearing (600592.SH — the KB's existing PENDING name tracked for its price flip-trigger; a Fire 70 buyer-prospectus scout found its real AgiBot joint-bearing JV [~75% share] under this name — same company, supplementary evidence only)
 和椿科技 = Aurotek = Hejet-Engineering (6215.TW — already killed; "Aurotek" is the English IR name, "Hejet-Engineering"/"和椿科技" the Chinese-derived romanization used in earlier fires — same ticker, same company; Fire 55 dedup catch)
 瑞可达 = Ruikeda = Recodeal (688800.SH — already killed, NDA-anonymized buyer; "Recodeal" is an alternate English romanization used by Fire 55's scout)
 灵心巧手 = Lingxin Qiaoshou = LinkerBot = Linker Bionics (private, ~$3B val)
