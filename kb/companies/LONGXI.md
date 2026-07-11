@@ -1,4 +1,50 @@
 # Fujian Longxi Bearing (龙溪股份) — 600592.SH (Shanghai A-share)
+Updated 2026-07-11 (Fire 72) | Verdict: **STAYS PENDING, score 5/8. No new SSE session since 2026-07-10; last close ¥14.55, gap to the ¥13.59 trigger +7.06% (unchanged). No daily close ≤¥13.59 has ever occurred. Full business case re-derived from primary sources — fundamentals HOLD, no new disqualifier.** | Track: **R**
+
+## Fire 72 — Opus full conviction dive (price + full business re-derivation). VERDICT: STAYS PENDING, 5/8.
+
+### 1. Price gate — NOT fired. 3-source close, unchanged +7.06% gap.
+Today is **Saturday 2026-07-11 → SSE closed** (Tencent market-status field reads `2026-07-12 ...|SH_close_已休市`). Latest tradable print remains the **2026-07-10 close ¥14.55**, confirmed across **three independent live sources agreeing to the fen**:
+- Tencent `qt.gtimg.cn/q=sh600592`: last 14.55, prev close 13.62, ts 20260710161454, hi 14.98 / lo 13.73.
+- Sina `hq.sinajs.cn/list=sh600592` (referer-authed): 14.550, prev 13.620, date 2026-07-10 15:34:59.
+- Eastmoney `push2delay` (secid 1.600592): f43=1455 (¥14.55), f60=1362 (prev ¥13.62), mkt-cap f116/f117 = **¥5,813,504,458**.
+
+**Daily-close series since the last KB reading (2026-07-10) through today (2026-07-11):** only ONE session exists — **2026-07-10 = ¥14.55**. No new session (Jul-11 is a weekend). **No close ≤¥13.59. Trigger NOT met.**
+
+Full recent close series for context (2-source: Tencent `web.ifzq.gtimg.cn` qfq kline + the reads above, identical): Jul-3 ¥16.12 → Jul-6 ¥15.08 → Jul-7 ¥14.46 → Jul-8 ¥13.79 → **Jul-9 ¥13.62 (intraday low ¥13.18 — the only intraday breach on record; closest-ever close, +0.22% over trigger)** → Jul-10 ¥14.55 (intraday low ¥13.73). **Gap to trigger: (14.55−13.59)/13.59 = +7.06%, unchanged since Fire 62.**
+
+Market cap ties the price gate to the $800M size cap exactly: 399,553,571 sh × ¥14.55 = **¥5.8135B**; at CNY/USD **6.7848** (open.er-api.com, 2026-07-11) = **$856.8M, +7.0% over the $800M cap**. At the ¥13.59 trigger, cap = ¥5.430B = **exactly $800.3M** — confirming (3rd independent fire to do so) that the ¥13.59 daily-close trigger IS the $800M market-cap line. A single ~7% down-session flips it.
+
+### 2. AgiBot (智元) joint-bearing JV — re-verified, STILL ACTIVE, still core-exclusive/1-of-N on the rest.
+- **JV intact:** Longxi holds **85%** of the March-2025 JV (福建龙溪智元机器人关节科技) with AgiBot/智元, for R&D + production of humanoid joint bearings and connecting-rod modules; planned ~3,000-set/yr initial capacity. Won AgiBot's "Excellent Partner Award" (Mar 2025). Content ~¥8,000/robot on core wrist/ankle joints. Confirmed still described as active as recently as a **2026-02-18** Eastmoney trade-press piece.
+- **Capture rate — core-exclusive, 1-of-N overall (unchanged, sharper):** AgiBot runs **"核心关节独家合作 + 多供应商技术交流"** — i.e. Longxi is *effectively exclusive on the core (wrist/ankle) joints* but AgiBot keeps parallel technical exchange with others (e.g. 长盛轴承/Changsheng on self-lubricating, still R&D-stage) for non-core content. So: **NOT sole-source for all of AgiBot's bearing needs; sole/lead on the high-value core joints.**
+- **Magnitude — still NOT converted to disclosed revenue:** company's own line remains **"研制或小批送样、试验阶段…短期内贡献有限"** (R&D / small-batch sampling & testing, limited near-term contribution) with **重大不确定性** (material uncertainty). Humanoid-specific revenue disclosed at only **~¥1.3M** (sample stage). Bullish sell-side/media framing ("已进入批量交付和商业化阶段" / 2026 net-profit could see ¥200M if orders ramp) is analyst projection, NOT company-confirmed order conversion. **No priced order, no unit-volume order, no mass-production disclosure found for AgiBot specifically.** Domestic joint-bearing market share **>75%**; total joint-bearing capacity raised to >20M sets/yr.
+- **互动易/cninfo primary read:** direct `irm.cninfo.com.cn` fetch returned only the platform shell (no Q&A body rendered) — same access limitation flagged in prior fires; the R&D/small-batch caveat is corroborated across multiple 2025-2026 secondary reports quoting the company's异动公告. Primary-source cninfo Q&A remains an open gap.
+
+### 3. Financials re-verified (primary: FY2025 annual report 2026-04-27 + Q1-2026 report 2026-04-27).
+- **FY2025:** revenue **¥1.3463B (−24.31% YoY)**, net profit attributable **¥168.56M (+34.52%)**, total profit ¥203.35M (+29.25%), EPS ¥0.42. **Key nuance (improves quality read):** the −24% revenue drop is a *deliberate* cut of low-margin **生产性贸易** (production-trading) volume — **core joint-bearing product sales actually rose +4.03% YoY**, high-end strategic-emerging/future-industry products +>20%. So the top-line decline is mix-cleanup, not core-demand collapse.
+- **Q1-2026:** revenue **¥299M (−26.93% YoY)**, net profit **−¥242.5k (turned to loss, −100.81% YoY)** — BUT the loss is **entirely a mark-to-market artifact**: a **−¥58.9M swing in fair-value gains on its trading-securities book (兴业证券/Industrial Securities stake)**. Operating **gross margin actually ROSE to 41.09%**. The core bearing business did not deteriorate; reported net profit is just dominated by a securities portfolio.
+- **Size/Gate-3 check:** revenue ¥1.346B ≈ **$198M** — far under the ~$800M/¥5.7B size ceiling; robotics revenue is **<0.1%** of the total (well under the 30% cap). The ONLY binding size constraint is **market cap** (¥5.81B/$857M, +7% over), which is exactly what the ¥13.59 price trigger gates on.
+
+### 4. Gate 1 (not re-rated) — genuine de-rated, current-price entry, NOT run too far.
+**12-month change ≈ −29%** (Tencent 12-mo field −29.33%; 260-session kline: ~¥20.6 twelve months ago → ¥14.55 now; 52-wk range ¥13.18–~¥32). Price sits near its 52-week LOW and below both 50-day (~¥17.8) and 200-day (~¥22.6) MAs. **Even AT the ¥13.59 trigger the stock would be down ~34% over 12 months** — this is a de-rated entry into a falling name, not chasing a run-up. Gate 1 passes cleanly whether measured today or at the trigger.
+
+### 5. Adversarial BEAR case (against promoting even if the price fires).
+1. **The JV is immaterial to Longxi's ¥-scale P&L today.** Humanoid revenue is ~¥1.3M against ¥1.346B total — ~0.1%. The entire thesis is an *option* on AgiBot reaching mass production, which the company itself flags as "materially uncertain." The KB has KILLED this exact shape before (Shuangyi 双一, Fire 49: "尚未形成连续性订单").
+2. **Not sole-source.** AgiBot deliberately keeps a second bearing track (Changsheng). Longxi owns the core joints *for now*, but joint bearings are a maturing, competitively-supplied component — content/price compression is the base case as volumes scale, not expansion.
+3. **Earnings quality is genuinely poor / noisy.** Reported net income is dominated by mark-to-market on an Industrial Securities equity stake (inflated FY2025 +34.5%, caused the Q1-2026 loss). A buyer is underwriting a bearing business *and* an unhedged prop-securities book. That is a real governance/quality flag, not a footnote.
+4. **Core top line is still shrinking** (−24% FY2025, −27% Q1-2026 revenue) — even granting the mix-cleanup explanation, there is no top-line growth yet to point to.
+5. **The trigger is a valuation floor, not a catalyst.** Promotion fires purely because the market cap drifts to $800M — i.e. because the stock *fell*, which by construction happens when sentiment on the very robotics thesis cools. Buying the flip is buying a de-rating, not a fundamental improvement.
+
+### 6. VERDICT: **STAYS PENDING, score 5/8.** No promotion — no daily close ≤¥13.59, no new session since Jul-10, gap **+7.06%**. No new disqualifier: JV active, buyer identity intact, financials in line with prior reads (no deterioration in the core bearing business; noise is securities-driven). **Trigger unchanged and live: promote to WATCH on any daily close ≤¥13.59/share.** Given the structural downtrend (below both MAs, near 52-wk low) drift is *toward* the line — remains the KB's single closest-to-flip name; check every session/fire without exception.
+
+Gate-by-gate (0-2), carried at current evidence: **Gate 1 (price, not-re-rated) 2/2** (−29% 12-mo, below MAs); **Gate 2 (causal/buyer link) 2/2** (85% JV + Excellent Partner Award + core-joint exclusivity — above-average disclosure quality); **Gate 3 (revenue mechanism/size) 1/2** (size fine on revenue, but zero disclosed order-conversion — still sample stage — and market cap +7% over the $800M cap; this gate is what the price trigger gates on); **Gate 4 (financial health) 1/2** (fortress net cash, but reported earnings dominated by securities mark-to-market, core revenue shrinking). **Total 5/8.**
+
+Sources: qt.gtimg.cn/q=sh600592, hq.sinajs.cn/list=sh600592, push2delay.eastmoney.com (secid 1.600592), web.ifzq.gtimg.cn kline — all 2026-07-10 close, read 2026-07-11; open.er-api.com CNY 6.7848 (2026-07-11); FY2025 annual report & Q1-2026 report (SSE/cninfo, filed 2026-04-27, via news.qq.com/rain/a/20260426A05OPX00, stock.stockstar.com/RB2026042800022160, news.10jqka.com.cn/20260426); AgiBot JV & capture-rate: emcreative.eastmoney.com artCode 20260218062411490357690 (2026-02-18), finance.sina.com.cn 2025-04-16, caifuhao.eastmoney 20250713.
+
+---
+
+## Fire 66 — mandatory recheck (Opus): closest-ever approach, still no close at/below trigger (prior record)
 Updated 2026-07-11 (Fire 66) | Verdict: **STAYS PENDING, score 5/8. Closest-ever approach to the flip trigger this fire — no promotion (no close ≤¥13.59).** | Track: **R**
 
 ## Fire 66 — mandatory recheck (Opus): closest-ever approach, still no close at/below trigger
