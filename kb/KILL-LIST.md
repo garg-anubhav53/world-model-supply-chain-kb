@@ -2,6 +2,11 @@
 Match on TICKER, CHINESE NAME, or ENGLISH ALIAS. If a match is found → already killed/parked, skip it.
 Rebuilt 2026-07-08 from all fires. Update by appending only.
 
+## Fire 74 additions (2026-07-12) — bounded/partial fire (1 scout: ring#11 cursor focus + job-posting idle-override only), full reasoning in decisions-log.md
+Guident Corp (S-1/A, CIK 0002066926) — DEDUP, already logged Fire 4 (see decisions-log-archive.md) as a false-positive/generic EDGAR hit, no named buyer then or now.
+**Ring#11 (TIC/certification/functional-safety) — 8th consecutive idle-confirmation (Fires 9/29/39/51/63/70/74).** Fresh angles tried this pass (safety-PLC/e-stop vendors, MISTRAS/NV5-type regional TIC generalists, AV liability-insurance underwriters) all clean-negative — reinforces the structural read: no disclosable 3rd-party small-cap certifier relationship exists in this space; buyer-side captive safety silicon (NVIDIA IGX Thor Functional Safety Island) keeps substituting for it in the press.
+**Job-posting inversion — 3rd consecutive negative test (Fires 30/67/74), now considered STRUCTURALLY exhausted as a ticker-discovery method** (works only as a category-level outsourcing signal, per Fire 30's original finding). Do not re-run without a new indexing channel.
+
 ## Fire 73 additions (2026-07-12) — full reasoning in decisions-log.md, this is the dedup-index version
 云深处科技/DEEP Robotics (STAR Market, accepted 2026-05-19) named 国茂股份/Guomao (603915.SH) as exclusive planetary-reducer supplier — NOT A KILL of a new ticker (Guomao is a pre-existing large-cap name), logged as wrong-buyer: DEEP Robotics is not one of the 9 target OEMs.
 乐聚智能/Leju Intelligence (ChiNext, accepted 2026-05-20) named 强脑科技/BrainCo as its 3rd-largest supplier (¥13.9M dexterous-hand purchases) — wrong-buyer, same reasoning; BrainCo is separately tracked (dead-ends.md) for its own pre-IPO status, not as a component-supplier candidate via this route.
