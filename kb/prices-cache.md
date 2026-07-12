@@ -436,3 +436,14 @@ Harmonic Drive +148% · Nabtesco +127% · THK +81% · Hiwin +115% · Ouster +250
 | AIRG | $5.88-6.07 | unchanged, no pre-announcement, Aug 7-11 trigger stands |
 | MVIS | $0.3823-0.40, mkt cap ~$132.65M | AGM held today, Item 5.07 8-K pending ~Jul 13-16 |
 | LIDR (AEye) | $1.36, mkt cap ~$62.99M | unchanged |
+
+## Fire 74 prices (2026-07-12, shortlist light-monitor refresh, all 2-source unless flagged)
+| Ticker | Price/mkt cap | Note |
+|---|---|---|
+| 2665.HK (Seyond Holdings) | HK$2.960, mkt cap ~HK$3.85B/~$491M, -68.99%/12m | Opus staleness-guard CONFIRMED 7/8; NIO added to US 1260H list 2026-06-08, sharpens bear case |
+| 464080.KQ (SOS Lab) | ₩9,180, mkt cap ₩164.75B/~$120M, -21.74%/12m | unchanged from Fire 73 |
+| 049070.KQ (Intops) | ₩18,110 (+6.84% day), mkt cap ₩286.75-298.17B/~$210M, +9.5-10.8%/12m | regulatory hair-trigger DISARMED this fire, fresh X-ble Shoulder catalyst |
+| 688071.SH (Huayi Technology) | ~¥33.70, mkt cap ~¥2.86B — LOW CONFIDENCE, single source only | needs proper 2-source re-check next fire |
+| HSAI | $16.16 (07-10 close), mkt cap manually verified $2.52B | confirms no aggregator bug; 8-for-1 was an ADS-ratio change, not a real share-count increase |
+| 600592.SH (Longxi Bearing) | ¥14.55, mkt cap ¥5.81B | NOT TRIGGERED, gap to ¥13.59 unchanged +7.06%; no session 07-12 (Sunday), recheck Monday 07-13 close |
+| 300217.SZ (Dongfang Electric Heating) | ¥4.44, TOTAL mkt cap ¥6.56B/~$967M | NOT TRIGGERED, still well above ¥5.74B trigger |

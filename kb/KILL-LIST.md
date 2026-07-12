@@ -851,5 +851,23 @@ Avride (formerly Yandex Self-Driving) — real 24-shipment ImportYeti footprint 
 斯菱股份/Siling 301550.SZ (dedup catch Fire 63: asked directly re: Tesla/Unitree, declined to name buyer citing NDA; mkt cap ~¥24.7B/~$3.4B, already too large regardless)
 英力股份/Yingli-Co 300956.SZ (KILLED Fire 63: Mg-Al structural parts "in talks," sample stage, no revenue, no named buyer — despite being small enough to qualify on size, no buyer disclosure exists)
 
+## Fire 74 additions (2026-07-12, full 10-agent fire) — dedup-index version, full reasoning in decisions-log.md
+超捷股份/Chaojie (301005.SZ) KILLED — real Zhiyuan sample order but +431.6%/12m, ~36x P/S, already massively re-rated.
+东睦股份/Dongmu (600114.SH) KILLED — DEEP Robotics joint-motor-parts supplier but FY2025 revenue ¥6.037B/~$838M crosses the $800M hard cap, robotics only ~0.2% of revenue.
+江苏雷利/Jiangsu Leili (300660.SZ) KILLED — AgiBot+DEEP Robotics named buyer but diversified ¥1.958B H1'25-run-rate base, robotics only ~6%; also SATURATED-CATEGORY (integrated actuator modules, bundled version of already-saturated gears/bearings/leadscrew node).
+柯力传感/Keli Sensing (603662.SH) KILLED (RECONFIRMED — already killed Fire 16, resurfaced this fire via Kepler/XPeng/DEEP Robotics ties, price-gated ~13x revenue/~41x fwd-PE, already priced in — dedup, not new).
+欣旺达/Xinwangda (300207.SZ) KILLED — exclusive robot-battery-pack supplier to DEEP Robotics but mega-cap diversified battery maker.
+KH Vatec/KH바텍 (060720.KQ, Korea) KILLED — humanoid-reducer pivot, no named buyer, mass production not until 2028-2029.
+Elandsys/이랜시스 (264850.KQ, Korea) KILLED — sole reducer supplier to Samsung Bot Fit, but Bot Fit is an exoskeleton not a target-OEM humanoid/AV platform, and 85%+ of Elandsys revenue is legacy non-robot.
+UFP Technologies (UFPT, Nasdaq) KILLED — real Intuitive Surgical+Stryker Mako supply contract but $602.8M revenue/~$1.9B mkt cap, mature diversified CDMO, not a multiplier.
+Luna Innovations (LUNA, Nasdaq) KILLED — sold fiber-optic shape-sensing IP TO Intuitive Surgical (wrong direction), stale (patents expire 2025).
+Immersion Corp (IMMR, Nasdaq) KILLED — 2009-era MAKO Surgical haptics licensing, stale, current business is an unrelated B&N Education roll-up.
+
+**SCOPE DECISION (Fire 74): target-OEM buyer universe WIDENED to include DEEP Robotics (云深处科技) and Leju Intelligence (乐聚智能)** — both real, funded, IPO-stage (STAR Market/ChiNext) Chinese quadruped/humanoid makers with itemized supplier disclosures. Criterion: a Chinese robotics OEM qualifies as a named buyer if it has a filed/accepted IPO prospectus or a disclosed >$500M private valuation, with genuine itemized supplier disclosure. New PENDING under the widened scope: 和而泰/Harmtech (002402.SZ) and 东方精工/Dongfang Precision (002611.SZ), both Leju controller-JV partners — need full 4-gate diligence next fire (no price/financial data pulled yet, do not promote to WATCH without it).
+
+**DEDUP CATCHES this fire:** Guident Corp (S-1/A, CIK 0002066926) = already killed Fire 4, no new info. 柯力传感/Keli Sensing = already killed Fire 16.
+
+**TOOLING STATUS FLIP:** ImportYeti.com Cloudflare-blocked again (403/JS-challenge, site-wide) — 1 fire after Fire 73 reported it restored via curl+r.jina.ai. Flag intermittent, retry next fire, do not treat untested buyers (Motional/Aurora/Nuro/EasyMile/Pony.ai/WeRide) as dead — they are UNTESTED due to tooling, not verified-null.
+
 ## Fire 63 EDGAR EFTS — 9th consecutive null-result fire
 Same standard query (`"Zhiyuan" OR "AgiBot" OR "Unitree" OR "Figure AI" OR "Apptronik" AND "customer"`, 10-K/10-Q/20-F, 90-day window): 9 raw hits, all 9 resolved to the "Zhiyuan"(智元) name-collision pattern (Infobird/IFBD, Lichen-International/LICN, Cloopen/RAASY, China-Automotive-Systems/CAAS, XPeng/XPEV, Ebang/EBON, Waterdrop/WDH, 17-Education/YQ, WeRide/WRD — all unrelated schools/PE-funds/subsidiaries/individuals sharing the "智元" name string). Zero survived to gate evaluation. Standing false-positive pattern list reconfirmed complete, no new pattern type found.

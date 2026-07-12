@@ -1,6 +1,19 @@
 # FRESH ANGLES — HIGH-PRIORITY SOURCING FOR NEXT 20 FIRES
 Built 2026-07-08 from 27-fire analysis. These are the best untapped or under-tapped vectors.
 
+## METHOD UPDATE (Fire 74, 2026-07-12, full 10-agent fire)
+- **UVision Air F-1 — still unfiled, but the "2nd week of July" guidance window is landing NOW.** Jerusalem Post (2026-06-22) + Ynet corroborate a specific "second week of July 2026" prospectus target ($3.5-4B valuation, JPMorgan-led, $500M-1B raise). Recommend tighter recheck cadence (every 2-3 fires, not standard) until it either files or the window passes without filing.
+- **Tier IV Inc (593A) final offer price — still pending as of Fire 74, decision due 2026-07-13.** Book-building closed 07-10 at provisional range ¥1,015-1,085; listing confirmed 2026-07-22. Check first thing next fire.
+- **MicroVision (MVIS) Item 5.07 8-K — still pending, on schedule (due ~07-14/16).** DOWNGRADE-lean flagged this fire (fails Gate 2 — buyer from the 06-10 MDA contract still unnamed after a month; fails Gate 4 — AGM just authorized reverse-split + convertible-note issuance atop sub-$1 delisting risk). Firm decision deferred to the 5.07 filing.
+- **Longxi Bearing — could NOT be checked this fire (2026-07-12 was a Sunday, no A-share session).** Last close ¥14.55 (07-10), gap to the ¥13.59 flip trigger unchanged +7.06%. Recheck Monday 2026-07-13 close without fail — this is the KB's closest-to-flip PENDING name.
+- **State Grid 24-unit sub-tender — bid-opening scheduled 2026-07-13, too early to check this fire.** Recheck immediately after.
+- **ImportYeti.com flipped back to Cloudflare-blocked** (403/JS-challenge, site-wide) one fire after Fire 73 reported it restored — confirmed via direct curl+headers and r.jina.ai proxy, both blocked. Flag as intermittent; Motional/Aurora/Nuro/EasyMile/Pony.ai/WeRide remain UNTESTED (tooling-blocked), not verified-null — retry next fire.
+- **EDGAR EFTS standard sweep — 16th consecutive null** (was 15th at Fire 73). All hits continue mapping to the existing "Zhiyuan"-name-collision false-positive taxonomy.
+- **Surgical-robotics adjacent vertical (item 9, MEDIUM PRIORITY below) — CLOSE this angle.** 4th dedicated sweep (Fires 29/57/72/74) reconfirms structural saturation; see dead-ends.md. Remove from future rotation.
+- **Job-posting inversion (item 7, HIGHEST PRIORITY below) — DOWNGRADE to structurally exhausted, 3rd negative test (Fires 30/67/74).** Job boards don't name vendors; useful only as a category-level signal. See dead-ends.md.
+- **SCOPE WIDENING ADOPTED this fire:** target-OEM buyer universe now includes DEEP Robotics (云深处科技) and Leju Intelligence (乐聚智能) — see KILL-LIST.md/decisions-log.md for the full criterion and reasoning. 2 new PENDING names surfaced under the widened scope: Harmtech/和而泰 (002402.SZ), Dongfang Precision/东方精工 (002611.SZ) — need full diligence.
+- **New genuinely-untapped angle validated this fire:** humanoid-specific connectors (distinct from general auto wiring harness, which is saturated) — Zhucheng Technology/珠城科技 (301280.SZ) found via this angle, real UBTECH exclusive 5yr ~¥800M contract, PENDING pending a hard 12-month price-return pull (likely already re-rated, needs verification not assumption).
+
 ## METHOD UPDATE (Fire 73, 2026-07-12)
 - **ImportYeti.com access RESTORED** — the curl+r.jina.ai bypass works again as of 2026-07-12 after 3 straight fires blocked. Retry cadence can return to normal (every fire) rather than monthly.
 - **Korea DART sourcing reclassified**: not JS-rendering-blocked as previously logged — the opendart.fss.or.kr OpenAPI endpoint is confirmed reachable and functioning, but requires a registered developer API key this environment cannot obtain. Korean financial press cross-reference remains the practical substitute; only retry the API path if a key is ever provisioned out-of-band.
