@@ -1,4 +1,9 @@
 # Fujian Longxi Bearing (龙溪股份) — 600592.SH (Shanghai A-share)
+Updated 2026-07-12 (Fire 73, gate-check) | Verdict: STAYS PENDING, trigger NOT hit.
+
+## Fire 73 — gate-check (Opus). Trigger NOT hit, remains PENDING WATCH.
+Most recent close: **¥14.55 on Friday 2026-07-10** (2-source: Tencent qt.gtimg.cn + Sina hq.sinajs.cn, both agree). The 07-09 close (¥13.62) was only ¥0.03/0.22% above the ¥13.59 trigger before a sector-wide rally (insider buying + limit-up touch to ¥14.98 intraday) pushed it back to ¥14.55. No new SSE session Sat/Sun 07-11/07-12. USDCNY confirmed fresh at ≈6.78 (tradingeconomics.com) — not stale. Gap to trigger unchanged at +7.06%. Stays the KB's closest-to-flip PENDING name; check every fire without exception.
+
 Updated 2026-07-11 (Fire 72) | Verdict: **STAYS PENDING, score 5/8. No new SSE session since 2026-07-10; last close ¥14.55, gap to the ¥13.59 trigger +7.06% (unchanged). No daily close ≤¥13.59 has ever occurred. Full business case re-derived from primary sources — fundamentals HOLD, no new disqualifier.** | Track: **R**
 
 ## Fire 72 — Opus full conviction dive (price + full business re-derivation). VERDICT: STAYS PENDING, 5/8.

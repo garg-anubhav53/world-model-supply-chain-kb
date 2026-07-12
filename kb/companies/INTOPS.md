@@ -1,4 +1,9 @@
 # Intops Co Ltd — 049070 (KOSDAQ)
+Updated 2026-07-12 (Fire 73, regulatory-probe status check) | Verdict: STAYS #3, still on hair-trigger toward DOWNGRADE — probe unresolved.
+
+## Fire 73 — regulatory-probe status check (Opus). No material update; company took mitigation actions but no regulatory outcome yet.
+Since the 2026-06-08 presidential stock-manipulation accusation: CEO Kim Geun-ha **resigned 2026-06-18** (replaced by Kim Hyun-ryang); company announced a **~₩30.5B shareholder-return package** (treasury-share retirement + buyback trust) same date; company stated 2026-06-30 it will **not exercise** the exchangeable-bond call option that triggered the accusation. These are company-side mitigation moves, not a regulatory resolution — FSC/FSS/KRX remain at the preliminary "점검" (verification) stage per officials' own 2026-06-08 characterization; no fine, referral, or trading action found in any mainstream Korean outlet (Chosun/Hankyung/MK/Yonhap) through 2026-06-30. One low-confidence aggregator claims a "results by ~July 15" timeline — NOT corroborated, treat as unverified. Gate 4 stays pinned at 1/2; the name remains on a hair-trigger toward DOWNGRADE pending the actual regulatory outcome.
+
 Updated 2026-07-11 (Fire 72, MANDATORY staleness-guard full re-derivation — 5 fires since Fire 67, genuinely re-pulled from primary sources) | Verdict: **CONFIRM 5/8 (conservative) / 6/8 (generous) — aggregate score HOLDS, but two genuine corrections to the record and a MATERIAL new governance red flag Fire 67 missed. Bear case STRENGTHENED. STAYS #3, WATCH — but now on a hair-trigger toward DOWNGRADE.** | Track: **R**
 
 ## Fire 72 — full staleness-guard re-derivation (Opus), genuinely re-pulled from scratch

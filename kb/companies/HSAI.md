@@ -1,4 +1,12 @@
 # Hesai Group — HSAI (Nasdaq)
+Updated 2026-07-12 (Fire 73, gate-resolution check) | Verdict: stays PARKED, no gate flip.
+
+## Fire 73 — gate-resolution check (Opus). NO GATE FLIP, both binding gates remain open.
+- **D.C. Circuit 25-5256:** still no ruling as of 2026-07-12 (CADC opinions feed checked through 07-07, no entry) — now ~4 months past oral argument.
+- **Aug-28 2026 EGM:** a 6-K filed 2026-07-08 confirms only the meeting date + record date (2026-07-23); the actual agenda/circular has NOT been filed — dilution status still UNKNOWN. Watch for the circular before 2026-07-23.
+- **Market cap re-verified manually: ≈$2.53B** (156.4M ADS-equiv shares × $16.16 close 2026-07-10). The "8x bug" was NOT observed live on any aggregator this fire.
+- Stays PARKED outside the ranked shortlist, unchanged. Re-escalates only on an actual gate resolution.
+
 Updated 2026-07-11 (Fire 66, conviction-track deep-dive) | Verdict: **DOWNGRADE — DEMOTED from conviction #2.** Score holds **7/8** on the gate rubric (fundamentals clean, nothing broke), but the conviction *ranking* drops out of the top-2 slot: asymmetry-quality has decayed to zero (fully-discovered 21-Strong-Buy consensus name), BOTH binding gates remain open-ended with no resolution (D.C. Cir. 25-5256 — still no ruling ~4mo post-argument; Aug-28 EGM agenda still undisclosed), and NO fresh under-the-radar edge in trailing weeks. Re-escalates only on an ACTUAL gate resolution. TRUE mkt cap ≈$2.54B/~5.8x sales (2-source, manual-verified; **aggregator 8x bug currently DORMANT/self-corrected this cycle**). | Track: **AV**
 
 ## Fire 66 — conviction-track deep-dive (Opus). Verdict: DOWNGRADE (ranking demotion out of top-2 on asymmetry-decay; score holds 7/8). Neither binding gate resolved.
