@@ -564,3 +564,25 @@ Confirmed 2026-07-05. Update only if a genuinely new catalyst appears.
 - **Surgical/medical-robotics adjacent vertical — 4th dedicated sweep (Fires 29, 57, 72, 74), reconfirmed structurally saturated, recommend CLOSING permanently.** Fire 74's EDGAR full-text sweep across Intuitive Surgical/Stryker Mako/Medtronic Hugo/Globus Medical found only UFP Technologies (real supply contract, but $602.8M revenue/~$1.9B mkt cap, mature diversified CDMO — killed on size), Luna Innovations (sold its shape-sensing IP TO Intuitive Surgical, wrong direction, stale) and Immersion Corp (2009-era MAKO Surgical licensing, long stale, unrelated current business) — no small-cap named-supplier candidate survives after 4 independent sweeps. Zero hits for Medtronic Hugo or Globus Medical in any sweep to date. Do not re-test without a genuinely new surgical-robot OEM entrant.
 - **Job-posting inversion (D5 discovery method) — 3rd negative test (Fires 30, 67, 74), now considered structurally exhausted as a ticker-discovery method.** Job boards (LinkedIn/Indeed) don't name specific vendors in postings, and Chinese OEM career pages are largely unindexed to web search. Useful only as a category-level outsourcing/insourcing signal (e.g. Fire 74 found Hyundai Mobis is insourcing Atlas actuators in-house, closing off that opportunity for independent suppliers) — drop from future rotation absent a new indexing channel (e.g. a dedicated Chinese job-board scraper or direct Saramin/JobKorea access).
 - **Taiwan precision-parts/connector vector — 2nd pass post-Unitree-prospectus, reconfirmed structurally exhausted.** Unitree's now-effective STAR Market prospectus (filed 2026-03-20, registration effective 2026-07-06) lists supplier detail that is 100% Mainland Chinese (中大力德, 长盛轴承, 贝斯特/宇华精机, 卧龙电驱, 北特科技) — zero Taiwan-listed names anywhere in it. Sinbon Electronics (3023.TW) and BizLink Holding (3665.TW) both still carry only anonymized "US/North American customer" language in their own 2026 disclosures (media claims naming Figure/Agility/Tesla/Apptronik trace to unconfirmed industry rumor, not company statements) AND are now independently confirmed too large for Gate 3 regardless of buyer-naming (Sinbon ~$950M-1.1B annualized revenue targeting only 10-15% robotics share by 2027; BizLink >$800M/quarter). Hiwin Technologies (2049.TW) size question resolved this fire: confirmed auto-kill (~$780-820M annualized revenue, robotics 12% of it).
+
+## EXHAUSTED SOURCING METHODS (Fire 74 audit, 2026-07-15)
+- **EDGAR EFTS full-text sweep** — 16 consecutive null results on genuinely new candidates. All hits map to existing false-positive taxonomy. STOP running this every fire. Retry only if there is a specific new reason (e.g. a new company we know to look for).
+- **Job-posting inversion** — 3 negative tests; confirmed structurally exhausted. Job postings don't name vendors; only gives category-level insourcing/outsourcing signals, not investable leads.
+- **Standards-body rosters** (ISO TC299/SAE/AUTOSAR/IEEE-1588) — all paywalled, zero yield after multiple attempts.
+- **Legacy industrial screening for marginal adjacency** — any company >15 years old with <15% thesis-market exposure. These companies keep getting killed at the same gates (size, wrong thesis, no named buyer). Stop sourcing them.
+- **Surgical robotics adjacent vertical** — 4 consecutive dry sweeps; category closed. All relevant supply names are either large-cap (Intuitive/Stryker) or off-thesis.
+- **Job-based inversion (buyer hiring)** — confirmed structural dead-end.
+- **ImportYeti.com** — currently Cloudflare-blocked most fires. Drop to monthly retry; not a reliable primary method. Only useful for MERCHANT AV buyers (Zoox/Pony.ai/WeRide/Motional), zero yield on captive builders.
+
+## SATURATED CATEGORIES (Fire 74 audit — do NOT source here without a specific new event)
+Categories where 5+ companies have been killed on identical structural grounds:
+- Precision-motion / bearings / reducers for companies >15 years old (Harmonic Drive, Nabtesco, THK, Hiwin, NSK, NTN, SKF etc. — all killed, all legacy)
+- Mainstream chip suppliers (SoC/PMIC/BMS chips from large-cap semis — structurally large, already-run, or no named humanoid buyer)
+- Auto-harness / general connector OEMs (Sumitomo, Yazaki, Aptiv, TE — too diversified)
+- Structural die-casting / CNC machining (magnesium/aluminum castings — supplier identity always undisclosed or self-built)
+- Vision/edge-AI SoC chips (Rockchip, Allwinner, Axera — all structurally large by the time they have credible design wins)
+- E-skin / whole-body tactile sensing (all leaders private, TAM too small)
+- Tendon-driven cable/wire-rope actuation (all leaders private or niche)
+- Power-management ICs / BMS ICs for robots (dominated by large-cap TI/ADI/Infineon)
+- Cable-drive pulley/wire-rope hardware (all too small or private)
+- Joint adhesives/potting/TIM (industrial commodity, no humanoid naming convention)

@@ -193,6 +193,51 @@ The universe (`kb/universe/README.md`) is a holistic map of the ecosystem's DIME
 - **`kb/DIGEST.md` is the READ-FIRST 1-pager** (rewrite it every fire): top-5 conviction shortlist + binding gates, the cursor focus, one-line coverage status, pointers. **Read DIGEST + INDEX + coverage-ledger + pipeline + the decisions-log KILL-INDEX every fire (all compact); open a full companies/<T> dossier or an archive ONLY for the name you're actively working.** Never read all companies/* or full raw logs each fire.
 - **SIZE DISCIPLINE:** keep `decisions-log.md` a compact one-line-per-name KILL-INDEX (ticker | 3-word reason | date); when it exceeds ~120 lines, roll the oldest into `decisions-log-archive.md` (read only to dedup an old name). Keep every evergreen file ~1 screen; raw notes to `runs/<UTC>/`. The DIGEST + INDEX are the routing layer — everything else is opened on demand, so per-fire read cost stays bounded no matter how large the KB gets.
 
+## 21. FUNDAMENTAL REORIENTATION FOR FIRES 75+ (2026-07-15 audit)
+
+### The core problem (74-fire evidence)
+Every name that survived gate checks was BUILT FOR this market. Every name that kept getting killed was a legacy industrial with incidental exposure. The routine was mining for "companies that might benefit" — we need "companies that EXIST because of this market." Read TARGET-PROFILE.md first every fire.
+
+### A. TARGET PROFILE (most important change)
+Priority 1 — Recently-founded pure plays: companies ≤10 years old where thesis-market is PRIMARY business (>30% revenue). CEO has explicitly named the market in filings/calls.
+Priority 2 — Recent pivots with new capital and management explicitly targeting this market.
+Priority 3 — Forward-listing companies with named buyers in their prospectus text.
+DEPRIORITIZE completely: legacy industrials (>15 years old, <15% thesis exposure). Stop spending fires on them regardless of how cheap they look.
+
+### B. QUALITY-ADJUSTED VALUATION GATE (replaces binary +60% kill)
+Step 1: Flag founding year + thesis-exposure % BEFORE checking price.
+- Young company (<10yr) + high exposure (>30%) + named buyer → kill threshold = +80%/12m
+- Old company (>15yr) + low exposure (<15%) → kill threshold = +30%/12m
+- In between → +60% as before
+Step 2: If Quality Score (thesis-exposure × causal-strength × near-term-visibility / EV-multiple-vs-comps) is high → WATCH even if stock moved 50-70%.
+The SOS Lab lesson inverted: don't let a name sit too long just because price hasn't moved — but also don't kill a genuinely high-quality business just because it's run 40%.
+
+### C. SOURCING REORIENTATION — find companies that EXIST for the market
+PRIORITY (most likely to find un-priced pure plays):
+1. VC portfolio mining: Nvidia NVentures, Samsung Next, Bosch Ventures, Hyundai Motor Strategic Finance, GV, LG Technology Ventures — their robotics/AV portfolio companies are the actual supply chain. Check their websites and press releases systematically.
+2. Chinese 2021-2025 Series A/B humanoid supply chain raises — companies that raised ¥50-500M specifically to supply humanoid OEMs, now approaching STAR/HKEX IPO. High Gong/高工机器人 tracks these.
+3. IPO prospectuses from BUYERS — Unitree's STAR Market listing, UBTECH annual report, Agility Robotics S-4 (when filed). Every named supplier is a lead.
+4. Korean KOSDAQ new listings 2023-2026 — most transparent small-cap robotics IPO market globally. Search for companies IPO'd with >30% revenue from Hyundai/Boston Dynamics/Bear Robotics/Samsung.
+5. HKEX A1 applications in robotics/AV 2024-2026. Asensing was found this way.
+6. Chinese trade press systematically: 高工机器人 search `供应商 独家 人形机器人 2025 2026`.
+7. SAM.gov / NATO / DARPA award announcements — government robotics programs name small suppliers.
+
+DEPRIORITIZE / STOP RUNNING:
+- EDGAR EFTS full-text sweep: 16 consecutive null results — STOP until there is a specific new reason
+- Job-posting inversion: 3 negative tests, now dead-end (dead-ends.md)
+- Standards-body rosters: all paywalled, zero yield
+- Legacy industrial screening for marginal adjacency (bearings, reducers for 30-yr-old companies)
+
+### D. RANDOMNESS + ANTI-SATURATION
+Every 4th fire: WILDCARD MODE — ignore the rotation cursor entirely. Pick the most unexpected/contrarian sourcing angle: a different geography, a business model nobody has tried, a secondary VC's portfolio, a government contract database. The goal is to break out of the established pattern.
+When >5 names in a category have been killed → mark SATURATED in dead-ends.md and don't re-run without a specific new company/event trigger. The routine has been over-mining precision-motion, AV-perception, and mainstream-chip categories.
+
+### E. FASTER KILLS — CATEGORY-LEVEL
+If the company fits a SATURATED CATEGORY profile (precision-motion bearing maker >20yr old, mainstream chip company, auto-harness company, structural die-caster) → kill in the PRE-GATE with a one-liner. Don't spend Opus on it. The 2-question quick kill: (1) founded <10yr? (2) >25% revenue from thesis market? If both NO → kill immediately, no Opus needed.
+
+### F. ANALYSIS QUALITY — BUILD CONVICTION ON THE NAMES THAT PASS
+The routine is excellent at killing. It needs to match that with building genuine conviction on survivors. For each WATCH name: model 3 concrete scenarios (bear/base/bull) with specific revenue figures and price targets. The question isn't "does it pass the gates" but "if this plays out, what is the actual return?"
+
 ## 20. IMPROVEMENTS FOR FIRES 28-47 (2026-07-08 audit — implement immediately)
 
 ### A. DEDUP FIX — inject the kill list into EVERY scout, not just the main read contract
