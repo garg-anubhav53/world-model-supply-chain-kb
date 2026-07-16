@@ -599,3 +599,8 @@ Categories where 5+ companies have been killed on identical structural grounds:
 - Power-management ICs / BMS ICs for robots (dominated by large-cap TI/ADI/Infineon)
 - Cable-drive pulley/wire-rope hardware (all too small or private)
 - Joint adhesives/potting/TIM (industrial commodity, no humanoid naming convention)
+
+## Fire 81 additions (2026-07-16)
+- **RaaS/equipment-leasing business model — NEW node, first-ever test, TESTED-NEGATIVE for public pure-plays.** Real business model exists in the private market (擎天租/Qingtianzu, AgiBot-backed, ¥7B val.) but zero investable small-cap public vehicle: generalist equipment-finance BDCs (Trinity Capital, Hercules Capital) and logistics giants (Ryder System) that do have real named AV clients (Gatik/Waymo Via/Kodiak) are all too large/diversified (thesis <5% of revenue); the one new HKEX-listed name found (Ruqi Mobility/Chenqi Technology, 9680.HK) is a robotaxi fleet OPERATOR not a hardware lessor/financier, wrong business-model shape + over cap. Recheck only if Qingtianzu files to list or an OEM (Unitree/UBTECH/Figure/Agility) spins out its leasing arm separately.
+- BUSINESS-MODEL:royalty/IP-licensing — 7th consecutive idle confirmation (Fires 12/24/35/46/58/73/81). Recommend stretching recheck cadence further (~25-30 fires) absent a hard new catalyst; Fallbrook/Genesis Robotics still private, Ouster royalty revenue confirmed shrinking (2025: $22.8M actual, FY2026 guide <$5M).
+- Korea KOSDAQ-track names found-and-killed this fire (wrong-market/off-thesis, not saturated-category kills): NearthLab (wind-turbine-inspection drones, wrong market), Brills (factory-automation integrator, off-thesis end-user confusion).

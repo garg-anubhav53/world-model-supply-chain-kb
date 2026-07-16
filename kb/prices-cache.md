@@ -484,3 +484,10 @@ Harmonic Drive +148% · Nabtesco +127% · THK +81% · Hiwin +115% · Ouster +250
 - Longxi Bearing (600592.SH): confirmed close ¥13.66/share (2026-07-16), mkt cap $779-803M (3-source: investing.com, Google Finance, TradingView, all agree on price). Full close history Jul9-16 reconstructed — see companies/LONGXI.md Fire 79 update. 12m return -35.57%.
 - Nextron-Cheng Ling (8147.TWO): NT$140.50-141.50/share, mkt cap NT$5.85-5.89B (~$190-195M USD), +32.55% to +34.76%/12m. Source: Investing.com + TradingView, 2026-07-16.
 - Guangdong Asensing: still pre-IPO, no live price, unchanged.
+
+## Fire 81 reconfirm (2-source verified, 2026-07-16)
+- Seyond Holdings (2665.HK): HK$2.76/share, ~$453-463M mkt cap, ~-75%/12m. Source: StockAnalysis.com + Google Finance, exact agreement. Unchanged vs Fire 80.
+- Intops Co Ltd (049070.KQ): ₩17,360/share, ₩274.88B/~$199M mkt cap, +1.6-2.3%/12m. Source: StockAnalysis.com + Investing.com, exact agreement. Unchanged vs Fire 80.
+- HSAI (Nasdaq): $15.65-15.66/share (7/16), $15.85 (7/15), mkt cap $2.45-2.48B using the ADS count (~156.2-156.4M — NOT the ~1,257M ordinary-share count). Math check: $15.65 × 156.44M ADS = $2.45B. **Confirmed the 2026-07-10 8-for-1 share-subdivision + ADS-ratio-change (1:1→1:8) was economically neutral — no 8x error this fire**, per SEC 6-K. ~-34%/12m. Source: StockAnalysis.com + WallStreetZen.
+- Longxi Bearing (600592.SH): ¥13.66/share close 07-16 (¥13.45 on 07-15), mkt cap ¥5.46B/~$806-808M. Price-trigger streak (5 consecutive closes <¥13.59 needed) broken again after 1 day — same durable pattern, 4th fire running (78/79/80/81). NEW: 6 directors/senior managers bought ¥909,372 of stock 2026-07-09 (insider buying signal). Source: StockAnalysis.com + MarketScreener (12m move range -39.5% to -49.98%, likely differing lookback anchor — flagged, not resolved).
+- SOS Lab (464080.KQ): ₩7,870/share, mkt cap ₩141.24-152.01B/~$102-110M (share-count basis differs slightly between sources), -31 to -32%/12m. Source: StockAnalysis.com + TradingView. No change to KILL-pending-H1-confirmation status (Aug 14 2026 report is the hard resolution date).
