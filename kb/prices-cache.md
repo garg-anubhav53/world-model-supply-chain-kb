@@ -466,6 +466,16 @@ Harmonic Drive +148% · Nabtesco +127% · THK +81% · Hiwin +115% · Ouster +250
 - Longxi Bearing (600592.SH): last CONFIRMED close ¥13.45 (2026-07-15, unchanged vs last fire), ~$793.7M mkt cap. **FLAG: same-day (07-16) intraday trading at ¥13.62-13.63, above the ¥13.59 trigger — recheck the actual 07-16 close next fire without fail.** Source: Tencent/gtimg + Eastmoney push2delay, 2-source, 2026-07-16.
 - Guangdong Asensing: still pre-IPO, no live price, unchanged.
 
+## Fire 80 price snapshot (2026-07-16, WILDCARD FIRE)
+- Seyond Holdings (2665.HK): HK$2.76/share, ~$460M mkt cap (~1.31B shares), matches Fire 79 exactly (same trading day, no new session). Score down-flagged 7/8→6/8 on a stress-test finding (FY2025 revenue fell 3.4% YoY despite +45% units) — see companies/SEYOND.md.
+- Intops (049070.KQ): ₩17,360/share, ~$190-197M mkt cap, matches Fire 79 exactly. Conviction down-flagged 6/8(generous)→5/8 on an adversarial governance read — see companies/INTOPS.md.
+- SOS Lab (464080.KQ): ₩7,870/share, ~$97M mkt cap, matches Fire 79 exactly. **DOWNGRADED 4/8→3/8, RECOMMEND KILL** — Q1 2026 balance sheet independently pulled shows ~1.1 quarters of cash runway against an unpayable ₩43B CB debt wall. Removed from ranked shortlist. See companies/SOSLAB.md.
+- **HSAI (Nasdaq): $15.66-15.67/share, TRUE mkt cap ~$2.46-2.5B** (down ~4.5% from $16.40 Fire-74 baseline). **CORRECTION: a Fire-80 scout briefly miscalculated this at $19.7B by multiplying price × the 1,257M POST-SPLIT ORDINARY-SHARE count instead of the ~157.14M ADS count that actually trades on Nasdaq** (Hesai's 8-for-1 split changed the ADS ratio 1:1→1:8 specifically so the ADS count stayed constant — confirmed via primary-source 6-K coverage). This is the 2nd time this exact error has surfaced (previously fixed Fire 59/74); a standing rule is now recorded directly in companies/HSAI.md to prevent a 3rd regression. **Use ~$2.46-2.5B, NOT ~$19-21B, for this name going forward.**
+- Longxi Bearing (600592.SH): confirmed close ¥13.66 (2026-07-16, matches Fire 79), mkt cap $779-803M. 5-consecutive-close streak still NOT achieved (reset at 3 consecutive closes below ¥13.59, same pattern independently reconfirmed via Sina Finance historical API + Tencent qt.gtimg.cn, 2-source). Stays PENDING.
+- Guangdong Asensing: still pre-IPO, no live price, unchanged.
+- Wuxi Quanzhibo (无锡泉智博): private, no ticker — pre-IPO watch item, 49.45% of 2025 revenue disclosed from Leju Robotics per Leju's own creditor filing (see decisions-log.md Fire 80 for a dedup/re-derivation note — this name was previously checked-and-excluded at Fire 78 on shallower evidence).
+- PaXiniTech (帕西尼感知科技): private, $1.4B+ valuation (Mar 2026 round) — already over the market-cap target even pre-listing; "weighing" HK IPO, not A1-filed.
+
 ## Fire 79 price snapshot (2026-07-16)
 - Seyond Holdings (2665.HK): HK$2.76/share, ~$458-463M mkt cap, essentially flat vs Fire 78. 12m return -71% to -75% (2 sources disagree on magnitude, both deeply negative). 52wk low HK$2.66 hit 2026-07-15 (new all-time low). Source: TradingView + MarketScreener, 2-source, 2026-07-16.
 - Intops (049070.KQ): ₩17,360/share, ~$186-193M mkt cap, flat vs Fire 78. 12m return +1.58%. Source: investing.com + Google Finance + Alphasquare, 3-source agreement, 2026-07-16.

@@ -1,5 +1,12 @@
 # Seyond Holdings — 2665.HK
-Updated 2026-07-12 (Fire 74) | Verdict: **STALENESS-GUARD FULL RE-DERIVATION (4th genuine re-derivation, 4 fires since Fire 70) — CONFIRM, score 7/8, delta=0, bear case MATERIALLY SHARPENED.** #1 shortlist, unchanged. | Track: **AV (China LiDAR)**
+Updated 2026-07-16 (Fire 80, Opus conviction dive, WILDCARD FIRE) | Verdict: **HOLD #1, but flag score down to 6/8 (from 7/8) pending H1 2026 results — a hidden 2025 revenue-decline fact undercuts the shipment-growth headline.** Prior: Fire 74 staleness-guard CONFIRM 7/8. | Track: **AV (China LiDAR)**
+
+## Fire 80 — Opus conviction dive: stress-test of 7/8, bear/base/bull
+**Verified facts:** FY2025 revenue **$154.2M (−3.4% YoY)** despite shipments **332k units (+45%)** — ASP erosion is outrunning volume growth. Robin platform units 12k→138k (+1050%). Gross profit turned positive at $12.3M (7.9% GM). Adjusted net loss −$63.0M (−24% improvement YoY). Positive equity $45.2M, total assets $264M. NIO concentration ~86-92% (unresolved conflicting figures across sources). Price HK$2.76, mkt cap ~HK$3.61B (~$460M, ~1.31B shares), ~3x trailing sales.
+**The buried flag:** revenue FELL 3.4% in 2025 even as units rose 45% — the bull case is a unit-growth story, but the P&L is a price-war story. That tension is the whole thesis and is easy to miss behind the headline "+385% Q2 shipments" framing.
+**Bear/base/bull (12mo):** Bear — NIO softens, ASP −45%, diversification slow, concentration multiple compresses: revenue ~$186M (+21%), **HK$2.20-2.85 (−20% to flat)**. Base — +200% units per guidance, ASP −40%, GM→12-15%: revenue ~$277M (+80%), **~HK$6.6 (+140%)**. Bull — +230% units, 18-OEM diversification ramps, ASP −35%, GM→18%, physical-AI optionality: revenue ~$330M (+114%), **~HK$11.9 (+330%)**.
+**Decision:** HOLD AT #1 — risk/reward stays asymmetric to the upside (base +140% vs bear −20%) IF H1 confirms the ramp and diversification. But score down-flagged to 6/8 pending H1 (due 08-31) on the revenue-decline fact the shipment-growth headline obscures — this is the KB's first time treating "units up, revenue down" as a genuine demerit rather than noise for this name.
+**Sources:** Opus dive, verified against stockanalysis.com, Google Finance, company FY2025 results coverage, 2026-07-16.
 
 ## Fire 74 — from-scratch staleness-guard re-derivation (Opus), independent of Fire 70's framing
 **Verdict: CONFIRMED, 7/8, delta=0 — but a genuinely new, dated, primary-sourced geopolitical bear datapoint the prior 4 fires did not contain.** Every gate re-verified from primary sources, none moved.
