@@ -457,3 +457,11 @@ Harmonic Drive +148% · Nabtesco +127% · THK +81% · Hiwin +115% · Ouster +250
 - Guangdong Asensing: still pre-IPO, no live price. Dec-2025 pre-IPO round valued ~$650M, unchanged.
 - Mirle Automation (2464.TW): ~$756M mkt cap (23.43B TWD) — checked-and-killed this fire, not tracked going forward.
 - Solomon Technology (2359.TW): ~$680M mkt cap — checked-and-killed this fire, not tracked going forward.
+
+## Fire 77 price snapshot (2026-07-16)
+- Seyond Holdings (2665.HK): HK$2.720/share, ~$456.4M mkt cap (1,308,784,253 shares), flat vs HK$2.730/~$455M last fire (-0.37%). Source: etnet.com.hk + Google Finance, 2-source, 2026-07-16 ~14:20 HKT.
+- SOS Lab (464080.KQ): ₩7,860-7,890 (midpoint ~₩7,875), ~$102.2M mkt cap, roughly flat vs ₩7,960/~$109M last fire (the USD delta is mostly KRW/USD FX movement, not equity). Source: Investing.com + stockanalysis.com, 2026-07-16.
+- Intops (049070.KQ): ₩17,410-17,560 (midpoint ~₩17,485), ~$188.1M mkt cap, roughly flat vs ₩17,640/~$201M (FX-driven delta). Source: stockanalysis.com + investing.com, 2026-07-16.
+- HSAI (Nasdaq): $15.85/share (confirmed close 2026-07-15), ~$2.48B mkt cap, unchanged vs last fire. Source: stockanalysis.com + Google Finance, 2-source.
+- Longxi Bearing (600592.SH): last CONFIRMED close ¥13.45 (2026-07-15, unchanged vs last fire), ~$793.7M mkt cap. **FLAG: same-day (07-16) intraday trading at ¥13.62-13.63, above the ¥13.59 trigger — recheck the actual 07-16 close next fire without fail.** Source: Tencent/gtimg + Eastmoney push2delay, 2-source, 2026-07-16.
+- Guangdong Asensing: still pre-IPO, no live price, unchanged.
