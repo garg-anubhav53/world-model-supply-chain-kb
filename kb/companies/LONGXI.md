@@ -1,5 +1,16 @@
 # Fujian Longxi Bearing (龙溪股份) — 600592.SH (Shanghai A-share)
-Updated 2026-07-16 (Fire 75) | Verdict: **PRICE TRIGGER FIRED — promotes to WATCH 5/8, pending next-fire cap re-confirmation given intraday volatility right at the line.**
+Updated 2026-07-16 (Fire 76) | Verdict: **PROMOTION CONFIRMED DURABLE — WATCH 5/8, mandatory close-based reconfirmation complete.**
+
+## Fire 76 — mandatory close-based reconfirmation (per Fire 75's caveat). CONFIRMED.
+2-source close-based pull (Sina Finance K-line API `money.finance.sina.com.cn`, symbol=sh600592; Tencent live feed `qt.gtimg.cn/q=sh600592` prev_close field, both independently agreeing): **last CONFIRMED close 2026-07-15 = ¥13.45** — the 3rd consecutive close below the ¥13.59 trigger (07-13 ¥13.47, 07-14 ¥13.24, 07-15 ¥13.45). Shares outstanding 399,553,571 (Tencent + 10jqka.com.cn cross-confirmed). Market cap at the last confirmed close: ¥5.374B ÷ 6.7716 CNY/USD (Fed H.10, 2026-07-15) = **≈$793.4M — under the $800M cap.**
+
+**Both gates satisfied on close-based data. The WATCH promotion is now DURABLE**, not provisional. Fire 75's intraday concern (a same-day bounce to ~¥13.77/~$811M) is confirmed to be intraday-only noise, not a new close — per the KB's own close-based-not-intraday rule, this does not negate the trigger. Today's (07-16) session was still open at check-time with price back up ~2.16% to ¥13.74 intraday; this is a live/ongoing data point, not yet a close, and should NOT be read as re-negating the confirmation — next fire should simply verify the 07-16 close lands wherever it lands and continue routine monitoring, not re-litigate the trigger.
+
+No fresh AgiBot/Zhiyuan order-conversion disclosure found this fire — business fundamentals unchanged from the Fire 72 full re-derivation (see below). Score holds at **5/8**. This resolves the standing "needs mandatory close-based reconfirmation" flag carried since Fire 75.
+
+Sources: money.finance.sina.com.cn CN_MarketData.getKLineData (sh600592), qt.gtimg.cn/q=sh600592 (both 2026-07-16 pull, reporting through 07-15 close), federalreserve.gov/releases/h10 (USD/CNY 6.7716, 2026-07-15).
+
+---
 
 ## Fire 75 — TRIGGER FIRED. Promotes to WATCH, provisionally.
 **The KB's own flip condition (a daily CLOSE ≤¥13.59) has now fired on THREE consecutive sessions**, confirmed via a document-watch scout's live pull (Sohu Finance q.stock.sohu.com/cn/600592, fetched 2026-07-16): **07-13 close ¥13.47, 07-14 close ¥13.24, 07-15 close ¥13.45** — all below the ¥13.59 line (down from the ¥14.55 close on 07-10). Intraday 07-16 (as of ~10:29 local) was back up to ¥13.77, still hovering right at/near the boundary (399,553,571 shares × ¥13.77 ≈ ¥5.502B ≈ $811M at ~6.785 CNY/USD — back slightly OVER the $800M cap on an intraday basis; the 07-15 CLOSE of ¥13.45 → ¥5.374B ≈ $792M, genuinely under). No company disclosure found explaining the drop; the most likely driver is a 2026-07 互动易 interactive-platform reply reiterating humanoid joint-bearing products remain "in research/small-batch sampling" (i.e. a reiteration of the existing R&D-stage caveat, not new bad news) — this reads as a sector-sentiment pullback, not a fresh disqualifier.

@@ -890,3 +890,11 @@ Immersion Corp (IMMR, Nasdaq) KILLED — 2009-era MAKO Surgical haptics licensin
 
 ## Fire 63 EDGAR EFTS — 9th consecutive null-result fire
 Same standard query (`"Zhiyuan" OR "AgiBot" OR "Unitree" OR "Figure AI" OR "Apptronik" AND "customer"`, 10-K/10-Q/20-F, 90-day window): 9 raw hits, all 9 resolved to the "Zhiyuan"(智元) name-collision pattern (Infobird/IFBD, Lichen-International/LICN, Cloopen/RAASY, China-Automotive-Systems/CAAS, XPeng/XPEV, Ebang/EBON, Waterdrop/WDH, 17-Education/YQ, WeRide/WRD — all unrelated schools/PE-funds/subsidiaries/individuals sharing the "智元" name string). Zero survived to gate evaluation. Standing false-positive pattern list reconfirmed complete, no new pattern type found.
+
+## Fire 76 additions (2026-07-16, WILDCARD FIRE)
+TrunkTech (主线科技/Zhuxian Keji, Bosch Ventures-backed, HK Chapter-18C filer) KILLED — AV solutions/systems-integrator (installs own driving stack on OEM-supplied trucks; port operators are service customers not component buyers), inverse of target profile. **ALIAS CORRECTION: TrunkTech is NOT 中智行/CIDI** (that was an error introduced Fire 75) — TrunkTech's real Chinese name is 主线科技. If 中智行/CIDI is worth checking, treat as a fresh, never-diligenced name.
+Mirle Automation (2464.TW, ~$756M) KILLED — real confirmed Tesla Optimus 3 harmonic-reducer/joint-module supplier, but founded 1989 (ITRI semicap/LCD-fab-automation spinoff), robotics a new segment on a legacy base — 2-question quick-kill (age>10yr-adjacent + not built-for-thesis).
+Solomon Technology (2359.TW, ~$680M) KILLED — real confirmed Unitree robot-dog machine-vision supplier, but founded 1973, robotics one segment among Toyota/Dell/Siemens core legacy clients — 2-question quick-kill.
+Leaderdrive (688017.SH, ~$5.9B) and Beite Technology (603009.SS, ~$2.1B) — reconfirmed already-known dead-ends (real AgiBot/UBTech harmonic-reducer/roller-screw suppliers, both already far over the $800M cap).
+
+**WEAK-PENDING/too-early (not KILL, not WATCH — log for future tracking only):** Critical Point (临界点, Zhiyuan dexterous-hand spinoff, announced Jan 2026, only ¥5M registered capital, no named buyer yet). XELA Robotics (Tokyo, founded 2018, tactile sensors integrated into Tesollo's DG-5F hand per CES 2026 demo, but only ~$100-200K disclosed seed funding — essentially pre-revenue).

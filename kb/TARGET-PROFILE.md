@@ -41,6 +41,9 @@ The old gate (>+60%/12m = kill) is too blunt. Use this instead:
 6. **SAM.gov + NATO contracts** — US government robotics programs (DARPA, Army, Navy) name their suppliers. These are often small companies with a highly credible single customer.
 7. **Chinese trade press (高工机器人, 机器之心)** — they publish named supply chain relationships 3-6 months before formal filings. Search `供应商 + 独家 + 人形机器人 + 2025/2026`.
 
+## Business-model-fit check (added Fire 76, after the TrunkTech near-miss)
+VC-portfolio-mining hits (Bosch Ventures, Nvidia NVentures, etc.) are NOT automatically hardware-component suppliers — the same funds also back AV solutions/software companies and fleet operators. **Before running the 4-gate check on any VC-portfolio or forward-listing find, confirm what the company actually SELLS**: a physical unit that goes into an OEM's bill-of-materials (sensor, actuator, motor, chip, connector, structural part) vs. a software/driving-system/service sold to end-users or deployment sites. A young (<10yr), thesis-focused, real-VC-backed company can still fail the screen instantly if it's the latter — TrunkTech (Bosch-backed since 2019, HK Chapter-18C filer, genuinely built for AV) still killed on this basis: it installs its own driving stack onto OEM-supplied trucks and sells to port/logistics deployment sites, not a component into anyone's BOM. This is a distinct, faster fail-mode from the age/exposure quick-kill — check it FIRST, before age or exposure %.
+
 ## What the KB has been getting wrong (the honest diagnosis)
 - Spending 2-3 fires on Klingelnberg (founded 1863, gear-grinding) before confirming no named humanoid buyer has ever been disclosed
 - Running EDGAR EFTS 16 consecutive times with zero results (stopped working months ago)
