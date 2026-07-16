@@ -1,5 +1,19 @@
 # Huayi Technology (华依科技) — 688071.SH (Shanghai STAR Market)
-Updated 2026-07-11 (Fire 71) | Verdict: **Staleness-guard FULL RE-DERIVATION #3 (Opus) — CONFIRMS 3/8, delta=0, but genuinely sharpened** | Track: **R**
+Updated 2026-07-16 (Fire 75) | Verdict: **KILL — staleness-guard FULL RE-DERIVATION #4 (Opus) recommends removal from shortlist under the sharpened TARGET-PROFILE.md criteria** | Track: **R**
+
+## Fire 75 — staleness-guard FULL RE-DERIVATION #4 (Opus, 7 fires stale, well past the 5-fire threshold). VERDICT: KILL, down from WATCH 3/8.
+**This is the fire's required conviction-track name-move.** Applying the sharpened TARGET-PROFILE.md (adopted Fire 74/ROUTINE.md §21) 2-question quick-kill retroactively: (1) founded **1998** (28 years old, confirmed via STAR Market IPO prospectus — reorganized to joint-stock 2013, listed 2021-07-29) — far past the ≤10yr bar; (2) thesis-market (humanoid) exposure re-derived from scratch: AgiBot shipped 5,168 humanoids in 2025; at ¥1,000–5,000 IMU content/unit, even as sole supplier (Huayi is 1-of-N, not sole) the ceiling is ¥5.2–25.8M vs ¥510M total revenue = **1–5%, realistically <1%**. Core business is 20+ years of automotive-powertrain test equipment/services — the IMU/robotics line is a diversification bet layered on a legacy base, not a pivot. **Both quick-kill conditions fire.**
+- **Price re-verified 2-source (2026-07-16):** investing.com ¥31.97 (−13.68%/12m, 52wk range ¥29.28–55.49, flagged "Strong Sell"); Google Finance ¥31.78/mkt cap ¥2.63B (~$367M). Both agree ~¥31.8-32.0, down ~5.5% from Fire 68's ¥33.70/¥2.86B, near the 52wk low. **Gate 1 clean (2/2)** — but this is precisely the trap the quality-adjusted gate warns against: cheap because the legacy business is deteriorating, not because a real multiplier thesis is un-front-run.
+- **Buyer relationship still real, still concentrated:** AgiBot/Zhiyuan IMU (2025-08-06) and MeGo/觅蜂科技 (reconfirmed 2026-07-05/06) both trace to the same Zhiyuan ecosystem — one dependency, not two. Still zero disclosed dollar/materiality figure on either leg. Gate 2 stays 1/2.
+- **H1 2026 report: still NOT filed**, no pre-announcement — binding gate stays open (due ≤2026-08-31), but is now moot given the target-profile kill.
+- **Gate 3 (revenue multiplication): 0/2, decisive.** The robotics line cannot multiply anything — it's a rounding error on a legacy base.
+- **Gate 4 (financial health): 0/2, binding.** 3-year widening loss streak confirmed (FY2023 −¥16.01M → FY2024 −¥46.74M → FY2025 −¥61.65M), gross margin collapsed to 17.01%, debt ratio ~57%, current ratio <1, dilutive HK H-share IPO filed, plus the standing SSE disclosure-inquiry governance flag.
+- Raw 3/8 (2+1+0+0). **Verdict: KILL under TARGET-PROFILE.md's explicit instruction to deprioritize legacy industrials with marginal exposure "regardless of how cheap it is" — this is the textbook case the sharpened profile was written to eliminate.**
+
+**Action: move from WATCH(weak) shortlist to KILL-LIST. Retain the 华依科技 Chinese-name alias for dedup so future buyer-prospectus scouts don't re-surface it as a "new" find — the AgiBot/MeGo IMU relationship is real but structurally immaterial to this 28-year-old company's economics.**
+Sources: investing.com/equities/shanghai-w-ibeda-high-tech + google.com/finance/quote/688071:SHA (2026-07-16 price/cap); STAR Market IPO prospectus (founding/history); Omdia via SCMP (AgiBot 5,168 units 2025); prior-fire primary sources for financials/governance flag (unchanged since Fire 71).
+
+---
 
 ## Fire 71 — staleness-guard FULL RE-DERIVATION #3 (Opus, ground-up from-scratch re-verification, longest-tenured unchanged shortlist name)
 **Verdict: CONFIRM, 3/8 HOLDS (raw 4/8 = 2+1+1+0), delta=0 — an honest confirmation, but with three genuine new findings, not a repeat.**
