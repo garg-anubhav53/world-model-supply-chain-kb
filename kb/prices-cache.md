@@ -465,3 +465,12 @@ Harmonic Drive +148% · Nabtesco +127% · THK +81% · Hiwin +115% · Ouster +250
 - HSAI (Nasdaq): $15.85/share (confirmed close 2026-07-15), ~$2.48B mkt cap, unchanged vs last fire. Source: stockanalysis.com + Google Finance, 2-source.
 - Longxi Bearing (600592.SH): last CONFIRMED close ¥13.45 (2026-07-15, unchanged vs last fire), ~$793.7M mkt cap. **FLAG: same-day (07-16) intraday trading at ¥13.62-13.63, above the ¥13.59 trigger — recheck the actual 07-16 close next fire without fail.** Source: Tencent/gtimg + Eastmoney push2delay, 2-source, 2026-07-16.
 - Guangdong Asensing: still pre-IPO, no live price, unchanged.
+
+## Fire 79 price snapshot (2026-07-16)
+- Seyond Holdings (2665.HK): HK$2.76/share, ~$458-463M mkt cap, essentially flat vs Fire 78. 12m return -71% to -75% (2 sources disagree on magnitude, both deeply negative). 52wk low HK$2.66 hit 2026-07-15 (new all-time low). Source: TradingView + MarketScreener, 2-source, 2026-07-16.
+- Intops (049070.KQ): ₩17,360/share, ~$186-193M mkt cap, flat vs Fire 78. 12m return +1.58%. Source: investing.com + Google Finance + Alphasquare, 3-source agreement, 2026-07-16.
+- SOS Lab (464080.KQ): ₩7,870/share, ~$95-103M mkt cap, matches Fire 78 price exactly, near 52wk low ₩7,590. 12m return -30.96%. Source: 2-source direct-fetch, 2026-07-16.
+- HSAI (Nasdaq): $15.85/share (post 8-for-1 split effective 2026-07-10), ~$2.48B mkt cap, flat vs Fire 78. Source: stockanalysis.com, close 2026-07-15.
+- Longxi Bearing (600592.SH): confirmed close ¥13.66/share (2026-07-16), mkt cap $779-803M (3-source: investing.com, Google Finance, TradingView, all agree on price). Full close history Jul9-16 reconstructed — see companies/LONGXI.md Fire 79 update. 12m return -35.57%.
+- Nextron-Cheng Ling (8147.TWO): NT$140.50-141.50/share, mkt cap NT$5.85-5.89B (~$190-195M USD), +32.55% to +34.76%/12m. Source: Investing.com + TradingView, 2026-07-16.
+- Guangdong Asensing: still pre-IPO, no live price, unchanged.
