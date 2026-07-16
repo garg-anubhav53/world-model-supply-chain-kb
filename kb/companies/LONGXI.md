@@ -1,5 +1,18 @@
 # Fujian Longxi Bearing (龙溪股份) — 600592.SH (Shanghai A-share)
-Updated 2026-07-16 (Fire 76) | Verdict: **PROMOTION CONFIRMED DURABLE — WATCH 5/8, mandatory close-based reconfirmation complete.**
+Updated 2026-07-16 (Fire 78) | Verdict: **REVERSAL — DOWNGRADE WATCH→PENDING. Confirmed 07-16 close broke back above the ¥13.59 trigger; market cap back at/above the $800M cap.**
+
+## Fire 78 — mandatory close-based reconfirmation (per Fire 77's flag). TRIGGER REVERSES.
+2-source confirmed close for 2026-07-16 (Google Finance + Investing.com, both independently agreeing prev-close = ¥13.45, matching the Fire-76/77 baseline exactly — high confidence in data continuity): **today's close = ¥13.66–13.67, unambiguously ABOVE the ¥13.59 flip-trigger** (+0.5–0.6%). This breaks the 3-consecutive-close-below-trigger streak that Fire 75/76 established.
+
+Market cap at today's close: using USD/CNY ≈6.78–6.81, the two sources translate to **$780M–$804M**; reconstructing from the last-confirmed share count (~399.55M shares) against today's close gives **≈$806M** — at or just above the $800M cap depending on source basis. The price signal is unambiguous; the market-cap signal is borderline-to-above.
+
+**Verdict: the Fire-76 "durable WATCH promotion" REVERSES. DOWNGRADE from WATCH 5/8 back to PENDING.** No change to the underlying business case (AgiBot JV still active, core-exclusive on wrist/ankle joints, still sample-stage/no disclosed order-conversion — see Fire 72 full re-derivation below, unchanged). This is purely a price-gate reversal, consistent with the KB's own repeatedly-flagged observation that this name oscillates right at the $800M/¥13.59 boundary and needs a close-based (not intraday) check every single fire without exception. **Binding trigger unchanged: re-promote to WATCH on any daily close ≤¥13.59/share; this must now be re-earned with a fresh set of consecutive closes, not assumed from the already-spent Fire-75/76 streak.**
+
+Sources: Google Finance (quote timestamped 2026-07-16 16:06:51 GMT+8, prev close ¥13.45), Investing.com (¥13.67, prev close ¥13.45), both pulled 2026-07-16 post-close.
+
+---
+
+Prior verdict (Fire 76) | Verdict: **PROMOTION CONFIRMED DURABLE — WATCH 5/8, mandatory close-based reconfirmation complete.**
 
 ## Fire 76 — mandatory close-based reconfirmation (per Fire 75's caveat). CONFIRMED.
 2-source close-based pull (Sina Finance K-line API `money.finance.sina.com.cn`, symbol=sh600592; Tencent live feed `qt.gtimg.cn/q=sh600592` prev_close field, both independently agreeing): **last CONFIRMED close 2026-07-15 = ¥13.45** — the 3rd consecutive close below the ¥13.59 trigger (07-13 ¥13.47, 07-14 ¥13.24, 07-15 ¥13.45). Shares outstanding 399,553,571 (Tencent + 10jqka.com.cn cross-confirmed). Market cap at the last confirmed close: ¥5.374B ÷ 6.7716 CNY/USD (Fed H.10, 2026-07-15) = **≈$793.4M — under the $800M cap.**

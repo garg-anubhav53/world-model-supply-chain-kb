@@ -1,5 +1,26 @@
 # Intops Co Ltd — 049070 (KOSDAQ)
-Updated 2026-07-12 (Fire 74, conviction-track DECISION) | Verdict: **STAYS #3 — regulatory hair-trigger DISARMED, reclassified non-imminent; fresh positive catalyst (Hyundai X-ble Shoulder global rollout) replaces the stalled Samsung Bot Fit leg.**
+Updated 2026-07-16 (Fire 78, mandatory staleness-guard full re-derivation, Opus — 6 fires since Fire 72) | Verdict: **CONFIRM 5/8 conservative (2+2+0+1) / 6/8 generous (2+2+1+1). Genuine from-scratch re-derivation, not a rubber-stamp — one prior call positively vindicated.**
+
+## Fire 78 — mandatory staleness-guard full re-derivation (Opus), 6 fires since Fire 72
+**Gate 1 (price, 2/2):** ₩17,360, mkt cap ₩279.78B–₩285.83B (~$185–189M), 2-source (stockanalysis.com, Google Finance), live 2026-07-16 data (down ~4% from Fire 74's ₩18,110, down ~1.75% on the day) — +4.8% trailing-12m, ~30% below the 52wk high, PBR ~0.39. Clean pass.
+
+**Gate 2 (causal link, 2/2 generous/1/2 strict):** all 4 named programs re-confirmed active. Bear Robotics/LG — active, new Servi Q product launched at NRA Show 2026 (developed with a SoftBank Robotics collaboration credit — a latent second-source signal to watch, no disclosed change to Intops' role). Hyundai/Kia X-ble Shoulder — STRENGTHENING, global rollout confirmed expanding across 27 Hyundai affiliates plus construction/shipbuilding/aerospace/agriculture. Samsung Bot Fit — unchanged, still foundering on B2C, Intops still sole EMS standby. WIRobotics — unchanged, still MOU-only, no PO found.
+
+**Gate 3 (revenue mechanism, 0/2 conservative/1/2 generous):** still binding fail. Robotics still ~1–3% of revenue, no segment breakout, no forward guidance. H1/Q2 2026 report not yet out (due ~mid-August).
+
+**Gate 4 (financial health, 1/2):** FY2025 operating loss (₩-113억) still not reversed at the half-year level — only one positive quarter (Q1 2026: op +₩64억) exists so far, unproven at H1. Net-cash fortress (~80% of market cap, PBR 0.39) keeps this at 1/2 rather than 0/2.
+
+**Regulatory probe — UNCHANGED, no escalation, ~September window POSITIVELY VINDICATED.** The FSC/FSS/KRX joint review (launched 2026-06-08) remains at the verification stage; officials' own "~3 months" guidance points to ~September 2026. **Fire 74's call that the "~July-15" rumor was a false alarm is now confirmed correct** — July 15 has passed with no result/penalty/announcement found anywhere. No fine, no formal escalation to 조사/enforcement. Company mitigation (CEO resignation 06-18, EB call option declined 06-30) unchanged.
+
+**Total: 5/8 conservative / 6/8 generous — CONFIRMS Fire 72's score exactly, delta=0.** Genuine re-derivation: price re-pulled live (not carried), all 4 program ties re-verified individually, financials re-checked against the latest reported quarter, regulatory status re-checked against fresh search — not a repeat of cached text.
+
+**Carry-forward triggers (unchanged, both still dated near-term):** (1) DART H1 2026 report ~mid-August — a robotics revenue line >5% of sales or a dated supply contract → UPGRADE; a second-half op loss with no robot materiality → toward KILL. (2) ~September FSC/FSS/KRX outcome — escalation → DOWNGRADE toward KILL; clean/no-action close → Gate 4 can begin reverting toward 2/2.
+
+Sources: stockanalysis.com/quote/kosdaq/049070, Google Finance 049070:KOSDAQ (2-source price, 2026-07-16); Newsis 2026-07-06 (X-ble Shoulder rollout); Etoday (regulatory timeline, ~3-month window from June-8 launch).
+
+---
+
+Prior verdict (Fire 74, conviction-track DECISION) | Verdict: **STAYS #3 — regulatory hair-trigger DISARMED, reclassified non-imminent; fresh positive catalyst (Hyundai X-ble Shoulder global rollout) replaces the stalled Samsung Bot Fit leg.**
 
 ## Fire 74 — conviction-track decision (Opus): resolves the "Jul-15" regulatory rumor as a false alarm
 **Decision rendered: the standing DOWNGRADE hair-trigger set at Fire 72/73 is DISARMED.** The single uncorroborated report suggesting a ~2026-07-15 regulatory outcome is inconsistent with the officially communicated FSC/FSS/KRX timeline — Korean coverage confirms authorities stated results would land **within ~3 months of the early/mid-June launch, i.e. a window extending to ~September 2026**, not July 15. No escalation to formal 조사/enforcement, no settlement found. Company self-help remains intact: 735,393 treasury shares cancelled + ₩13B additional buyback trust (part of the ~₩30.5B package); decision confirmed not to exercise the exchangeable-bond call.
