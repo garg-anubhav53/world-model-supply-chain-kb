@@ -1,5 +1,26 @@
 # Fujian Longxi Bearing (龙溪股份) — 600592.SH (Shanghai A-share)
-Updated 2026-07-16 (Fire 78) | Verdict: **REVERSAL — DOWNGRADE WATCH→PENDING. Confirmed 07-16 close broke back above the ¥13.59 trigger; market cap back at/above the $800M cap.**
+Updated 2026-07-17 (Fire 83) | Verdict: **KILL — full fundamentals re-derivation (staleness-guard, 11 fires since Fire 72's last genuine business-case pull). Retroactive 2-question quick-kill applies decisively: founded 1958/1997 (>15yr) AND thesis-exposure <0.1% of revenue (<15%). Same shape as the already-killed Huayi/Harmtech/Dongfang Precision/Zhucheng/Chipsea/Allient — bearings is an explicitly saturated category per TARGET-PROFILE.md/dead-ends.md. Ends 30-fire price-trigger monitoring.**
+
+## Fire 83 — full staleness-guard re-derivation (Opus). VERDICT: KILL.
+**Founding year, verified from scratch:** bearing operation originated 1958 (Fujian Longxi Bearing Factory, 68yr); reincorporated as the current joint-stock company 1997-12-24 (28yr). Either anchor decisively fails the ≤10-15yr quick-kill window. No genuine strategic pivot in the last 3-4 years — core business remains joint bearings/tapered-roller bearings/gears/auto parts for construction machinery, aerospace, nuclear, wind, auto; the AgiBot JV is an 85%-owned side venture, not a company-wide capital-allocation pivot.
+
+**Thesis-exposure, verified from scratch: <0.1% of revenue.** Humanoid/robotics-specific revenue disclosed at only ~¥1.3M against FY2025 total revenue ¥1.346B. No new order/contract disclosure found since Fire 72 — company's own live language remains "研制或小批送样、试验阶段…短期内对公司经营业绩贡献有限" (R&D/small-batch sampling, limited near-term contribution). Both quick-kill conditions met independently of price mechanics.
+
+**Fundamentals otherwise unchanged from Fire 72:** FY2025 revenue ¥1.346B (-24.31% YoY, a deliberate cut of low-margin trading volume — core bearing sales actually +4.03% YoY); Q1-2026 reported net loss is entirely a mark-to-market artifact on an Industrial Securities equity stake (operating gross margin actually rose to 41.09%); fortress net cash ~¥1.22B (~23% of mkt cap). AgiBot JV still active/core-exclusive on wrist/ankle joints, not sole-source overall (AgiBot keeps a parallel technical-exchange track with Changsheng Bearing on non-core content) — no order-conversion disclosure has ever been made.
+
+**Price mechanics, for the record (moot given the fundamentals kill):** 2-source close 2026-07-17 = ¥13.18 (Tencent qt.gtimg.cn ts 20260717161436 + Eastmoney push2delay, agreeing), mkt cap ¥5.266B/$776.7M (FX 6.78034). This is close #1 of a FRESH below-¥13.59 streak (07-16 close ¥13.66 reset the counter) — the line has now been crossed 4 separate times in 9 sessions. The 5-consecutive-close promotion rule has NOT fired and, per this fire's verdict, never will be revisited — bearings/Longxi fails the target profile regardless of where the price sits.
+
+**Bear/base/bull (not that it matters for a KILL, logged for completeness):** Bear ¥5-7 (AgiBot dual-sources/stalls, core legacy business cyclically weak, de-rate to legacy-industrial 15-20x). Base ¥11-14 (modest JV conversion to ¥20-80M/yr robotics revenue by 2027, still <5% of revenue — this is the "keeps oscillating at the trigger" pattern the KB has observed for 30 fires). Bull ¥30-50 (AgiBot reaches genuine mass production AND Longxi holds ~75% core-joint share AND other OEMs adopt — the "upside case requires too many things going right" TARGET-PROFILE.md explicitly says to skip).
+
+**Adversarial conclusion:** the entire multi-fire narrative was price-mechanics theater around a legacy bearings SOE with a marginal, undisclosed-size robotics side-story. Every substantive pillar is weak: <0.1% of revenue with zero order conversion in 16 months since the JV; not sole-source; reported earnings dominated by an unhedged securities book; core top line shrinking (-24% FY25, -27% Q1-26); the price "trigger" fires only because the stock fell, i.e. because sentiment on the robotics thesis itself cooled — buying the flip would be buying a de-rating, not a fundamental improvement.
+
+**Re-open trigger:** a genuine company-disclosed AgiBot mass-production order (priced/unit-volume) that converts robotics to a material % of revenue. Absent that, do not re-carry this as a live PENDING on the price mechanic.
+
+Sources: qt.gtimg.cn/q=sh600592 (¥13.18 close, ts 20260717161436), push2delay.eastmoney.com secid 1.600592 (f43=1318, f60=1366, f170=-351, cap ¥5.266B), open.er-api.com (CNY 6.78034, 2026-07-17), founding year — q.stock.sohu.com/cn/600592/gsjj.shtml, basic.10jqka.com.cn/600592/company.html, ls.com.cn/cms/html/fjlxzcjtgfyxgs/jtgk/index.html, AgiBot JV/sample-stage language — emcreative.eastmoney.com artCode 20260218062411490357690, m.sohu.com/a/1026759262_115377.
+
+---
+
+Prior verdict (Fire 78) | Verdict: **REVERSAL — DOWNGRADE WATCH→PENDING. Confirmed 07-16 close broke back above the ¥13.59 trigger; market cap back at/above the $800M cap.**
 
 ## Fire 78 — mandatory close-based reconfirmation (per Fire 77's flag). TRIGGER REVERSES.
 2-source confirmed close for 2026-07-16 (Google Finance + Investing.com, both independently agreeing prev-close = ¥13.45, matching the Fire-76/77 baseline exactly — high confidence in data continuity): **today's close = ¥13.66–13.67, unambiguously ABOVE the ¥13.59 flip-trigger** (+0.5–0.6%). This breaks the 3-consecutive-close-below-trigger streak that Fire 75/76 established.
