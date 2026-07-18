@@ -1,4 +1,34 @@
 # Seyond Holdings — 2665.HK
+Updated 2026-07-18 (Fire 89, Opus COLD re-derivation, explicitly commissioned per Fire-88's own recommendation to finally run the 2-question quick-kill on this name "cold," the same discipline that caught Intops at Fire 87) | Verdict: **DOWNGRADE 7/8→~3-4/8. REMOVED FROM RANKED SHORTLIST — KILL under this campaign's target-profile.** Prior: Fire 86 reconfirm 7/8 (HOLD #1). | Track: reclassified **automotive L2 ADAS LiDAR**, not AV-robotaxi/humanoid/world-model.
+
+## Fire 89 — Opus cold re-derivation: the #1 conviction name fails its own target profile once "thesis exposure" is honestly defined
+**Headline: every prior fire's 7/8 score rested on counting ordinary passenger-EV L2 ADAS lidar (NIO/Onvo/SAIC-VW/GAC/Foton/Leapmotor — 100% consumer passenger vehicles) as "thesis exposure" to the humanoid/AV-robotaxi/world-model buildout this campaign exists to find. It is not the same market.** Fire 86's own dossier entry (line 164 of this file, pre-Fire-89) already recorded "**thesis-exposure: ~95-100% automotive AV/ADAS LiDAR... humanoid/non-auto robotics exposure ~0-5%**" — the disqualifying fact was sitting in the KB's own record for a full fire before anyone ran it through the 2-question quick kill. This fire finally does.
+
+**Founding/age gate: PASS.** Founded 2016 as Innovusion (~10yr) — survives quick-kill Q1 (>15yr? NO).
+
+**Exposure gate: FAIL, decisively.** Verified from scratch: FY2025 revenue $154M, of which **robotics/non-automotive = 12.3% ($18.9M)** and even that bucket is autonomous-delivery/service-robots/industrial/mining-truck/robot-dog — not confirmed humanoid. **No named humanoid/AV-robotaxi/world-model buyer exists in any Seyond filing.** The Pony.ai/robotaxi references that circulate in press attach to competitor RoboSense, not Seyond. Genuine thesis exposure under this campaign's actual definition: **≤12.3%, likely single-digits** once passenger-ADAS-adjacent "robotics" language is excluded. This clears the <15% quick-kill exposure threshold in the WRONG direction — i.e., it fails.
+
+**2-question quick kill:** Q1 (founded >15yr) = NO. Q2 (exposure <15%) = YES. Only one fires, so it narrowly *survives the mechanical 2-question screen on youth alone* — but the campaign's fuller 8-gate framework, applied honestly, does not survive:
+- Gate 1 (price) PASS — HK$2.51/~$418-420M, 2-source verified (stockanalysis.com + Google Finance, 2026-07-17), the recurring stockinvest.us/TradingView outlier (HK$10.90/~HK$14.16B, a stale post-debut-peak snapshot) again rejected.
+- Gate 2 (causal link to THIS campaign's buyer universe) **FAIL** — named buyers are 100% passenger-EV OEMs (NIO/Onvo/SAIC-VW/GAC/Foton/Leapmotor/Shaanxi), none are humanoid/AV-robotaxi/world-model buyers.
+- Gate 3 (≤24mo revenue mechanism) PARTIAL/FAIL — units exploding (+385% Q2 YoY) but FY2025 revenue *fell* 3.4% as ASP collapsed 33%; the mechanism converts to volume, not dollars, and it's volume in the wrong market anyway.
+- Gate 4 (financial health) WEAK — FY2025 net loss $328M, GM 7.9%, real dilution risk. **Correction to two KB figures that have been stale since Fire 84/86: cash is $119.5M (not $45.2M — that figure was equity, not cash), and NIO FY2025 concentration is 86.2% (not the ~74% Q1-2026 snapshot several recent fires carried as if it were the full-year figure).**
+- Gate 5 (price gate) PASS on the raw number, but quality-adjusted: low genuine thesis-exposure should RAISE the bar (per TARGET-PROFILE.md's own quality-adjusted gate — old/low-exposure names get a stricter +30% kill threshold; this name is young but low-exposure, a case the gate framework doesn't cleanly cover and which this fire resolves by treating the exposure fail as controlling).
+- Gate 6 (business-model fit — physical BOM component) PASS — genuine hardware into an OEM BOM, just the wrong OEMs' BOMs for this campaign's purpose.
+- Gate 7 (thesis-exposure %) **FAIL** — ~12.3% vs the >30% bar, and even that bucket isn't confirmed humanoid.
+- Gate 8 (founding-age fit) PASS.
+**Honest tally: 4 clean passes, 1 partial, 3 fails ≈ 3-4/8, not 7/8.**
+
+**Bear/base/bull (illustrative, ~1.30B shares, ~7.8 HKD/USD) — kept for completeness since the stock itself may still be a reasonable automotive-lidar trade, just not this campaign's thesis:** Bear ~HK$1.60 (-35%, ASP keeps deflating, NIO distress). Base ~HK$3.90 (+55%, units +200% but ASP -15-20%, still lossmaking). Bull ~HK$7.80 (+210%, requires a genuine robotaxi/L4 design win that does not currently exist).
+
+**RECOMMENDATION: REMOVE from ranked shortlist. Treat as KILLED under this campaign's target-profile** (an automotive-ADAS-lidar company, not a humanoid/AV-robotaxi/world-model pure-play) — same disposition class as Intops (Fire 87) and Longxi Bearing (Fire 83): a name that rode on shortlist inertia and an uncorrected classification error rather than surviving honest re-derivation. **This is not a claim that Seyond is a bad stock or a bad business** — it is a claim that it does not fit what this specific campaign is built to find, and 15+ fires of "7/8, HOLD #1" scoring baked in a category error (counting L2 passenger-ADAS lidar demand as "AV thesis exposure") that this cold re-run finally surfaces.
+
+**RE-OPEN TRIPWIRE:** if the Aug-31 2026 H1 interim, or any subsequent filing, disclosies a named humanoid/AV-robotaxi/world-model buyer AND non-automotive/robotics revenue share credibly inflects past ~20-25%, re-open with a fresh full re-derivation. Absent that, do not re-promote on price/unit-growth alone — the exposure fail is the binding gate, not price or growth.
+
+**Sources:** stockanalysis.com/quote/hkg/2665 (2026-07-17 price/balance sheet); CnEVPost (Q1/Q2 2026 shipments); Seyond FY2025 annual report (GlobeNewswire, 2026-03-31, robotics/non-auto revenue breakout p.21); Google Finance cross-check.
+
+---
+
 Updated 2026-07-17 (Fire 84, Opus conviction dive, WILDCARD FIRE) | Verdict: **UPGRADE 6/8→7/8, HOLD #1, WATCH→conditional BUY on H1 confirmation.** Prior: Fire 80 down-flag 7/8→6/8. | Track: **AV (China LiDAR)**
 
 ## Fire 84 — Opus full re-derivation: Fire-80 down-flag premise FALSIFIED by H1 2026 shipment data
