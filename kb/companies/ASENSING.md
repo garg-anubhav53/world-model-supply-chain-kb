@@ -1,6 +1,9 @@
 # Guangdong Asensing Technology Co (导远科技/ASENSING) — HKEX pre-IPO (A1 filed 2026-01-01)
 Added 2026-07-11 (Fire 72) | Verdict: **NEW WATCH — first net-new WATCH addition in 17 consecutive sourcing-saturation fires (Fires 55-71).** Score ~3/8 (forward-listing/pre-IPO track, per the widened WATCH-bar rule: named buyer + IPO timeline <18mo). NOT a BUY — Gate 4 fails hard (heavy losses), Gate 3 unproven (robotics is 7.2% of a fast-growing but auto-dominated base). | Track: **R** (forward-listing)
 
+## Fire 90 update — no forward progress; one claim debunked as stale/misdated
+CSRC supplementary-materials request from March 2026 still unresolved ~4 months later; no HKEX hearing date. A "Guangdong state-owned AIC fund investment" claim that surfaced this fire (framed as new, dated 2026-07-18) was traced to primary Chinese trade press (EET-China, DoNews) and found to be a **real but STALE story, actually dated 2025-07-20/21 — a full year old**, not a fresh event: 开投工融产业投资基金 (RMB30bn, Guangzhou Development Zone Investment Group + ICBC) named Asensing and 极飞科技/XAG as its first two investments in July 2025. No second, independently-dated 2026 announcement found — treat the "new" framing as a search-engine/AI-summary miscite of the year, not a fresh catalyst. PaXini Tech and Kunwei Technology both unchanged, no HKEX filing. Score/verdict unchanged (~3/8, WATCH, forward-listing track).
+
 ## Fire 72 — sourced via ring#9 (positioning & timing) fresh-trigger scout
 **Business:** Auto-grade inertial-navigation/positioning module maker (IMU, GNSS/INS fusion) — originally an ADAS/autonomous-driving positioning supplier, now diversifying into robotics-grade IMUs.
 

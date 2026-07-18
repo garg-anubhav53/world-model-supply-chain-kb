@@ -512,3 +512,8 @@ Harmonic Drive +148% · Nabtesco +127% · THK +81% · Hiwin +115% · Ouster +250
 - Intops Co Ltd (049070.KQ): ₩17,360/share (tagged 07-16 close, no fresher 07-17 print independently confirmed within time-box), mkt cap ₩275-286B/~$185-193M. Flat vs baseline. Source: Google Finance + Investing.com.
 - HSAI (Nasdaq): $15.05-15.64/share (2-source range, down ~3.4-3.9% from 7/16's $15.65 close; one Yahoo Finance snapshot showing $18.23/+15.67% discounted as a stale cache from the 7/10-14 split/Mercedes-Benz rally window, not today's price). Mkt cap $2.37-2.46B via ~157.14M ADS count — NOT the 8x-inflated ~$19-20B some aggregators may show. No repeat of the ADS-ratio error.
 - SOS Lab (464080.KQ): ₩7,870/share (tagged 07-16 close), mkt cap ₩141.24B/~$95.4M — 3 sources (TradingView, stockanalysis.com, Investing.com UK) agree exactly. Flat vs baseline.
+
+## Fire 90 refresh (2026-07-18)
+- HSAI (Nasdaq): $15.00/share, 156.44M ADS, mkt cap $2.35B (stockanalysis.com, 2026-07-17 close). Google Finance: $15.00/$2.42B. Manual check 156.44M × $15.00 = $2.347B — confirmed, 8x ordinary-share-count trap (would give ~$18.9B) correctly avoided again. DOWNGRADED this fire to low-conviction WATCH/monitor on exposure-decomposition grounds (see companies/HSAI.md), not a price-driven change.
+- SOS Lab (464080.KQ): ₩7,870/share, mkt cap ₩141.24B (stockanalysis.com, kr.investing.com, alphasquare.co.kr, 3-source agreement — all dated 2026-07-15/16, no fresher tick independently confirmed today). Unchanged vs. Fire 80 baseline price. Note: ₩141.24B vs. Fire 78's ₩152.0B at the identical ₩7,870 price — a share-count/methodology discrepancy flagged, not resolved this fire.
+- Guangdong Asensing: still pre-IPO, no live price, unchanged.

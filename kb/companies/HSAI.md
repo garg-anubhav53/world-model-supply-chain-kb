@@ -1,5 +1,36 @@
 # Hesai Group — HSAI (Nasdaq)
-Updated 2026-07-18 (Fire 87, Opus re-derivation) | Verdict: HOLD at PARKED, 7/8 — both binding gates still unresolved, materially unchanged from Fire 86, no rank flip this fire.
+Updated 2026-07-18 (Fire 90, Opus full gate re-derivation) | Verdict: **DOWNGRADE from PARKED/armed-to-promote-to-#1 to LOW-CONVICTION WATCH/monitor. Score ~5/8 (down from the carried 7/8).** Same structural error that removed Seyond Holdings at Fire 89 — the inflated score rested on counting ordinary passenger/commercial-vehicle ADAS lidar revenue (85-90% of total, including the repeatedly-miscategorized Mercedes-Benz L3 program) as "AV thesis exposure." Genuinely-qualifying robotaxi+humanoid revenue is only ~8-12% of total.
+
+## Fire 90 — Opus full gate re-derivation triggered by this fire's fact-refresh scout (DOWNGRADE, mirrors Seyond)
+**Trigger:** the DIGEST.md/FRESH-ANGLES.md Fire-89 flag ("HSAI's own robotaxi-fleet exposure claims... [have] not had the same dedicated AV-decomposition Seyond just got — flag for next staleness-guard touch") was acted on this fire. A fresh fact-gathering pass pulled Hesai's own FY2025 6-K customer/segment language directly: Hesai itself defines "ADAS" (passenger + commercial vehicles) as a SEPARATE bucket from "Robotics" (robotaxis + humanoid/quadruped robots + robovans + lawn mowers + AGVs) — and ADAS is **85.2% of FY2025 unit volume (1,381,133 units) vs. Robotics' 14.8% (239,273 units)**, with ADAS's revenue share likely even higher given Robotics carries a richer per-unit mix but ADAS dominates volume. Critically, **Mercedes-Benz L3 — carried in this KB's prior scoring as "genuinely robotaxi/L3+-grade" — is in Hesai's OWN ADAS bucket, a passenger-vehicle consumer feature, not a qualifying buyer.** This is the identical category error that inflated Seyond's score (NIO passenger-EV ADAS counted as "AV exposure").
+
+**Corrected buyer decomposition (primary-sourced, 6-K):**
+- **Genuinely QUALIFY** (robotaxi fleet / L4+ / humanoid-embodied-AI): Zoox, Motional, Pony.ai, WeRide, Baidu Apollo Go, DiDi (robotaxi); Unitree, HONOR Robot, Galbot, Magiclab, Vita Dynamics (humanoid). Aurora flagged unverified/likely lost (appears to be in-sourcing its own "FirstLight" lidar).
+- **DOES NOT qualify** (ordinary passenger/commercial ADAS, ~85-90% of revenue): Mercedes-Benz L3, Li Auto, Xiaomi, Changan, Great Wall, Toyota, Cadillac VISTIQ, NIU.
+- Within the small 14.8%-of-units "Robotics" bucket itself, robotaxi+humanoid is further diluted by lawn-mowers/AGVs/delivery-robots — genuinely-qualifying revenue is a best-effort estimate of **single-digit-to-low-teens % of total company revenue**, not company-disclosed as a clean split.
+
+**8-point re-score (down from the carried 7/8):**
+- Gate 1 (not-yet-re-rated): **0.5/2** — cheap ($2.35B via 156.44M ADS, correctly avoiding the known 8x ordinary-share-count trap; ~4-5x sales; near 52-wk low) but a fully-discovered 21-Strong-Buy mega-name at ~5x the TARGET-PROFILE's <$500M ideal ceiling; founded Oct-2014 (~12yr, borderline) with only ~8-12% true thesis exposure — the profile's own SKIP criteria.
+- Gate 2 (named buyer): **1.5/2** — the best qualifying-buyer roster in the KB, all primary-sourced — but these buyers drive only ~10% of revenue; one qualifying customer (Aurora) appears to be in-sourcing away.
+- Gate 3 (multiplies/capture-rate): **1/2** — the qualifying segment can multiply in % terms (RoboSense is #1 in robotics lidar globally, +510% YoY, direct competitive pressure in exactly this sub-segment) but is too small to re-rate a $2.35B ADAS-driven company on its own.
+- Gate 4 (financial health): **2/2** — GAAP-profitable, ~$1B net cash, +30% growth, positive OCF. Not the crux this fire.
+**Total ≈5/8.**
+
+**Bear/base/bull (qualifying segment specifically → implied whole-stock price):** Bear $9-12 (qualifying flat ~6-8%, Aurora fully lost, RoboSense takes share, adverse D.C. Circuit ruling amputates US robotaxi). Base $14-19 (qualifying ~2x to ~10-13%, still noise vs. ADAS). Bull $28-40 (qualifying 3-5x to ~18-25% + favorable court ruling — only here does the segment start moving the multiple). Standalone pure-play value of the qualifying segment alone: Base ~$0.45-0.7B, Bull ~$1.3-2.0B — i.e., even in the base case, the market is paying $2.35B for a <$0.7B thesis-relevant asset.
+
+**Capture-rate:** strong-but-small on robotaxi (sole/preferred on Pony.ai 4x AT128/vehicle, Motional exclusive short-range, Baidu, ~61% robotaxi-lidar share) on a base of only thousands of fleet vehicles; a real but contested Unitree humanoid win; RoboSense leads the fastest-growing qualifying sub-segment and is out-executing Hesai's own "robotics diversification" bull leg.
+
+**Why DOWNGRADE and not full REMOVE (unlike Seyond):** unlike Seyond (no named buyer at all from the qualifying universe), HSAI has a real, primary-source-named robotaxi+humanoid buyer roster and is GAAP-profitable with ~$1B net cash — it earns a low-conviction monitor slot, not a strict kill. A stricter TARGET-PROFILE reading (>$500M cap, <15% thesis exposure, >10yr old, ADAS-driven revenue) would fully justify REMOVE; the orchestrator's call is to hold one notch short given the real qualifying core.
+
+**What flips it back up:** Hesai discloses robotics/robotaxi+humanoid revenue separately at >20-25% AND >100% growth; a disclosed 8-figure humanoid contract; robotaxi fleet-volume inflection past ~20% of revenue. **What flips it further down (toward REMOVE):** confirmation qualifying revenue is <10% and flat/shrinking; continued RoboSense share gains in robotics lidar; an adverse D.C. Circuit ruling. Note: the D.C. Circuit ruling (still no decision, ~4mo post-argument) and the Aug-28 EGM (record date confirmed 07-23, circular still not published) remain binding for the STOCK PRICE but are now secondary for the thesis-fit CLASSIFICATION — even a favorable ruling leaves a company that is 85-90% ordinary ADAS.
+
+**Price/mkt cap this fire (2-source, ADS count correctly used):** $15.00 (stockanalysis.com, 2026-07-17 close, 156.44M ADS) = $2.35B; Google Finance $15.00/$2.42B. Manual check 156.44M × $15.00 = $2.347B confirmed — the 8x ordinary-share-count trap (would give ~$18.9B) again correctly avoided.
+
+**Sources:** Hesai FY2025 Q4 SEC 6-K (primary, ADAS/Robotics segment definitions + unit counts verbatim); stockanalysis.com + Google Finance (price/cap); D.C. Circuit docket 25-5256 status checks (no ruling); Hesai 2026-07-08 6-K (Aug-28 EGM record date, circular pending).
+
+---
+
+Prior verdict (Fire 87, Opus re-derivation) | Verdict: HOLD at PARKED, 7/8 — both binding gates still unresolved, materially unchanged from Fire 86, no rank flip this fire.
 
 ## Fire 87 — both binding gates re-verified unresolved, sharper court detail obtained
 - **D.C. Circuit 25-5256:** confirmed still pending, no opinion issued. Oral argument pinned to **2026-03-19** (Law360), panel = **Pillard/Garcia/Edwards** (all Democratic-appointed), press account confirms panel "raised serious questions about DoD's broad interpretation" and pressed the government on the evidentiary basis for the military-ties designation. ~4 months post-argument now — squarely inside the Circuit's normal 3-6 month decision window, could land any time. Base-rate read: panel composition + argument tenor tilt modestly toward a Hesai-favorable outcome, but genuinely binary/unresolved.
