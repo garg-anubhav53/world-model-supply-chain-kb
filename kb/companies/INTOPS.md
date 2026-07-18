@@ -1,5 +1,27 @@
 # Intops Co Ltd — 049070 (KOSDAQ)
-Updated 2026-07-17 (Fire 83, Opus staleness-guard re-derivation — 5 fires since Fire 78, hits the KB's staleness threshold) | Verdict: **CONFIRM 5/8 conservative = 5/8 generous (recut, see below), but RECOMMEND RE-RANKING BELOW #2 and HARDEN the Aug-14 H1 report into a forced binary decision — next re-derivation must render UPGRADE or KILL, no further "confirm and wait."**
+Updated 2026-07-18 (Fire 87, Opus staleness-guard re-derivation — 4 fires since Fire 83, pulled early given the mounting evidence) | **Verdict: KILL. Removed from the ranked shortlist.**
+
+## Fire 87 — full re-derivation reverses the standing #2 WATCH rank
+The KB's own current 2-question quick-kill (TARGET-PROFILE.md: founded >15yr AND thesis-exposure <15% → kill immediately) was never actually applied cleanly to this name — it had been carried at #2 since the pre-reorientation era on the strength of a net-cash value floor and clean named-buyer evidence, without a rigorous same-fire application of the sharpened framework.
+
+**Founding year, confirmed decisively: 1980/1981** (as 신영화학공업사/Shinyoung Chemical Industries; renamed Intops 1997; KOSDAQ-listed 2002). Under any counting convention (45yr from founding, 29yr from rename, 24yr from listing) this is unambiguously >15 years — a legacy Samsung-smartphone-case EMS contractor, not a young pure-play.
+
+**Thesis exposure, re-derived: <5% of revenue, flat for 5 years, not a reported DART segment.** ~70% of revenue is still Samsung-smartphone-related. Robotics/exoskeleton work (X-ble Shoulder for Hyundai/Kia, Bear Robotics for LG, Bot Fit) is real, growing, and cleanly disclosed — but Intops owns neither the IP nor the end demand for any of it, and volume is not yet a reportable line. A new datapoint this fire (Wirobotics MOU, May 2026, wearable-robot production) adds a second thesis-adjacent customer but is still MOU-stage, no revenue.
+
+**Financials re-pulled from scratch:** TTM operating income (through Mar-2026) still negative (-₩5.97bn/-₩60억, consistent with Fire 83), but Q1 2026 alone swung sharply positive (+₩6.4bn OI, +2,394% YoY) — operating momentum is turning, the loss is concentrated in FY2025's Samsung yield-issue quarters rolling out of the TTM window. Net cash ≈₩297-300bn still exceeds the entire market cap (~106-115%) — the value floor is real and unchanged.
+
+**Regulatory situation, clarified:** the FSC/FSS/KRX joint probe was triggered directly by President Lee Jae-myung naming Intops on 2026-06-08, centered on a ₩13bn 0%-coupon exchangeable bond (Oct 2025) alleged to be a succession/price-suppression ("주가누르기") vehicle for the owner family. CEO Kim Geun-ha resigned, ₩30.5bn shareholder-return program announced. No verdict yet; ~September guidance stands.
+
+**Explicit gate application:** founded >15yr? YES. Exposure <15%? YES (<5%, flat). **Both TRUE → the KB's own quick-kill fires cleanly.** The name survives only as a deep-value/net-net story (net cash > mkt cap, TTM operating income improving, real but thematically immaterial robotics work) — not as a robotics-supplier WATCH under this KB's actual mandate (companies that EXIST BECAUSE of the thesis, not companies with an incidental, bolted-on satellite business). This is structurally identical to the already-killed Harmtech/Dongfang Precision/Huayi Technology/Longxi Bearing/Xinjian Transmission/NOVT pattern — a legacy manufacturer carried past its expiry date because the story was clean, not because the exposure was material.
+
+**Decision: KILL.** Single tripwire to re-open: the Aug-14 2026 H1 report (statutory ~45-day deadline; the "Aug-18" date carried in some KB notes appears to be an imprecise rounding — treat ~Aug-14 as operative, confirm directly against Intops IR before citing a hard date) discloses a robotics/exoskeleton revenue line crossing a material threshold (e.g. >10% of sales) or a dated, priced supply contract (not an MOU). Absent that, do not re-diligence.
+
+Price at time of KILL, 2-source: ₩17,360, mkt cap ₩274.88B/~$185.6M (stockanalysis.com + investing.com, both 2026-07-16 close) — flat, not price-gated; this is a fundamentals-driven kill, not a valuation-driven one.
+
+Sources: stockanalysis.com (price, financials, balance sheet), Bloter (segment/history detail), Korean company-history retrospectives (Shinyoung Chemical→Intops founding chain), DART filing-calendar precedent (Aug-14-2025 H1 report date), Wirobotics MOU press (May 2026), Hankyung/Yonhap (June-8 presidential callout, CEO resignation, KS B 7322 certification).
+
+---
+Prior verdict (Fire 83, Opus staleness-guard re-derivation — 5 fires since Fire 78, hits the KB's staleness threshold) | Verdict: **CONFIRM 5/8 conservative = 5/8 generous (recut, see below), but RECOMMEND RE-RANKING BELOW #2 and HARDEN the Aug-14 H1 report into a forced binary decision — next re-derivation must render UPGRADE or KILL, no further "confirm and wait."**
 
 ## Fire 83 — full staleness-guard re-derivation (Opus), from scratch
 **Fundamentals re-pulled from scratch (2 corrections to the record):** FY2025 consolidated operating loss is -₩121억 (vs -₩113억 previously carried — likely a consolidated-vs-narrower-definition gap, report as -₩113 to -₩121억 going forward); FY2025 consolidated net income is +₩162억, not +₩111억 (the ₩111억 figure was net income attributable to controlling interests only; the ~₩51억 gap is non-controlling/Vietnam-subsidiary income). **Load-bearing fact survives:** TTM operating income through Q1 2026 is STILL negative (-₩60억) even after the one positive quarter — the core EMS business remains operationally loss-making on a trailing basis.
