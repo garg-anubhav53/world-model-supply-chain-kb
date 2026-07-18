@@ -517,3 +517,8 @@ Harmonic Drive +148% · Nabtesco +127% · THK +81% · Hiwin +115% · Ouster +250
 - HSAI (Nasdaq): $15.00/share, 156.44M ADS, mkt cap $2.35B (stockanalysis.com, 2026-07-17 close). Google Finance: $15.00/$2.42B. Manual check 156.44M × $15.00 = $2.347B — confirmed, 8x ordinary-share-count trap (would give ~$18.9B) correctly avoided again. DOWNGRADED this fire to low-conviction WATCH/monitor on exposure-decomposition grounds (see companies/HSAI.md), not a price-driven change.
 - SOS Lab (464080.KQ): ₩7,870/share, mkt cap ₩141.24B (stockanalysis.com, kr.investing.com, alphasquare.co.kr, 3-source agreement — all dated 2026-07-15/16, no fresher tick independently confirmed today). Unchanged vs. Fire 80 baseline price. Note: ₩141.24B vs. Fire 78's ₩152.0B at the identical ₩7,870 price — a share-count/methodology discrepancy flagged, not resolved this fire.
 - Guangdong Asensing: still pre-IPO, no live price, unchanged.
+
+## Fire 91 refresh (2026-07-18)
+- HSAI (Nasdaq): $15.00/share (07-17 close, -4.15% day), 2-source (Google Finance, stockanalysis.com), mkt cap $2.35-2.42B. Unchanged vs. Fire 90. Note: several cached aggregators (Investing.com, Kraken) showing stale pre-split $16-20 prices — disregard, confirmed stale not a live quote.
+- SOS Lab (464080.KQ): ₩7,870/share, mkt cap ₩141.24B/~$100-102M, 2-source (stockanalysis.com, kr.investing.com, both dated 07-16/18 KST). Unchanged vs. Fire 90 — exactly matches baseline.
+- Guangdong Asensing: still pre-IPO, no live price, unchanged. CSRC supplementary-materials request from March 2026 still unresolved.
