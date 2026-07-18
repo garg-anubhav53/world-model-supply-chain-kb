@@ -8,9 +8,9 @@
 | **464080.KQ (SOS Lab)** | Korean automotive/industrial LiDAR | Hyundai MobED+PluD co-dev | **WATCH — top idea (3/4 gates), dossier in companies/SOSLAB.md** |
 | HSAI | dominant China LiDAR | AV robotaxi/ADAS — 8 of top-10 robotaxi developers incl. Zoox + Mercedes-Benz (L3 confirmed) + Motional | WATCH — dossier in companies/HSAI.md |
 | ~~POCI (Precision Optics)~~ | medical-robotics optics/endoscopes | Procept BioRobotics link vanished from disclosure | **KILLED Fire 32 (staleness-guard re-derivation) — see decisions-log.md, dossier in companies/POCI.md** |
-| OMG.L (Oxford Metrics/Vicon) | motion-capture | data/mocap | WATCH(lean-kill) — dossier in companies/OMG.md |
-| KLIN.SW (Klingelnberg) | gear grinding+metrology | reducer capital-equipment | WATCH — dossier in companies/KLIN.md |
-| **NOVT (Novanta/ATI)** | force-torque sensing (ATI Axia80/Omega191) | unnamed-Amazon warehouse win, NVIDIA Halos partner, 10+ unnamed humanoid engagements | **WATCH (materiality-capped) — first-ever full gate-check Fire 33, dossier in companies/NOVT.md** |
+| ~~OMG.L (Oxford Metrics/Vicon)~~ | motion-capture | data/mocap | **KILLED Fire 35 (this row was stale through Fire 85 — corrected Fire 86) — dossier in companies/OMG.md** |
+| ~~KLIN.SW (Klingelnberg)~~ | gear grinding+metrology | reducer capital-equipment | **KILLED Fire 42 (this row was stale through Fire 85 — corrected Fire 86) — dossier in companies/KLIN.md** |
+| ~~NOVT (Novanta/ATI)~~ | force-torque sensing (ATI Axia80/Omega191) | unnamed-Amazon warehouse win, NVIDIA Halos partner, 10+ unnamed humanoid engagements | **KILLED Fire 86 (formalizes Fire-44's demotion under the 2-question quick-kill) — dossier in companies/NOVT.md** |
 | ON | camera CMOS | mixed | WATCH — see watchlist.md |
 | TKR (Spinea) | cycloidal reducer | reducers | KILLED (Fire 43, 2/8) |
 | PENDING: Momentus (MNTS, new Fire 16, space vertical) / Zhejiang Fine Motion (环动科技, pre-IPO, buyer-claim caution) / Laifual Harmonic Drive (03952.HK) / Xinjian Transmission (新剑传动, pre-IPO) / Weimao Electronics (920346.BJ) / Landai Technology (002765.SZ) | space robotics contracts / humanoid roller-screw/joint-module (Tesla/Zhiyuan/Unitree named, unconfirmed for Fine Motion) / interconnect / IPO-pipeline supplier finds | forward-listing + interconnect + space | see pipeline.md, companies/XINJIAN.md |

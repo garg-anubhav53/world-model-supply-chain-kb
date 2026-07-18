@@ -202,3 +202,25 @@ Sources: CNBC (2026-07-07); FDD (2026-07-07); chinaselectcommittee.house.gov Moo
 **STANDING RULE (do not regress a 3rd time):** HSAI mkt cap = **ADS price × ~157.14M ADS units** (the pre-split share count, unchanged by the ADS-ratio swap). Never multiply price by the 1,257M ordinary-share figure. If any future fire's scout reports a number near $19-21B for HSAI, it has reproduced this exact, now twice-corrected error — discard it without further analysis.
 **Current price refresh:** $15.66-15.67 (2026-07-16, down ~4.5% from $16.40 Fire-74 baseline), mkt cap ~$2.46B. Q2 2026 revenue guidance RMB 850-900M reaffirmed. Mercedes-Benz L3 lidar partnership expanded to >1M units across 10+ JV China models. New products: Picasso 6D SPAD-SoC lidar chip, Kosmo SGI spatial-intelligence device. Fresh analyst PT set at $23.50 (unclear if this and the earlier-noted $28.60 PT are both split-adjusted — flag for verification before quoting either as a target). D.C. Circuit 25-5256 still no ruling (~4 months post-argument). EGM record date confirmed 2026-07-23, EGM itself 2026-08-28, full circular still not published.
 **Sources:** stocktitan.net 6-K coverage of the ADS-ratio change (primary), stockanalysis.com + Yahoo Finance chart API (price, 2-source, 2026-07-16), Opus dive independent verification.
+
+## Fire 86 (2026-07-18) — both binding gates re-verified UNRESOLVED; stays PARKED; conditional path modeled
+**Price/mkt cap (2-source, 2026-07-17):** stockanalysis.com $15.00 (−4.15%), mkt cap $2.35B, 156.44M ADS. WebSearch aggregate corroborates the ~$15 area (a 2026-07-01 print of $18.22 preceded a pullback). **Share count/cap reconfirmed correct, no 8x error** — mkt cap = 156.44M ADS × $15.00 = $2.35B, consistent with the KB's standing $2.37-2.54B range. **New split-adjacent trap flagged for future fires:** an additional 8-for-1 split-style ADS-ratio mechanic was referenced as "effective July 10" in some sources — if this is the SAME split already fixed at Fire 59/80 (not a second one), disregard; the standing rule stands regardless: **always compute mkt cap as ADS price × ~156-157M ADS units, never × the ~1.25B ordinary-share count.**
+
+**Gate (a) — D.C. Circuit case 25-5256: UNRESOLVED.** Argued 2026-03-18/19; panel reported as "visibly skeptical of DoD's broad §1260H 'contributor' reading" (Law360) — a favorable tone for Hesai, but **no decision as of 2026-07-18**, now ~4 months post-argument. Hesai remains on the DoD's 2026-06-08 1260H list; delisting-pressure political letters (Sens. Scott/Blackburn/Moreno) continue; company keeps operating/expanding in the US regardless.
+
+**Gate (b) — Aug-28 2026 EGM (record date Jul-23): UNRESOLVED, record date now only ~5 days out.** Confirmed scheduled as the "second EGM of 2026." The 8-for-1 split/ADS-ratio change was already handled at the June-26 AGM (effective Jul-10), so this EGM is a **distinct, still-undisclosed corporate item** — agenda circular not yet public. Record date hasn't passed as of this fire.
+
+**Verdict: HSAI STAYS PARKED.** Neither binding gate has resolved. Fundamentals meanwhile remain strong and are not the constraint: Q1 2026 revenue +30% YoY, GAAP-profitable, record shipments, new Mercedes-Benz design win.
+
+**Conditional path modeled (bear/base/bull driven by gate (a), the dominant swing factor):**
+| Scenario | Driver | HSAI target | vs $15 |
+|---|---|---|---|
+| BEAR | 1260H designation upheld, delisting pressure bites | $8-11 | −27% to −47% |
+| BASE | No ruling / stays listed, keeps operating | $15-20 | flat to +33% |
+| BULL | D.C. Circuit vacates/remands the designation | $24-32 | +60% to +110% |
+
+**If gate (a) resolves favorably, recommend HSAI move from PARKED straight into the ranked shortlist** — plausibly at or above Seyond, scoring ~7/8: Hesai is profitable (Seyond is not, so Hesai would beat it on Gate 4/financial health), revenue multiplies, forced-buyer/causal link is equally airtight; the one soft gate is "not re-rated" (a $2.35B profitable sector leader is less of a cheap-optionality setup than Seyond at its floor). Given the skeptical March panel, this is a live, non-trivial probability — recommend the KB watch the 25-5256 docket weekly rather than per-fire, since a ruling could land between fires.
+
+**Caveats logged for the KB:** the Aug-28 EGM agenda was not yet public as of this fire — do not treat it as a known catalyst direction (dilutive vs. non-dilutive) until the circular posts.
+
+**Sources (Fire 86):** stockanalysis.com/stocks/hsai/; law360.com/articles/2455251 (panel tone); dockets.justia.com/docket/circuit-courts/cadc/25-5256; media.defense.gov 2026-06-08 1260H list PDF; tipranks.com EGM record-date announcement; stocktitan.net 6-K coverage.

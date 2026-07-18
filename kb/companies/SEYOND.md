@@ -144,3 +144,27 @@ Updated 2026-07-09 (Fire 43) | Original verdict: **PROMOTED TO WATCH (weak, scor
 **Sources:** stockanalysis.com/quote/hkg/2665/ (2026-07-09) · etnet.com.hk (2026-07-09) · cnevpost.com NIO 1M-cumulative-LiDAR-delivery coverage (2026-04-10) · cnevpost.com Seyond-to-supply-China-auto-group (2025-05-30) · sahmcapital/Benzinga FY2025 results coverage (2026-04-08) · Fire 43 on-deck deep-dive (2026-07-09).
 
 **Prior fire history (Fire 36-40, on-deck/PENDING, condensed):** held on-deck since ~Fire 30 on a $300M-cap reading; price/named-buyer/financial-health facts unchanged across that period, only the size-gate interpretation changed this fire. See git history for full prior-fire narrative if needed.
+
+## Fire 86 (2026-07-18) — deep conviction re-derivation (Opus): trigger reframed from growth-confirmation to margin/concentration test
+**Price (2-source, 2026-07-17 16:08 HKT):** stockanalysis.com HK$2.510 (−9.06% day, mkt cap HK$3.26B, 1.30B shares, 52wk range HK$2.47-17.88, −73.7% YoY) — confirmed flat vs. prior fires, genuinely at the 52-week low. Mkt cap ~$415M USD (HK$3.26B ÷ 7.85), a touch below the previously-carried ~$460M. **Data-integrity flag repeated:** stale HK$9.94/HK$10.90 snippets still circulate in search aggregators (they date to the Dec-2025 post-debut peak) — do not use; authoritative current price is HK$2.51.
+
+**Material news since last fire (all July 2026):** Q2 2026 shipments ~271,100 units, **+385% YoY, +49% QoQ**; Robin (ADAS) series 191,600 units, **+3,209% YoY**. First-5-months-2026 cumulative 365,000 units (+349% YoY), already exceeding all of FY2025. FY2026 shipment guidance ~+200%. **Customer diversification real and accelerating:** NIO revenue share fell below 80% (to ~74% in Q1) as GAC, SAIC-VW, SAIC passenger, Foton, and Shaanxi Auto design wins ramp (GAC order specifically flagged as de-Nio-ing).
+
+**Why the 52-week low is a float/overhang story, not (on current evidence) a fundamental one:** Seyond is a de-SPAC (HK$1B merger) that spiked to HK$17.88 (2025-12-17) then crashed 73% specifically on the **Nio lock-up expiry** ("Nio's stake sheds two-thirds of value after lock-up crash"). The stock sitting at its floor while shipment volume triples supports — not undermines — Gate 1 (not-re-rated): it has de-rated to ~1.4x forward sales against accelerating volume.
+
+**Reframing the Aug-31 binding trigger:** the +385% Q2 / +349% 5-month shipment prints make the ">40% revenue growth" half of the trigger near-certain (only a catastrophic ASP collapse breaks it). **The real open question has migrated to (a) gross margin under ASP compression** (Robin mix is cheap, price war ongoing) **and (b) Nio-concentration + post-SPAC float overhang** — not whether revenue grows. Recommend the KB treat Aug-31 as a margin/concentration confirmation, not a growth confirmation, going forward.
+
+**Revised bear/base/bull (anchor: FY2025 rev ≈HK$950M/~$121M; H1'25 ~HK$406M; 1.30B shares, HK$2.51 current):**
+| Scenario | FY2026 revenue | Margin | Multiple | Implied mkt cap | Price target | vs HK$2.51 |
+|---|---|---|---|---|---|---|
+| BEAR (ASP −40%, price-war dumping) | ~HK$1.5B (+60%) | GM low-single/negative | 1.0-1.5x | HK$1.5-2.3B | **HK$1.15-1.75** | −30% to −55% |
+| BASE (shipments +200%, ASP −25%) | ~HK$2.1-2.3B (+130%) | GM ~15-20% | 2.0-2.5x | HK$4.4-5.5B | **HK$3.40-4.25** | +35% to +67% |
+| BULL (ASP −15%, Falcon/Robin-W mix + margin) | ~HK$2.6-2.9B (+185%) | GM →25-30%, profit path | 3.5-4.5x | HK$9.6-12.4B | **HK$7.40-9.55** | +195% to +280% |
+
+**Reconfirmed:** founding year 2016 (as Innovusion, Los Altos/Suzhou, Nio Capital-backed; rebranded Seyond 2024) — not independently re-fetched this fire but well-established across prior dossiers. Thesis-exposure: **~95-100% automotive AV/ADAS LiDAR** (Nio, GAC, SAIC-VW, SAIC passenger + Foton/Shaanxi commercial-vehicle autonomy); humanoid/non-auto robotics exposure ~0-5% (marketed, not revenue) — high relevance to the AV leg of the thesis, negligible to the humanoid leg.
+
+**4-gate re-score: still 7/8, arguably firmer.** Gate 1 (not re-rated) PASS, stronger — 52wk low, ~1.4x FY26 sales. Gate 2 (forced buyer) PASS — LiDAR is designed-in BOM hardware, OEM is contractually forced once a model ramps. Gate 3 (multiplies) PASS, stronger — +385% Q2 shipments, +200% FY guide. Gate 4 (financial health) the unchanged half-point gap — still lossmaking, Nio concentration, ASP/margin risk, residual dilution overhang.
+
+**Recommendation: conviction intact/strengthened.** Consider that the 52-week-low entry plus volume de-risking is an argument for a partial pre-position ahead of Aug-31, with the position sized for the now-real risk that margin (not growth) disappoints.
+
+**Sources (Fire 86):** stockanalysis.com/quote/hkg/2665/ (2026-07-17); cnevpost.com Q2-shipments-surge (2026-07-07); cnevpost.com 5-month cumulative (2026-04-10 milestone piece cross-referenced); scmp.com de-SPAC debut coverage; eletric-vehicles.com Nio lock-up crash coverage.

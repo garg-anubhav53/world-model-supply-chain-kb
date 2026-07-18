@@ -969,3 +969,33 @@ Brills (브릴스, KOSDAQ-track, founded 2015) KILLED — factory-automation sys
 **DEDUP CATCHES (Fire 81):** Zongmu Technology (纵目科技, ADAS/AVP hardware) = already killed Fire 80. Seer Robotics (06106.HK) = "Shanghai Seer Intelligent Technology"/上海仙工智能 is the SAME entity, already tracked PENDING since Fire 30 (transliteration variant, not new). RideFlux (라이드플럭스, founded 2018, L4 autonomous-trucking software) — checked, NOT yet a KILL: no prospectus filed, no named buyer disclosed yet ("large logistics companies" only); logged watch-for-later, recheck when it files a prospectus.
 
 **NEW future-IPO watch item (private, not KILL, not WATCH):** 擎天租/Qingtianzu — AgiBot/Zhiyuan-majority-owned humanoid-leasing marketplace (launched Dec 2025, ¥7B "unicorn" valuation May 2026), first dedicated humanoid-RaaS marketplace in China. No ticker of its own (captive to Zhiyuan); minor pre-A strategic investors 美格智能/Meig Smart (002881.SZ) and 蓝思科技/Lens Technology (300433.SZ) are both already-killed mega-caps, immaterial stake. Recheck if Qingtianzu itself files to list.
+
+## Fire 86 additions (2026-07-18)
+**Novanta/ATI (NOVT, Nasdaq)** — formal KILL under Fire-75 2-question quick-kill (founded 1968/58yr AND thesis-exposure deep-single-digits of $949M revenue); closes the "dormant/kill-adjacent" demotion from Fire 44. See companies/NOVT.md.
+**Lantronix (LTRX, Nasdaq)** — found-and-killed same fire via rotation-cursor ring#5 (defense/drone) pivot. Founded 1989/37yr, real named drone-compute buyers (Teal Drones/Red Cat, Trillium/Anduril Ghost) but diversified legacy IoT/networking hardware vendor, quick-kill on age. See companies/LTRX.md.
+**Acumino** (private, Schaeffler Ventures-backed, $11.7M seed Jun 2026) — business-model-fit fail: sells dexterous-manipulation AI models, not a physical BOM unit.
+**Algorized** (private, Amazon Industrial Innovation Fund-backed, $13M Series A Feb 2026, Swiss) — business-model-fit fail (AI safety-layer software) + off-thesis (factory safety, not humanoid/AV/world-model).
+**DYNA Robotics** (private, backed by NVentures/LG Tech Ventures/Samsung Next/Amazon Industrial Innovation Fund/Salesforce Ventures, $120M Series A) — business-model-fit fail: sells complete robots + own AI foundation model/service, not a BOM component.
+**Contoro, Rightbot, Mantis Robotics, BionicHIVE, Modjoul** (Amazon Industrial Innovation Fund portfolio, all private) — off-thesis (warehouse/logistics automation) + business-model-fit fail (finished robots/systems or wearable-service products).
+**Robocore** (private, Hong Kong, Foxconn-backed, $10M initial + option for two more $10M tranches) — business-model-fit fail: sells finished elder-care robots direct to facilities.
+**Config** (private, Samsung Venture Investment-led w/ Hyundai ZER01NE/LG Tech Ventures/SKT America/GS Futures/Kakao Ventures, $27M seed May 2026, >$200M val) — business-model-fit fail: sells structured motion/sensor training data, not a physical BOM unit.
+**Oxa** (rebrand of Oxbotica, NVIDIA/NVentures repeat investor) — dedup of already-excluded Oxbotica (AV software stack, not hardware).
+
+### Fire 86 DEDUP CATCHES (already tracked, not new — logged so future fires don't re-spend a search)
+Agility Robotics, Generalist AI, Neura Robotics, Figure AI, Walden Robotics, Bedrock Robotics, Nuro (all already in KILL-LIST, resurfaced via VC-fund scout — no re-analysis).
+敏芯股份/MEMSensing (688286.SH), 坤维科技/Kunwei Technology, 蓝点触控/Bluedot·Link-Touch, 海伯森/Haiberson, 神源生智能/Shenyuansheng, 纬钛机器人/ViTai·Weiti Robotics, 越疆科技/Dobot, 三花智控/Sanhua, 拓普集团/Topgroup (all already tracked, resurfaced via Chinese trade-press scout).
+Ondas Holdings (ONDS), VisionWave Holdings (VWAV), Duke Robotics (DUKR), Sarcos/Palladyne AI (PDYN), Ekso Bionics/Lifeward (LFWD) — all already tracked, resurfaced via SAM.gov/DARPA scout, no new action.
+Wuzhou Xinchun, Langxin Electric, Laifu Harmonic — carried-forward dedup reconfirmation (3rd fire flagging these, per Fire 85).
+
+### Fire 86 PRIVATE-ONLY / NOT PROMOTABLE (no ticker, logged for future SPAC/IPO watch, not kills)
+**Foundation Future Industries** (private, ~$3B+ valuation) — $24M Army/Navy/Air Force contracts for "Phantom" humanoid breach robots, tested in Ukraine; Eric Trump chief strategy adviser. No ticker — watch for a SPAC/S-1 signal.
+**安洁科技/Anjie Technology (002635.SZ)** — only generic exploratory wireless-charging-for-robots language in a 互动易 reply, no named buyer/revenue; founded 2001 (25yr) fails quick-kill instantly on its own, not worth a full write-up. Logging so a future fire doesn't re-spend a search.
+**途见科技/Tujian Technology** (private, >¥100M round May 2026) — tactile-sensing startup, no named OEM buyer yet, too early to log as watch-for-later with confidence; recheck only if it raises a larger round or names a buyer.
+
+### Fire 86 method/category notes
+Whole-body proprioception / six-axis force-torque + IMU sensing — **RE-TAGGED from "genuinely open/untested" (Fire 85's characterization) to "tested/thin — private-only remainder, revisit only on an IPO filing trigger."** This corner is actually substantially mined (Fires 16/27/37/61+): Keli Sensing got a full Opus gate-check and was killed on capture-rate dilution; the remaining players (Kunwei, Bluedot, Haiberson, Shenyuansheng, SRI/宇立仪器) are all private with no IPO signal.
+Charging docks/wireless-power and functional-safety modules — remain genuinely thin, confirmed structural (not just unsearched): only mega-cap diversified hits (安洁科技/Anjie exploratory language) or vertically-integrated own-brand makers (Dobot's in-house SafeSkin) exist on the public side; no small-cap public middle ground found in two dedicated passes.
+HMI panels — same structural pattern: mega-cap display makers (BOE/TCL/Tianma) on one end, tiny private pre-Series-B startups (ViTai, Tujian) on the other.
+VC portfolio mining now spans 10 funds (added Schaeffler Ventures, Amazon Industrial Innovation Fund, Foxconn/Hon Hai this fire) — **all 3 new funds are structurally poor sourcing angles**: Schaeffler/Foxconn's robotics activity is direct corporate supply-partnership (they're suppliers, not LPs sourcing BOM suppliers for us), Amazon's fund mandate is warehouse-logistics, off-thesis. Recommend a longer recheck interval on these 3 specifically, same as the SE-Asia geography precedent.
+SAM.gov/DARPA ground-robotics/exoskeleton angle — 2nd consecutive clean-negative fire on PUBLIC-company names (Fires 85→86); every real contract-award story traces to a private company (Skyborne, Foundation Future Industries, Swarmbotics AI).
+Ring item #11 (TIC/certification) — 9th consecutive idle confirmation. Ring item #5 (defense/drone autonomy) — 7th consecutive idle confirmation (genuinely fresh-tested this fire, found-and-killed Lantronix).
