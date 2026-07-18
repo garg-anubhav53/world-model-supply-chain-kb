@@ -1,5 +1,10 @@
 # KILL LIST — every scout MUST check this before treating any find as "new"
 Match on TICKER, CHINESE NAME, or ENGLISH ALIAS. If a match is found → already killed/parked, skip it.
+
+## Fire 88 additions (2026-07-18, WILDCARD FIRE, 88 mod 4=0) — 5-agent fire, full reasoning in dead-ends.md/pipeline.md/runs/fire88-2026-07-18.md
+**0 new company kills this fire** — 3 sourcing-method dead-ends closed instead (trade-show exhibitor mining, short-seller report mining, BDC venture-debt filing mining — see dead-ends.md Fire 88 additions for full reasoning, not repeated here since no new tickers resulted). One new watch-for-later, private/not addable: **帕西尼感知科技/PSYONIC-Precision-Sensing** — real batch force-sensor orders to UBTECH/Zhiyuan/Unitree simultaneously, rumored 2026 HK IPO, no ticker yet.
+**DATA-INTEGRITY CAUTION (not a company kill — a source-reliability note):** a 3rd price-aggregator source (stockinvest.us, surfaced via a Yahoo Finance link) returned a false Seyond Holdings quote (HK$10.90/HK$14.16B mkt cap) contradicting 2 consistent direct sources (HK$2.51/~HK$3.3-3.6B) — rejected. Same shape as the recurring aggregator-trap pattern already logged 9+ times in prices-cache.md; no new standing rule needed, just a reminder to always 2-source-verify before trusting a single price pull.
+**DEDUP CATCHES (all correctly re-confirmed already-known/killed, no re-analysis performed):** Seenpin (=Xinjian Transmission, already KILLED) via the trade-show scout; SOS Lab, SPG, CLOBOT via the Korea scout.
 Rebuilt 2026-07-08 from all fires. Update by appending only.
 
 ## Fire 87 additions (2026-07-18, NOT wildcard, 87 mod 4=3) — 8-agent fire (6 Sonnet scouts + 2 Opus dives: ring#12+VC portfolio, Chinese trade press, Korea DART+shortlist maintenance, HKEX/forward-listing catalyst bundle, SAM.gov/DARPA+magnets, price refresh, HSAI staleness-guard, Intops staleness-guard), full reasoning in decisions-log.md
