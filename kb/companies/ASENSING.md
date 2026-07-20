@@ -1,4 +1,10 @@
 # Guangdong Asensing Technology Co (导远科技/ASENSING) — HKEX pre-IPO (A1 filed 2026-01-01)
+Updated 2026-07-20 (Fire 94, status refresh) | Verdict: unchanged, WATCH ~3/8, A1-lapse question still genuinely unresolved.
+
+## Fire 94 — A1 6-month validity window has now passed with no resolution either way
+The A1 was filed 2026-01-01; its nominal 6-month HKEX validity window fell due ~2026-07-01 — that date has now passed. A dedicated direct check this fire found no HKEX notice of lapse, refiling, or hearing scheduled, and no post-07-01 secondary-source confirmation either way (last confirmation of "alive" status is a 2026-05-26 secondary source citing 410 HK applicants "处理中"). Per general HK-market mechanics a lapsed A1 can be revived within 3 months via refiling without resetting CSRC review, so this is not treated as a kill signal, but it is now genuinely overdue for direct resolution — recommend a dedicated hkexnews.hk title-search (not a general web search) next touch. No other change; CSRC's March-2026 supplementary-materials request remains unresolved.
+
+---
 Added 2026-07-11 (Fire 72) | Verdict: **NEW WATCH — first net-new WATCH addition in 17 consecutive sourcing-saturation fires (Fires 55-71).** Score ~3/8 (forward-listing/pre-IPO track, per the widened WATCH-bar rule: named buyer + IPO timeline <18mo). NOT a BUY — Gate 4 fails hard (heavy losses), Gate 3 unproven (robotics is 7.2% of a fast-growing but auto-dominated base). | Track: **R** (forward-listing)
 
 ## Fire 90 update — no forward progress; one claim debunked as stale/misdated

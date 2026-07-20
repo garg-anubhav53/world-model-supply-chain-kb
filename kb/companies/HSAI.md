@@ -1,4 +1,10 @@
 # Hesai Group — HSAI (Nasdaq)
+Updated 2026-07-20 (Fire 94, light status refresh, no gate change) | Verdict: unchanged, LOW-CONVICTION WATCH/monitor, ~5/8.
+
+## Fire 94 — status refresh only, no re-derivation triggered
+Price/cap 2-source reconfirmed unchanged: $15.00 (stockanalysis.com, 2026-07-17 close) / $15.03 (stocktitan.net) ≈ $2.35-2.5B. Both binding gates still open: D.C. Circuit 25-5256 — oral arguments were 2026-03-18, no opinion issued as of 2026-07-20, now ~4 months post-argument. Aug-28-2026 EGM — record date 2026-07-23 confirmed, but the governing circular is STILL not published as of this fire. No material change since Fire 90's downgrade. Not touched by Opus this fire (no fresh staleness threshold hit).
+
+---
 Updated 2026-07-18 (Fire 90, Opus full gate re-derivation) | Verdict: **DOWNGRADE from PARKED/armed-to-promote-to-#1 to LOW-CONVICTION WATCH/monitor. Score ~5/8 (down from the carried 7/8).** Same structural error that removed Seyond Holdings at Fire 89 — the inflated score rested on counting ordinary passenger/commercial-vehicle ADAS lidar revenue (85-90% of total, including the repeatedly-miscategorized Mercedes-Benz L3 program) as "AV thesis exposure." Genuinely-qualifying robotaxi+humanoid revenue is only ~8-12% of total.
 
 ## Fire 90 — Opus full gate re-derivation triggered by this fire's fact-refresh scout (DOWNGRADE, mirrors Seyond)
