@@ -1,5 +1,8 @@
 # PRICES CACHE — last-seen move/valuation (staleness window: 7 days)
-As of 2026-07-20 (Fire 98) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+As of 2026-07-20 (Fire 99) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+
+## Fire 99 refresh (2-source each, RAN)
+HSAI (Nasdaq): $14.93/share (prev close $15.00), mkt cap ~$2.34-2.4B (stockanalysis.com + stocktitan.net, both 2026-07-20; 156.44M ADS × $14.93 checked, 8x-share-count trap avoided) — marginally softer than the ~$15.00 carried since Fire 90, immaterial. A stale $18.43/+16.9% aggregator spike resurfaced (same delayed-data artifact flagged Fires 48/97) — rejected. SOS Lab (464080.KQ): ₩7,550/share, mkt cap ₩135.50B (~$98-100M) (stockanalysis.com + kr.investing.com, both 2026-07-20 close, exact agreement) — static vs. Fire 98, at/near the 52-wk low (₩7,490). Guangdong Asensing: no live price, not re-pulled this fire (holding for the ~2026-10-01 refiling deadline).
 
 ## Fire 98 refresh (2-source each, RAN)
 SOS Lab (464080.KQ): ₩7,550/share, −4.07% intraday, mkt cap ~₩135.5B (stockanalysis.com + kr.investing.com, both 2026-07-20, exact 2-source agreement) — reconfirms Fire 97's price-framing correction (previously mis-carried as "flat"); this is a genuine decline, not a stable print. Guangdong Asensing: still pre-IPO, no live price (private-market reference point: Dec-2025 D++ round priced at RMB4.68B post-money, a DOWN round vs. the 2023 D+ round's RMB5.16B). HSAI: no fresh price pull this fire (Fire 97's $15.08-18.23/~$15 range stands, not re-verified today — the fire's HSAI work was docket/panel-identity research, not a price refresh).
