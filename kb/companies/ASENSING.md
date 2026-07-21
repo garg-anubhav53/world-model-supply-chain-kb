@@ -1,5 +1,8 @@
 # Guangdong Asensing Technology Co (导远科技/ASENSING) — HKEX pre-IPO (A1 filed 2026-01-01)
-Updated 2026-07-20 (Fire 98, Opus conviction-track re-derivation) | Verdict: DOWNGRADE — WATCH reframed to CONDITIONAL-KILL, 3/8 (re-based, more bearish reasoning per gate). A1-lapse question itself unchanged/unresolved (not re-tested this fire per instruction), but the underlying business case now fails the campaign's own thesis-exposure bar on a from-scratch fundamental read.
+Updated 2026-07-21 (Fire 100, WILDCARD, not re-tested — holding per instruction) | Verdict: CONDITIONAL-KILL, 3/8 — unchanged, holding for the ~2026-10-01 refiling deadline.
+
+## Fire 100 (2026-07-21, WILDCARD FIRE) — not re-tested this fire, per Fire 98's own instruction
+No direct HKEXnews/CSRC check attempted this fire (holding per the standing instruction to wait for the ~2026-10-01 refiling deadline rather than repeat an identical tooling-blocked fetch). No news of a refiling, hearing date, lapse confirmation, or CSRC resolution surfaced incidentally via this fire's other scouts. Status and score unchanged: CONDITIONAL-KILL 3/8.
 
 ## Fire 98 — Opus conviction-track deep dive: DOWNGRADE, the "3/8" was resting on disqualifying auto-ADAS revenue, not the thesis
 **Full fresh re-derivation of what Asensing actually sells and to whom (not an A1-status check — that's untouched this fire, still governed by the Fire-97 recommendation to hold the next check for the ~2026-10-01 refiling deadline).**

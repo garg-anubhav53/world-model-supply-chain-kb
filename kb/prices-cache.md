@@ -1,5 +1,8 @@
 # PRICES CACHE — last-seen move/valuation (staleness window: 7 days)
-As of 2026-07-20 (Fire 99) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+As of 2026-07-21 (Fire 100) unless noted. run-tag: NOT-MOVED / PARTIAL / RAN. Refresh before reusing if older than 7d.
+
+## Fire 100 refresh (2-source each, RAN)
+HSAI (Nasdaq): $14.93/share, mkt cap ~$2.34B (stockanalysis.com, 2026-07-20 close) — unchanged vs. Fire 99; a stale $16.15-18.43 aggregator-cache range resurfaced in raw search, rejected per standing practice. SOS Lab (464080.KQ): ₩7,870/share, +4.24% intraday (stockanalysis.com + kr.investing.com, both 2026-07-21, exact agreement) — a genuine bounce off the ₩7,550 print carried since Fire 98/99, still well below the ₩10,857 CB conversion strike. Guangdong Asensing: no live price, not re-pulled this fire (holding for the ~2026-10-01 refiling deadline). New price points from sourcing this fire (context only, not campaign shortlist names): RoboSense (2498.HK) ~HKD 11.9B ≈$1.5B; Robotis (KOSDAQ:108490) ~KRW 2.70T ≈$1.95B; SPG Co (058610.KQ) ~KRW 1.39T ≈$1.0B; Hengli Hydraulics (601100.SH) ~¥155.7B ≈$21B+; Hongying Intelligent (001266.SZ) ~¥47B ≈$650M.
 
 ## Fire 99 refresh (2-source each, RAN)
 HSAI (Nasdaq): $14.93/share (prev close $15.00), mkt cap ~$2.34-2.4B (stockanalysis.com + stocktitan.net, both 2026-07-20; 156.44M ADS × $14.93 checked, 8x-share-count trap avoided) — marginally softer than the ~$15.00 carried since Fire 90, immaterial. A stale $18.43/+16.9% aggregator spike resurfaced (same delayed-data artifact flagged Fires 48/97) — rejected. SOS Lab (464080.KQ): ₩7,550/share, mkt cap ₩135.50B (~$98-100M) (stockanalysis.com + kr.investing.com, both 2026-07-20 close, exact agreement) — static vs. Fire 98, at/near the 52-wk low (₩7,490). Guangdong Asensing: no live price, not re-pulled this fire (holding for the ~2026-10-01 refiling deadline).
