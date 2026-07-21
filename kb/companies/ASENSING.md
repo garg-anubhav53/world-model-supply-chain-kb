@@ -1,5 +1,8 @@
 # Guangdong Asensing Technology Co (导远科技/ASENSING) — HKEX pre-IPO (A1 filed 2026-01-01)
-Updated 2026-07-21 (Fire 100, WILDCARD, not re-tested — holding per instruction) | Verdict: CONDITIONAL-KILL, 3/8 — unchanged, holding for the ~2026-10-01 refiling deadline.
+Updated 2026-07-21 (Fire 101, NOT wildcard, status-check only) | Verdict: CONDITIONAL-KILL, 3/8 — unchanged, holding for the ~2026-10-01 refiling deadline.
+
+## Fire 101 (2026-07-21) — status ping, mechanism now clarified (not a change of status)
+No refiling, hearing date, or CSRC resolution found (checked 财联社/东方财富/智通财经/aastocks + direct HKEXnews, same tooling limits as before — one HKEXnews PDF dated 2026-07-09 turned up in search but could not be parsed/confirmed as relevant). **New clarification on the mechanism behind the standing ~2026-10-01 refiling-deadline framing:** HKEX A1 applications lapse automatically after 6 months without a completed hearing+listing; Asensing filed A1 2026-01-01, so it would lapse ~2026-07-01 (consistent with the CSRC supplementary-materials request from March 2026 being the last confirmed action), and HKEX rules allow a refile within 3 months of lapse reusing most original documents — landing almost exactly on the KB's existing ~Oct-1 figure. This is confirmation of the existing framing's logic, not new information about Asensing's actual status. No status change: CONDITIONAL-KILL, 3/8.
 
 ## Fire 100 (2026-07-21, WILDCARD FIRE) — not re-tested this fire, per Fire 98's own instruction
 No direct HKEXnews/CSRC check attempted this fire (holding per the standing instruction to wait for the ~2026-10-01 refiling deadline rather than repeat an identical tooling-blocked fetch). No news of a refiling, hearing date, lapse confirmation, or CSRC resolution surfaced incidentally via this fire's other scouts. Status and score unchanged: CONDITIONAL-KILL 3/8.
